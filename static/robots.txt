@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://comparatif-mode.fr/sitemap.xml

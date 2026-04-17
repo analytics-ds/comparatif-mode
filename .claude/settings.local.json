@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.commeuncamion.com)",
+      "Bash(hugo version *)",
+      "Bash(cp /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/.claude/templates/layouts/single.html /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/themes/comparatif-mode/layouts/_default/single.html)",
+      "Bash(cp /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/.claude/templates/layouts/sitemap-html.html /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/themes/comparatif-mode/layouts/_default/sitemap-html.html)",
+      "Bash(cp /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/.claude/templates/partials/seo-head.html /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/themes/comparatif-mode/layouts/partials/seo-head.html)",
+      "Bash(mkdir -p /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/data /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/static/images/authors /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/static/images/blog)",
+      "Bash(cp /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/.claude/templates/data/authors.yaml /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/data/authors.yaml)",
+      "Bash(cp /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/.claude/templates/images/authors/*.webp /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/static/images/authors/)",
+      "Bash(mkdir -p /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/.github/workflows)",
+      "Bash(cp /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/.claude/templates/hugo-workflow.yml /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/.github/workflows/hugo.yml)"
+    ]
+  }
+}

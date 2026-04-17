@@ -1,0 +1,491 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - navigation [ref=e6]:
+      - link [ref=e8] [cursor=pointer]:
+        - /url: /
+        - img [ref=e9]
+      - search [ref=e13]:
+        - generic [ref=e14]:
+          - button "Photos" [ref=e16] [cursor=pointer]:
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - generic [ref=e21]: Photos
+              - img [ref=e22]
+          - searchbox "Search for free photos" [ref=e24]: mens fashion style
+          - button [ref=e26] [cursor=pointer]:
+            - img [ref=e28]
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - link "Explore" [ref=e32] [cursor=pointer]:
+            - /url: /discover/
+            - generic [ref=e33]: Explore
+          - img [ref=e34]
+        - link "License" [ref=e36] [cursor=pointer]:
+          - /url: /license/
+          - generic [ref=e37]: License
+        - button [ref=e39] [cursor=pointer]:
+          - img [ref=e40]
+        - button "Join" [ref=e42] [cursor=pointer]:
+          - generic [ref=e44]: Join
+    - main [ref=e45]:
+      - generic [ref=e46]:
+        - generic [ref=e50]:
+          - paragraph [ref=e52] [cursor=pointer]: Any
+          - generic [ref=e53] [cursor=pointer]:
+            - img [ref=e55]
+            - paragraph [ref=e57]: Horizontal
+          - generic [ref=e58] [cursor=pointer]:
+            - img [ref=e60]
+            - paragraph [ref=e62]: Vertical
+          - generic [ref=e63] [cursor=pointer]:
+            - img [ref=e65]
+            - paragraph [ref=e67]: Square
+        - generic [ref=e71]:
+          - paragraph [ref=e73] [cursor=pointer]: Any
+          - paragraph [ref=e75] [cursor=pointer]: "0"
+          - generic [ref=e76] [cursor=pointer]:
+            - img [ref=e78]
+            - paragraph [ref=e80]: "1"
+          - generic [ref=e81] [cursor=pointer]:
+            - img [ref=e83]
+            - paragraph [ref=e85]: "2"
+          - generic [ref=e86] [cursor=pointer]:
+            - img [ref=e88]
+            - paragraph [ref=e90]: 3+
+        - generic [ref=e94]:
+          - paragraph [ref=e96] [cursor=pointer]: Any
+          - generic [ref=e97] [cursor=pointer]:
+            - img [ref=e99]
+            - paragraph [ref=e101]: Baby
+          - generic [ref=e102] [cursor=pointer]:
+            - img [ref=e104]
+            - paragraph [ref=e106]: Child
+          - generic [ref=e107] [cursor=pointer]:
+            - img [ref=e109]
+            - paragraph [ref=e111]: Teenager
+          - generic [ref=e112] [cursor=pointer]:
+            - img [ref=e114]
+            - paragraph [ref=e116]: Adult
+          - generic [ref=e117] [cursor=pointer]:
+            - img [ref=e119]
+            - paragraph [ref=e121]: Senior adult
+        - generic [ref=e124]:
+          - generic [ref=e125]:
+            - slider [ref=e128] [cursor=pointer]
+            - slider [ref=e129] [cursor=pointer]
+          - generic [ref=e130]:
+            - generic [ref=e131]:
+              - paragraph [ref=e132]: Minimum
+              - paragraph [ref=e133]: 1,080px
+            - generic [ref=e134]:
+              - paragraph [ref=e135]: Maximum
+              - paragraph [ref=e136]: 20,000px+
+        - generic [ref=e139]:
+          - generic [ref=e140]:
+            - slider [ref=e143] [cursor=pointer]
+            - slider [ref=e144] [cursor=pointer]
+          - generic [ref=e145]:
+            - generic [ref=e146]:
+              - paragraph [ref=e147]: Minimum
+              - paragraph [ref=e148]: 1,080px
+            - generic [ref=e149]:
+              - paragraph [ref=e150]: Maximum
+              - paragraph [ref=e151]: 20,000px+
+        - generic [ref=e155]:
+          - button [ref=e156] [cursor=pointer]:
+            - generic [ref=e157]:
+              - textbox [ref=e162]:
+                - /placeholder: Enter hex code
+              - img [ref=e163]
+          - button [ref=e165] [cursor=pointer]:
+            - generic [ref=e166]:
+              - img [ref=e167]
+              - textbox [ref=e171]: "#000000"
+        - generic [ref=e175]:
+          - paragraph [ref=e177] [cursor=pointer]: Any
+          - generic [ref=e178] [cursor=pointer]:
+            - img [ref=e180]
+            - paragraph [ref=e182]: Last 24 hours
+          - generic [ref=e183] [cursor=pointer]:
+            - img [ref=e185]
+            - paragraph [ref=e187]: Last week
+          - generic [ref=e188] [cursor=pointer]:
+            - img [ref=e190]
+            - paragraph [ref=e192]: Last month
+          - generic [ref=e193] [cursor=pointer]:
+            - img [ref=e195]
+            - paragraph [ref=e197]: Last year
+        - main "main-content" [ref=e198]:
+          - generic [ref=e199]:
+            - generic [ref=e200]:
+              - heading "Choose your language:" [level=5] [ref=e201]
+              - generic [ref=e203]:
+                - link "English English" [ref=e205] [cursor=pointer]:
+                  - /url: /search/mens%20fashion%20style/
+                  - generic [ref=e206]:
+                    - img "English" [ref=e207]
+                    - generic [ref=e208]: English
+                - link "Français Français" [ref=e209] [cursor=pointer]:
+                  - /url: /fr-fr/chercher/mens%20fashion%20style/
+                  - generic [ref=e210]:
+                    - img "Français" [ref=e211]
+                    - generic [ref=e212]: Français
+                - button [ref=e213] [cursor=pointer]:
+                  - img [ref=e215]
+            - heading "Free Mens Fashion Style Photos" [level=1] [ref=e220]
+            - generic [ref=e223]:
+              - generic:
+                - img
+              - link "Photos 1.1M" [ref=e225] [cursor=pointer]:
+                - /url: /search/mens%20fashion%20style/
+                - text: Photos
+                - generic [ref=e226]: 1.1M
+              - link "Videos 92.1K" [ref=e227] [cursor=pointer]:
+                - /url: /search/videos/mens%20fashion%20style/
+                - text: Videos
+                - generic [ref=e228]: 92.1K
+              - link "Users 11.5K" [ref=e229] [cursor=pointer]:
+                - /url: /search/users/mens%20fashion%20style/
+                - text: Users
+                - generic [ref=e230]: 11.5K
+              - generic:
+                - img
+            - button "Filters" [ref=e234] [cursor=pointer]:
+              - generic [ref=e240]: Filters
+            - generic [ref=e241]:
+              - generic [ref=e243]:
+                - generic [ref=e244]:
+                  - article [ref=e247]:
+                    - link "Free Stylish men's fashion shoot showcasing casual shirts and pants in neutral tones. Stock Photo" [ref=e248] [cursor=pointer]:
+                      - /url: /photo/men-posing-in-studio-6616649/
+                      - img "Free Stylish men's fashion shoot showcasing casual shirts and pants in neutral tones. Stock Photo" [ref=e249]
+                  - article [ref=e254]:
+                    - link "Free Elegant flat lay showcasing men's leather shoes, sunglasses, wallet, and perfume. Stock Photo" [ref=e255] [cursor=pointer]:
+                      - /url: /photo/a-leather-wallet-and-sunglasses-on-the-wooden-surface-5828579/
+                      - img "Free Elegant flat lay showcasing men's leather shoes, sunglasses, wallet, and perfume. Stock Photo" [ref=e256]
+                  - article [ref=e261]:
+                    - link "Free Stylish men in fashionable outfits on a city street showcasing modern urban streetwear style. Stock Photo" [ref=e262] [cursor=pointer]:
+                      - /url: /photo/street-fashion-style-with-trendy-outfits-37050983/
+                      - img "Free Stylish men in fashionable outfits on a city street showcasing modern urban streetwear style. Stock Photo" [ref=e263]
+                  - article [ref=e268]:
+                    - link "Free Stylish man in pink sweater and gray coat posing outdoors in urban setting. Stock Photo" [ref=e269] [cursor=pointer]:
+                      - /url: /photo/a-handsome-man-wearing-a-gray-coat-10531637/
+                      - img "Free Stylish man in pink sweater and gray coat posing outdoors in urban setting. Stock Photo" [ref=e270]
+                  - article [ref=e275]:
+                    - link "Free Three men in stylish attire posing confidently in an urban cityscape. Stock Photo" [ref=e276] [cursor=pointer]:
+                      - /url: /photo/men-standing-on-the-sidewalk-7256350/
+                      - img "Free Three men in stylish attire posing confidently in an urban cityscape. Stock Photo" [ref=e277]
+                  - article [ref=e282]:
+                    - link "Free Stylish man in a blue suit posing confidently outdoors, exuding elegance and modern fashion. Stock Photo" [ref=e283] [cursor=pointer]:
+                      - /url: /photo/man-in-purple-suit-posing-in-middle-of-street-19177046/
+                      - img "Free Stylish man in a blue suit posing confidently outdoors, exuding elegance and modern fashion. Stock Photo" [ref=e284]
+                  - article [ref=e289]:
+                    - link "Free Fashionable adult male in sunglasses and scarf posing confidently outdoors. Stock Photo" [ref=e290] [cursor=pointer]:
+                      - /url: /photo/photo-of-a-man-with-sunglasses-wearing-a-white-scarf-14564831/
+                      - img "Free Fashionable adult male in sunglasses and scarf posing confidently outdoors. Stock Photo" [ref=e291]
+                - generic [ref=e294]:
+                  - article [ref=e297]:
+                    - link "Free Two fashionable men in stylish suits and hats confidently walking in an urban setting. Stock Photo" [ref=e298] [cursor=pointer]:
+                      - /url: /photo/men-walking-in-suits-and-hats-19272491/
+                      - img "Free Two fashionable men in stylish suits and hats confidently walking in an urban setting. Stock Photo" [ref=e299]
+                  - article [ref=e304]:
+                    - link "Free Fashionable man with glasses in a winter coat and sweater standing outdoors. Stock Photo" [ref=e305] [cursor=pointer]:
+                      - /url: /photo/stylish-man-in-glasses-wearing-winter-sweater-and-coat-30587667/
+                      - img "Free Fashionable man with glasses in a winter coat and sweater standing outdoors. Stock Photo" [ref=e306]
+                  - article [ref=e311]:
+                    - link "Free Flat lay of brown leather shoes, eyeglasses, and wristwatch on a dark background. Stock Photo" [ref=e312] [cursor=pointer]:
+                      - /url: /photo/brown-leather-brogue-shoes-beside-eyeglasses-and-watch-1619655/
+                      - img "Free Flat lay of brown leather shoes, eyeglasses, and wristwatch on a dark background. Stock Photo" [ref=e313]
+                  - article [ref=e318]:
+                    - link "Free Bearded man in a camel coat and suit walking confidently in an urban setting. Stock Photo" [ref=e319] [cursor=pointer]:
+                      - /url: /photo/bearded-man-wearing-suit-and-beige-coat-7512653/
+                      - img "Free Bearded man in a camel coat and suit walking confidently in an urban setting. Stock Photo" [ref=e320]
+                  - article [ref=e325]:
+                    - link "Free A fashionable young man walks outdoors in fall attire, showcasing a stylish gray coat and sunglasses. Stock Photo" [ref=e326] [cursor=pointer]:
+                      - /url: /photo/a-man-in-gray-coat-9571995/
+                      - img "Free A fashionable young man walks outdoors in fall attire, showcasing a stylish gray coat and sunglasses. Stock Photo" [ref=e327]
+                  - article [ref=e332]:
+                    - link "Free Fashionable man in black leather jacket and sunglasses strolling through urban Istanbul streets. Stock Photo" [ref=e333] [cursor=pointer]:
+                      - /url: /photo/man-in-black-leather-jacket-in-street-16604298/
+                      - img "Free Fashionable man in black leather jacket and sunglasses strolling through urban Istanbul streets. Stock Photo" [ref=e334]
+                  - article [ref=e339]:
+                    - link "Free Close-up of a man adjusting his tie adorned with stylish rings and watch. Stock Photo" [ref=e340] [cursor=pointer]:
+                      - /url: /photo/stylish-men-s-hand-adjusting-tie-with-rings-36129405/
+                      - img "Free Close-up of a man adjusting his tie adorned with stylish rings and watch. Stock Photo" [ref=e341]
+                - generic [ref=e344]:
+                  - generic [ref=e346]:
+                    - generic [ref=e348]:
+                      - link "Create your own mens fashion style content with Canva" [ref=e349] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20mens%20fashion%20style%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                        - img "Create your own mens fashion style content with Canva" [ref=e350]
+                      - link "Create your own mens fashion style content with Canva" [ref=e351] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20mens%20fashion%20style%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                        - img "Create your own mens fashion style content with Canva" [ref=e352]
+                      - link "Create your own mens fashion style content with Canva" [ref=e353] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20mens%20fashion%20style%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                        - img "Create your own mens fashion style content with Canva" [ref=e354]
+                      - link "Create your own mens fashion style content with Canva" [ref=e355] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20mens%20fashion%20style%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                        - img "Create your own mens fashion style content with Canva" [ref=e356]
+                    - link "Bring your ideas to life with Canva AI" [ref=e357] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20mens%20fashion%20style%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - img [ref=e358]
+                      - paragraph [ref=e360]: Bring your ideas to life with Canva AI
+                    - link "Get started for free" [ref=e361] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20mens%20fashion%20style%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - generic [ref=e363]: Get started for free
+                  - article [ref=e366]:
+                    - link "Free Two fashionable men in Munich showcasing classic autumn urban style. Stock Photo" [ref=e367] [cursor=pointer]:
+                      - /url: /photo/stylish-men-in-urban-munich-setting-28871760/
+                      - img "Free Two fashionable men in Munich showcasing classic autumn urban style. Stock Photo" [ref=e368]
+                  - generic [ref=e372]:
+                    - generic [ref=e373]:
+                      - heading "Sponsored Photos" [level=4] [ref=e374]
+                      - link [ref=e375] [cursor=pointer]:
+                        - /url: https://www.istockphoto.com/photos/mens%20fashion%20style?utm_source=pexels&utm_medium=affiliate&utm_campaign=sponsored_photo&utm_content=srp_inline_logo&utm_term=mens%20fashion%20style
+                        - img [ref=e376]
+                    - generic [ref=e379]:
+                      - link [ref=e380] [cursor=pointer]:
+                        - /url: https://www.istockphoto.com/photo/this-one-match-perfect-with-me-gm1293366109-387801134?utm_source=pexels&utm_medium=affiliate&utm_campaign=sponsored_photo&utm_content=srp_inline_media&utm_term=mens%20fashion%20style
+                        - img [ref=e381]
+                      - link [ref=e382] [cursor=pointer]:
+                        - /url: https://www.istockphoto.com/photo/young-man-choosing-sustainable-clothes-in-a-store-with-ethical-and-eco-friendly-gm2208804293-625944031?utm_source=pexels&utm_medium=affiliate&utm_campaign=sponsored_photo&utm_content=srp_inline_media&utm_term=mens%20fashion%20style
+                        - img [ref=e383]
+                      - link [ref=e384] [cursor=pointer]:
+                        - /url: https://www.istockphoto.com/photo/mens-suits-on-hangers-in-different-colors-gm887360960-246282325?utm_source=pexels&utm_medium=affiliate&utm_campaign=sponsored_photo&utm_content=srp_inline_media&utm_term=mens%20fashion%20style
+                        - img [ref=e385]
+                      - link [ref=e386] [cursor=pointer]:
+                        - /url: https://www.istockphoto.com/photo/a-stylish-young-man-showcases-autumn-fashion-in-a-modern-studio-setting-gm2183219028-602117038?utm_source=pexels&utm_medium=affiliate&utm_campaign=sponsored_photo&utm_content=srp_inline_media&utm_term=mens%20fashion%20style
+                        - img [ref=e387]
+                    - link [ref=e388] [cursor=pointer]:
+                      - /url: https://www.istockphoto.com/photos/mens%20fashion%20style?utm_source=pexels&utm_medium=affiliate&utm_campaign=sponsored_photo&utm_content=srp_inline_couponcode&utm_term=mens%20fashion%20style
+                      - img [ref=e391]:
+                        - generic [ref=e392]: Get 20% off with code PEXELS20 »
+                  - article [ref=e395]:
+                    - link "Free A fashionable man wearing sunglasses and a leather bag poses outdoors in a casual, stylish outfit. Stock Photo" [ref=e396] [cursor=pointer]:
+                      - /url: /photo/elegant-man-with-accessories-15870230/
+                      - img "Free A fashionable man wearing sunglasses and a leather bag poses outdoors in a casual, stylish outfit. Stock Photo" [ref=e397]
+                  - link [ref=e401] [cursor=pointer]:
+                    - /url: /collections/mens-fashion-ug7tmza/
+                    - article [ref=e402]:
+                      - list [ref=e404]:
+                        - listitem [ref=e405]:
+                          - img [ref=e406]
+                        - listitem [ref=e407]:
+                          - img [ref=e408]
+                        - listitem [ref=e409]:
+                          - img [ref=e410]
+                      - generic [ref=e411]:
+                        - heading "Mens Fashion" [level=4] [ref=e412]
+                        - generic [ref=e413]:
+                          - img [ref=e414]
+                          - paragraph [ref=e416]: "58"
+                  - article [ref=e419]:
+                    - link "Free Two fashionable men pose against a building wall in an urban setting. Stylish and modern vibe. Stock Photo" [ref=e420] [cursor=pointer]:
+                      - /url: /photo/stylish-urban-fashion-duo-leaning-wall-outdoors-28452448/
+                      - img "Free Two fashionable men pose against a building wall in an urban setting. Stylish and modern vibe. Stock Photo" [ref=e421]
+                  - article [ref=e426]:
+                    - link "Free Man wearing a fashionable tan coat and glasses, displaying urban style. Stock Photo" [ref=e427] [cursor=pointer]:
+                      - /url: /photo/stylish-man-in-tan-coat-with-glasses-29259451/
+                      - img "Free Man wearing a fashionable tan coat and glasses, displaying urban style. Stock Photo" [ref=e428]
+                - generic [ref=e431]:
+                  - article [ref=e434]:
+                    - link "Free Two adults in retro outfits converse against a vintage urban backdrop, exuding cool style. Stock Photo" [ref=e435] [cursor=pointer]:
+                      - /url: /photo/stylish-urban-fashion-with-retro-vibes-28520990/
+                      - img "Free Two adults in retro outfits converse against a vintage urban backdrop, exuding cool style. Stock Photo" [ref=e436]
+                  - article [ref=e441]:
+                    - link "Free Confident man in beige suit and sunglasses sitting outside on a chair, exuding style. Stock Photo" [ref=e442] [cursor=pointer]:
+                      - /url: /photo/stylish-man-in-beige-suit-with-sunglasses-outdoors-31219656/
+                      - img "Free Confident man in beige suit and sunglasses sitting outside on a chair, exuding style. Stock Photo" [ref=e443]
+                  - article [ref=e448]:
+                    - link "Free Stylish man wearing a leather jacket, yellow t-shirt, and jeans outdoors. Stock Photo" [ref=e449] [cursor=pointer]:
+                      - /url: /photo/man-in-tshirt-and-jacket-15869823/
+                      - img "Free Stylish man wearing a leather jacket, yellow t-shirt, and jeans outdoors. Stock Photo" [ref=e450]
+                  - article [ref=e455]:
+                    - link "Free Confident young man in smart casual attire leaning against a textured wall. Stock Photo" [ref=e456] [cursor=pointer]:
+                      - /url: /photo/stylish-young-man-leaning-against-wall-31618286/
+                      - img "Free Confident young man in smart casual attire leaning against a textured wall. Stock Photo" [ref=e457]
+                  - article [ref=e462]:
+                    - link "Free A group of stylish men in formal suits have a rooftop meeting with a city view. Stock Photo" [ref=e463] [cursor=pointer]:
+                      - /url: /photo/stylish-group-of-men-in-formal-suits-outdoors-32670017/
+                      - img "Free A group of stylish men in formal suits have a rooftop meeting with a city view. Stock Photo" [ref=e464]
+                  - article [ref=e469]:
+                    - link "Free Portrait of two stylish African American men sitting indoors, showcasing modern fashion. Stock Photo" [ref=e470] [cursor=pointer]:
+                      - /url: /photo/men-sitting-on-chairs-6626997/
+                      - img "Free Portrait of two stylish African American men sitting indoors, showcasing modern fashion. Stock Photo" [ref=e471]
+              - button "Load More" [ref=e475] [cursor=pointer]:
+                - generic [ref=e477]: Load More
+            - navigation [ref=e478]:
+              - generic [ref=e480]:
+                - link "Previous" [ref=e482]:
+                  - /url: /search/mens%20fashion%20style/#
+                  - generic [ref=e484]: Previous
+                - link "1" [ref=e485]:
+                  - /url: /search/mens%20fashion%20style/
+                  - generic [ref=e487]: "1"
+                - link "2" [ref=e488] [cursor=pointer]:
+                  - /url: /search/mens%20fashion%20style/?page=2
+                  - generic [ref=e490]: "2"
+                - link "3" [ref=e491] [cursor=pointer]:
+                  - /url: /search/mens%20fashion%20style/?page=3
+                  - generic [ref=e493]: "3"
+                - link "4" [ref=e494] [cursor=pointer]:
+                  - /url: /search/mens%20fashion%20style/?page=4
+                  - generic [ref=e496]: "4"
+                - link "5" [ref=e497] [cursor=pointer]:
+                  - /url: /search/mens%20fashion%20style/?page=5
+                  - generic [ref=e499]: "5"
+                - link "6" [ref=e500] [cursor=pointer]:
+                  - /url: /search/mens%20fashion%20style/?page=6
+                  - generic [ref=e502]: "6"
+                - link "Next" [ref=e503] [cursor=pointer]:
+                  - /url: /search/mens%20fashion%20style/?page=2
+                  - generic [ref=e505]: Next
+    - contentinfo [ref=e507]:
+      - separator [ref=e508]
+      - generic [ref=e509]:
+        - generic [ref=e510]:
+          - heading "Where stories come together." [level=2] [ref=e511]
+          - generic [ref=e512]:
+            - link "Download on iOS" [ref=e513] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+              - generic [ref=e515]: Download on iOS
+            - link "Download on Android" [ref=e516] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+              - generic [ref=e518]: Download on Android
+          - list [ref=e519]:
+            - listitem [ref=e520]:
+              - link "Instagram" [ref=e521] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+                - img [ref=e522]
+            - listitem [ref=e524]:
+              - link "Threads" [ref=e525] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+                - img [ref=e526]
+            - listitem [ref=e528]:
+              - link "YouTube" [ref=e529] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+                - img [ref=e530]
+            - listitem [ref=e532]:
+              - link "TikTok" [ref=e533] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+                - img [ref=e534]
+            - listitem [ref=e536]:
+              - link "LinkedIn" [ref=e537] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+                - img [ref=e538]
+            - listitem [ref=e540]:
+              - link "X" [ref=e541] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+                - img [ref=e542]
+        - generic [ref=e544]:
+          - list [ref=e545]:
+            - heading "Pexels" [level=3] [ref=e546]
+            - listitem [ref=e547]:
+              - link "Free Stock Photos" [ref=e548] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e549]:
+              - link "Free Videos" [ref=e550] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=e551]:
+              - link "Popular searches" [ref=e552] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=e553]:
+              - link "Collections" [ref=e554] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=e555]:
+              - link "Challenges" [ref=e556] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=e557]:
+              - link "Leaderboard" [ref=e558] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=e559]:
+              - link "Other plugins & apps" [ref=e560] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=e561]:
+            - heading "Company" [level=3] [ref=e562]
+            - listitem [ref=e563]:
+              - link "About" [ref=e564] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=e565]:
+              - link "Blog" [ref=e566] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=e567]:
+              - link "Help Center" [ref=e568] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us/
+            - listitem [ref=e569]:
+              - link "Report content" [ref=e570] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=e571]:
+              - link "Become a Hero" [ref=e572] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=e573]:
+              - link "Partner with Pexels" [ref=e574] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=e575]:
+              - link "Image & Video API" [ref=e576] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=e577]: Sign Up
+        - list [ref=e578]:
+          - listitem [ref=e579]:
+            - heading "Free Stock Photos" [level=3] [ref=e580]
+          - listitem [ref=e581]:
+            - generic [ref=e583]:
+              - link "Black and white photography" [ref=e585] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Happy birthday images" [ref=e586] [cursor=pointer]:
+                - /url: /search/happy%20birthday/
+              - link "Free business videos" [ref=e587] [cursor=pointer]:
+                - /url: /search/videos/business/
+              - link "Happy new year images" [ref=e588] [cursor=pointer]:
+                - /url: /search/happy%20new%20year/
+              - link "Cool wallpapers" [ref=e589] [cursor=pointer]:
+                - /url: /search/cool%20wallpaper/
+              - link "Best HD wallpapers" [ref=e590] [cursor=pointer]:
+                - /url: /search/HD%20wallpaper/
+              - link "Galaxy wallpaper" [ref=e591] [cursor=pointer]:
+                - /url: /search/galaxy%20wallpaper/
+              - link "Lock screen wallpaper" [ref=e592] [cursor=pointer]:
+                - /url: /search/lock%20screen%20wallpaper/
+              - link "iPhone wallpaper" [ref=e593] [cursor=pointer]:
+                - /url: /search/iphone%20wallpaper/
+              - link "4K wallpaper" [ref=e594] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Samsung wallpaper" [ref=e595] [cursor=pointer]:
+                - /url: /search/samsung%20wallpaper/
+              - link "Love wallpaper" [ref=e596] [cursor=pointer]:
+                - /url: /search/love%20wallpaper/
+              - link "Mobile wallpaper" [ref=e597] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+      - generic [ref=e599]:
+        - generic [ref=e600]: © 2026 Pexels
+        - generic [ref=e602]:
+          - generic:
+            - img
+          - link "Terms of Use" [ref=e604] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=e605] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=e606] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=e607] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=e608] [cursor=pointer]:
+            - /url: /cookies/
+          - generic:
+            - img
+        - button "English" [ref=e611] [cursor=pointer]:
+          - generic [ref=e612]:
+            - img [ref=e613]
+            - generic [ref=e615]: English
+      - separator [ref=e616]
+  - alert [ref=e617]
+  - region "Cookie banner" [ref=e618]:
+    - alertdialog "Confidentialité" [ref=e619]:
+      - generic [ref=e621]:
+        - paragraph [ref=e624]: En cliquant sur « Accepter tous les cookies », vous acceptez le stockage de cookies sur votre appareil pour améliorer la navigation sur le site, analyser son utilisation et contribuer à nos efforts de marketing.
+        - generic [ref=e626]:
+          - button "Paramètres des cookies" [active] [ref=e627] [cursor=pointer]
+          - button "Tout refuser" [ref=e628] [cursor=pointer]
+          - button "Autoriser tous les cookies" [ref=e629] [cursor=pointer]
+  - status [ref=e630]

@@ -1,0 +1,504 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - navigation [ref=e6]:
+      - link [ref=e8] [cursor=pointer]:
+        - /url: /
+        - img [ref=e9]
+      - search [ref=e13]:
+        - generic [ref=e14]:
+          - button "Photos" [ref=e16] [cursor=pointer]:
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - generic [ref=e21]: Photos
+              - img [ref=e22]
+          - searchbox "Search for free photos" [ref=e24]: men jeans
+          - button [ref=e26] [cursor=pointer]:
+            - img [ref=e28]
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - link "Explore" [ref=e32] [cursor=pointer]:
+            - /url: /discover/
+            - generic [ref=e33]: Explore
+          - img [ref=e34]
+        - link "License" [ref=e36] [cursor=pointer]:
+          - /url: /license/
+          - generic [ref=e37]: License
+        - button [ref=e39] [cursor=pointer]:
+          - img [ref=e40]
+        - button "Join" [ref=e42] [cursor=pointer]:
+          - generic [ref=e44]: Join
+    - main [ref=e45]:
+      - generic [ref=e46]:
+        - generic [ref=e50]:
+          - paragraph [ref=e52] [cursor=pointer]: Any
+          - generic [ref=e53] [cursor=pointer]:
+            - img [ref=e55]
+            - paragraph [ref=e57]: Horizontal
+          - generic [ref=e58] [cursor=pointer]:
+            - img [ref=e60]
+            - paragraph [ref=e62]: Vertical
+          - generic [ref=e63] [cursor=pointer]:
+            - img [ref=e65]
+            - paragraph [ref=e67]: Square
+        - generic [ref=e71]:
+          - paragraph [ref=e73] [cursor=pointer]: Any
+          - paragraph [ref=e75] [cursor=pointer]: "0"
+          - generic [ref=e76] [cursor=pointer]:
+            - img [ref=e78]
+            - paragraph [ref=e80]: "1"
+          - generic [ref=e81] [cursor=pointer]:
+            - img [ref=e83]
+            - paragraph [ref=e85]: "2"
+          - generic [ref=e86] [cursor=pointer]:
+            - img [ref=e88]
+            - paragraph [ref=e90]: 3+
+        - generic [ref=e94]:
+          - paragraph [ref=e96] [cursor=pointer]: Any
+          - generic [ref=e97] [cursor=pointer]:
+            - img [ref=e99]
+            - paragraph [ref=e101]: Baby
+          - generic [ref=e102] [cursor=pointer]:
+            - img [ref=e104]
+            - paragraph [ref=e106]: Child
+          - generic [ref=e107] [cursor=pointer]:
+            - img [ref=e109]
+            - paragraph [ref=e111]: Teenager
+          - generic [ref=e112] [cursor=pointer]:
+            - img [ref=e114]
+            - paragraph [ref=e116]: Adult
+          - generic [ref=e117] [cursor=pointer]:
+            - img [ref=e119]
+            - paragraph [ref=e121]: Senior adult
+        - generic [ref=e124]:
+          - generic [ref=e125]:
+            - slider [ref=e128] [cursor=pointer]
+            - slider [ref=e129] [cursor=pointer]
+          - generic [ref=e130]:
+            - generic [ref=e131]:
+              - paragraph [ref=e132]: Minimum
+              - paragraph [ref=e133]: 1,080px
+            - generic [ref=e134]:
+              - paragraph [ref=e135]: Maximum
+              - paragraph [ref=e136]: 20,000px+
+        - generic [ref=e139]:
+          - generic [ref=e140]:
+            - slider [ref=e143] [cursor=pointer]
+            - slider [ref=e144] [cursor=pointer]
+          - generic [ref=e145]:
+            - generic [ref=e146]:
+              - paragraph [ref=e147]: Minimum
+              - paragraph [ref=e148]: 1,080px
+            - generic [ref=e149]:
+              - paragraph [ref=e150]: Maximum
+              - paragraph [ref=e151]: 20,000px+
+        - generic [ref=e155]:
+          - button [ref=e156] [cursor=pointer]:
+            - generic [ref=e157]:
+              - textbox [ref=e162]:
+                - /placeholder: Enter hex code
+              - img [ref=e163]
+          - button [ref=e165] [cursor=pointer]:
+            - generic [ref=e166]:
+              - img [ref=e167]
+              - textbox [ref=e171]: "#000000"
+        - generic [ref=e175]:
+          - paragraph [ref=e177] [cursor=pointer]: Any
+          - generic [ref=e178] [cursor=pointer]:
+            - img [ref=e180]
+            - paragraph [ref=e182]: Last 24 hours
+          - generic [ref=e183] [cursor=pointer]:
+            - img [ref=e185]
+            - paragraph [ref=e187]: Last week
+          - generic [ref=e188] [cursor=pointer]:
+            - img [ref=e190]
+            - paragraph [ref=e192]: Last month
+          - generic [ref=e193] [cursor=pointer]:
+            - img [ref=e195]
+            - paragraph [ref=e197]: Last year
+        - main "main-content" [ref=e198]:
+          - generic [ref=e199]:
+            - generic [ref=e200]:
+              - heading "Choose your language:" [level=5] [ref=e201]
+              - generic [ref=e203]:
+                - link "English English" [ref=e205] [cursor=pointer]:
+                  - /url: /search/men%20jeans/
+                  - generic [ref=e206]:
+                    - img "English" [ref=e207]
+                    - generic [ref=e208]: English
+                - link "Français Français" [ref=e209] [cursor=pointer]:
+                  - /url: /fr-fr/chercher/jeans%20pour%20hommes/
+                  - generic [ref=e210]:
+                    - img "Français" [ref=e211]
+                    - generic [ref=e212]: Français
+                - button [ref=e213] [cursor=pointer]:
+                  - img [ref=e215]
+            - heading "Free Men Jeans Photos" [level=1] [ref=e220]
+            - generic [ref=e223]:
+              - generic:
+                - img
+              - link "Photos 140.3K" [ref=e225] [cursor=pointer]:
+                - /url: /search/men%20jeans/
+                - text: Photos
+                - generic [ref=e226]: 140.3K
+              - link "Videos 26.7K" [ref=e227] [cursor=pointer]:
+                - /url: /search/videos/men%20jeans/
+                - text: Videos
+                - generic [ref=e228]: 26.7K
+              - link "Users 96.5K" [ref=e229] [cursor=pointer]:
+                - /url: /search/users/men%20jeans/
+                - text: Users
+                - generic [ref=e230]: 96.5K
+              - generic:
+                - img
+            - generic [ref=e232]:
+              - button "Filters" [ref=e234] [cursor=pointer]:
+                - generic [ref=e240]: Filters
+              - separator [ref=e241]
+              - generic [ref=e245]:
+                - generic:
+                  - img
+                - link "jeans jeans 82K" [ref=e247] [cursor=pointer]:
+                  - /url: /search/jeans/
+                  - img "jeans" [ref=e248]
+                  - generic [ref=e249]:
+                    - paragraph [ref=e250]: jeans
+                    - paragraph [ref=e251]: 82K
+                - generic:
+                  - img
+            - generic [ref=e253]:
+              - generic [ref=e255]:
+                - generic [ref=e256]:
+                  - article [ref=e259]:
+                    - link "Free Stylish man wearing a leather jacket, yellow t-shirt, and jeans outdoors. Stock Photo" [ref=e260] [cursor=pointer]:
+                      - /url: /photo/man-in-tshirt-and-jacket-15869823/
+                      - img "Free Stylish man wearing a leather jacket, yellow t-shirt, and jeans outdoors. Stock Photo" [ref=e261]
+                  - article [ref=e266]:
+                    - link "Free Stylish young man poses in casual attire amidst urban greenery. Stock Photo" [ref=e267] [cursor=pointer]:
+                      - /url: /photo/man-wearing-yellow-crew-neck-sweater-2244954/
+                      - img "Free Stylish young man poses in casual attire amidst urban greenery. Stock Photo" [ref=e268]
+                  - generic [ref=e272]:
+                    - generic [ref=e273]:
+                      - heading "Sponsored Photos" [level=4] [ref=e274]
+                      - link [ref=e275] [cursor=pointer]:
+                        - /url: https://www.istockphoto.com/photos/men%20jeans?utm_source=pexels&utm_medium=affiliate&utm_campaign=sponsored_photo&utm_content=srp_inline_logo&utm_term=men%20jeans
+                        - img [ref=e276]
+                    - generic [ref=e279]:
+                      - link [ref=e280] [cursor=pointer]:
+                        - /url: https://www.istockphoto.com/photo/mans-legs-gm527236518-92752853?utm_source=pexels&utm_medium=affiliate&utm_campaign=sponsored_photo&utm_content=srp_inline_media&utm_term=men%20jeans
+                        - img [ref=e281]
+                      - link [ref=e282] [cursor=pointer]:
+                        - /url: https://www.istockphoto.com/photo/man-standing-in-street-wearing-denim-portrait-gm621499082-108563971?utm_source=pexels&utm_medium=affiliate&utm_campaign=sponsored_photo&utm_content=srp_inline_media&utm_term=men%20jeans
+                        - img [ref=e283]
+                      - link [ref=e284] [cursor=pointer]:
+                        - /url: https://www.istockphoto.com/photo/always-on-top-of-the-new-trends-gm162916954-20104923?utm_source=pexels&utm_medium=affiliate&utm_campaign=sponsored_photo&utm_content=srp_inline_media&utm_term=men%20jeans
+                        - img [ref=e285]
+                      - link [ref=e286] [cursor=pointer]:
+                        - /url: https://www.istockphoto.com/photo/good-looking-duo-gm658946178-120211641?utm_source=pexels&utm_medium=affiliate&utm_campaign=sponsored_photo&utm_content=srp_inline_media&utm_term=men%20jeans
+                        - img [ref=e287]
+                    - link [ref=e288] [cursor=pointer]:
+                      - /url: https://www.istockphoto.com/photos/men%20jeans?utm_source=pexels&utm_medium=affiliate&utm_campaign=sponsored_photo&utm_content=srp_inline_couponcode&utm_term=men%20jeans
+                      - img [ref=e291]:
+                        - generic [ref=e292]: Get 20% off with code PEXELS20 »
+                  - article [ref=e295]:
+                    - link "Free Casual urban fashion featuring a yellow sweater and black jeans. Stock Photo" [ref=e296] [cursor=pointer]:
+                      - /url: /photo/stylish-urban-outfit-with-yellow-sweater-and-jeans-30407915/
+                      - img "Free Casual urban fashion featuring a yellow sweater and black jeans. Stock Photo" [ref=e297]
+                  - article [ref=e302]:
+                    - link "Free Street style featuring casual denim jeans, striped shirt, and accessories against a metal backdrop. Stock Photo" [ref=e303] [cursor=pointer]:
+                      - /url: /photo/casual-urban-fashion-with-denim-jeans-29191566/
+                      - img "Free Street style featuring casual denim jeans, striped shirt, and accessories against a metal backdrop. Stock Photo" [ref=e304]
+                  - article [ref=e309]:
+                    - link "Free Stylish portrait of a man in a jean jacket and jeans posing dynamically in a studio setting. Stock Photo" [ref=e310] [cursor=pointer]:
+                      - /url: /photo/man-wearing-denim-jacket-6764727/
+                      - img "Free Stylish portrait of a man in a jean jacket and jeans posing dynamically in a studio setting. Stock Photo" [ref=e311]
+                - generic [ref=e314]:
+                  - article [ref=e317]:
+                    - link "Free Fashionable street style featuring blue jeans and white sneakers with a casual vibe. Stock Photo" [ref=e318] [cursor=pointer]:
+                      - /url: /photo/casual-street-style-jeans-and-sneakers-30710032/
+                      - img "Free Fashionable street style featuring blue jeans and white sneakers with a casual vibe. Stock Photo" [ref=e319]
+                  - article [ref=e324]:
+                    - link "Free Stylish male fashion model posing topless in white jeans against a purple background. Stock Photo" [ref=e325] [cursor=pointer]:
+                      - /url: /photo/man-posing-topless-15059365/
+                      - img "Free Stylish male fashion model posing topless in white jeans against a purple background. Stock Photo" [ref=e326]
+                  - article [ref=e331]:
+                    - link "Free Close-up of two adults in white shirts and denim jeans, showcasing casual fashion style. Stock Photo" [ref=e332] [cursor=pointer]:
+                      - /url: /photo/people-wearing-denim-jeans-with-hands-in-pockets-9775670/
+                      - img "Free Close-up of two adults in white shirts and denim jeans, showcasing casual fashion style. Stock Photo" [ref=e333]
+                  - article [ref=e338]:
+                    - link "Free Serious young black couple in stylish clothes standing with hands in pockets on street in daytime Stock Photo" [ref=e339] [cursor=pointer]:
+                      - /url: /photo/confident-african-american-couple-standing-on-street-5196914/
+                      - img "Free Serious young black couple in stylish clothes standing with hands in pockets on street in daytime Stock Photo" [ref=e340]
+                  - article [ref=e345]:
+                    - link "Free Fashionable young man wearing a denim jacket standing on a rooftop with cloudy skies. Stock Photo" [ref=e346] [cursor=pointer]:
+                      - /url: /photo/photo-of-a-person-standing-on-rooftop-2229712/
+                      - img "Free Fashionable young man wearing a denim jacket standing on a rooftop with cloudy skies. Stock Photo" [ref=e347]
+                  - article [ref=e352]:
+                    - link "Free Fashionable Indian man with sunglasses posing indoors against a red background. Stock Photo" [ref=e353] [cursor=pointer]:
+                      - /url: /photo/photo-of-a-man-with-sunglasses-sitting-15141449/
+                      - img "Free Fashionable Indian man with sunglasses posing indoors against a red background. Stock Photo" [ref=e354]
+                  - article [ref=e359]:
+                    - link "Free Close-up of a person wearing sneakers on dried leaves, Lucknow, India. Stock Photo" [ref=e360] [cursor=pointer]:
+                      - /url: /photo/a-person-wearing-denim-jeans-and-sneakers-13901538/
+                      - img "Free Close-up of a person wearing sneakers on dried leaves, Lucknow, India. Stock Photo" [ref=e361]
+                - generic [ref=e364]:
+                  - generic [ref=e366]:
+                    - generic [ref=e368]:
+                      - link "Create your own men jeans content with Canva" [ref=e369] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20men%20jeans%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                        - img "Create your own men jeans content with Canva" [ref=e370]
+                      - link "Create your own men jeans content with Canva" [ref=e371] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20men%20jeans%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                        - img "Create your own men jeans content with Canva" [ref=e372]
+                      - link "Create your own men jeans content with Canva" [ref=e373] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20men%20jeans%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                        - img "Create your own men jeans content with Canva" [ref=e374]
+                      - link "Create your own men jeans content with Canva" [ref=e375] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20men%20jeans%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                        - img "Create your own men jeans content with Canva" [ref=e376]
+                    - link "Bring your ideas to life with Canva AI" [ref=e377] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20men%20jeans%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - img [ref=e378]
+                      - paragraph [ref=e380]: Bring your ideas to life with Canva AI
+                    - link "Get started for free" [ref=e381] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20men%20jeans%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - generic [ref=e383]: Get started for free
+                  - article [ref=e386]:
+                    - link "Free Man wearing stylish blue jeans and sneakers indoors, showcasing casual fashion style. Stock Photo" [ref=e387] [cursor=pointer]:
+                      - /url: /photo/casual-men-s-fashion-in-blue-jeans-and-sneakers-30710244/
+                      - img "Free Man wearing stylish blue jeans and sneakers indoors, showcasing casual fashion style. Stock Photo" [ref=e388]
+                  - article [ref=e393]:
+                    - link "Free Close-up of a man wearing black sneakers and blue jeans indoors. Stock Photo" [ref=e394] [cursor=pointer]:
+                      - /url: /photo/a-man-in-jeans-and-black-sneakers-16069736/
+                      - img "Free Close-up of a man wearing black sneakers and blue jeans indoors. Stock Photo" [ref=e395]
+                  - article [ref=e400]:
+                    - link "Free A man in casual attire stands confidently on a metal bridge during twilight, showcasing a blend of urban and serene elements. Stock Photo" [ref=e401] [cursor=pointer]:
+                      - /url: /photo/man-in-purple-hoodie-standing-on-metal-bridge-at-twilight-30510954/
+                      - img "Free A man in casual attire stands confidently on a metal bridge during twilight, showcasing a blend of urban and serene elements. Stock Photo" [ref=e402]
+                  - link [ref=e406] [cursor=pointer]:
+                    - /url: /collections/international-men-s-day-w188c10/
+                    - article [ref=e407]:
+                      - list [ref=e409]:
+                        - listitem [ref=e410]:
+                          - img [ref=e411]
+                        - listitem [ref=e412]:
+                          - img [ref=e413]
+                        - listitem [ref=e414]:
+                          - img [ref=e415]
+                      - generic [ref=e416]:
+                        - heading "International Men's Day" [level=4] [ref=e417]
+                        - generic [ref=e418]:
+                          - img [ref=e419]
+                          - paragraph [ref=e421]: "143"
+                  - article [ref=e424]:
+                    - link "Free Shirtless male model showcasing fashion-forward denim with graffiti art. Studio shot on white background. Stock Photo" [ref=e425] [cursor=pointer]:
+                      - /url: /photo/model-in-colorful-jacket-17393367/
+                      - img "Free Shirtless male model showcasing fashion-forward denim with graffiti art. Studio shot on white background. Stock Photo" [ref=e426]
+                  - article [ref=e431]:
+                    - link "Free Stylish black and white photo depicting a casual streetwear fashion pose. Stock Photo" [ref=e432] [cursor=pointer]:
+                      - /url: /photo/black-and-white-streetwear-fashion-pose-28439284/
+                      - img "Free Stylish black and white photo depicting a casual streetwear fashion pose. Stock Photo" [ref=e433]
+                - generic [ref=e436]:
+                  - article [ref=e439]:
+                    - link "Free Close-up of two individuals wearing jeans and white sneakers in a minimalist setting. Stock Photo" [ref=e440] [cursor=pointer]:
+                      - /url: /photo/a-close-up-shot-of-men-wearing-denim-pants-and-white-shoes-9775671/
+                      - img "Free Close-up of two individuals wearing jeans and white sneakers in a minimalist setting. Stock Photo" [ref=e441]
+                  - article [ref=e446]:
+                    - link "Free Stylish casual fashion featuring ripped jeans and sneakers on a wooden stool. Stock Photo" [ref=e447] [cursor=pointer]:
+                      - /url: /photo/model-in-jeans-and-sports-shoes-14188893/
+                      - img "Free Stylish casual fashion featuring ripped jeans and sneakers on a wooden stool. Stock Photo" [ref=e448]
+                  - article [ref=e453]:
+                    - link "Free Two men in trendy outfits posing stylishly indoors with a vintage vibe. Stock Photo" [ref=e454] [cursor=pointer]:
+                      - /url: /photo/stylish-men-in-modern-urban-fashion-30953651/
+                      - img "Free Two men in trendy outfits posing stylishly indoors with a vintage vibe. Stock Photo" [ref=e455]
+                  - article [ref=e460]:
+                    - link "Free Stylish man posing in denim and sunglasses against a rustic wall in Mexico City. Stock Photo" [ref=e461] [cursor=pointer]:
+                      - /url: /photo/full-shot-of-a-man-in-ripped-jeans-standing-4258605/
+                      - img "Free Stylish man posing in denim and sunglasses against a rustic wall in Mexico City. Stock Photo" [ref=e462]
+                  - article [ref=e467]:
+                    - link "Free A fashionable young man poses confidently in a scenic outdoor setting near a large bridge. Stock Photo" [ref=e468] [cursor=pointer]:
+                      - /url: /photo/stylish-young-man-posing-outdoors-near-bridge-31456017/
+                      - img "Free A fashionable young man poses confidently in a scenic outdoor setting near a large bridge. Stock Photo" [ref=e469]
+                  - article [ref=e474]:
+                    - link "Free Fashion model wearing black hoodie and jeans, posing on stool in a studio setting. Stock Photo" [ref=e475] [cursor=pointer]:
+                      - /url: /photo/model-in-black-printed-hoodie-and-faded-black-denim-cargo-pants-standing-leaning-on-a-stool-19461561/
+                      - img "Free Fashion model wearing black hoodie and jeans, posing on stool in a studio setting. Stock Photo" [ref=e476]
+                  - article [ref=e481]:
+                    - link "Free Young man in sunglasses and casual attire poses in urban setting. Perfect for street style and fashion photography. Stock Photo" [ref=e482] [cursor=pointer]:
+                      - /url: /photo/photo-of-a-man-wearing-jeans-27348257/
+                      - img "Free Young man in sunglasses and casual attire poses in urban setting. Perfect for street style and fashion photography. Stock Photo" [ref=e483]
+              - button "Load More" [ref=e487] [cursor=pointer]:
+                - generic [ref=e489]: Load More
+            - navigation [ref=e490]:
+              - generic [ref=e492]:
+                - link "Previous" [ref=e494]:
+                  - /url: /search/men%20jeans/#
+                  - generic [ref=e496]: Previous
+                - link "1" [ref=e497]:
+                  - /url: /search/men%20jeans/
+                  - generic [ref=e499]: "1"
+                - link "2" [ref=e500] [cursor=pointer]:
+                  - /url: /search/men%20jeans/?page=2
+                  - generic [ref=e502]: "2"
+                - link "3" [ref=e503] [cursor=pointer]:
+                  - /url: /search/men%20jeans/?page=3
+                  - generic [ref=e505]: "3"
+                - link "4" [ref=e506] [cursor=pointer]:
+                  - /url: /search/men%20jeans/?page=4
+                  - generic [ref=e508]: "4"
+                - link "5" [ref=e509] [cursor=pointer]:
+                  - /url: /search/men%20jeans/?page=5
+                  - generic [ref=e511]: "5"
+                - link "6" [ref=e512] [cursor=pointer]:
+                  - /url: /search/men%20jeans/?page=6
+                  - generic [ref=e514]: "6"
+                - link "Next" [ref=e515] [cursor=pointer]:
+                  - /url: /search/men%20jeans/?page=2
+                  - generic [ref=e517]: Next
+    - contentinfo [ref=e519]:
+      - separator [ref=e520]
+      - generic [ref=e521]:
+        - generic [ref=e522]:
+          - heading "Where stories come together." [level=2] [ref=e523]
+          - generic [ref=e524]:
+            - link "Download on iOS" [ref=e525] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+              - generic [ref=e527]: Download on iOS
+            - link "Download on Android" [ref=e528] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+              - generic [ref=e530]: Download on Android
+          - list [ref=e531]:
+            - listitem [ref=e532]:
+              - link "Instagram" [ref=e533] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+                - img [ref=e534]
+            - listitem [ref=e536]:
+              - link "Threads" [ref=e537] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+                - img [ref=e538]
+            - listitem [ref=e540]:
+              - link "YouTube" [ref=e541] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+                - img [ref=e542]
+            - listitem [ref=e544]:
+              - link "TikTok" [ref=e545] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+                - img [ref=e546]
+            - listitem [ref=e548]:
+              - link "LinkedIn" [ref=e549] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+                - img [ref=e550]
+            - listitem [ref=e552]:
+              - link "X" [ref=e553] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+                - img [ref=e554]
+        - generic [ref=e556]:
+          - list [ref=e557]:
+            - heading "Pexels" [level=3] [ref=e558]
+            - listitem [ref=e559]:
+              - link "Free Stock Photos" [ref=e560] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e561]:
+              - link "Free Videos" [ref=e562] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=e563]:
+              - link "Popular searches" [ref=e564] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=e565]:
+              - link "Collections" [ref=e566] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=e567]:
+              - link "Challenges" [ref=e568] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=e569]:
+              - link "Leaderboard" [ref=e570] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=e571]:
+              - link "Other plugins & apps" [ref=e572] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=e573]:
+            - heading "Company" [level=3] [ref=e574]
+            - listitem [ref=e575]:
+              - link "About" [ref=e576] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=e577]:
+              - link "Blog" [ref=e578] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=e579]:
+              - link "Help Center" [ref=e580] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us/
+            - listitem [ref=e581]:
+              - link "Report content" [ref=e582] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=e583]:
+              - link "Become a Hero" [ref=e584] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=e585]:
+              - link "Partner with Pexels" [ref=e586] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=e587]:
+              - link "Image & Video API" [ref=e588] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=e589]: Sign Up
+        - list [ref=e590]:
+          - listitem [ref=e591]:
+            - heading "Free Stock Photos" [level=3] [ref=e592]
+          - listitem [ref=e593]:
+            - generic [ref=e595]:
+              - link "Black and white photography" [ref=e597] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Happy birthday images" [ref=e598] [cursor=pointer]:
+                - /url: /search/happy%20birthday/
+              - link "Free business videos" [ref=e599] [cursor=pointer]:
+                - /url: /search/videos/business/
+              - link "Happy new year images" [ref=e600] [cursor=pointer]:
+                - /url: /search/happy%20new%20year/
+              - link "Cool wallpapers" [ref=e601] [cursor=pointer]:
+                - /url: /search/cool%20wallpaper/
+              - link "Best HD wallpapers" [ref=e602] [cursor=pointer]:
+                - /url: /search/HD%20wallpaper/
+              - link "Galaxy wallpaper" [ref=e603] [cursor=pointer]:
+                - /url: /search/galaxy%20wallpaper/
+              - link "Lock screen wallpaper" [ref=e604] [cursor=pointer]:
+                - /url: /search/lock%20screen%20wallpaper/
+              - link "iPhone wallpaper" [ref=e605] [cursor=pointer]:
+                - /url: /search/iphone%20wallpaper/
+              - link "4K wallpaper" [ref=e606] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Samsung wallpaper" [ref=e607] [cursor=pointer]:
+                - /url: /search/samsung%20wallpaper/
+              - link "Love wallpaper" [ref=e608] [cursor=pointer]:
+                - /url: /search/love%20wallpaper/
+              - link "Mobile wallpaper" [ref=e609] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+      - generic [ref=e611]:
+        - generic [ref=e612]: © 2026 Pexels
+        - generic [ref=e614]:
+          - generic:
+            - img
+          - link "Terms of Use" [ref=e616] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=e617] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=e618] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=e619] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=e620] [cursor=pointer]:
+            - /url: /cookies/
+          - generic:
+            - img
+        - button "English" [ref=e623] [cursor=pointer]:
+          - generic [ref=e624]:
+            - img [ref=e625]
+            - generic [ref=e627]: English
+      - separator [ref=e628]
+  - alert [ref=e629]
+  - status [ref=e630]
+  - region "Cookie banner" [ref=e631]:
+    - alertdialog "Confidentialité" [ref=e632]:
+      - generic [ref=e634]:
+        - paragraph [ref=e637]: En cliquant sur « Accepter tous les cookies », vous acceptez le stockage de cookies sur votre appareil pour améliorer la navigation sur le site, analyser son utilisation et contribuer à nos efforts de marketing.
+        - generic [ref=e639]:
+          - button "Paramètres des cookies" [active] [ref=e640] [cursor=pointer]
+          - button "Tout refuser" [ref=e641] [cursor=pointer]
+          - button "Autoriser tous les cookies" [ref=e642] [cursor=pointer]

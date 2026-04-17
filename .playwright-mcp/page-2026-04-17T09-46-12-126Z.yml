@@ -1,0 +1,468 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - navigation [ref=e6]:
+      - link [ref=e8] [cursor=pointer]:
+        - /url: /
+        - img [ref=e9]
+      - search [ref=e13]:
+        - generic [ref=e14]:
+          - button "Photos" [ref=e16] [cursor=pointer]:
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - generic [ref=e21]: Photos
+              - img [ref=e22]
+          - searchbox "Search for free photos" [ref=e24]: fashion week runway
+          - button [ref=e26] [cursor=pointer]:
+            - img [ref=e28]
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - link "Explore" [ref=e32] [cursor=pointer]:
+            - /url: /discover/
+            - generic [ref=e33]: Explore
+          - img [ref=e34]
+        - link "License" [ref=e36] [cursor=pointer]:
+          - /url: /license/
+          - generic [ref=e37]: License
+        - button [ref=e39] [cursor=pointer]:
+          - img [ref=e40]
+        - button "Join" [ref=e42] [cursor=pointer]:
+          - generic [ref=e44]: Join
+    - main [ref=e45]:
+      - generic [ref=e46]:
+        - generic [ref=e50]:
+          - paragraph [ref=e52] [cursor=pointer]: Any
+          - generic [ref=e53] [cursor=pointer]:
+            - img [ref=e55]
+            - paragraph [ref=e57]: Horizontal
+          - generic [ref=e58] [cursor=pointer]:
+            - img [ref=e60]
+            - paragraph [ref=e62]: Vertical
+          - generic [ref=e63] [cursor=pointer]:
+            - img [ref=e65]
+            - paragraph [ref=e67]: Square
+        - generic [ref=e71]:
+          - paragraph [ref=e73] [cursor=pointer]: Any
+          - paragraph [ref=e75] [cursor=pointer]: "0"
+          - generic [ref=e76] [cursor=pointer]:
+            - img [ref=e78]
+            - paragraph [ref=e80]: "1"
+          - generic [ref=e81] [cursor=pointer]:
+            - img [ref=e83]
+            - paragraph [ref=e85]: "2"
+          - generic [ref=e86] [cursor=pointer]:
+            - img [ref=e88]
+            - paragraph [ref=e90]: 3+
+        - generic [ref=e94]:
+          - paragraph [ref=e96] [cursor=pointer]: Any
+          - generic [ref=e97] [cursor=pointer]:
+            - img [ref=e99]
+            - paragraph [ref=e101]: Baby
+          - generic [ref=e102] [cursor=pointer]:
+            - img [ref=e104]
+            - paragraph [ref=e106]: Child
+          - generic [ref=e107] [cursor=pointer]:
+            - img [ref=e109]
+            - paragraph [ref=e111]: Teenager
+          - generic [ref=e112] [cursor=pointer]:
+            - img [ref=e114]
+            - paragraph [ref=e116]: Adult
+          - generic [ref=e117] [cursor=pointer]:
+            - img [ref=e119]
+            - paragraph [ref=e121]: Senior adult
+        - generic [ref=e124]:
+          - generic [ref=e125]:
+            - slider [ref=e128] [cursor=pointer]
+            - slider [ref=e129] [cursor=pointer]
+          - generic [ref=e130]:
+            - generic [ref=e131]:
+              - paragraph [ref=e132]: Minimum
+              - paragraph [ref=e133]: 1,080px
+            - generic [ref=e134]:
+              - paragraph [ref=e135]: Maximum
+              - paragraph [ref=e136]: 20,000px+
+        - generic [ref=e139]:
+          - generic [ref=e140]:
+            - slider [ref=e143] [cursor=pointer]
+            - slider [ref=e144] [cursor=pointer]
+          - generic [ref=e145]:
+            - generic [ref=e146]:
+              - paragraph [ref=e147]: Minimum
+              - paragraph [ref=e148]: 1,080px
+            - generic [ref=e149]:
+              - paragraph [ref=e150]: Maximum
+              - paragraph [ref=e151]: 20,000px+
+        - generic [ref=e155]:
+          - button [ref=e156] [cursor=pointer]:
+            - generic [ref=e157]:
+              - textbox [ref=e162]:
+                - /placeholder: Enter hex code
+              - img [ref=e163]
+          - button [ref=e165] [cursor=pointer]:
+            - generic [ref=e166]:
+              - img [ref=e167]
+              - textbox [ref=e171]: "#000000"
+        - generic [ref=e175]:
+          - paragraph [ref=e177] [cursor=pointer]: Any
+          - generic [ref=e178] [cursor=pointer]:
+            - img [ref=e180]
+            - paragraph [ref=e182]: Last 24 hours
+          - generic [ref=e183] [cursor=pointer]:
+            - img [ref=e185]
+            - paragraph [ref=e187]: Last week
+          - generic [ref=e188] [cursor=pointer]:
+            - img [ref=e190]
+            - paragraph [ref=e192]: Last month
+          - generic [ref=e193] [cursor=pointer]:
+            - img [ref=e195]
+            - paragraph [ref=e197]: Last year
+        - main "main-content" [ref=e198]:
+          - generic [ref=e199]:
+            - generic [ref=e200]:
+              - heading "Choose your language:" [level=5] [ref=e201]
+              - generic [ref=e203]:
+                - link "English English" [ref=e205] [cursor=pointer]:
+                  - /url: /search/fashion%20week%20runway/
+                  - generic [ref=e206]:
+                    - img "English" [ref=e207]
+                    - generic [ref=e208]: English
+                - link "Français Français" [ref=e209] [cursor=pointer]:
+                  - /url: /fr-fr/chercher/fashion%20week%20runway/
+                  - generic [ref=e210]:
+                    - img "Français" [ref=e211]
+                    - generic [ref=e212]: Français
+                - button [ref=e213] [cursor=pointer]:
+                  - img [ref=e215]
+            - heading "Free Fashion Week Runway Photos" [level=1] [ref=e220]
+            - generic [ref=e223]:
+              - generic:
+                - img
+              - link "Photos 821.7K" [ref=e225] [cursor=pointer]:
+                - /url: /search/fashion%20week%20runway/
+                - text: Photos
+                - generic [ref=e226]: 821.7K
+              - link "Videos 61.2K" [ref=e227] [cursor=pointer]:
+                - /url: /search/videos/fashion%20week%20runway/
+                - text: Videos
+                - generic [ref=e228]: 61.2K
+              - link "Users 5.4K" [ref=e229] [cursor=pointer]:
+                - /url: /search/users/fashion%20week%20runway/
+                - text: Users
+                - generic [ref=e230]: 5.4K
+              - generic:
+                - img
+            - button "Filters" [ref=e234] [cursor=pointer]:
+              - generic [ref=e240]: Filters
+            - generic [ref=e241]:
+              - generic [ref=e243]:
+                - generic [ref=e244]:
+                  - article [ref=e247]:
+                    - link "Free A model showcasing a futuristic dress at a fashion show in New Delhi. Stock Photo" [ref=e248] [cursor=pointer]:
+                      - /url: /photo/a-model-wearing-purple-dress-in-the-fashion-show-13057806/
+                      - img "Free A model showcasing a futuristic dress at a fashion show in New Delhi. Stock Photo" [ref=e249]
+                  - article [ref=e254]:
+                    - link "Free Model showcasing a stunning couture dress during a fashion event in New Delhi. Stock Photo" [ref=e255] [cursor=pointer]:
+                      - /url: /photo/woman-in-black-skirt-standing-on-runway-13057778/
+                      - img "Free Model showcasing a stunning couture dress during a fashion event in New Delhi. Stock Photo" [ref=e256]
+                  - article [ref=e261]:
+                    - link "Free A model showcases a futuristic gown during a fashion week event. Stock Photo" [ref=e262] [cursor=pointer]:
+                      - /url: /photo/woman-in-purple-long-sleeve-dress-13057763/
+                      - img "Free A model showcases a futuristic gown during a fashion week event. Stock Photo" [ref=e263]
+                  - article [ref=e268]:
+                    - link "Free Stunning model showcases avant-garde fashion at New Delhi runway. Stock Photo" [ref=e269] [cursor=pointer]:
+                      - /url: /photo/fashion-model-in-elegant-dark-green-gown-posing-on-stage-13057801/
+                      - img "Free Stunning model showcases avant-garde fashion at New Delhi runway. Stock Photo" [ref=e270]
+                  - link [ref=e274] [cursor=pointer]:
+                    - /url: /collections/fashion-kwvfk6o/
+                    - article [ref=e275]:
+                      - list [ref=e277]:
+                        - listitem [ref=e278]:
+                          - img [ref=e279]
+                        - listitem [ref=e280]:
+                          - img [ref=e281]
+                        - listitem [ref=e282]:
+                          - img [ref=e283]
+                      - generic [ref=e284]:
+                        - heading "Fashion" [level=4] [ref=e285]
+                        - generic [ref=e286]:
+                          - img [ref=e287]
+                          - paragraph [ref=e289]: "148"
+                  - article [ref=e292]:
+                    - link "Free Model in blue gown poses on the runway during a fashion show in New Delhi. Stock Photo" [ref=e293] [cursor=pointer]:
+                      - /url: /photo/woman-in-blue-and-gray-dress-13057794/
+                      - img "Free Model in blue gown poses on the runway during a fashion show in New Delhi. Stock Photo" [ref=e294]
+                  - article [ref=e299]:
+                    - link "Free South Asian model showcases elegant couture at fashion event in New Delhi. Stock Photo" [ref=e300] [cursor=pointer]:
+                      - /url: /photo/woman-in-purple-dress-13057802/
+                      - img "Free South Asian model showcases elegant couture at fashion event in New Delhi. Stock Photo" [ref=e301]
+                - generic [ref=e304]:
+                  - article [ref=e307]:
+                    - link "Free A fashion model showcases a designer dress on the runway during a fashion show in New Delhi. Stock Photo" [ref=e308] [cursor=pointer]:
+                      - /url: /photo/model-standing-on-runway-wearing-black-and-white-long-sleeve-dress-13057845/
+                      - img "Free A fashion model showcases a designer dress on the runway during a fashion show in New Delhi. Stock Photo" [ref=e309]
+                  - article [ref=e314]:
+                    - link "Free Graceful model showcasing a designer couture gown at a fashion show indoors. Stock Photo" [ref=e315] [cursor=pointer]:
+                      - /url: /photo/woman-in-gray-and-pink-dress-13057816/
+                      - img "Free Graceful model showcasing a designer couture gown at a fashion show indoors. Stock Photo" [ref=e316]
+                  - article [ref=e321]:
+                    - link "Free Model walks runway in avant-garde design during fashion show in New Delhi. Stock Photo" [ref=e322] [cursor=pointer]:
+                      - /url: /photo/model-wearing-purple-dress-13057803/
+                      - img "Free Model walks runway in avant-garde design during fashion show in New Delhi. Stock Photo" [ref=e323]
+                  - article [ref=e328]:
+                    - link "Free Fashion model showcasing an avant-garde design during a runway show in New Delhi, India. Stock Photo" [ref=e329] [cursor=pointer]:
+                      - /url: /photo/man-in-black-and-purple-long-sleeve-shirt-13057792/
+                      - img "Free Fashion model showcasing an avant-garde design during a runway show in New Delhi, India. Stock Photo" [ref=e330]
+                  - article [ref=e335]:
+                    - link "Free An African American model struts confidently in an orange dress during a fashion show. Stock Photo" [ref=e336] [cursor=pointer]:
+                      - /url: /photo/woman-in-orange-long-sleeve-dress-standing-on-white-floor-3011499/
+                      - img "Free An African American model struts confidently in an orange dress during a fashion show. Stock Photo" [ref=e337]
+                  - article [ref=e342]:
+                    - link "Free Captivating fashion show scene with a model in a modern dress on a runway in New Delhi. Stock Photo" [ref=e343] [cursor=pointer]:
+                      - /url: /photo/a-woman-on-a-catwalk-13057831/
+                      - img "Free Captivating fashion show scene with a model in a modern dress on a runway in New Delhi. Stock Photo" [ref=e344]
+                - generic [ref=e347]:
+                  - generic [ref=e349]:
+                    - generic [ref=e351]:
+                      - link "Create your own fashion week runway content with Canva" [ref=e352] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20fashion%20week%20runway%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                        - img "Create your own fashion week runway content with Canva" [ref=e353]
+                      - link "Create your own fashion week runway content with Canva" [ref=e354] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20fashion%20week%20runway%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                        - img "Create your own fashion week runway content with Canva" [ref=e355]
+                      - link "Create your own fashion week runway content with Canva" [ref=e356] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20fashion%20week%20runway%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                        - img "Create your own fashion week runway content with Canva" [ref=e357]
+                      - link "Create your own fashion week runway content with Canva" [ref=e358] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20fashion%20week%20runway%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                        - img "Create your own fashion week runway content with Canva" [ref=e359]
+                    - link "Bring your ideas to life with Canva AI" [ref=e360] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20fashion%20week%20runway%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - img [ref=e361]
+                      - paragraph [ref=e363]: Bring your ideas to life with Canva AI
+                    - link "Get started for free" [ref=e364] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20fashion%20week%20runway%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - generic [ref=e366]: Get started for free
+                  - article [ref=e369]:
+                    - link "Free Striking couture design showcased by model during fashion show in New Delhi. Stock Photo" [ref=e370] [cursor=pointer]:
+                      - /url: /photo/woman-in-gray-tube-top-and-long-skirt-13057775/
+                      - img "Free Striking couture design showcased by model during fashion show in New Delhi. Stock Photo" [ref=e371]
+                  - article [ref=e376]:
+                    - link "Free A man models a bold black and white ensemble at a fashion show in New Delhi, India. Stock Photo" [ref=e377] [cursor=pointer]:
+                      - /url: /photo/man-in-white-and-black-cape-and-black-pants-13057843/
+                      - img "Free A man models a bold black and white ensemble at a fashion show in New Delhi, India. Stock Photo" [ref=e378]
+                  - article [ref=e383]:
+                    - link "Free Exciting fashion show event with dazzling lights and a captivated audience. Stock Photo" [ref=e384] [cursor=pointer]:
+                      - /url: /photo/vibrant-fashion-show-runway-with-dramatic-lighting-28587831/
+                      - img "Free Exciting fashion show event with dazzling lights and a captivated audience. Stock Photo" [ref=e385]
+                  - article [ref=e390]:
+                    - link "Free Stunning fashion model walks the runway in an elegant fur coat and mask at a fashion show. Stock Photo" [ref=e391] [cursor=pointer]:
+                      - /url: /photo/woman-in-gray-coat-standing-on-stage-2920143/
+                      - img "Free Stunning fashion model walks the runway in an elegant fur coat and mask at a fashion show. Stock Photo" [ref=e392]
+                  - article [ref=e397]:
+                    - link "Free Model walking on runway in striped evening gown, New Delhi. Stock Photo" [ref=e398] [cursor=pointer]:
+                      - /url: /photo/fashion-model-in-elegant-blue-stripes-long-dress-walking-on-stage-13057624/
+                      - img "Free Model walking on runway in striped evening gown, New Delhi. Stock Photo" [ref=e399]
+                  - article [ref=e404]:
+                    - link "Free Fashion model wearing a chic gown on the runway during a couture fashion show in New Delhi. Stock Photo" [ref=e405] [cursor=pointer]:
+                      - /url: /photo/woman-in-black-and-pink-dress-13057776/
+                      - img "Free Fashion model wearing a chic gown on the runway during a couture fashion show in New Delhi. Stock Photo" [ref=e406]
+                - generic [ref=e409]:
+                  - article [ref=e412]:
+                    - link "Free Model showcases a stunning futuristic gown at a fashion show in New Delhi. Stock Photo" [ref=e413] [cursor=pointer]:
+                      - /url: /photo/woman-in-black-yellow-and-white-dress-13057827/
+                      - img "Free Model showcases a stunning futuristic gown at a fashion show in New Delhi. Stock Photo" [ref=e414]
+                  - article [ref=e419]:
+                    - link "Free Striking pink gown showcased by model on New Delhi runway during fashion week. Stock Photo" [ref=e420] [cursor=pointer]:
+                      - /url: /photo/woman-in-pink-dress-13057760/
+                      - img "Free Striking pink gown showcased by model on New Delhi runway during fashion week. Stock Photo" [ref=e421]
+                  - article [ref=e426]:
+                    - link "Free Model showcasing a stunning red gown on the runway during a fashion event in New Delhi. Stock Photo" [ref=e427] [cursor=pointer]:
+                      - /url: /photo/woman-in-red-dress-13057773/
+                      - img "Free Model showcasing a stunning red gown on the runway during a fashion event in New Delhi. Stock Photo" [ref=e428]
+                  - article [ref=e433]:
+                    - link "Free Striking fashion model in avant-garde dress captured during a runway show in New Delhi. Stock Photo" [ref=e434] [cursor=pointer]:
+                      - /url: /photo/fdci-couture-week-2022-13057815/
+                      - img "Free Striking fashion model in avant-garde dress captured during a runway show in New Delhi. Stock Photo" [ref=e435]
+                  - article [ref=e440]:
+                    - link "Free Model showcasing an elegant blue couture gown at a fashion show runway in New Delhi. Stock Photo" [ref=e441] [cursor=pointer]:
+                      - /url: /photo/woman-in-blue-and-white-stripe-dress-13057626/
+                      - img "Free Model showcasing an elegant blue couture gown at a fashion show runway in New Delhi. Stock Photo" [ref=e442]
+                  - article [ref=e447]:
+                    - link "Free Models showcase vibrant African fashion in a Nigerian runway event. Stock Photo" [ref=e448] [cursor=pointer]:
+                      - /url: /photo/vibrant-nigerian-fashion-show-display-29625823/
+                      - img "Free Models showcase vibrant African fashion in a Nigerian runway event. Stock Photo" [ref=e449]
+              - button "Load More" [ref=e453] [cursor=pointer]:
+                - generic [ref=e455]: Load More
+            - navigation [ref=e456]:
+              - generic [ref=e458]:
+                - link "Previous" [ref=e460]:
+                  - /url: /search/fashion%20week%20runway/#
+                  - generic [ref=e462]: Previous
+                - link "1" [ref=e463]:
+                  - /url: /search/fashion%20week%20runway/
+                  - generic [ref=e465]: "1"
+                - link "2" [ref=e466] [cursor=pointer]:
+                  - /url: /search/fashion%20week%20runway/?page=2
+                  - generic [ref=e468]: "2"
+                - link "3" [ref=e469] [cursor=pointer]:
+                  - /url: /search/fashion%20week%20runway/?page=3
+                  - generic [ref=e471]: "3"
+                - link "4" [ref=e472] [cursor=pointer]:
+                  - /url: /search/fashion%20week%20runway/?page=4
+                  - generic [ref=e474]: "4"
+                - link "5" [ref=e475] [cursor=pointer]:
+                  - /url: /search/fashion%20week%20runway/?page=5
+                  - generic [ref=e477]: "5"
+                - link "6" [ref=e478] [cursor=pointer]:
+                  - /url: /search/fashion%20week%20runway/?page=6
+                  - generic [ref=e480]: "6"
+                - link "Next" [ref=e481] [cursor=pointer]:
+                  - /url: /search/fashion%20week%20runway/?page=2
+                  - generic [ref=e483]: Next
+    - contentinfo [ref=e485]:
+      - separator [ref=e486]
+      - generic [ref=e487]:
+        - generic [ref=e488]:
+          - heading "Where stories come together." [level=2] [ref=e489]
+          - generic [ref=e490]:
+            - link "Download on iOS" [ref=e491] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+              - generic [ref=e493]: Download on iOS
+            - link "Download on Android" [ref=e494] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+              - generic [ref=e496]: Download on Android
+          - list [ref=e497]:
+            - listitem [ref=e498]:
+              - link "Instagram" [ref=e499] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+                - img [ref=e500]
+            - listitem [ref=e502]:
+              - link "Threads" [ref=e503] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+                - img [ref=e504]
+            - listitem [ref=e506]:
+              - link "YouTube" [ref=e507] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+                - img [ref=e508]
+            - listitem [ref=e510]:
+              - link "TikTok" [ref=e511] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+                - img [ref=e512]
+            - listitem [ref=e514]:
+              - link "LinkedIn" [ref=e515] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+                - img [ref=e516]
+            - listitem [ref=e518]:
+              - link "X" [ref=e519] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+                - img [ref=e520]
+        - generic [ref=e522]:
+          - list [ref=e523]:
+            - heading "Pexels" [level=3] [ref=e524]
+            - listitem [ref=e525]:
+              - link "Free Stock Photos" [ref=e526] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e527]:
+              - link "Free Videos" [ref=e528] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=e529]:
+              - link "Popular searches" [ref=e530] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=e531]:
+              - link "Collections" [ref=e532] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=e533]:
+              - link "Challenges" [ref=e534] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=e535]:
+              - link "Leaderboard" [ref=e536] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=e537]:
+              - link "Other plugins & apps" [ref=e538] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=e539]:
+            - heading "Company" [level=3] [ref=e540]
+            - listitem [ref=e541]:
+              - link "About" [ref=e542] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=e543]:
+              - link "Blog" [ref=e544] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=e545]:
+              - link "Help Center" [ref=e546] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us/
+            - listitem [ref=e547]:
+              - link "Report content" [ref=e548] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=e549]:
+              - link "Become a Hero" [ref=e550] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=e551]:
+              - link "Partner with Pexels" [ref=e552] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=e553]:
+              - link "Image & Video API" [ref=e554] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=e555]: Sign Up
+        - list [ref=e556]:
+          - listitem [ref=e557]:
+            - heading "Free Stock Photos" [level=3] [ref=e558]
+          - listitem [ref=e559]:
+            - generic [ref=e561]:
+              - link "Black and white photography" [ref=e563] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Happy birthday images" [ref=e564] [cursor=pointer]:
+                - /url: /search/happy%20birthday/
+              - link "Free business videos" [ref=e565] [cursor=pointer]:
+                - /url: /search/videos/business/
+              - link "Happy new year images" [ref=e566] [cursor=pointer]:
+                - /url: /search/happy%20new%20year/
+              - link "Cool wallpapers" [ref=e567] [cursor=pointer]:
+                - /url: /search/cool%20wallpaper/
+              - link "Best HD wallpapers" [ref=e568] [cursor=pointer]:
+                - /url: /search/HD%20wallpaper/
+              - link "Galaxy wallpaper" [ref=e569] [cursor=pointer]:
+                - /url: /search/galaxy%20wallpaper/
+              - link "Lock screen wallpaper" [ref=e570] [cursor=pointer]:
+                - /url: /search/lock%20screen%20wallpaper/
+              - link "iPhone wallpaper" [ref=e571] [cursor=pointer]:
+                - /url: /search/iphone%20wallpaper/
+              - link "4K wallpaper" [ref=e572] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Samsung wallpaper" [ref=e573] [cursor=pointer]:
+                - /url: /search/samsung%20wallpaper/
+              - link "Love wallpaper" [ref=e574] [cursor=pointer]:
+                - /url: /search/love%20wallpaper/
+              - link "Mobile wallpaper" [ref=e575] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+      - generic [ref=e577]:
+        - generic [ref=e578]: © 2026 Pexels
+        - generic [ref=e580]:
+          - generic:
+            - img
+          - link "Terms of Use" [ref=e582] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=e583] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=e584] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=e585] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=e586] [cursor=pointer]:
+            - /url: /cookies/
+          - generic:
+            - img
+        - button "English" [ref=e589] [cursor=pointer]:
+          - generic [ref=e590]:
+            - img [ref=e591]
+            - generic [ref=e593]: English
+      - separator [ref=e594]
+  - alert [ref=e595]
+  - region "Cookie banner" [ref=e596]:
+    - alertdialog "Confidentialité" [ref=e597]:
+      - generic [ref=e599]:
+        - paragraph [ref=e602]: En cliquant sur « Accepter tous les cookies », vous acceptez le stockage de cookies sur votre appareil pour améliorer la navigation sur le site, analyser son utilisation et contribuer à nos efforts de marketing.
+        - generic [ref=e604]:
+          - button "Paramètres des cookies" [active] [ref=e605] [cursor=pointer]
+          - button "Tout refuser" [ref=e606] [cursor=pointer]
+          - button "Autoriser tous les cookies" [ref=e607] [cursor=pointer]
+  - status [ref=e608]: "[object Object] has been selected."

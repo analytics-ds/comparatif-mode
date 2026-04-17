@@ -1,0 +1,35 @@
+# Comparatif mode
+
+> Comparatifs de mode homme et femme, guides d'achat et actualites tendance. Blog independant pour choisir sans se tromper parmi les meilleures marques et produits du marche.
+
+## A propos
+
+Comparatif mode est un blog independant edite en France, dedie aux comparatifs produits, guides d'achat et actualites mode. Le site couvre la mode homme et la mode femme avec une approche factuelle et transparente. Aucun article n'est sponsorise, aucune remuneration n'est percue des marques mentionnees. Disponible en francais et en anglais.
+
+## Contenu principal
+
+- Comparatifs : analyses comparatives de produits concurrents (jeans, manteaux, sneakers, sacs, etc.) avec tableaux recapitulatifs prix / coupe / matiere
+- Guides d'achat : criteres de choix, matieres, durabilite, budget (bottes en cuir, sacs de vie active, etc.)
+- Actualites : defiles, Fashion Week, tendances saisonnieres, changements de direction artistique
+- Mode femme : basiques intemporels, morphologies, coupes, marques de reference
+- Mode homme : tailoring, costume, sneakers, denim, workwear
+
+## Positionnement editorial
+
+- Independance : aucune remuneration de marques
+- Factualite : analyses basees sur coupes, matieres, provenance, prix
+- Utilite : guides orientes choix concret, sans promesse marketing
+- Durabilite : favorise les pieces intemporelles et les marques qualitatives
+
+## Langues disponibles
+
+- Francais (par defaut, a la racine : comparatif-mode.fr)
+- Anglais (en sous-dossier : comparatif-mode.fr/en/)
+
+## Informations techniques
+
+- Generateur : Hugo
+- Hebergement : GitHub Pages
+- Sitemap : https://comparatif-mode.fr/sitemap.xml
+- RSS : https://comparatif-mode.fr/index.xml
+- Contact editorial : contact@comparatif-mode.fr

@@ -1,0 +1,484 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - heading "Choose your language:" [level=5] [ref=e5]
+      - generic [ref=e7]:
+        - link "English English" [ref=e9] [cursor=pointer]:
+          - /url: /photo/man-in-tshirt-and-jacket-15869823/
+          - generic [ref=e10]:
+            - img "English" [ref=e11]
+            - generic [ref=e12]: English
+        - link "Français Français" [ref=e13] [cursor=pointer]:
+          - /url: /fr-fr/photo/mode-homme-lunettes-de-soleil-veste-15869823/
+          - generic [ref=e14]:
+            - img "Français" [ref=e15]
+            - generic [ref=e16]: Français
+        - button [ref=e17] [cursor=pointer]:
+          - img [ref=e19]
+    - navigation [ref=e24]:
+      - link [ref=e26] [cursor=pointer]:
+        - /url: /
+        - img [ref=e27]
+      - search [ref=e31]:
+        - generic [ref=e32]:
+          - button "Photos" [ref=e34] [cursor=pointer]:
+            - generic [ref=e35]:
+              - img [ref=e36]
+              - generic [ref=e39]: Photos
+              - img [ref=e40]
+          - searchbox "Search for free photos" [ref=e42]
+          - button [ref=e44] [cursor=pointer]:
+            - img [ref=e46]
+      - generic [ref=e48]:
+        - generic [ref=e49]:
+          - link "Explore" [ref=e50] [cursor=pointer]:
+            - /url: /discover/
+            - generic [ref=e51]: Explore
+          - img [ref=e52]
+        - link "License" [ref=e54] [cursor=pointer]:
+          - /url: /license/
+          - generic [ref=e55]: License
+        - button [ref=e57] [cursor=pointer]:
+          - img [ref=e58]
+        - button "Join" [ref=e60] [cursor=pointer]:
+          - generic [ref=e62]: Join
+    - main [ref=e63]:
+      - separator [ref=e64]
+      - generic [ref=e65]:
+        - main [ref=e66]:
+          - separator [ref=e67]
+          - generic [ref=e68]:
+            - generic [ref=e69]:
+              - link "Abhinav Kumar Sharma" [ref=e70] [cursor=pointer]:
+                - /url: /@abhinavkumarsharma/
+                - img "Abhinav Kumar Sharma" [ref=e74]
+              - generic [ref=e75]:
+                - link "Abhinav Kumar Sharma" [ref=e76] [cursor=pointer]:
+                  - /url: /@abhinavkumarsharma/
+                  - heading "Abhinav Kumar Sharma" [level=5] [ref=e77]
+                - button "Follow" [ref=e80] [cursor=pointer]
+            - generic [ref=e81]:
+              - generic [ref=e82]:
+                - link "Remove Background" [ref=e83] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dremove_background&external-id=15869823&image-url=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F15869823%2Fpexels-photo-15869823.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26w%3D4082%26fit%3Dmax&onboarding-flow=background-remover
+                  - generic [ref=e84]:
+                    - img [ref=e85]
+                    - generic [ref=e87]: Remove Background
+                - link "Edit" [ref=e90] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva&external-id=15869823&image-url=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F15869823%2Fpexels-photo-15869823.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26w%3D4082%26fit%3Dmax&onboarding-flow=image-editor-panel
+                  - generic [ref=e91]:
+                    - img [ref=e92]
+                    - generic [ref=e94]: Edit
+                    - img [ref=e95]
+              - generic [ref=e97]:
+                - button [ref=e98] [cursor=pointer]:
+                  - img [ref=e100]
+                - button "1" [ref=e102] [cursor=pointer]:
+                  - generic [ref=e103]:
+                    - img [ref=e104]
+                    - generic [ref=e106]: "1"
+                - generic [ref=e107]:
+                  - link "Free download" [ref=e108] [cursor=pointer]:
+                    - /url: https://images.pexels.com/photos/15869823/pexels-photo-15869823.jpeg?cs=srgb&dl=pexels-abhinavkumarsharma-15869823.jpg&fm=jpg
+                    - generic [ref=e110]: Free download
+                  - button [ref=e112] [cursor=pointer]:
+                    - img [ref=e114]
+          - separator [ref=e117]
+        - generic [ref=e118]:
+          - generic [ref=e119]:
+            - link [ref=e120]:
+              - /url: https://images.pexels.com/photos/15869823/pexels-photo-15869823.jpeg?cs=srgb&dl=pexels-abhinavkumarsharma-15869823.jpg&fm=jpg
+            - img "Free Stylish man wearing a leather jacket, yellow t-shirt, and jeans outdoors. Stock Photo" [ref=e123]
+          - generic [ref=e124]:
+            - generic [ref=e125]:
+              - link "Free to use" [ref=e126] [cursor=pointer]:
+                - /url: /license/
+                - paragraph [ref=e127]:
+                  - img [ref=e128]
+                  - text: Free to use
+              - heading "Man in Tshirt and Jacket" [level=1] [ref=e130]:
+                - img [ref=e131]
+                - text: Man in Tshirt and Jacket
+            - generic [ref=e134]:
+              - button "More info" [ref=e136] [cursor=pointer]:
+                - generic [ref=e137]:
+                  - img [ref=e138]
+                  - generic [ref=e140]: More info
+              - button "Share" [ref=e141] [cursor=pointer]:
+                - generic [ref=e142]:
+                  - img [ref=e143]
+                  - generic [ref=e145]: Share
+              - link [ref=e146] [cursor=pointer]:
+                - /url: /report/?slug=man-in-tshirt-and-jacket-15869823
+                - img [ref=e148]
+          - heading "More like this" [level=3] [ref=e151]
+          - generic [ref=e153]:
+            - generic:
+              - img
+            - link "Accessories" [ref=e155] [cursor=pointer]:
+              - /url: /search/accessories/
+              - generic [ref=e157]: Accessories
+            - link "Blue Jeans" [ref=e158] [cursor=pointer]:
+              - /url: /search/blue%20jeans/
+              - generic [ref=e160]: Blue Jeans
+            - link "Brown Boots" [ref=e161] [cursor=pointer]:
+              - /url: /search/brown%20boots/
+              - generic [ref=e163]: Brown Boots
+            - link "Casual Outfit" [ref=e164] [cursor=pointer]:
+              - /url: /search/casual%20outfit/
+              - generic [ref=e166]: Casual Outfit
+            - link "Confidence" [ref=e167] [cursor=pointer]:
+              - /url: /search/confidence/
+              - generic [ref=e169]: Confidence
+            - link "Cool Style" [ref=e170] [cursor=pointer]:
+              - /url: /search/cool%20style/
+              - generic [ref=e172]: Cool Style
+            - link "Denim" [ref=e173] [cursor=pointer]:
+              - /url: /search/denim/
+              - generic [ref=e175]: Denim
+            - link "Fashion" [ref=e176] [cursor=pointer]:
+              - /url: /search/fashion/
+              - generic [ref=e178]: Fashion
+            - link "Fashion Photography" [ref=e179] [cursor=pointer]:
+              - /url: /search/fashion%20photography/
+              - generic [ref=e181]: Fashion Photography
+            - link "Fashion Shoot" [ref=e182] [cursor=pointer]:
+              - /url: /search/fashion%20shoot/
+              - generic [ref=e184]: Fashion Shoot
+            - link "Fashion Trend" [ref=e185] [cursor=pointer]:
+              - /url: /search/fashion%20trend/
+              - generic [ref=e187]: Fashion Trend
+            - link "Fashionable" [ref=e188] [cursor=pointer]:
+              - /url: /search/fashionable/
+              - generic [ref=e190]: Fashionable
+            - link "Fashionable Man" [ref=e191] [cursor=pointer]:
+              - /url: /search/fashionable%20man/
+              - generic [ref=e193]: Fashionable Man
+            - link "Hands In Pockets" [ref=e194] [cursor=pointer]:
+              - /url: /search/hands%20in%20pockets/
+              - generic [ref=e196]: Hands In Pockets
+            - link "Jacket" [ref=e197] [cursor=pointer]:
+              - /url: /search/jacket/
+              - generic [ref=e199]: Jacket
+            - link "Jeans" [ref=e200] [cursor=pointer]:
+              - /url: /search/jeans/
+              - generic [ref=e202]: Jeans
+            - link "Jeans Fashion" [ref=e203] [cursor=pointer]:
+              - /url: /search/jeans%20fashion/
+              - generic [ref=e205]: Jeans Fashion
+            - link "Leather Jacket" [ref=e206] [cursor=pointer]:
+              - /url: /search/leather%20jacket/
+              - generic [ref=e208]: Leather Jacket
+            - link "Male Model" [ref=e209] [cursor=pointer]:
+              - /url: /search/male%20model/
+              - generic [ref=e211]: Male Model
+            - link "Man" [ref=e212] [cursor=pointer]:
+              - /url: /search/man/
+              - generic [ref=e214]: Man
+            - link "Men Style" [ref=e215] [cursor=pointer]:
+              - /url: /search/men%20style/
+              - generic [ref=e217]: Men Style
+            - link "Men's Fashion" [ref=e218] [cursor=pointer]:
+              - /url: /search/men's%20fashion/
+              - generic [ref=e220]: Men's Fashion
+            - link "Men's Style" [ref=e221] [cursor=pointer]:
+              - /url: /search/men's%20style/
+              - generic [ref=e223]: Men's Style
+            - link "Mens Fashion" [ref=e224] [cursor=pointer]:
+              - /url: /search/mens%20fashion/
+              - generic [ref=e226]: Mens Fashion
+            - link "Menswear" [ref=e227] [cursor=pointer]:
+              - /url: /search/menswear/
+              - generic [ref=e229]: Menswear
+            - link "Modern Style" [ref=e230] [cursor=pointer]:
+              - /url: /search/modern%20style/
+              - generic [ref=e232]: Modern Style
+            - link "Nature" [ref=e233] [cursor=pointer]:
+              - /url: /search/nature/
+              - generic [ref=e235]: Nature
+            - link "Nature Background" [ref=e236] [cursor=pointer]:
+              - /url: /search/nature%20background/
+              - generic [ref=e238]: Nature Background
+            - link "Necklace" [ref=e239] [cursor=pointer]:
+              - /url: /search/necklace/
+              - generic [ref=e241]: Necklace
+            - link "Outdoor Fashion" [ref=e242] [cursor=pointer]:
+              - /url: /search/outdoor%20fashion/
+              - generic [ref=e244]: Outdoor Fashion
+            - link "Outdoors" [ref=e245] [cursor=pointer]:
+              - /url: /search/outdoors/
+              - generic [ref=e247]: Outdoors
+            - link "Outerwear" [ref=e248] [cursor=pointer]:
+              - /url: /search/outerwear/
+              - generic [ref=e250]: Outerwear
+            - link "Outfit" [ref=e251] [cursor=pointer]:
+              - /url: /search/outfit/
+              - generic [ref=e253]: Outfit
+            - link "Posing" [ref=e254] [cursor=pointer]:
+              - /url: /search/posing/
+              - generic [ref=e256]: Posing
+            - link "Posing Outdoors" [ref=e257] [cursor=pointer]:
+              - /url: /search/posing%20outdoors/
+              - generic [ref=e259]: Posing Outdoors
+            - link "Rocky Terrain" [ref=e260] [cursor=pointer]:
+              - /url: /search/rocky%20terrain/
+              - generic [ref=e262]: Rocky Terrain
+            - link "Scenic" [ref=e263] [cursor=pointer]:
+              - /url: /search/scenic/
+              - generic [ref=e265]: Scenic
+            - link "Style" [ref=e266] [cursor=pointer]:
+              - /url: /search/style/
+              - generic [ref=e268]: Style
+            - link "Stylish Photos" [ref=e269] [cursor=pointer]:
+              - /url: /search/stylish/
+              - generic [ref=e271]: Stylish Photos
+            - link "Sunglasses" [ref=e272] [cursor=pointer]:
+              - /url: /search/sunglasses/
+              - generic [ref=e274]: Sunglasses
+            - link "Sunny Day" [ref=e275] [cursor=pointer]:
+              - /url: /search/sunny%20day/
+              - generic [ref=e277]: Sunny Day
+            - link "T Shirt" [ref=e278] [cursor=pointer]:
+              - /url: /search/t-shirt/
+              - generic [ref=e280]: T Shirt
+            - link "Trendsetter" [ref=e281] [cursor=pointer]:
+              - /url: /search/trendsetter/
+              - generic [ref=e283]: Trendsetter
+            - link "Urban Fashion" [ref=e284] [cursor=pointer]:
+              - /url: /search/urban%20fashion/
+              - generic [ref=e286]: Urban Fashion
+            - link "Urban Style" [ref=e287] [cursor=pointer]:
+              - /url: /search/urban%20style/
+              - generic [ref=e289]: Urban Style
+            - link "Yellow T Shirt" [ref=e290] [cursor=pointer]:
+              - /url: /search/Yellow%20t-shirt/
+              - generic [ref=e292]: Yellow T Shirt
+            - link "Young Adult" [ref=e293] [cursor=pointer]:
+              - /url: /search/young%20adult/
+              - generic [ref=e295]: Young Adult
+            - img [ref=e296] [cursor=pointer]
+          - generic [ref=e299]:
+            - generic [ref=e301]:
+              - generic [ref=e302]:
+                - article [ref=e305]:
+                  - link "Free Confident man in casual fashion poses on rocky terrain with trees in the background, wearing sunglasses. Stock Photo" [ref=e306] [cursor=pointer]:
+                    - /url: /photo/stylish-man-in-sunglasses-standing-on-rock-in-nature-15813837/
+                    - img "Free Confident man in casual fashion poses on rocky terrain with trees in the background, wearing sunglasses. Stock Photo" [ref=e307]
+                - article [ref=e312]:
+                  - link "Free Young man in a leather jacket and sunglasses sitting outdoors on rocks, exuding a cool and stylish vibe. Stock Photo" [ref=e313] [cursor=pointer]:
+                    - /url: /photo/young-man-in-a-leather-jacket-and-sunglasses-sitting-on-a-rock-15813928/
+                    - img "Free Young man in a leather jacket and sunglasses sitting outdoors on rocks, exuding a cool and stylish vibe. Stock Photo" [ref=e314]
+                - article [ref=e319]:
+                  - link "Free A fashionable young man in casual wear walks confidently down a city street with sunglasses on. Stock Photo" [ref=e320] [cursor=pointer]:
+                    - /url: /photo/stylish-man-in-sunglasses-walking-on-street-15813959/
+                    - img "Free A fashionable young man in casual wear walks confidently down a city street with sunglasses on. Stock Photo" [ref=e321]
+              - generic [ref=e324]:
+                - article [ref=e327]:
+                  - link "Free Stylish man wearing sunglasses and leather jacket sitting on a rock. Stock Photo" [ref=e328] [cursor=pointer]:
+                    - /url: /photo/man-in-leather-jacket-and-jeans-15869820/
+                    - img "Free Stylish man wearing sunglasses and leather jacket sitting on a rock. Stock Photo" [ref=e329]
+                - article [ref=e334]:
+                  - link "Free Man sitting on rocks wearing a leather jacket, jeans, sunglasses, and brown boots during the day. Stock Photo" [ref=e335] [cursor=pointer]:
+                    - /url: /photo/model-posing-in-jacket-and-jeans-15869819/
+                    - img "Free Man sitting on rocks wearing a leather jacket, jeans, sunglasses, and brown boots during the day. Stock Photo" [ref=e336]
+                - article [ref=e341]:
+                  - link "Free Confident young man in leather jacket leaning on a tractor, exuding style and elegance outdoors. Stock Photo" [ref=e342] [cursor=pointer]:
+                    - /url: /photo/stylish-man-sitting-near-tractor-in-countryside-15813967/
+                    - img "Free Confident young man in leather jacket leaning on a tractor, exuding style and elegance outdoors. Stock Photo" [ref=e343]
+              - generic [ref=e346]:
+                - generic [ref=e348]:
+                  - generic [ref=e350]:
+                    - link "Create your own image content with Canva" [ref=e351] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20apparel%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - img "Create your own image content with Canva" [ref=e352]
+                    - link "Create your own image content with Canva" [ref=e353] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20apparel%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - img "Create your own image content with Canva" [ref=e354]
+                    - link "Create your own image content with Canva" [ref=e355] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20apparel%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - img "Create your own image content with Canva" [ref=e356]
+                    - link "Create your own image content with Canva" [ref=e357] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20apparel%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - img "Create your own image content with Canva" [ref=e358]
+                  - link "Bring your ideas to life with Canva AI" [ref=e359] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20apparel%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - img [ref=e360]
+                    - paragraph [ref=e362]: Bring your ideas to life with Canva AI
+                  - link "Get started for free" [ref=e363] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-image-generator/?prompt=High%20quality%20stock%20photo%20of%20apparel%2C%20professional%20lighting%2C%20sharp%20focus%2C%20natural%20colors%2C%20realistic%20detail%2C%20modern%20composition%2C%20commercial%20use%20standard%2C%20editorial%20style%2C%20ultra%20HD%2C%20clean%20background&utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - generic [ref=e365]: Get started for free
+                - article [ref=e368]:
+                  - link "Free Stylish man wearing sunglasses and leather jacket squatting on a sunny day in an urban setting. Stock Photo" [ref=e369] [cursor=pointer]:
+                    - /url: /photo/young-man-in-sunglasses-posing-on-city-street-15813838/
+                    - img "Free Stylish man wearing sunglasses and leather jacket squatting on a sunny day in an urban setting. Stock Photo" [ref=e370]
+                - article [ref=e375]:
+                  - link "Free Stylish man in sunglasses taking a selfie with a smartphone while wearing a leather jacket outdoors. Stock Photo" [ref=e376] [cursor=pointer]:
+                    - /url: /photo/man-in-sunglasses-taking-selfie-15869822/
+                    - img "Free Stylish man in sunglasses taking a selfie with a smartphone while wearing a leather jacket outdoors. Stock Photo" [ref=e377]
+                - article [ref=e382]:
+                  - link "Free Fashionable man wearing a leather jacket and sunglasses, standing confidently in an open field. Stock Photo" [ref=e383] [cursor=pointer]:
+                    - /url: /photo/model-wearing-sunglasses-to-leather-jacket-15869789/
+                    - img "Free Fashionable man wearing a leather jacket and sunglasses, standing confidently in an open field. Stock Photo" [ref=e384]
+              - generic [ref=e387]:
+                - article [ref=e390]:
+                  - link "Free Fashionable young man in leather jacket and jeans posing outdoors on a sunny day. Stock Photo" [ref=e391] [cursor=pointer]:
+                    - /url: /photo/model-posing-in-leather-jacket-and-jeans-15869825/
+                    - img "Free Fashionable young man in leather jacket and jeans posing outdoors on a sunny day. Stock Photo" [ref=e392]
+                - article [ref=e397]:
+                  - link "Free Man in a leather jacket poses on a tire against a brick wall, embodying urban cool. Stock Photo" [ref=e398] [cursor=pointer]:
+                    - /url: /photo/man-in-leather-jacket-sitting-on-car-tire-15869853/
+                    - img "Free Man in a leather jacket poses on a tire against a brick wall, embodying urban cool. Stock Photo" [ref=e399]
+                - article [ref=e404]:
+                  - link "Free Young man in leather jacket and sunglasses posing outdoors on a sunny day. Stock Photo" [ref=e405] [cursor=pointer]:
+                    - /url: /photo/man-in-sunglasses-and-leather-jacket-15869792/
+                    - img "Free Young man in leather jacket and sunglasses posing outdoors on a sunny day. Stock Photo" [ref=e406]
+            - button "Load More" [ref=e410] [cursor=pointer]:
+              - generic [ref=e412]: Load More
+      - separator [ref=e413]
+    - contentinfo [ref=e414]:
+      - separator [ref=e415]
+      - generic [ref=e416]:
+        - generic [ref=e417]:
+          - heading "Where stories come together." [level=2] [ref=e418]
+          - generic [ref=e419]:
+            - link "Download on iOS" [ref=e420] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+              - generic [ref=e422]: Download on iOS
+            - link "Download on Android" [ref=e423] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+              - generic [ref=e425]: Download on Android
+          - list [ref=e426]:
+            - listitem [ref=e427]:
+              - link "Instagram" [ref=e428] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+                - img [ref=e429]
+            - listitem [ref=e431]:
+              - link "Threads" [ref=e432] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+                - img [ref=e433]
+            - listitem [ref=e435]:
+              - link "YouTube" [ref=e436] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+                - img [ref=e437]
+            - listitem [ref=e439]:
+              - link "TikTok" [ref=e440] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+                - img [ref=e441]
+            - listitem [ref=e443]:
+              - link "LinkedIn" [ref=e444] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+                - img [ref=e445]
+            - listitem [ref=e447]:
+              - link "X" [ref=e448] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+                - img [ref=e449]
+        - generic [ref=e451]:
+          - list [ref=e452]:
+            - heading "Pexels" [level=3] [ref=e453]
+            - listitem [ref=e454]:
+              - link "Free Stock Photos" [ref=e455] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e456]:
+              - link "Free Videos" [ref=e457] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=e458]:
+              - link "Popular searches" [ref=e459] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=e460]:
+              - link "Collections" [ref=e461] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=e462]:
+              - link "Challenges" [ref=e463] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=e464]:
+              - link "Leaderboard" [ref=e465] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=e466]:
+              - link "Other plugins & apps" [ref=e467] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=e468]:
+            - heading "Company" [level=3] [ref=e469]
+            - listitem [ref=e470]:
+              - link "About" [ref=e471] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=e472]:
+              - link "Blog" [ref=e473] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=e474]:
+              - link "Help Center" [ref=e475] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us/
+            - listitem [ref=e476]:
+              - link "Report content" [ref=e477] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=e478]:
+              - link "Become a Hero" [ref=e479] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=e480]:
+              - link "Partner with Pexels" [ref=e481] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=e482]:
+              - link "Image & Video API" [ref=e483] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=e484]: Sign Up
+        - list [ref=e485]:
+          - listitem [ref=e486]:
+            - heading "Free Stock Photos" [level=3] [ref=e487]
+          - listitem [ref=e488]:
+            - generic [ref=e490]:
+              - link "Black and white photography" [ref=e492] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Happy birthday images" [ref=e493] [cursor=pointer]:
+                - /url: /search/happy%20birthday/
+              - link "Free business videos" [ref=e494] [cursor=pointer]:
+                - /url: /search/videos/business/
+              - link "Happy new year images" [ref=e495] [cursor=pointer]:
+                - /url: /search/happy%20new%20year/
+              - link "Cool wallpapers" [ref=e496] [cursor=pointer]:
+                - /url: /search/cool%20wallpaper/
+              - link "Best HD wallpapers" [ref=e497] [cursor=pointer]:
+                - /url: /search/HD%20wallpaper/
+              - link "Galaxy wallpaper" [ref=e498] [cursor=pointer]:
+                - /url: /search/galaxy%20wallpaper/
+              - link "Lock screen wallpaper" [ref=e499] [cursor=pointer]:
+                - /url: /search/lock%20screen%20wallpaper/
+              - link "iPhone wallpaper" [ref=e500] [cursor=pointer]:
+                - /url: /search/iphone%20wallpaper/
+              - link "4K wallpaper" [ref=e501] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Samsung wallpaper" [ref=e502] [cursor=pointer]:
+                - /url: /search/samsung%20wallpaper/
+              - link "Love wallpaper" [ref=e503] [cursor=pointer]:
+                - /url: /search/love%20wallpaper/
+              - link "Mobile wallpaper" [ref=e504] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+      - generic [ref=e506]:
+        - generic [ref=e507]: © 2026 Pexels
+        - generic [ref=e509]:
+          - generic:
+            - img
+          - link "Terms of Use" [ref=e511] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=e512] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=e513] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=e514] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=e515] [cursor=pointer]:
+            - /url: /cookies/
+          - generic:
+            - img
+        - button "English" [ref=e518] [cursor=pointer]:
+          - generic [ref=e519]:
+            - img [ref=e520]
+            - generic [ref=e522]: English
+      - separator [ref=e523]
+  - alert [ref=e524]
+  - region "Cookie banner" [ref=e525]:
+    - alertdialog "Confidentialité" [ref=e526]:
+      - generic [ref=e528]:
+        - paragraph [ref=e531]: En cliquant sur « Accepter tous les cookies », vous acceptez le stockage de cookies sur votre appareil pour améliorer la navigation sur le site, analyser son utilisation et contribuer à nos efforts de marketing.
+        - generic [ref=e533]:
+          - button "Paramètres des cookies" [active] [ref=e534] [cursor=pointer]
+          - button "Tout refuser" [ref=e535] [cursor=pointer]
+          - button "Autoriser tous les cookies" [ref=e536] [cursor=pointer]

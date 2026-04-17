@@ -1,0 +1,35 @@
+{{ $isEn := eq .Site.Language.Lang "en" }}
+<footer class="site-footer">
+    <div class="footer-container">
+        <div class="footer-grid">
+            <div class="footer-col footer-col-brand">
+                <h4>{{ .Site.Title }}</h4>
+                <p>{{ .Site.Params.description }}</p>
+            </div>
+            <div class="footer-col">
+                <h4>{{ if $isEn }}Browse{{ else }}Explorer{{ end }}</h4>
+                <ul>
+                    {{ range .Site.Taxonomies.categories }}
+                    <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+                    {{ end }}
+                    <li><a href="{{ if $isEn }}/en/blog/{{ else }}/blog/{{ end }}">{{ if $isEn }}The Blog{{ else }}Le Blog{{ end }}</a></li>
+                    <li><a href="{{ if $isEn }}/en/site-map/{{ else }}/plan-du-site/{{ end }}">{{ if $isEn }}Site map{{ else }}Plan du site{{ end }}</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>{{ if $isEn }}Information{{ else }}Informations{{ end }}</h4>
+                <ul>
+                    <li><a href="{{ if $isEn }}/en/about/{{ else }}/a-propos/{{ end }}">{{ if $isEn }}About{{ else }}A propos{{ end }}</a></li>
+                    <li><a href="{{ if $isEn }}/en/contact/{{ else }}/contact/{{ end }}">Contact</a></li>
+                    <li><a href="{{ if $isEn }}/en/legal-notice/{{ else }}/mentions-legales/{{ end }}">{{ if $isEn }}Legal notice{{ else }}Mentions legales{{ end }}</a></li>
+                    <li><a href="{{ if $isEn }}/en/privacy-policy/{{ else }}/politique-de-confidentialite/{{ end }}">{{ if $isEn }}Privacy policy{{ else }}Politique de confidentialite{{ end }}</a></li>
+                    <li><a href="{{ if $isEn }}/en/cookie-policy/{{ else }}/politique-de-cookies/{{ end }}">{{ if $isEn }}Cookie policy{{ else }}Politique de cookies{{ end }}</a></li>
+                    <li><a href="{{ if $isEn }}/en/terms-of-service/{{ else }}/cgu/{{ end }}">{{ if $isEn }}Terms of service{{ else }}CGU{{ end }}</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; {{ now.Year }} {{ .Site.Title }}. {{ if $isEn }}All rights reserved.{{ else }}Tous droits reserves.{{ end }}</p>
+        </div>
+    </div>
+</footer>
