@@ -2,29 +2,62 @@
 
 {{ $isEn := eq .Site.Language.Lang "en" }}
 
-<section class="hero">
-    <div class="hero-content">
-        <span class="hero-badge">{{ if $isEn }}Men's and women's fashion{{ else }}Mode homme et femme{{ end }}</span>
-        <h1>{{ if $isEn }}The fashion comparison blog{{ else }}Le blog des comparatifs mode{{ end }}</h1>
-        <p class="hero-description">{{ if $isEn }}The best men's and women's fashion comparisons, buying guides and trend news, to choose without doubt.{{ else }}Les meilleurs comparatifs de mode homme et femme, guides d'achat et actualites tendance, pour choisir sans se tromper.{{ end }}</p>
-        <a href="{{ "blog/" | relURL }}" class="btn-primary">{{ if $isEn }}Explore the blog{{ else }}Explorer le blog{{ end }}</a>
+{{/* Mapping image par categorie (meme image pour FR et EN grace au slug identique sauf nom) */}}
+{{ $categoryImages := dict
+    "comparatifs" "images/blog/comparatif-jeans-droits-homme.jpg"
+    "comparisons" "images/blog/comparatif-jeans-droits-homme.jpg"
+    "guides-dachat" "images/blog/guide-sac-a-main-vie-active.jpg"
+    "buying-guides" "images/blog/guide-sac-a-main-vie-active.jpg"
+    "actualites" "images/blog/tendances-mode-homme-printemps-2026.jpg"
+    "news" "images/blog/tendances-mode-homme-printemps-2026.jpg"
+    "mode-femme" "images/blog/robes-mi-saison-morphologies.jpg"
+    "womens-fashion" "images/blog/robes-mi-saison-morphologies.jpg"
+    "mode-homme" "images/blog/costume-trois-pieces-guide.jpg"
+    "mens-fashion" "images/blog/costume-trois-pieces-guide.jpg"
+}}
+
+<!-- Hero banniere avec image a droite -->
+<section class="hero hero-split">
+    <div class="hero-split-inner">
+        <div class="hero-content">
+            <span class="hero-badge">{{ if $isEn }}Men's and women's fashion{{ else }}Mode homme et femme{{ end }}</span>
+            <h1>{{ if $isEn }}The fashion comparison blog{{ else }}Le blog des comparatifs mode{{ end }}</h1>
+            <p class="hero-description">{{ if $isEn }}The best men's and women's fashion comparisons, buying guides and trend news, to choose without doubt.{{ else }}Les meilleurs comparatifs de mode homme et femme, guides d'achat et actualites tendance, pour choisir sans se tromper.{{ end }}</p>
+            <div class="hero-ctas">
+                <a href="{{ "blog/" | relURL }}" class="btn-primary">{{ if $isEn }}Explore the blog{{ else }}Explorer le blog{{ end }}</a>
+                <a href="{{ if $isEn }}about/{{ else }}a-propos/{{ end }}" class="btn-outline-light">{{ if $isEn }}About us{{ else }}A propos{{ end }}</a>
+            </div>
+        </div>
+        <div class="hero-image">
+            <img src="{{ "images/blog/fashion-week-paris-2026-temps-forts.jpg" | relURL }}" alt="{{ if $isEn }}Fashion editorial{{ else }}Image editoriale de mode{{ end }}" width="800" height="900" fetchpriority="high">
+        </div>
     </div>
 </section>
 
+<!-- Categories avec images -->
 <section class="categories-section">
     <div class="container">
         <h2 class="section-title">{{ if $isEn }}Our categories{{ else }}Nos categories{{ end }}</h2>
         <div class="grid-categories">
-            {{ range .Site.Taxonomies.categories }}
-            <a href="{{ .Page.RelPermalink }}" class="category-card">
-                <h3>{{ .Page.Title }}</h3>
-                <span class="category-count">{{ .Count }} {{ if $isEn }}{{ if gt .Count 1 }}articles{{ else }}article{{ end }}{{ else }}{{ if gt .Count 1 }}articles{{ else }}article{{ end }}{{ end }}</span>
+            {{ range $key, $tax := .Site.Taxonomies.categories }}
+            {{ $img := index $categoryImages $key }}
+            <a href="{{ $tax.Page.RelPermalink }}" class="category-card category-card-image">
+                {{ if $img }}
+                <div class="category-card-bg">
+                    <img src="{{ $img | relURL }}" alt="" loading="lazy" width="400" height="300">
+                </div>
+                {{ end }}
+                <div class="category-card-content">
+                    <h3>{{ $tax.Page.Title }}</h3>
+                    <span class="category-count">{{ $tax.Count }} {{ if gt $tax.Count 1 }}articles{{ else }}article{{ end }}</span>
+                </div>
             </a>
             {{ end }}
         </div>
     </div>
 </section>
 
+<!-- Derniers articles -->
 <section class="latest-section">
     <div class="container">
         <h2 class="section-title">{{ if $isEn }}Latest articles{{ else }}Derniers articles{{ end }}</h2>
@@ -51,6 +84,45 @@
                 </div>
             </article>
             {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- Encart A propos -->
+<section class="about-section">
+    <div class="container">
+        <div class="about-grid">
+            <div class="about-text">
+                <span class="section-eyebrow">{{ if $isEn }}Who we are{{ else }}Qui sommes-nous{{ end }}</span>
+                <h2>{{ if $isEn }}Independent fashion comparisons.{{ else }}Des comparatifs mode independants.{{ end }}</h2>
+                <p class="about-lede">{{ if $isEn }}Comparatif mode is an independent blog dedicated to men's and women's fashion. Every comparison and buying guide relies on factual analysis of cut, fabric, origin and price. No sponsored content, no affiliate bias.{{ else }}Comparatif mode est un blog independant dedie a la mode homme et femme. Chaque comparatif et guide d'achat repose sur une analyse factuelle de la coupe, de la matiere, de la provenance et du prix. Aucun contenu sponsorise, aucun biais d'affiliation.{{ end }}</p>
+                <ul class="about-points">
+                    <li><strong>{{ if $isEn }}Factual{{ else }}Factuel{{ end }} :</strong> {{ if $isEn }}analysis based on cut, fabric, origin, price{{ else }}analyses basees sur coupe, matiere, provenance, prix{{ end }}</li>
+                    <li><strong>{{ if $isEn }}Useful{{ else }}Utile{{ end }} :</strong> {{ if $isEn }}concrete choices, no marketing fluff{{ else }}choix concrets, sans promesse marketing{{ end }}</li>
+                    <li><strong>{{ if $isEn }}Durable{{ else }}Durable{{ end }} :</strong> {{ if $isEn }}focus on timeless pieces and quality brands{{ else }}focus sur pieces intemporelles et marques qualitatives{{ end }}</li>
+                </ul>
+                <a href="{{ if $isEn }}about/{{ else }}a-propos/{{ end }}" class="btn-primary">{{ if $isEn }}Learn more{{ else }}En savoir plus{{ end }}</a>
+            </div>
+            <div class="about-visual" aria-hidden="true">
+                <img src="{{ "images/blog/basiques-dressing-feminin.jpg" | relURL }}" alt="" loading="lazy" width="600" height="700">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Encart Newsletter -->
+<section class="newsletter-section">
+    <div class="container">
+        <div class="newsletter-inner">
+            <span class="section-eyebrow newsletter-eyebrow">{{ if $isEn }}Newsletter{{ else }}Newsletter{{ end }}</span>
+            <h2>{{ if $isEn }}The best comparisons, direct to your inbox.{{ else }}Les meilleurs comparatifs, directement dans ta boite mail.{{ end }}</h2>
+            <p class="newsletter-lede">{{ if $isEn }}One monthly edition. New buying guides, season trends, early access to comparisons. No spam, easy unsubscribe.{{ else }}Une edition mensuelle. Nouveaux guides d'achat, tendances de saison, acces prioritaire aux comparatifs. Pas de spam, desinscription facile.{{ end }}</p>
+            <form class="newsletter-form" action="mailto:contact@comparatif-mode.fr?subject=Inscription%20newsletter" method="post" enctype="text/plain">
+                <label class="sr-only" for="newsletter-email">Email</label>
+                <input type="email" id="newsletter-email" name="email" placeholder="{{ if $isEn }}Your email address{{ else }}Ton adresse email{{ end }}" required>
+                <button type="submit" class="btn-primary">{{ if $isEn }}Subscribe{{ else }}S'inscrire{{ end }}</button>
+            </form>
+            <small class="newsletter-note">{{ if $isEn }}By subscribing, you accept our privacy policy.{{ else }}En t'inscrivant, tu acceptes notre politique de confidentialite.{{ end }}</small>
         </div>
     </div>
 </section>
