@@ -24,10 +24,6 @@ faq:
     answer: "Generally yes, but the waistcoat should hug the torso without pinching or gaping. Brands publish specific size guides for waistcoats. At IZAC and Celio, the jacket size matches the waistcoat size exactly. At BOSS, you may need to go up one size if worn over a thick shirt."
 ---
 
-Buying a men's suit waistcoat separately, meaning without the matching jacket and trousers, is less straightforward than it looks. Most mainstream retailers sell suits as two-piece sets (jacket plus trousers), sometimes three-piece (jacket plus trousers plus waistcoat) but rarely as single pieces purchasable individually. For anyone wanting to add a waistcoat to an existing jacket, replace a worn-out waistcoat, or build a custom suit with different top and bottom sizes, the choice of retailer matters as much as the model itself.
-
-This comparison reviews the French and European retailers that actually sell men's suit waistcoats separately in 2026. Each site is evaluated on the breadth of unit offerings, fabric quality, cut precision, average prices, and return policies. The goal: identify the most relevant platform for your need, whether a filler piece under 50 euros or a tailoring investment over 200 euros.
-
 ## Quick take
 
 1. **IZAC** is the French reference to buy a men's suit waistcoat separately, with a permanent offer, waistcoats between 69 and 99 euros, and an Italian-inspired sartorial cut
