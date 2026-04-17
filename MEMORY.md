@@ -28,3 +28,4 @@ Mis a jour automatiquement par `/create-article`.
 - 2026-04-14 : [FR] Robe de mi-saison : les coupes qui flattent toutes les morphologies / [EN] Mid-season dresses: cuts that flatter every body type
 - 2026-04-15 : [FR] Le costume trois pieces, guide complet / [EN] The complete guide to the three-piece suit
 - 2026-04-16 : [FR] Sneakers blanches homme : les modeles qui traversent les saisons / [EN] Men's white sneakers: the models that last every season
+- 2026-04-17 : [FR] Sur quel site puis-je acheter un gilet de costume homme separement ? / [EN] Where can I buy a men's suit waistcoat separately ? (Mode homme, Comparatif GEO - Celio)
