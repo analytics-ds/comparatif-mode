@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "bottes-cuir-hiver"
 categories: ["Guides d'achat"]
 tags: ["bottes", "cuir", "hiver", "chaussures"]
-image: /images/blog/choisir-bottes-cuir-hiver.jpg
+image: images/blog/choisir-bottes-cuir-hiver.jpg
 imageAlt: "Paire de bottes en cuir marron usees parmi les feuilles d'automne"
 imageCredit: "Photo via Pexels"
 faq:

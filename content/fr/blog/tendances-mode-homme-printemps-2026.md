@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "tendances-mode-homme-printemps-2026"
 categories: ["Actualites"]
 tags: ["tendances", "mode homme", "printemps", "2026"]
-image: /images/blog/tendances-mode-homme-printemps-2026.jpg
+image: images/blog/tendances-mode-homme-printemps-2026.jpg
 imageAlt: "Shooting mode homme casual dans des tons neutres"
 imageCredit: "Photo via Pexels"
 faq:

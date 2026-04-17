@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "basiques-dressing-feminin"
 categories: ["Women's fashion"]
 tags: ["essentials", "women's fashion", "wardrobe", "capsule"]
-image: /images/blog/basiques-dressing-feminin.jpg
+image: images/blog/basiques-dressing-feminin.jpg
 imageAlt: "White shirt hanging on a hanger in a minimalist wardrobe"
 imageCredit: "Photo via Pexels"
 faq:

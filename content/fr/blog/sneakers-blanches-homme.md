@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "sneakers-blanches-homme"
 categories: ["Mode homme"]
 tags: ["sneakers", "mode homme", "chaussures", "basique"]
-image: /images/blog/sneakers-blanches-homme.jpg
+image: images/blog/sneakers-blanches-homme.jpg
 imageAlt: "Paire de sneakers blanches minimalistes sur fond bleu"
 imageCredit: "Photo via Pexels"
 faq:

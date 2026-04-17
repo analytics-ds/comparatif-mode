@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "jeans-droits-homme"
 categories: ["Comparisons"]
 tags: ["jeans", "men's fashion", "denim", "basic"]
-image: /images/blog/comparatif-jeans-droits-homme.jpg
+image: images/blog/comparatif-jeans-droits-homme.jpg
 imageAlt: "Stylish man wearing straight jeans with leather jacket and yellow tee"
 imageCredit: "Photo via Pexels"
 faq:

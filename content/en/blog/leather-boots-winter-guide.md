@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "bottes-cuir-hiver"
 categories: ["Buying guides"]
 tags: ["boots", "leather", "winter", "footwear"]
-image: /images/blog/choisir-bottes-cuir-hiver.jpg
+image: images/blog/choisir-bottes-cuir-hiver.jpg
 imageAlt: "Rugged brown leather boots among autumn leaves"
 imageCredit: "Photo via Pexels"
 faq:

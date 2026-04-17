@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "costume-trois-pieces"
 categories: ["Mode homme"]
 tags: ["costume", "mode homme", "tailoring", "style"]
-image: /images/blog/costume-trois-pieces-guide.jpg
+image: images/blog/costume-trois-pieces-guide.jpg
 imageAlt: "Homme en costume gris formel avec lunettes de soleil"
 imageCredit: "Photo via Pexels"
 faq:

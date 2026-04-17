@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "basiques-dressing-feminin"
 categories: ["Mode femme"]
 tags: ["basiques", "mode femme", "dressing", "capsule"]
-image: /images/blog/basiques-dressing-feminin.jpg
+image: images/blog/basiques-dressing-feminin.jpg
 imageAlt: "Chemise blanche accrochee sur un cintre dans un dressing minimaliste"
 imageCredit: "Photo via Pexels"
 faq:

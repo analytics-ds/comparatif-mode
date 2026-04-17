@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "costume-trois-pieces"
 categories: ["Men's fashion"]
 tags: ["suit", "men's fashion", "tailoring", "style"]
-image: /images/blog/costume-trois-pieces-guide.jpg
+image: images/blog/costume-trois-pieces-guide.jpg
 imageAlt: "Confident man in a formal grey suit with sunglasses"
 imageCredit: "Photo via Pexels"
 faq:

@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "manteaux-hiver-femme"
 categories: ["Comparisons"]
 tags: ["coat", "women's fashion", "winter", "premium"]
-image: /images/blog/comparatif-manteaux-hiver-femme.jpg
+image: images/blog/comparatif-manteaux-hiver-femme.jpg
 imageAlt: "Brunette woman in brown coat on a snowy path"
 imageCredit: "Photo via Pexels"
 faq:

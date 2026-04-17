@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "robes-mi-saison-morphologies"
 categories: ["Mode femme"]
 tags: ["robe", "mi-saison", "morphologie", "mode femme"]
-image: /images/blog/robes-mi-saison-morphologies.jpg
+image: images/blog/robes-mi-saison-morphologies.jpg
 imageAlt: "Femme en robe fleurie bleue dans la nature ensoleillee"
 imageCredit: "Photo via Pexels"
 faq:

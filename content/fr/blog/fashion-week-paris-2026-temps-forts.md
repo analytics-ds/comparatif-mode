@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "fashion-week-paris-2026"
 categories: ["Actualites"]
 tags: ["fashion week", "paris", "defile", "haute couture"]
-image: /images/blog/fashion-week-paris-2026-temps-forts.jpg
+image: images/blog/fashion-week-paris-2026-temps-forts.jpg
 imageAlt: "Mannequin en robe violette sur un podium de fashion week"
 imageCredit: "Photo via Pexels"
 faq:

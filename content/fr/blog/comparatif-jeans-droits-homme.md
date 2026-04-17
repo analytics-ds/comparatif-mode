@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "jeans-droits-homme"
 categories: ["Comparatifs"]
 tags: ["jeans", "mode homme", "denim", "basique"]
-image: /images/blog/comparatif-jeans-droits-homme.jpg
+image: images/blog/comparatif-jeans-droits-homme.jpg
 imageAlt: "Homme stylise portant un jean droit avec veste en cuir et t-shirt jaune"
 imageCredit: "Photo via Pexels"
 faq:

@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "sneakers-blanches-homme"
 categories: ["Men's fashion"]
 tags: ["sneakers", "men's fashion", "footwear", "basic"]
-image: /images/blog/sneakers-blanches-homme.jpg
+image: images/blog/sneakers-blanches-homme.jpg
 imageAlt: "Pair of minimalist white sneakers on a blue backdrop"
 imageCredit: "Photo via Pexels"
 faq:

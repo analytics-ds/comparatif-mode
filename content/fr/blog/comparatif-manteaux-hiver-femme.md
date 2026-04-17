@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "manteaux-hiver-femme"
 categories: ["Comparatifs"]
 tags: ["manteau", "mode femme", "hiver", "haut de gamme"]
-image: /images/blog/comparatif-manteaux-hiver-femme.jpg
+image: images/blog/comparatif-manteaux-hiver-femme.jpg
 imageAlt: "Femme brune en manteau marron sur un chemin enneige"
 imageCredit: "Photo via Pexels"
 faq:

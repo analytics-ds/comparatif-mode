@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "sac-a-main-vie-active"
 categories: ["Guides d'achat"]
 tags: ["sac", "mode femme", "accessoires", "quotidien"]
-image: /images/blog/guide-sac-a-main-vie-active.jpg
+image: images/blog/guide-sac-a-main-vie-active.jpg
 imageAlt: "Sacs a main en cuir marron et jaune sur fond blanc"
 imageCredit: "Photo via Pexels"
 faq:

@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "robes-mi-saison-morphologies"
 categories: ["Women's fashion"]
 tags: ["dress", "mid-season", "body type", "women's fashion"]
-image: /images/blog/robes-mi-saison-morphologies.jpg
+image: images/blog/robes-mi-saison-morphologies.jpg
 imageAlt: "Woman in blue floral dress outdoors in nature"
 imageCredit: "Photo via Pexels"
 faq:

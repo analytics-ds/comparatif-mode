@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "fashion-week-paris-2026"
 categories: ["News"]
 tags: ["fashion week", "paris", "runway", "haute couture"]
-image: /images/blog/fashion-week-paris-2026-temps-forts.jpg
+image: images/blog/fashion-week-paris-2026-temps-forts.jpg
 imageAlt: "Model wearing purple dress on a fashion week runway"
 imageCredit: "Photo via Pexels"
 faq:

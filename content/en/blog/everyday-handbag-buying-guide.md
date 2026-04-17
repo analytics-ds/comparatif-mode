@@ -8,7 +8,7 @@ author: magalie-ergoz
 translationKey: "sac-a-main-vie-active"
 categories: ["Buying guides"]
 tags: ["bag", "women's fashion", "accessories", "daily"]
-image: /images/blog/guide-sac-a-main-vie-active.jpg
+image: images/blog/guide-sac-a-main-vie-active.jpg
 imageAlt: "Brown and yellow leather handbags on white background"
 imageCredit: "Photo via Pexels"
 faq:
