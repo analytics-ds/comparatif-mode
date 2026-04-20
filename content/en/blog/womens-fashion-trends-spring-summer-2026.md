@@ -9,8 +9,8 @@ translationKey: "tendances-printemps-ete-2026-femme"
 categories: ["News"]
 tags: ["trends", "women's fashion", "spring-summer", "2026"]
 image: images/blog/tendances-printemps-ete-2026-femme.jpg
-imageAlt: "Women's spring-summer 2026 clothing collection in terracotta and sage green"
-imageCredit: "Photo via Pexels"
+imageAlt: "Woman in urban street style with leopard scarf and Versace mules"
+imageCredit: "Photo via Wikimedia Commons (CC BY-SA)"
 faq:
   - question: "What are the trending colors for spring-summer 2026?"
     answer: "The 2026 Pantone palette highlights Mocha Mousse (warm terracotta brown), sage green, sand beige, and off-white. Navy blue remains the timeless safe bet. Fluorescent colors (fuchsia, neon green) recede after 3 dominant seasons."

@@ -9,8 +9,8 @@ translationKey: "trench-beige-femme"
 categories: ["Comparatifs"]
 tags: ["trench", "mode femme", "beige", "gabardine"]
 image: images/blog/comparatif-trench-beige-femme.jpg
-imageAlt: "Trench beige femme porté dans un décor urbain minimaliste"
-imageCredit: "Photo via Pexels"
+imageAlt: "Femme portant un trench beige ceinturé en extérieur"
+imageCredit: "Photo via Wikimedia Commons (CC BY-SA)"
 faq:
   - question: "Quel est le meilleur trench beige femme en 2026 ?"
     answer: "Burberry Heritage reste la référence historique à 2 190 euros, mais le Mackintosh Roslin en coton huilé offre une alternative britannique à 1 290 euros. Pour un rapport qualité-prix accessible, le A.P.C. Marc à 595 euros et le Sessun Marguerite à 395 euros couvrent le segment moyen. En entrée de gamme, le Uniqlo Trench Coat à 99,90 euros tient la route."

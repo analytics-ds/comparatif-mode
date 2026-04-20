@@ -9,8 +9,8 @@ translationKey: "sac-dos-cuir-femme"
 categories: ["Guides d'achat"]
 tags: ["sac à dos", "cuir", "mode femme", "accessoires"]
 image: images/blog/guide-sac-dos-cuir-femme.jpg
-imageAlt: "Sac à dos en cuir marron posé dans un environnement urbain"
-imageCredit: "Photo via Pexels"
+imageAlt: "Sac à dos en toile et cuir marron Sandqvist posé dans une boutique"
+imageCredit: "Photo via Wikimedia Commons (Unsplash)"
 faq:
   - question: "Quel est le meilleur sac à dos en cuir femme en 2026 ?"
     answer: "Polène Numéro Douze est la référence française avec un cuir pleine fleur italien et une coupe minimaliste, à 390 euros. Pour un investissement long terme, Coach Charter Backpack à 595 euros ou Longchamp Le Pliage Cuir à 420 euros tiennent plusieurs années. Pour un budget serré, le Fossil Sydney à 175 euros offre un bon rapport qualité-prix."

@@ -9,8 +9,8 @@ translationKey: "blazer-oversize-femme"
 categories: ["Mode femme"]
 tags: ["blazer", "mode femme", "tailoring", "oversize"]
 image: images/blog/blazer-oversize-femme.jpg
-imageAlt: "Femme portant un blazer oversize beige sur un t-shirt blanc"
-imageCredit: "Photo via Pexels"
+imageAlt: "Femme portant un blazer vert oversize sur une robe rouge"
+imageCredit: "Photo via Wikimedia Commons (CC BY-SA)"
 faq:
   - question: "Comment porter un blazer oversize femme sans paraître négligée ?"
     answer: "Équilibrer le volume du blazer avec un bas ajusté (jean droit, pantalon tailleur cigarette, jupe crayon). Rentrer un t-shirt blanc dans le bas pour marquer la taille. Relever les manches au niveau des avant-bras pour alléger la silhouette. Ajouter une ceinture nouée si le blazer est très ample."

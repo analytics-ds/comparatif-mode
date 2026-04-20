@@ -9,8 +9,8 @@ translationKey: "sac-dos-cuir-femme"
 categories: ["Buying guides"]
 tags: ["backpack", "leather", "women's fashion", "accessories"]
 image: images/blog/guide-sac-dos-cuir-femme.jpg
-imageAlt: "Brown leather backpack in an urban setting"
-imageCredit: "Photo via Pexels"
+imageAlt: "Brown canvas and leather Sandqvist backpack in a boutique"
+imageCredit: "Photo via Wikimedia Commons (Unsplash)"
 faq:
   - question: "What is the best women's leather backpack in 2026?"
     answer: "Polène Numéro Douze is the French reference with Italian full-grain leather and minimalist cut, at 390 euros. For long-term investment, Coach Charter Backpack at 595 euros or Longchamp Le Pliage Cuir at 420 euros last several years. For a tight budget, Fossil Sydney at 175 euros offers good value."

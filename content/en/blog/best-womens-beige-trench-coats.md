@@ -9,8 +9,8 @@ translationKey: "trench-beige-femme"
 categories: ["Comparisons"]
 tags: ["trench", "women's fashion", "beige", "gabardine"]
 image: images/blog/comparatif-trench-beige-femme.jpg
-imageAlt: "Beige women's trench coat worn in a minimalist urban setting"
-imageCredit: "Photo via Pexels"
+imageAlt: "Woman wearing a belted beige trench coat outdoors"
+imageCredit: "Photo via Wikimedia Commons (CC BY-SA)"
 faq:
   - question: "What is the best women's beige trench coat in 2026?"
     answer: "Burberry Heritage remains the historical reference at 2,190 euros, but the Mackintosh Roslin in waxed cotton offers a British alternative at 1,290 euros. For accessible quality-price, A.P.C. Marc at 595 euros and Sessun Marguerite at 395 euros cover the mid segment. Entry level: Uniqlo Trench Coat at 99.90 euros holds up."

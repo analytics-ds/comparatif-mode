@@ -9,8 +9,8 @@ translationKey: "blazer-oversize-femme"
 categories: ["Women's fashion"]
 tags: ["blazer", "women's fashion", "tailoring", "oversized"]
 image: images/blog/blazer-oversize-femme.jpg
-imageAlt: "Woman wearing a beige oversized blazer over a white t-shirt"
-imageCredit: "Photo via Pexels"
+imageAlt: "Woman wearing a green oversized blazer over a red dress"
+imageCredit: "Photo via Wikimedia Commons (CC BY-SA)"
 faq:
   - question: "How to wear a women's oversized blazer without looking sloppy?"
     answer: "Balance the blazer volume with a fitted bottom (straight jeans, cigarette pants, pencil skirt). Tuck a white t-shirt into the bottom to define the waist. Roll sleeves to forearms for a lighter silhouette. Add a tied belt if the blazer is very loose."

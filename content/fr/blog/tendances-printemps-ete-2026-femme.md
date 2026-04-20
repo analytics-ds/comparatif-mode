@@ -9,8 +9,8 @@ translationKey: "tendances-printemps-ete-2026-femme"
 categories: ["Actualites"]
 tags: ["tendances", "mode femme", "printemps-été", "2026"]
 image: images/blog/tendances-printemps-ete-2026-femme.jpg
-imageAlt: "Collection de vêtements femme printemps été 2026 aux couleurs terracotta et vert sauge"
-imageCredit: "Photo via Pexels"
+imageAlt: "Femme en street style urbain avec foulard léopard et mules Versace"
+imageCredit: "Photo via Wikimedia Commons (CC BY-SA)"
 faq:
   - question: "Quelles sont les couleurs tendance du printemps-été 2026 ?"
     answer: "La palette Pantone 2026 met en avant le Mocha Mousse (brun chaud terracotta), le vert sauge, le beige sable et le blanc cassé. Le bleu marine reste la valeur sûre intemporelle. Les couleurs fluo (fuchsia, vert fluo) reculent après 3 saisons dominantes."
