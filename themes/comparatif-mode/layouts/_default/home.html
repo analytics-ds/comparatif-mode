@@ -62,9 +62,14 @@
         <h2 class="section-title">{{ if $isEn }}Our categories{{ else }}Nos categories{{ end }}</h2>
         <div class="grid-categories">
             {{ range $categoriesList }}
-            {{ $href := printf "%scategories/%s/" (cond $isEn "/en/" "/") .slug }}
+            {{ $currentSlug := .slug }}
+            {{ $href := printf "%scategories/%s/" (cond $isEn "/en/" "/") $currentSlug }}
             {{ $count := 0 }}
-            {{ with index $.Site.Taxonomies.categories .slug }}{{ $count = .Count }}{{ end }}
+            {{/* Matcher par slug URL (le Page.RelPermalink contient le slug final correct) */}}
+            {{ range $key, $tax := $.Site.Taxonomies.categories }}
+                {{ $taxSlug := path.Base (strings.TrimRight "/" $tax.Page.RelPermalink) }}
+                {{ if eq $taxSlug $currentSlug }}{{ $count = $tax.Count }}{{ end }}
+            {{ end }}
             <a href="{{ $href }}" class="category-card category-card-image">
                 <div class="category-card-bg">
                     <img src="{{ .img | relURL }}" alt="" loading="lazy" width="400" height="300">
