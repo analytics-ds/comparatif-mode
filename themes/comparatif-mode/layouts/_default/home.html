@@ -4,14 +4,14 @@
 
 {{/* Mapping image par categorie (meme image pour FR et EN grace au slug identique sauf nom) */}}
 {{ $categoryImages := dict
-    "comparatifs" "images/blog/comparatif-jeans-droits-homme.jpg"
-    "comparisons" "images/blog/comparatif-jeans-droits-homme.jpg"
+    "comparatifs" "images/blog/cat-comparatifs.jpg"
+    "comparisons" "images/blog/cat-comparatifs.jpg"
     "guides-dachat" "images/blog/guide-sac-a-main-vie-active.jpg"
     "buying-guides" "images/blog/guide-sac-a-main-vie-active.jpg"
-    "actualites" "images/blog/tendances-mode-homme-printemps-2026.jpg"
-    "news" "images/blog/tendances-mode-homme-printemps-2026.jpg"
-    "mode-femme" "images/blog/robes-mi-saison-morphologies.jpg"
-    "womens-fashion" "images/blog/robes-mi-saison-morphologies.jpg"
+    "actualites" "images/blog/cat-actualites.jpg"
+    "news" "images/blog/cat-actualites.jpg"
+    "mode-femme" "images/blog/cat-mode-femme.jpg"
+    "womens-fashion" "images/blog/cat-mode-femme.jpg"
     "mode-homme" "images/blog/costume-trois-pieces-guide.jpg"
     "mens-fashion" "images/blog/costume-trois-pieces-guide.jpg"
 }}
@@ -29,7 +29,7 @@
             </div>
         </div>
         <div class="hero-image">
-            <img src="{{ "images/blog/fashion-week-paris-2026-temps-forts.jpg" | relURL }}" alt="{{ if $isEn }}Fashion editorial{{ else }}Image editoriale de mode{{ end }}" width="800" height="900" fetchpriority="high">
+            <img src="{{ "images/blog/homepage-hero.jpg" | relURL }}" alt="{{ if $isEn }}Fashion editorial portrait{{ else }}Portrait editorial de mode{{ end }}" width="800" height="1100" fetchpriority="high">
         </div>
     </div>
 </section>
