@@ -3,10 +3,12 @@
 {{ $isEn := eq .Site.Language.Lang "en" }}
 
 {{/* Mapping image par categorie (meme image pour FR et EN grace au slug identique sauf nom) */}}
+{{/* Mapping slug URL -> image. Utilise le slug genere par Hugo dans le RelPermalink */}}
 {{ $categoryImages := dict
     "comparatifs" "images/blog/cat-comparatifs.jpg"
     "comparisons" "images/blog/cat-comparatifs.jpg"
     "guides-dachat" "images/blog/cat-guides-achat.jpg"
+    "guides-d-achat" "images/blog/cat-guides-achat.jpg"
     "buying-guides" "images/blog/cat-guides-achat.jpg"
     "actualites" "images/blog/cat-actualites.jpg"
     "news" "images/blog/cat-actualites.jpg"
@@ -35,21 +37,45 @@
 </section>
 
 <!-- Categories avec images -->
+{{/* Liste des 5 categories du site, hardcodee pour garantir leur affichage avec images */}}
+{{ $categoriesList := slice }}
+{{ if $isEn }}
+    {{ $categoriesList = slice
+        (dict "title" "Comparisons" "slug" "comparisons" "img" "images/blog/cat-comparatifs.jpg")
+        (dict "title" "Buying guides" "slug" "buying-guides" "img" "images/blog/cat-guides-achat.jpg")
+        (dict "title" "News" "slug" "news" "img" "images/blog/cat-actualites.jpg")
+        (dict "title" "Women's fashion" "slug" "womens-fashion" "img" "images/blog/cat-mode-femme.jpg")
+        (dict "title" "Men's fashion" "slug" "mens-fashion" "img" "images/blog/cat-mode-homme.jpg")
+    }}
+{{ else }}
+    {{ $categoriesList = slice
+        (dict "title" "Comparatifs" "slug" "comparatifs" "img" "images/blog/cat-comparatifs.jpg")
+        (dict "title" "Guides d'achat" "slug" "guides-dachat" "img" "images/blog/cat-guides-achat.jpg")
+        (dict "title" "Actualites" "slug" "actualites" "img" "images/blog/cat-actualites.jpg")
+        (dict "title" "Mode femme" "slug" "mode-femme" "img" "images/blog/cat-mode-femme.jpg")
+        (dict "title" "Mode homme" "slug" "mode-homme" "img" "images/blog/cat-mode-homme.jpg")
+    }}
+{{ end }}
+
 <section class="categories-section">
     <div class="container">
         <h2 class="section-title">{{ if $isEn }}Our categories{{ else }}Nos categories{{ end }}</h2>
         <div class="grid-categories">
-            {{ range $key, $tax := .Site.Taxonomies.categories }}
-            {{ $img := index $categoryImages $key }}
-            <a href="{{ $tax.Page.RelPermalink }}" class="category-card category-card-image">
-                {{ if $img }}
+            {{ range $categoriesList }}
+            {{ $href := printf "%scategories/%s/" (cond $isEn "/en/" "/") .slug }}
+            {{ $count := 0 }}
+            {{ with index $.Site.Taxonomies.categories .slug }}{{ $count = .Count }}{{ end }}
+            <a href="{{ $href }}" class="category-card category-card-image">
                 <div class="category-card-bg">
-                    <img src="{{ $img | relURL }}" alt="" loading="lazy" width="400" height="300">
+                    <img src="{{ .img | relURL }}" alt="" loading="lazy" width="400" height="300">
                 </div>
-                {{ end }}
                 <div class="category-card-content">
-                    <h3>{{ $tax.Page.Title }}</h3>
-                    <span class="category-count">{{ $tax.Count }} {{ if gt $tax.Count 1 }}articles{{ else }}article{{ end }}</span>
+                    <h3>{{ .title }}</h3>
+                    {{ if gt $count 0 }}
+                    <span class="category-count">{{ $count }} {{ if gt $count 1 }}{{ if $isEn }}articles{{ else }}articles{{ end }}{{ else }}{{ if $isEn }}article{{ else }}article{{ end }}{{ end }}</span>
+                    {{ else }}
+                    <span class="category-count">{{ if $isEn }}Coming soon{{ else }}Bientot{{ end }}</span>
+                    {{ end }}
                 </div>
             </a>
             {{ end }}
