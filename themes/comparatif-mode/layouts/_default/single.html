@@ -54,10 +54,11 @@
                 {{ end }}
                 <div class="article-author-bar">
                     {{ with $authorData }}
+                    {{ $authorUrl := printf "%sauthors/%s/" (cond (eq $lang "en") "/en/" "/") $.Params.author }}
                     <div class="author-info">
                         <div class="author-text">
                             <span class="author-byline">{{ if eq $lang "en" }}By{{ else }}Par{{ end }}</span>
-                            <span class="author-name">{{ .name }}</span>
+                            <a href="{{ $authorUrl }}" class="author-name author-name-link">{{ .name }}</a>
                             {{ with index .role $lang }}
                             <span class="author-role">{{ . }}</span>
                             {{ end }}
@@ -120,10 +121,11 @@
 
                 <!-- Bloc auteur (bio complete en fin d'article, sans avatar) -->
                 {{ with $authorData }}
+                {{ $authorUrl := printf "%sauthors/%s/" (cond (eq $lang "en") "/en/" "/") $.Params.author }}
                 <aside class="author-box" aria-label="{{ if eq $lang "en" }}About the author{{ else }}A propos de l'auteur{{ end }}">
                     <div class="author-box-content">
                         <span class="author-box-label">{{ if eq $lang "en" }}About the author{{ else }}A propos de l'auteur{{ end }}</span>
-                        <h3 class="author-box-name">{{ .name }}</h3>
+                        <h3 class="author-box-name"><a href="{{ $authorUrl }}">{{ .name }}</a></h3>
                         {{ with index .role $lang }}
                         <span class="author-box-role">{{ . }}</span>
                         {{ end }}
@@ -136,6 +138,7 @@
                             {{ range $i, $e := . }}{{ if $i }}, {{ end }}<span class="author-box-expertise-item">{{ $e }}</span>{{ end }}
                         </div>
                         {{ end }}
+                        <a href="{{ $authorUrl }}" class="author-box-cta">{{ if eq $lang "en" }}See all articles by {{ .name }} →{{ else }}Voir tous les articles de {{ .name }} →{{ end }}</a>
                     </div>
                 </aside>
                 {{ end }}

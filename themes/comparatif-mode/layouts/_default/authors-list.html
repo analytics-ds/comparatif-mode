@@ -1,0 +1,40 @@
+{{ define "main" }}
+{{ $isEn := eq .Site.Language.Lang "en" }}
+{{ $lang := .Site.Language.Lang }}
+
+<section class="authors-list-page">
+    <header class="list-header">
+        <div class="container">
+            <span class="section-eyebrow">{{ if $isEn }}The team{{ else }}L'equipe{{ end }}</span>
+            <h1>{{ .Title }}</h1>
+            {{ with .Description }}<p class="list-description">{{ . }}</p>{{ end }}
+        </div>
+    </header>
+
+    <div class="container container-narrow">
+        <div class="authors-grid">
+            {{ $currentLang := $lang }}
+            {{ range where .Site.RegularPages "Section" "authors" }}
+            {{ $authorId := .Params.authorId }}
+            {{ $author := index $.Site.Data.authors $authorId }}
+            {{ $articles := where (where $.Site.RegularPages "Section" "blog") ".Params.author" $authorId }}
+            {{ if $author }}
+            <a href="{{ .RelPermalink }}" class="author-card">
+                <div class="author-card-content">
+                    <h3 class="author-card-name">{{ $author.name }}</h3>
+                    {{ with index $author.role $currentLang }}
+                    <p class="author-card-role">{{ . }}</p>
+                    {{ end }}
+                    {{ with index $author.bio $currentLang }}
+                    <p class="author-card-bio">{{ . }}</p>
+                    {{ end }}
+                    <span class="author-card-count">{{ len $articles }} {{ if $isEn }}{{ if gt (len $articles) 1 }}articles{{ else }}article{{ end }}{{ else }}{{ if gt (len $articles) 1 }}articles{{ else }}article{{ end }}{{ end }}</span>
+                </div>
+            </a>
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+{{ end }}

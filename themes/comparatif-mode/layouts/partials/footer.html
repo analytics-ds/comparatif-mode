@@ -13,6 +13,7 @@
                     <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
                     {{ end }}
                     <li><a href="{{ if $isEn }}/en/blog/{{ else }}/blog/{{ end }}">{{ if $isEn }}The Blog{{ else }}Le Blog{{ end }}</a></li>
+                    <li><a href="{{ if $isEn }}/en/authors/{{ else }}/authors/{{ end }}">{{ if $isEn }}Our authors{{ else }}Nos auteurs{{ end }}</a></li>
                     <li><a href="{{ if $isEn }}/en/site-map/{{ else }}/plan-du-site/{{ end }}">{{ if $isEn }}Site map{{ else }}Plan du site{{ end }}</a></li>
                 </ul>
             </div>

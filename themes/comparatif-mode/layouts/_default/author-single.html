@@ -1,0 +1,83 @@
+{{ define "main" }}
+{{ $isEn := eq .Site.Language.Lang "en" }}
+{{ $authorId := .Params.authorId }}
+{{ $author := index .Site.Data.authors $authorId }}
+{{ $lang := .Site.Language.Lang }}
+
+<article class="author-page">
+    <div class="container container-narrow">
+
+        <nav class="breadcrumb" aria-label="{{ if $isEn }}Breadcrumb{{ else }}Fil d'Ariane{{ end }}">
+            <ol class="breadcrumb-list">
+                <li class="breadcrumb-item">
+                    <a href="{{ "/" | relURL }}">{{ if $isEn }}Home{{ else }}Accueil{{ end }}</a>
+                    <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
+                </li>
+                <li class="breadcrumb-item">
+                    <a href="{{ "authors/" | relURL }}">{{ if $isEn }}Authors{{ else }}Auteurs{{ end }}</a>
+                    <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
+                </li>
+                <li class="breadcrumb-item">
+                    <span aria-current="page">{{ with $author }}{{ .name }}{{ else }}{{ .Title }}{{ end }}</span>
+                </li>
+            </ol>
+        </nav>
+
+        {{ with $author }}
+        <header class="author-hero">
+            <span class="section-eyebrow">{{ if $isEn }}Author{{ else }}Auteur{{ end }}</span>
+            <h1 class="author-hero-name">{{ .name }}</h1>
+            {{ with index .role $lang }}
+            <p class="author-hero-role">{{ . }}</p>
+            {{ end }}
+            {{ with index .bio $lang }}
+            <p class="author-hero-bio">{{ . }}</p>
+            {{ end }}
+            {{ with .expertise }}
+            <div class="author-hero-expertise">
+                <span class="author-hero-expertise-label">{{ if $isEn }}Areas of expertise{{ else }}Domaines d'expertise{{ end }} :</span>
+                <div class="author-hero-expertise-tags">
+                    {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+                </div>
+            </div>
+            {{ end }}
+        </header>
+        {{ end }}
+
+        <section class="author-articles">
+            <h2 class="section-title-small">{{ if $isEn }}Articles by {{ $author.name }}{{ else }}Articles de {{ $author.name }}{{ end }}</h2>
+
+            {{ $articles := where (where .Site.RegularPages "Section" "blog") ".Params.author" $authorId }}
+            {{ $articles = $articles.ByDate.Reverse }}
+            <span class="author-articles-count">{{ len $articles }} {{ if $isEn }}{{ if gt (len $articles) 1 }}articles published{{ else }}article published{{ end }}{{ else }}{{ if gt (len $articles) 1 }}articles publies{{ else }}article publie{{ end }}{{ end }}</span>
+
+            <div class="grid-articles">
+                {{ range $articles }}
+                <article class="article-card">
+                    <a href="{{ .RelPermalink }}" class="article-card-image-wrapper" aria-label="{{ .Title }}">
+                        {{ if .Params.image }}
+                        <img src="{{ .Params.image | relURL }}" alt="{{ .Params.imageAlt | default .Title }}" class="article-card-image" loading="lazy" width="600" height="400">
+                        {{ else }}
+                        <span class="article-card-image article-card-image-placeholder" aria-hidden="true">{{ slicestr .Title 0 1 }}</span>
+                        {{ end }}
+                    </a>
+                    <div class="article-card-body">
+                        <div class="article-meta">
+                            {{ with .Params.categories }}
+                            <span class="article-category">{{ index . 0 }}</span>
+                            {{ end }}
+                            <time>{{ .Date.Format "2 January 2006" }}</time>
+                        </div>
+                        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                        <p>{{ .Description }}</p>
+                        <a href="{{ .RelPermalink }}" class="read-more">{{ if $isEn }}Read more{{ else }}Lire la suite{{ end }}</a>
+                    </div>
+                </article>
+                {{ end }}
+            </div>
+        </section>
+
+    </div>
+</article>
+
+{{ end }}

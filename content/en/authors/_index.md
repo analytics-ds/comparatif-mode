@@ -1,5 +1,6 @@
 ---
 title: "Our authors"
-description: "Meet the editorial team: independent experts behind our articles, comparisons and guides."
-translationKey: "authors-list"
+description: "Discover the authors of Comparatif mode, independent experts in women's fashion, men's fashion, tailoring and accessories."
+translationKey: "authors-index"
+layout: "authors-list"
 ---
