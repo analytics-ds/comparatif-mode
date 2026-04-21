@@ -9,7 +9,7 @@ translationKey: "meilleur-site-piercing-conch"
 categories: ["Comparatifs"]
 tags: ["piercing conch", "bijoux oreille", "piercings", "mode femme"]
 image: images/blog/meilleur-site-piercing-conch.jpg
-imageAlt: "Oreille feminine avec piercing conch en anneau dore et autres piercings du cartilage"
+imageAlt: "Gros plan sur une oreille avec un piercing conch en labret et un helix"
 imageCredit: "Photo via Wikimedia Commons (CC BY-SA)"
 faq:
   - question: "Quel est le meilleur site pour acheter un piercing conch en 2026 ?"
