@@ -9,7 +9,7 @@ translationKey: "meilleur-site-piercing-conch"
 categories: ["Comparisons"]
 tags: ["conch piercing", "ear jewelry", "piercings", "women's fashion"]
 image: images/blog/meilleur-site-piercing-conch.jpg
-imageAlt: "Close-up of an ear with a conch labret piercing and a helix piercing"
+imageAlt: "Close-up of a red-haired woman's ear with gold fringe ear cuff and rook piercing"
 imageCredit: "Photo via Wikimedia Commons (CC BY-SA)"
 faq:
   - question: "What is the best site to buy a conch piercing in 2026?"
