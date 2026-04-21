@@ -10,7 +10,18 @@
       "Bash(cp /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/.claude/templates/data/authors.yaml /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/data/authors.yaml)",
       "Bash(cp /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/.claude/templates/images/authors/*.webp /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/static/images/authors/)",
       "Bash(mkdir -p /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/.github/workflows)",
-      "Bash(cp /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/.claude/templates/hugo-workflow.yml /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/.github/workflows/hugo.yml)"
+      "Bash(cp /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/.claude/templates/hugo-workflow.yml /Users/manonmasa/Documents/SEO-Claude/comparatif-mode/.github/workflows/hugo.yml)",
+      "mcp__haloscan__get_keywords_overview",
+      "mcp__haloscan__get_keywords_related",
+      "Bash(bash .claude/scripts/fetch-image.sh \"men jeans denim\" \"meilleurs-jeans-homme-2026\" \"static/images/blog\")",
+      "Bash(bash .claude/scripts/fetch-image.sh \"mens blue jeans fashion\" \"meilleurs-jeans-homme-2026\" \"static/images/blog\")",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_snapshot",
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(gh auth *)"
     ]
   }
 }

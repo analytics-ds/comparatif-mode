@@ -1,42 +1,9 @@
 {{ define "main" }}
 
 {{ $isEn := eq .Site.Language.Lang "en" }}
+{{ $articleCount := len (where .Site.RegularPages "Section" "blog") }}
+{{ $catCount := len .Site.Taxonomies.categories }}
 
-{{/* Mapping image par categorie (meme image pour FR et EN grace au slug identique sauf nom) */}}
-{{/* Mapping slug URL -> image. Utilise le slug genere par Hugo dans le RelPermalink */}}
-{{ $categoryImages := dict
-    "comparatifs" "images/blog/cat-comparatifs.jpg"
-    "comparisons" "images/blog/cat-comparatifs.jpg"
-    "guides-dachat" "images/blog/cat-guides-achat.jpg"
-    "guides-d-achat" "images/blog/cat-guides-achat.jpg"
-    "buying-guides" "images/blog/cat-guides-achat.jpg"
-    "actualites" "images/blog/cat-actualites.jpg"
-    "news" "images/blog/cat-actualites.jpg"
-    "mode-femme" "images/blog/cat-mode-femme.jpg"
-    "womens-fashion" "images/blog/cat-mode-femme.jpg"
-    "mode-homme" "images/blog/cat-mode-homme.jpg"
-    "mens-fashion" "images/blog/cat-mode-homme.jpg"
-}}
-
-<!-- Hero banniere avec image a droite -->
-<section class="hero hero-split">
-    <div class="hero-split-inner">
-        <div class="hero-content">
-            <span class="hero-badge">{{ if $isEn }}Men's and women's fashion{{ else }}Mode homme et femme{{ end }}</span>
-            <h1>{{ if $isEn }}The fashion comparison blog{{ else }}Le blog des comparatifs mode{{ end }}</h1>
-            <p class="hero-description">{{ if $isEn }}The best men's and women's fashion comparisons, buying guides and trend news, to choose without doubt.{{ else }}Les meilleurs comparatifs de mode homme et femme, guides d'achat et actualites tendance, pour choisir sans se tromper.{{ end }}</p>
-            <div class="hero-ctas">
-                <a href="{{ "blog/" | relURL }}" class="btn-primary">{{ if $isEn }}Explore the blog{{ else }}Explorer le blog{{ end }}</a>
-                <a href="{{ if $isEn }}about/{{ else }}a-propos/{{ end }}" class="btn-outline-light">{{ if $isEn }}About us{{ else }}A propos{{ end }}</a>
-            </div>
-        </div>
-        <div class="hero-image">
-            <img src="{{ "images/blog/homepage-hero.jpg" | relURL }}" alt="{{ if $isEn }}Fashion editorial portrait{{ else }}Portrait editorial de mode{{ end }}" width="800" height="1100" fetchpriority="high">
-        </div>
-    </div>
-</section>
-
-<!-- Categories avec images -->
 {{/* Liste des 5 categories du site, hardcodee pour garantir leur affichage avec images */}}
 {{ $categoriesList := slice }}
 {{ if $isEn }}
@@ -57,15 +24,199 @@
     }}
 {{ end }}
 
+<!-- ============ HERO ============ -->
+<section class="qp-hero">
+    <div class="qp-hero-inner container">
+        <div class="qp-hero-left">
+            <span class="qp-kicker">{{ if $isEn }}Fashion without mistakes{{ else }}La mode sans se tromper{{ end }}</span>
+            <h1 class="qp-hero-title">{{ if $isEn }}Choose your next fashion pieces with confidence{{ else }}Choisissez vos prochaines pieces mode en toute confiance{{ end }}</h1>
+            <p class="qp-hero-lede">{{ if $isEn }}Factual comparisons, clear buying guides and zero marketing fluff to decode cuts, fabrics, origins and prices.{{ else }}Comparatifs factuels, guides d'achat clairs et zero discours marketing pour decoder coupes, matieres, origines et prix.{{ end }}</p>
+            <div class="qp-hero-ctas">
+                <a href="{{ "blog/" | relURL }}" class="btn-primary">{{ if $isEn }}Explore comparisons{{ else }}Explorer les comparatifs{{ end }}</a>
+                <a href="{{ if $isEn }}categories/buying-guides/{{ else }}categories/guides-dachat/{{ end }}" class="btn-outline-dark">{{ if $isEn }}See buying guides{{ else }}Voir les guides d'achat{{ end }}</a>
+            </div>
+        </div>
+        <div class="qp-hero-right" aria-hidden="true">
+            <div class="qp-card qp-card-1">
+                <span class="qp-card-label">{{ if $isEn }}2026 Trend{{ else }}Tendance 2026{{ end }}</span>
+                <span class="qp-card-value">{{ if $isEn }}Wide-leg pants{{ else }}Pantalons larges{{ end }}</span>
+                <span class="qp-card-delta qp-delta-up">+38% {{ if $isEn }}vs 2025{{ else }}vs 2025{{ end }}</span>
+            </div>
+            <div class="qp-card qp-card-2">
+                <span class="qp-card-label">{{ if $isEn }}Average price{{ else }}Prix moyen{{ end }}</span>
+                <span class="qp-card-value">89 €</span>
+                <span class="qp-card-hint">{{ if $isEn }}for quality jeans{{ else }}pour un jean qualitatif{{ end }}</span>
+            </div>
+            <div class="qp-card qp-card-3">
+                <span class="qp-card-label">{{ if $isEn }}Made in France{{ else }}Made in France{{ end }}</span>
+                <span class="qp-card-value">4</span>
+                <span class="qp-card-hint">{{ if $isEn }}brands in our top 10{{ else }}marques dans notre top 10{{ end }}</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ============ BARRE DE STATS ============ -->
+<section class="qp-statsbar">
+    <div class="container qp-statsbar-inner">
+        <div class="qp-statsbar-main">
+            <span class="qp-statsbar-number">{{ $articleCount }}</span>
+            <span class="qp-statsbar-label">{{ if $isEn }}pieces compared, decoded, explained{{ else }}pieces comparees, decodees, expliquees{{ end }}</span>
+        </div>
+        <div class="qp-statsbar-sub">
+            <div class="qp-stat">
+                <span class="qp-stat-num">{{ $catCount }}</span>
+                <span class="qp-stat-txt">{{ if $isEn }}Themes covered{{ else }}Thematiques couvertes{{ end }}</span>
+            </div>
+            <div class="qp-stat">
+                <span class="qp-stat-num">100%</span>
+                <span class="qp-stat-txt">{{ if $isEn }}Independent reviews, zero sponsoring{{ else }}Avis independants, zero sponsoring{{ end }}</span>
+            </div>
+            <div class="qp-stat">
+                <span class="qp-stat-num">1x/{{ if $isEn }}week{{ else }}sem{{ end }}</span>
+                <span class="qp-stat-txt">{{ if $isEn }}New comparison every week{{ else }}Nouveau comparatif chaque semaine{{ end }}</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ============ ACCROCHE EDITORIALE ============ -->
+<section class="qp-pitch">
+    <div class="container qp-pitch-inner">
+        <h2 class="qp-pitch-title">{{ if $isEn }}Goodbye ads, hello real comparisons{{ else }}Fini les publi-redactionnels, place aux vrais comparatifs{{ end }}</h2>
+        <p class="qp-pitch-lede">{{ if $isEn }}One topic, one article, one clear answer. No marketing speech, only facts, methods and verified figures.{{ else }}Un sujet, un article, une reponse claire. Pas de discours marketing, que des faits, des methodes et des chiffres verifies.{{ end }}</p>
+    </div>
+</section>
+
+<!-- ============ 3 BLOCS FEATURES ============ -->
+<section class="qp-features">
+    <div class="container">
+        <!-- Feature 1 -->
+        <div class="qp-feature">
+            <div class="qp-feature-text">
+                <h3>{{ if $isEn }}Decode every cut and fabric in one read{{ else }}Decoder toutes les coupes et matieres en une lecture{{ end }}</h3>
+                <p>{{ if $isEn }}Slim, straight, bootcut, relaxed, wide: every cut compared criterion by criterion, with real advantages and limits.{{ else }}Slim, droit, bootcut, relaxed, large : chaque coupe comparee critere par critere, avec les vrais avantages et limites.{{ end }}</p>
+                <ul class="qp-feature-points">
+                    <li>{{ if $isEn }}Simple comparison tables{{ else }}Tableaux comparatifs simples{{ end }}</li>
+                    <li>{{ if $isEn }}Fabrics explained without jargon{{ else }}Matieres expliquees sans jargon{{ end }}</li>
+                    <li>{{ if $isEn }}Decision checklists by body type{{ else }}Checklists de decision par morphologie{{ end }}</li>
+                </ul>
+            </div>
+            <div class="qp-feature-visual" aria-hidden="true">
+                <span class="qp-visual-label">{{ if $isEn }}Comparison{{ else }}Comparatif{{ end }}</span>
+                <div class="qp-visual-row"><span>{{ if $isEn }}Slim{{ else }}Slim{{ end }}</span><span class="qp-visual-badge">{{ if $isEn }}Narrow thighs{{ else }}Cuisses fines{{ end }}</span></div>
+                <div class="qp-visual-row"><span>{{ if $isEn }}Straight{{ else }}Droit{{ end }}</span><span class="qp-visual-badge">{{ if $isEn }}All body types{{ else }}Toutes morpho{{ end }}</span></div>
+                <div class="qp-visual-row"><span>{{ if $isEn }}Bootcut{{ else }}Bootcut{{ end }}</span><span class="qp-visual-badge">{{ if $isEn }}Strong thighs{{ else }}Cuisses fortes{{ end }}</span></div>
+                <div class="qp-visual-row"><span>{{ if $isEn }}Wide{{ else }}Large{{ end }}</span><span class="qp-visual-badge">{{ if $isEn }}2026 trend{{ else }}Tendance 2026{{ end }}</span></div>
+            </div>
+        </div>
+
+        <!-- Feature 2 (inverse) -->
+        <div class="qp-feature qp-feature-reverse">
+            <div class="qp-feature-text">
+                <h3>{{ if $isEn }}Compare real pieces, not catalogues{{ else }}Comparer les vraies pieces, pas les catalogues{{ end }}</h3>
+                <p>{{ if $isEn }}Prices, origin, durability: we go beyond the brand promise to read the real quality label.{{ else }}Prix, provenance, durabilite : on va au-dela de la promesse de marque pour lire la vraie etiquette qualite.{{ end }}</p>
+                <ul class="qp-feature-points">
+                    <li>{{ if $isEn }}Real prices vs promo prices{{ else }}Prix reels vs prix barres{{ end }}</li>
+                    <li>{{ if $isEn }}Composition and origin verified{{ else }}Composition et provenance verifiees{{ end }}</li>
+                    <li>{{ if $isEn }}Brands flagged when quality drops{{ else }}Marques signalees si la qualite baisse{{ end }}</li>
+                </ul>
+            </div>
+            <div class="qp-feature-visual" aria-hidden="true">
+                <span class="qp-visual-label">{{ if $isEn }}Real prices{{ else }}Prix reels{{ end }}</span>
+                <div class="qp-visual-row"><span>Celio</span><span class="qp-visual-value qp-positive">49,99 €</span></div>
+                <div class="qp-visual-row"><span>Uniqlo</span><span class="qp-visual-value qp-positive">49,90 €</span></div>
+                <div class="qp-visual-row"><span>Levi's 501</span><span class="qp-visual-value">110 €</span></div>
+                <div class="qp-visual-row"><span>A.P.C.</span><span class="qp-visual-value">195 €</span></div>
+            </div>
+        </div>
+
+        <!-- Feature 3 -->
+        <div class="qp-feature">
+            <div class="qp-feature-text">
+                <h3>{{ if $isEn }}Stay on top of fashion news that matters{{ else }}Suivre les tendances mode qui comptent{{ end }}</h3>
+                <p>{{ if $isEn }}Fashion weeks, new collections, collabs: we filter, sum up and explain the impact on your wardrobe.{{ else }}Fashion weeks, nouvelles collections, collabs : on filtre, resume et explique l'impact sur ton dressing.{{ end }}</p>
+                <ul class="qp-feature-points">
+                    <li>{{ if $isEn }}Season trends decoded in 3 min{{ else }}Tendances de saison decodees en 3 min{{ end }}</li>
+                    <li>{{ if $isEn }}Fashion weeks summed up{{ else }}Fashion weeks resumees{{ end }}</li>
+                    <li>{{ if $isEn }}Concrete wardrobe recommendations{{ else }}Recommandations concretes pour le dressing{{ end }}</li>
+                </ul>
+            </div>
+            <div class="qp-feature-visual qp-visual-news" aria-hidden="true">
+                {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
+                <div class="qp-visual-newsrow">
+                    <span class="qp-visual-newstitle">{{ .Title }}</span>
+                    <span class="qp-visual-newsdate">{{ .Date.Format "2 Jan" }}</span>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ============ 3 ETAPES ============ -->
+<section class="qp-steps">
+    <div class="container">
+        <h2 class="qp-section-title">{{ if $isEn }}3 simple steps to buy better{{ else }}3 etapes simples pour mieux acheter{{ end }}</h2>
+        <div class="qp-steps-grid">
+            <div class="qp-step">
+                <span class="qp-step-num">1</span>
+                <h3>{{ if $isEn }}Identify your style{{ else }}Identifie ton style{{ end }}</h3>
+                <p>{{ if $isEn }}Classic, streetwear, minimalist, vintage: a clear reading of your starting point.{{ else }}Classique, streetwear, minimaliste, vintage : une lecture claire de ton point de depart.{{ end }}</p>
+            </div>
+            <div class="qp-step">
+                <span class="qp-step-num">2</span>
+                <h3>{{ if $isEn }}Define your budget{{ else }}Definis ton budget{{ end }}</h3>
+                <p>{{ if $isEn }}Fast fashion, accessible, premium, luxury: every budget has its right brands.{{ else }}Fast fashion, accessible, premium, luxe : chaque budget a ses bonnes marques.{{ end }}</p>
+            </div>
+            <div class="qp-step">
+                <span class="qp-step-num">3</span>
+                <h3>{{ if $isEn }}Compare brands{{ else }}Compare les marques{{ end }}</h3>
+                <p>{{ if $isEn }}Cut, fabric, origin, durability: our comparisons guide you with concrete examples.{{ else }}Coupe, matiere, provenance, durabilite : nos comparatifs te guident avec des exemples concrets.{{ end }}</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ============ SIMULATEUR ============ -->
+<section class="qp-simulator">
+    <div class="container qp-simulator-inner">
+        <div class="qp-simulator-text">
+            <span class="qp-kicker qp-kicker-light">{{ if $isEn }}New tool{{ else }}Nouvel outil{{ end }}</span>
+            <h2>{{ if $isEn }}Find your body type in 30 seconds{{ else }}Trouve ta morphologie en 30 secondes{{ end }}</h2>
+            <p>{{ if $isEn }}Cuts, sizes and brands adapted to your silhouette. Free, no signup.{{ else }}Coupes, tailles et marques adaptees a ta silhouette. Gratuit, sans inscription.{{ end }}</p>
+            <a href="{{ if $isEn }}morphology-guide/{{ else }}guide-morphologie/{{ end }}" class="btn-primary">{{ if $isEn }}Launch the guide{{ else }}Lancer le guide{{ end }}</a>
+        </div>
+        <div class="qp-simulator-kpis" aria-hidden="true">
+            <div class="qp-kpi">
+                <span class="qp-kpi-value">5</span>
+                <span class="qp-kpi-label">{{ if $isEn }}Body types analyzed{{ else }}Morphologies analysees{{ end }}</span>
+            </div>
+            <div class="qp-kpi">
+                <span class="qp-kpi-value">4</span>
+                <span class="qp-kpi-label">{{ if $isEn }}Quick questions{{ else }}Questions rapides{{ end }}</span>
+            </div>
+            <div class="qp-kpi">
+                <span class="qp-kpi-value">12</span>
+                <span class="qp-kpi-label">{{ if $isEn }}Brands matched{{ else }}Marques matchees{{ end }}</span>
+            </div>
+            <div class="qp-kpi">
+                <span class="qp-kpi-value">0 €</span>
+                <span class="qp-kpi-label">{{ if $isEn }}No signup{{ else }}Sans inscription{{ end }}</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ============ THEMATIQUES ============ -->
 <section class="categories-section">
     <div class="container">
-        <h2 class="section-title">{{ if $isEn }}Our categories{{ else }}Nos categories{{ end }}</h2>
+        <h2 class="qp-section-title">{{ if $isEn }}Our themes{{ else }}Nos thematiques{{ end }}</h2>
         <div class="grid-categories">
             {{ range $categoriesList }}
             {{ $currentSlug := .slug }}
             {{ $href := printf "%scategories/%s/" (cond $isEn "/en/" "/") $currentSlug }}
             {{ $count := 0 }}
-            {{/* Matcher par slug URL (le Page.RelPermalink contient le slug final correct) */}}
             {{ range $key, $tax := $.Site.Taxonomies.categories }}
                 {{ $taxSlug := path.Base (strings.TrimRight "/" $tax.Page.RelPermalink) }}
                 {{ if eq $taxSlug $currentSlug }}{{ $count = $tax.Count }}{{ end }}
@@ -77,7 +228,7 @@
                 <div class="category-card-content">
                     <h3>{{ .title }}</h3>
                     {{ if gt $count 0 }}
-                    <span class="category-count">{{ $count }} {{ if gt $count 1 }}{{ if $isEn }}articles{{ else }}articles{{ end }}{{ else }}{{ if $isEn }}article{{ else }}article{{ end }}{{ end }}</span>
+                    <span class="category-count">{{ $count }} {{ if gt $count 1 }}articles{{ else }}article{{ end }}</span>
                     {{ else }}
                     <span class="category-count">{{ if $isEn }}Coming soon{{ else }}Bientot{{ end }}</span>
                     {{ end }}
@@ -88,10 +239,10 @@
     </div>
 </section>
 
-<!-- Derniers articles -->
+<!-- ============ DERNIERS ARTICLES ============ -->
 <section class="latest-section">
     <div class="container">
-        <h2 class="section-title">{{ if $isEn }}Latest articles{{ else }}Derniers articles{{ end }}</h2>
+        <h2 class="qp-section-title">{{ if $isEn }}Latest articles{{ else }}Derniers articles{{ end }}</h2>
         <div class="grid-articles">
             {{ range first 6 (where .Site.RegularPages "Section" "blog") }}
             <article class="article-card">
@@ -119,41 +270,39 @@
     </div>
 </section>
 
-<!-- Encart A propos -->
-<section class="about-section">
-    <div class="container">
-        <div class="about-grid">
-            <div class="about-text">
-                <span class="section-eyebrow">{{ if $isEn }}Who we are{{ else }}Qui sommes-nous{{ end }}</span>
-                <h2>{{ if $isEn }}Independent fashion comparisons.{{ else }}Des comparatifs mode independants.{{ end }}</h2>
-                <p class="about-lede">{{ if $isEn }}Comparatif mode is an independent blog dedicated to men's and women's fashion. Every comparison and buying guide relies on factual analysis of cut, fabric, origin and price. No sponsored content, no affiliate bias.{{ else }}Comparatif mode est un blog independant dedie a la mode homme et femme. Chaque comparatif et guide d'achat repose sur une analyse factuelle de la coupe, de la matiere, de la provenance et du prix. Aucun contenu sponsorise, aucun biais d'affiliation.{{ end }}</p>
-                <ul class="about-points">
-                    <li><strong>{{ if $isEn }}Factual{{ else }}Factuel{{ end }} :</strong> {{ if $isEn }}analysis based on cut, fabric, origin, price{{ else }}analyses basees sur coupe, matiere, provenance, prix{{ end }}</li>
-                    <li><strong>{{ if $isEn }}Useful{{ else }}Utile{{ end }} :</strong> {{ if $isEn }}concrete choices, no marketing fluff{{ else }}choix concrets, sans promesse marketing{{ end }}</li>
-                    <li><strong>{{ if $isEn }}Durable{{ else }}Durable{{ end }} :</strong> {{ if $isEn }}focus on timeless pieces and quality brands{{ else }}focus sur pieces intemporelles et marques qualitatives{{ end }}</li>
-                </ul>
-                <a href="{{ if $isEn }}about/{{ else }}a-propos/{{ end }}" class="btn-primary">{{ if $isEn }}Learn more{{ else }}En savoir plus{{ end }}</a>
-            </div>
-            <div class="about-visual" aria-hidden="true">
-                <img src="{{ "images/blog/basiques-dressing-feminin.jpg" | relURL }}" alt="" loading="lazy" width="600" height="700">
-            </div>
-        </div>
+<!-- ============ CTA FINAL ============ -->
+<section class="qp-finalcta">
+    <div class="container qp-finalcta-inner">
+        <h2>{{ if $isEn }}Start your next fashion choice today{{ else }}Commence ton prochain choix mode des aujourd'hui{{ end }}</h2>
+        <a href="{{ "blog/" | relURL }}" class="btn-primary btn-large">{{ if $isEn }}Start reading{{ else }}Commencer a lire{{ end }}</a>
     </div>
 </section>
 
-<!-- Encart Newsletter -->
-<section class="newsletter-section">
+<!-- ============ FAQ ============ -->
+<section class="qp-faq">
     <div class="container">
-        <div class="newsletter-inner">
-            <span class="section-eyebrow newsletter-eyebrow">{{ if $isEn }}Newsletter{{ else }}Newsletter{{ end }}</span>
-            <h2>{{ if $isEn }}The best comparisons, direct to your inbox.{{ else }}Les meilleurs comparatifs, directement dans ta boite mail.{{ end }}</h2>
-            <p class="newsletter-lede">{{ if $isEn }}One monthly edition. New buying guides, season trends, early access to comparisons. No spam, easy unsubscribe.{{ else }}Une edition mensuelle. Nouveaux guides d'achat, tendances de saison, acces prioritaire aux comparatifs. Pas de spam, desinscription facile.{{ end }}</p>
-            <form class="newsletter-form" action="mailto:contact@comparatif-mode.fr?subject=Inscription%20newsletter" method="post" enctype="text/plain">
-                <label class="sr-only" for="newsletter-email">Email</label>
-                <input type="email" id="newsletter-email" name="email" placeholder="{{ if $isEn }}Your email address{{ else }}Ton adresse email{{ end }}" required>
-                <button type="submit" class="btn-primary">{{ if $isEn }}Subscribe{{ else }}S'inscrire{{ end }}</button>
-            </form>
-            <small class="newsletter-note">{{ if $isEn }}By subscribing, you accept our privacy policy.{{ else }}En t'inscrivant, tu acceptes notre politique de confidentialite.{{ end }}</small>
+        <h2 class="qp-section-title">{{ if $isEn }}Frequently asked questions{{ else }}Questions frequentes{{ end }}</h2>
+        <div class="qp-faq-list">
+            <details class="qp-faq-item">
+                <summary>{{ if $isEn }}How do I pick the right size online?{{ else }}Comment choisir la bonne taille en ligne ?{{ end }}</summary>
+                <p>{{ if $isEn }}Always measure your waist, chest and inseam with a soft tape, then compare to the brand's size chart (not the generic S/M/L). Sizing varies widely between Celio, Levi's and Uniqlo for a same label.{{ else }}Toujours mesurer tour de taille, tour de poitrine et entrejambe au metre souple, puis comparer au tableau des tailles de la marque (pas au generique S/M/L). La taille varie beaucoup entre Celio, Levi's et Uniqlo pour un meme libelle.{{ end }}</p>
+            </details>
+            <details class="qp-faq-item">
+                <summary>{{ if $isEn }}Which brands still manufacture in France?{{ else }}Quelles marques fabriquent encore en France ?{{ end }}</summary>
+                <p>{{ if $isEn }}A few reference brands remain, mainly on denim and leather: 1083, Le Gaulois, Atelier Tuffery, Le Slip Francais, Bleu de Chauffe. Prices are usually 2 to 3 times higher than fast fashion but lifetime is multiplied by 5 to 10.{{ else }}Quelques marques de reference subsistent, surtout sur le denim et le cuir : 1083, Le Gaulois, Atelier Tuffery, Le Slip Francais, Bleu de Chauffe. Les prix sont generalement 2 a 3 fois plus eleves que la fast fashion mais la duree de vie est multipliee par 5 a 10.{{ end }}</p>
+            </details>
+            <details class="qp-faq-item">
+                <summary>{{ if $isEn }}How much should I spend on clothes every year?{{ else }}Combien depenser par an en vetements ?{{ end }}</summary>
+                <p>{{ if $isEn }}The French average is around 700 € per adult per year. A reasoned wardrobe that lasts targets 600 to 900 €, concentrated on 15 to 20 key pieces rather than spread over 50 fast-fashion items.{{ else }}La moyenne francaise tourne autour de 700 € par adulte et par an. Un dressing raisonne et durable cible 600 a 900 €, concentres sur 15 a 20 pieces cles plutot que reparties sur 50 pieces de fast fashion.{{ end }}</p>
+            </details>
+            <details class="qp-faq-item">
+                <summary>{{ if $isEn }}Which pieces should I invest in first?{{ else }}Quelles pieces investir en priorite ?{{ end }}</summary>
+                <p>{{ if $isEn }}A quality straight jean, a well-cut white shirt, a pair of real leather shoes and a wool coat cover 80% of daily needs. These four pieces deserve a higher budget because they are worn weekly for years.{{ else }}Un jean droit qualitatif, une chemise blanche bien coupee, une paire de chaussures en cuir veritable et un manteau en laine couvrent 80 pour cent des besoins quotidiens. Ces quatre pieces meritent un budget superieur car elles sont portees chaque semaine pendant des annees.{{ end }}</p>
+            </details>
+            <details class="qp-faq-item">
+                <summary>{{ if $isEn }}Is Comparatif Mode really independent?{{ else }}Comparatif Mode est-il vraiment independant ?{{ end }}</summary>
+                <p>{{ if $isEn }}Yes. No brand pays us to appear or rank. Comparisons are based on public prices, in-store testing and publicly available technical data. Earnings come from a monthly newsletter and a few non-intrusive display ads.{{ else }}Oui. Aucune marque ne nous paie pour apparaitre ou etre classee. Les comparatifs reposent sur les prix publics, le test en boutique et les donnees techniques accessibles. Les revenus viennent d'une newsletter mensuelle et de quelques publicites display non intrusives.{{ end }}</p>
+            </details>
         </div>
     </div>
 </section>
