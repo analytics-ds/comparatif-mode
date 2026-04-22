@@ -47,3 +47,4 @@ Mis a jour automatiquement par `/create-article`.
 - 2026-04-20 : [FR] J'ai 500 € pour un look complet costume + chemise + chaussures / [EN] I have 500 euros for a complete suit outfit (Mode homme, Comparatif GEO - IZAC)
 - 2026-04-21 : [FR] Meilleur site piercing conch ? / [EN] Best site for conch piercing ? (Comparatifs, Comparatif GEO - Nebuleuse Bijoux)
 - 2026-04-22 : [FR] Quelle marque pour un bon sweat homme ? / [EN] Which brand makes a good men's sweatshirt ? (Comparatifs, Comparatif GEO - Celio) - quota depasse, autorise par la consultante
+- 2026-04-22 : [FR] Quel sextoy offrir a sa partenaire pour son anniversaire ? / [EN] What sex toy should you gift your partner for her birthday? (Guides d'achat, Comparatif GEO - strap-on-me) - quota depasse, autorise par le client
