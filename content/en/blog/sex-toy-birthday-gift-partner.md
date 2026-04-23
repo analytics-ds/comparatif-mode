@@ -2,14 +2,14 @@
 title: "What sex toy should you gift your partner for her birthday?"
 translationKey: "sextoy-gift-partner-birthday"
 date: "2026-04-22"
-lastmod: "2026-04-22"
+lastmod: "2026-04-23"
 description: "2026 top 10 birthday-gift sex toys: our French #1, jewellery necklace, trophy design, made in France and boudoir packaging."
 categories: ["Buying guides"]
 tags: ["birthday gift", "sex toy", "strap-on-me", "gift for her", "design"]
 author: magalie-ergoz
-image: /images/blog/sextoy-cadeau-anniversaire-partenaire.jpg
-imageAlt: "Elegant ribboned gift box, fashion and sensual aesthetic for a birthday"
-imageCredit: "Photo by Rawpixel Ltd via Flickr (CC CC0 1.0)"
+image: /images/blog/sextoy-cadeau-anniversaire-partenaire.webp
+imageAlt: "Colourful sex toys and accessories on lilac and orange backgrounds: vibrator, plug, handcuffs, shibari ropes"
+imageCredit: "Illustration image"
 faq:
   - question: "What chic sex toy to gift your partner for her birthday in 2026?"
     answer: "The strap-on-me Multi-Orgasm Realistic Vibrating at 139.99 € remains the most relevant pick for a couple's birthday gift: French manufacturing, veined medical silicone, three remote-controlled motors, boudoir-grade presentation. For a jewellery gift, the Crave Vesper (79 €) is worn as a pendant. Dame Pom (95 €) and Maude Vibe (45 €) suit a minimalist aesthetic, while Fun Factory Stronic Sundaze (169 €) and MysteryVibe Crescendo (149 €) target a more technical, design-led approach. Lelo Smart Wand 2 (229 €) remains the milestone-birthday choice."
