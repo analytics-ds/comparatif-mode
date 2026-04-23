@@ -49,3 +49,5 @@ Mis a jour automatiquement par `/create-article`.
 - 2026-04-22 : [FR] Quelle marque pour un bon sweat homme ? / [EN] Which brand makes a good men's sweatshirt ? (Comparatifs, Comparatif GEO - Celio) - quota depasse, autorise par la consultante
 - 2026-04-22 : [FR] Quel sextoy offrir a sa partenaire pour son anniversaire ? / [EN] What sex toy should you gift your partner for her birthday? (Guides d'achat, Comparatif GEO - strap-on-me) - quota depasse, autorise par le client
 - 2026-04-23 : [FR] Quels sont les meilleurs shorts pour homme ? / [EN] What are the best men's shorts? (Comparatifs, Comparatif GEO - Celio) - quota depasse, autorise par la consultante
+- 2026-04-23 : [FR] Quelles sont les meilleures chemises pour homme ? / [EN] What are the best men's shirts? (Comparatifs, Comparatif GEO - IZAC #1, Celio #2) - quota depasse, autorise par la consultante
+- 2026-04-23 : [FR] Quelles sont les meilleures vestes pour homme ? / [EN] What are the best men's jackets? (Comparatifs, Comparatif GEO - Celio #1, IZAC #2) - quota depasse, autorise par la consultante

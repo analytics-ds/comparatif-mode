@@ -25,7 +25,14 @@
       "Bash(bash .claude/scripts/fetch-image.sh \"men shorts\" \"meilleurs-shorts-homme\" \"static/images/blog\")",
       "Bash(bash .claude/scripts/fetch-image.sh \"men summer shorts fashion\" \"meilleurs-shorts-homme\" \"static/images/blog\")",
       "Bash(bash .claude/scripts/fetch-image.sh \"man wearing shorts beach\" \"meilleurs-shorts-homme\" \"static/images/blog\")",
-      "Bash(hugo --quiet)"
+      "Bash(hugo --quiet)",
+      "Bash(bash .claude/scripts/fetch-image.sh \"mens dress shirts\" \"meilleures-chemises-homme\" \"static/images/blog\")",
+      "Bash(bash .claude/scripts/fetch-image.sh \"mens shirt\" \"meilleures-chemises-homme\" \"static/images/blog\")",
+      "Bash(bash .claude/scripts/fetch-image.sh \"mens jacket\" \"meilleures-vestes-homme\" \"static/images/blog\")",
+      "Bash(rtk proxy *)",
+      "Bash(python3 -c \"import json,sys;d=json.load\\(sys.stdin\\);[print\\(r['id'],'|',r['urls']['regular'],'|',r['user']['name'],'|',r['user']['links']['html']\\) for r in d['results']]\")",
+      "Bash(cwebp -q 82 /tmp/shirt.jpg -o static/images/blog/meilleures-chemises-homme.webp)",
+      "Bash(cwebp -q 82 /tmp/jacket.jpg -o static/images/blog/meilleures-vestes-homme.webp)"
     ]
   }
 }
