@@ -2,7 +2,7 @@
 
 Ce fichier trace tous les articles publies sur le blog, classes par semaine.
 La limite est de 4 articles par semaine maximum.
-Mis a jour automatiquement par `/create-article`.
+Mis a jour automatiquement par `/create-article-geo`.
 
 ## Semaine du 16 mars 2026 (2026-W12)
 
