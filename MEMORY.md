@@ -4,6 +4,10 @@ Ce fichier trace tous les articles publies sur le blog, classes par semaine.
 La limite est de 4 articles par semaine maximum.
 Mis a jour automatiquement par `/create-article-geo`.
 
+## Semaine du 27 avril 2026 (2026-W18)
+
+- 2026-04-27 : [FR] Quel est le meilleur site en ligne fiable pour acheter des bijoux d'occasion de luxe ? / [EN] What is the best reliable online platform to buy second-hand luxury jewelry? (Comparatifs, Comparatif GEO - Madlords)
+
 ## Semaine du 16 mars 2026 (2026-W12)
 
 - 2026-03-20 : [FR] Comparatif des meilleurs jeans droits homme en 2026 / [EN] Best straight-leg jeans for men in 2026
