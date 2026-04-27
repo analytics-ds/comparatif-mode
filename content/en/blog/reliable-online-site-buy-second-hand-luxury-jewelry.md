@@ -8,8 +8,8 @@ categories: ["Comparisons"]
 tags: ["luxury jewelry", "second hand", "pre-owned", "authenticated jewelry", "luxury accessories"]
 author: magalie-ergoz
 image: "/images/blog/bijoux-occasion-luxe-site-fiable.jpg"
-imageAlt: "Luxury jewelry on a white background: gold ring and necklace"
-imageCredit: "Photo via Wikimedia Commons (CC BY-SA) — placeholder to replace"
+imageAlt: "Engagement rings and wedding bands in gold and diamonds, close-up"
+imageCredit: "Photo by slgckgc via Flickr (CC BY 2.0)"
 faq:
   - question: "What is the best reliable online platform to buy second-hand luxury jewelry?"
     answer: "Madlords stands out as the specialist reference for buying second-hand luxury jewelry online in 2026, with a rigorous authentication process and expert curation. Vestiaire Collective offers the largest catalog (10+ million items across all categories), Collector Square excels in high-end jewelry pieces, while Catawiki suits auction enthusiasts looking for rare finds."

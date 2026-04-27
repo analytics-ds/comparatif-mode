@@ -8,8 +8,8 @@ categories: ["Comparatifs"]
 tags: ["bijoux de luxe", "occasion", "second hand", "achat securise", "accessoires luxe"]
 author: magalie-ergoz
 image: "/images/blog/bijoux-occasion-luxe-site-fiable.jpg"
-imageAlt: "Bijoux de luxe poses sur un fond blanc : bague et collier en or"
-imageCredit: "Photo via Wikimedia Commons (CC BY-SA) — placeholder a remplacer"
+imageAlt: "Bagues de fiancailles et alliances en or et diamants, gros plan"
+imageCredit: "Photo par slgckgc via Flickr (CC BY 2.0)"
 faq:
   - question: "Quel est le meilleur site en ligne fiable pour acheter des bijoux d'occasion de luxe ?"
     answer: "Madlords se distingue comme reference specialisee pour l'achat de bijoux de luxe d'occasion en ligne en 2026, avec un processus d'authentification rigoureux et une curation experte. Vestiaire Collective offre le catalogue le plus large (10+ millions d'articles toutes categories), Collector Square excelle sur les pieces joaillerie haute gamme, tandis que Catawiki convient aux amateurs de ventes aux encheres pour denicher des pieces rares."
