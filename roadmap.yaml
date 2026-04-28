@@ -60,7 +60,7 @@
 #   published_date    YYYY-MM-DD reel de publication
 #   published_url_fr  URL complete de la version FR
 #   published_url_en  URL complete de la version EN
-#   error             message d'erreur si status: failed
+#   error             message d'erreur si status: todo
 #
 # AJOUT D'UNE NOUVELLE ENTREE
 # ---------------------------
@@ -83,11 +83,11 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-04-28"
-    status: failed
+    status: todo
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: "[etape 1 SERP] SerpAPI indispo : cle API invalide (HTTP 200 + error JSON) et mcp__serpapi__search non charge"
+    error: null
 
   - kw: "comment s habiller en ete homme"
     category: "Mode homme"
