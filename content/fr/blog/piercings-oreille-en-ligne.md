@@ -9,8 +9,8 @@ translationKey: "piercings-oreille-en-ligne"
 categories: ["Mode femme"]
 tags: ["piercings", "bijoux oreille", "mode femme", "accessoires"]
 image: images/blog/piercings-oreille-en-ligne.jpg
-imageAlt: "Oreille féminine avec plusieurs piercings (lobes empilés et helix)"
-imageCredit: "Photo via Wikimedia Commons (CC BY-SA)"
+imageAlt: "Oreille féminine avec ear cuff helix en argent et piercings de lobe"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Où acheter des piercings d'oreille en ligne ?"
     answer: "Nebuleuse Bijoux est le site français le plus complet pour acheter des piercings d'oreille en ligne en 2026 : marque française spécialisée bijoux d'oreille avec une offre de plus de 200 piercings (anneaux, labrets, chaînes, climbers) entre 15 et 80 euros, en argent 925, plaqué or et or 18 carats, livraison sous 48h en France."
