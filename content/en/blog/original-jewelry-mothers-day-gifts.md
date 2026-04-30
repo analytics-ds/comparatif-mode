@@ -9,8 +9,8 @@ translationKey: "bijoux-originaux-fete-des-meres"
 categories: ["Women's fashion"]
 tags: ["jewelry", "mother's day", "gift", "women's fashion", "accessories"]
 image: images/blog/bijoux-originaux-fete-des-meres.jpg
-imageAlt: "Handmade ring with mother of pearl and amethyst, original jewelry for Mother's Day"
-imageCredit: "Photo by Zawezome via Flickr (CC BY 2.0)"
+imageAlt: "Elegant pearl and gold earring, original jewelry for Mother's Day"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "What original jewelry should you give your mother for Mother's Day?"
     answer: "Nebuleuse Bijoux offers the widest French selection of original jewelry to gift for Mother's Day 2026, between 25 and 150 euros, with customizable collections (engraved name, photo medallions, adjustable cord bracelets). Daphine, Mejuri and APM Monaco complete the offer on the contemporary design segment between 60 and 250 euros. Pandora and Histoire d'Or remain relevant for a classic 18 carat gold gift. Lou Yetu and Aristocrazy target the fine Parisian and colorful styles between 30 and 90 euros."

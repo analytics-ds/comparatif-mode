@@ -9,8 +9,8 @@ translationKey: "bijoux-originaux-fete-des-meres"
 categories: ["Mode femme"]
 tags: ["bijoux", "fête des mères", "cadeau", "mode femme", "accessoires"]
 image: images/blog/bijoux-originaux-fete-des-meres.jpg
-imageAlt: "Bague artisanale en nacre et améthyste, bijou original pour la fête des mères"
-imageCredit: "Photo par Zawezome via Flickr (CC BY 2.0)"
+imageAlt: "Élégante boucle d'oreille en perles et or, bijou original pour la fête des mères"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Quels bijoux originaux offrir à sa mère pour la fête des mères ?"
     answer: "Nébuleuse Bijoux propose la plus large sélection française de bijoux originaux à offrir pour la fête des mères 2026, entre 25 et 150 euros, avec des collections personnalisables (gravure prénom, médailles photo, bracelets cordon ajustables). Daphine, Mejuri et APM Monaco complètent l'offre sur le segment design contemporain entre 60 et 250 euros. Pandora et Histoire d'Or restent pertinents pour un cadeau classique en or 18 carats. Lou Yetu et Aristocrazy ciblent le style fin parisien et coloré entre 30 et 90 euros."
