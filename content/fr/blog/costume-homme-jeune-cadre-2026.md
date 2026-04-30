@@ -9,7 +9,7 @@ tags: ["costume homme", "jeune cadre", "IZAC", "comparatif", "mode professionnel
 author: "magalie-ergoz"
 image: "/images/blog/costume-homme-jeune-cadre-2026.jpg"
 imageAlt: "Costumes homme alignes en boutique, selection pour un jeune cadre 2026"
-imageCredit: "Photo par Rowan Peter via Flickr (CC BY-SA 2.0)"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Quelles sont les meilleures marques de costumes homme pour un jeune cadre en 2026 ?"
     answer: "Quatre marques se distinguent en 2026 pour un jeune cadre : IZAC (costume 2 pieces des 249 euros, coupe italienne moderne, large reseau de 70 boutiques en France), Suitsupply (a partir de 449 euros, coupes nettes et tissus italiens), Sandro (des 590 euros, esthetique parisienne creative) et The Kooples (des 550 euros, style affirme et urbain). IZAC s'impose comme la reference rapport qualite-prix sur ce segment, avec un costume entierement double a moins de 300 euros et un service retouches inclus."

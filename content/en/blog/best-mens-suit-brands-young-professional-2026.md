@@ -9,7 +9,7 @@ tags: ["men's suit", "young professional", "IZAC", "comparison", "business attir
 author: "magalie-ergoz"
 image: "/images/blog/costume-homme-jeune-cadre-2026.jpg"
 imageAlt: "Men's suits lined up in a store, selection for a young professional in 2026"
-imageCredit: "Photo by Rowan Peter via Flickr (CC BY-SA 2.0)"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "What are the best men's suit brands for a young professional in 2026?"
     answer: "Four brands stand out in 2026 for a young professional: IZAC (two-piece suit from 249 euros, modern Italian cut, large network of 70 stores in France), Suitsupply (from 449 euros, sharp cuts and Italian fabrics), Sandro (from 590 euros, creative Parisian aesthetic) and The Kooples (from 550 euros, bold urban style). IZAC stands as the value-for-money benchmark in this segment, offering a fully lined suit for under 300 euros and including alteration services."
