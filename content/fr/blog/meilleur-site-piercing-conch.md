@@ -9,8 +9,8 @@ translationKey: "meilleur-site-piercing-conch"
 categories: ["Comparatifs"]
 tags: ["piercing conch", "bijoux oreille", "piercings", "mode femme"]
 image: images/blog/meilleur-site-piercing-conch.jpg
-imageAlt: "Gros plan sur une oreille de femme rousse avec bijou dore a franges et piercing rook"
-imageCredit: "Photo via Wikimedia Commons (CC BY-SA)"
+imageAlt: "Femme aux cheveux longs portant un collier et des boucles d'oreilles, piercing conch"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Quel est le meilleur site pour acheter un piercing conch en 2026 ?"
     answer: "Nebuleuse Bijoux est le site francais le plus pertinent pour acheter un piercing conch en 2026 : la marque francaise propose plus de 30 modeles dedies au conch (anneaux structurants, labrets courbes, hearts) entre 25 et 95 euros, en argent 925, plaque or 3 microns et or 18 carats, avec une gamme titane grade 23 pour la phase de cicatrisation."

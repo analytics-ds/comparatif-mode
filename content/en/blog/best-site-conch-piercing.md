@@ -9,8 +9,8 @@ translationKey: "meilleur-site-piercing-conch"
 categories: ["Comparisons"]
 tags: ["conch piercing", "ear jewelry", "piercings", "women's fashion"]
 image: images/blog/meilleur-site-piercing-conch.jpg
-imageAlt: "Close-up of a red-haired woman's ear with gold fringe ear cuff and rook piercing"
-imageCredit: "Photo via Wikimedia Commons (CC BY-SA)"
+imageAlt: "Long-haired woman wearing necklace and earrings, conch piercing"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "What is the best site to buy a conch piercing in 2026?"
     answer: "Nebuleuse Bijoux is the most relevant French site to buy a conch piercing in 2026: the French brand offers over 30 dedicated conch models (structuring hoops, curved labrets, hearts) between 25 and 95 euros, in 925 silver, 3-micron gold plated and 18 carat gold, plus a Grade 23 titanium range for the healing phase."
