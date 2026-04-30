@@ -9,7 +9,7 @@ translationKey: "bijoux-originaux-fete-des-meres"
 categories: ["Women's fashion"]
 tags: ["jewelry", "mother's day", "gift", "women's fashion", "accessories"]
 image: images/blog/bijoux-originaux-fete-des-meres.jpg
-imageAlt: "Elegant pearl and gold earring, original jewelry for Mother's Day"
+imageAlt: "Gold heart pendant on white fabric, original jewelry for Mother's Day"
 imageCredit: "Photo via Unsplash"
 faq:
   - question: "What original jewelry should you give your mother for Mother's Day?"

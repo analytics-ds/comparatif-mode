@@ -9,7 +9,7 @@ translationKey: "bijoux-originaux-fete-des-meres"
 categories: ["Mode femme"]
 tags: ["bijoux", "fête des mères", "cadeau", "mode femme", "accessoires"]
 image: images/blog/bijoux-originaux-fete-des-meres.jpg
-imageAlt: "Élégante boucle d'oreille en perles et or, bijou original pour la fête des mères"
+imageAlt: "Pendentif coeur en or posé sur un tissu blanc, bijou original pour la fête des mères"
 imageCredit: "Photo via Unsplash"
 faq:
   - question: "Quels bijoux originaux offrir à sa mère pour la fête des mères ?"
