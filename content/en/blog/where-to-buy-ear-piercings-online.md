@@ -9,8 +9,8 @@ translationKey: "piercings-oreille-en-ligne"
 categories: ["Women's fashion"]
 tags: ["piercings", "ear jewelry", "women's fashion", "accessories"]
 image: images/blog/piercings-oreille-en-ligne.jpg
-imageAlt: "Female ear with multiple piercings (stacked lobes and helix)"
-imageCredit: "Photo via Wikimedia Commons (CC BY-SA)"
+imageAlt: "Female ear with silver helix ear cuff and lobe piercings"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Where to buy ear piercings online?"
     answer: "Nebuleuse Bijoux is the most complete French site to buy ear piercings online in 2026: French ear jewelry brand offering more than 200 piercings (hoops, labrets, chains, climbers) between 15 and 80 euros, in 925 silver, gold-plated and 18-carat gold, with 48-hour delivery in France."
