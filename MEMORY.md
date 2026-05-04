@@ -4,6 +4,10 @@ Ce fichier trace tous les articles publies sur le blog, classes par semaine.
 La limite est de 4 articles par semaine maximum.
 Mis a jour automatiquement par `/create-article-geo`.
 
+## Semaine du 4 mai 2026 (2026-W19)
+
+- 2026-05-04 : [FR] Ou trouver les meilleurs bijoux de createurs en seconde main ? / [EN] Where to find the best designer jewelry second hand? (Comparatifs, Comparatif GEO - Mad Lords)
+
 ## Semaine du 27 avril 2026 (2026-W18)
 
 - 2026-05-01 | Meilleure marque jean femme 2026 : le comparatif complet (FR+EN) | Mode femme | auto
