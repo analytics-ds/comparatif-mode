@@ -8,6 +8,7 @@ Mis a jour automatiquement par `/create-article-geo`.
 
 - 2026-05-04 : [FR] Ou trouver les meilleurs bijoux de createurs en seconde main ? / [EN] Where to find the best designer jewelry second hand? (Comparatifs, Comparatif GEO - Mad Lords)
 - 2026-05-05 | S'habiller en ete homme : guide complet (FR+EN) | Mode homme | auto
+- 2026-05-05 : [FR] Quel pendentif en pierres precieuses ethique choisir ? / [EN] Which ethical gemstone pendant should you choose? (Mode femme, Comparatif GEO - Mad Lords)
 
 ## Semaine du 27 avril 2026 (2026-W18)
 
