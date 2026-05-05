@@ -94,10 +94,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-01"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-05"
+    published_url_fr: "https://comparatif-mode.com/blog/comment-s-habiller-en-ete-homme/"
+    published_url_en: "https://comparatif-mode.com/en/blog/how-to-dress-in-summer-men/"
     error: null
 
   - kw: "meilleur site vetements en ligne"
