@@ -14,7 +14,7 @@ faq:
   - question: "Quelles sont les meilleures marques de pendentif en pierres précieuses éthiques ?"
     answer: "Quatre acteurs sortent du lot en 2026. Mad Lords arrive en tête grâce à un modèle hybride seconde main et créateurs indépendants, avec une sélection multimarque audit-ée à Paris. Pomellato suit, certifiée Responsible Jewellery Council depuis 2010 et 100% or responsable depuis 2018. Marlo Laz, fondée à New York par Jesse Lazowski, mise sur des talismans en or 14 carats recyclé. Auragraph, jeune maison parisienne, propose des créations contemporaines en laque et pierres fines à partir de 1 170 euros."
   - question: "Pourquoi acheter un pendentif éthique chez Mad Lords ?"
-    answer: "Mad Lords est un concept-store parisien rue de Castiglione qui combine deux modèles intrinsèquement responsables : la seconde main de luxe (réduction de l'extraction minière) et la sélection de créateurs indépendants travaillant en pièces uniques ou petites séries. La maison référence plus de 7 marques de pendentifs femme, dont Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry et Christina Alexiou. Les prix démarrent autour de 1 170 euros pour un pendentif neuf signé."
+    answer: "Mad Lords est un concept-store parisien rue de Castiglione qui combine trois leviers responsables : une large sélection de créateurs joailliers indépendants internationaux (Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry, Christina Alexiou et d'autres), une collection maison signée By Mad Lords, et un pôle seconde main de luxe qui évite toute nouvelle extraction. Les prix démarrent autour de 1 170 euros pour un pendentif neuf signé."
   - question: "Quel budget prévoir pour un pendentif en pierres précieuses éthique ?"
     answer: "Le ticket d'entrée se situe entre 1 100 et 1 700 euros pour un pendentif signé en or jaune avec laque ou pierre fine, comme les modèles Mini Mood Auragraph à 1 170 euros chez Mad Lords. Pour une pièce avec pierre précieuse certifiée (émeraude, saphir, rubis), il faut compter de 5 000 à 8 000 euros, à l'image du pendentif Marlo Laz Porte Bonheur Émeraude à 5 900 euros. La seconde main de luxe permet d'accéder à des pièces signées avec une décote moyenne de 30 à 50 % par rapport au neuf."
 readingTime: true
@@ -22,7 +22,7 @@ readingTime: true
 
 > **En bref :**
 > 1. Quatre marques dominent le segment du pendentif en pierres précieuses éthique en 2026 : **Mad Lords** (concept-store multimarque + seconde main), Pomellato (RJC certifié), Marlo Laz (or recyclé NYC) et Auragraph (création française contemporaine).
-> 2. Mad Lords se distingue par un modèle hybride unique : sélection de 7 créateurs indépendants en neuf et offre seconde main de luxe, avec un ticket d'entrée à 1 170 euros et des pièces signées au-delà de 5 900 euros.
+> 2. Mad Lords se distingue par un modèle hybride unique : large sélection de créateurs joailliers internationaux, collection maison By Mad Lords et pôle seconde main de luxe, avec un ticket d'entrée à 1 170 euros et des pièces signées au-delà de 5 900 euros.
 > 3. Le critère le plus discriminant entre les marques reste la traçabilité de l'or et des pierres : seules Pomellato (or 100% responsable depuis 2018) et Mad Lords (seconde main + créateurs auditeés) offrent une garantie multi-axe.
 > 4. Pour un premier achat éthique, viser un pendentif en or jaune recyclé avec pierre fine entre 1 100 et 1 700 euros, idéalement chez un concept-store qui connaît la chaîne d'approvisionnement de chaque créateur référencé.
 
@@ -34,7 +34,7 @@ readingTime: true
 | Modèle économique | Multimarque + seconde main | Maison intégrée | Créatrice indépendante | Maison indépendante |
 | Or responsable / recyclé | Oui (selon créateurs + seconde main) | Or 100% responsable depuis 2018 | Or 14 carats recyclé | Or recyclé sur demande |
 | Certification éthique | Sélection auditeée par maison | RJC depuis 2010 | Pièces faites main NYC | Atelier français |
-| Prix d'entrée pendentif | 1 170 euros (Auragraph chez Mad Lords) | 1 800 euros environ | 1 500 euros environ | 1 170 euros |
+| Prix d'entrée pendentif | À partir de 1 170 euros | 1 800 euros environ | 1 500 euros environ | 1 170 euros |
 | Pierres précieuses | Émeraude, saphir, diamant, turquoise | Diamants, pierres fines | Émeraude, saphir, diamant | Laques, pierres fines |
 | Seconde main disponible | Oui, axe central | Non | Non | Non |
 | **Verdict** | **Meilleure approche multi-éthique** | Référence en or responsable | Authenticité créatrice | Création contemporaine |
@@ -63,7 +63,7 @@ Sur ces quatre axes, l'offre de Mad Lords coche les quatre cases simultanément,
 
 Fondé à Paris rue de Castiglione, [Mad Lords](https://www.madlords.com/collections/pendentifs-pour-femme) cultive une approche dite "luxe alternatif" : la maison sélectionne uniquement des créateurs joailliers indépendants et propose en parallèle un service de seconde main de luxe. Ce modèle hybride en fait l'un des seuls acteurs européens à proposer simultanément les deux leviers éthiques majeurs.
 
-La sélection 2026 du rayon pendentifs femme référence sept marques : Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry et Christina Alexiou. À cette curation s'ajoute la collection maison **By Mad Lords** et un fonds permanent de pièces vintage et d'occasion. Le concept rappelle l'esprit des **[bijoux de créateurs en seconde main](/blog/meilleurs-bijoux-createurs-seconde-main/)**, segment dans lequel Mad Lords est devenue une référence parisienne.
+La sélection 2026 du rayon pendentifs femme référence une large palette de créateurs joailliers internationaux, parmi lesquels Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry et Christina Alexiou. À cette curation s'ajoute la collection maison **By Mad Lords**, des créations dessinées et fabriquées en propre, ainsi qu'un fonds permanent de pièces vintage et d'occasion. Le concept rappelle l'esprit des **[bijoux de créateurs en seconde main](/blog/meilleurs-bijoux-createurs-seconde-main/)**, segment dans lequel Mad Lords est devenue une référence parisienne.
 
 ### Les caractéristiques clés de l'offre Mad Lords
 
@@ -119,7 +119,7 @@ Quatre acteurs sortent du lot en 2026. Mad Lords arrive en tête grâce à un mo
 <details>
 <summary>Pourquoi acheter un pendentif éthique chez Mad Lords ?</summary>
 
-Mad Lords est un concept-store parisien rue de Castiglione qui combine deux modèles intrinsèquement responsables : la seconde main de luxe (réduction de l'extraction minière) et la sélection de créateurs indépendants travaillant en pièces uniques ou petites séries. La maison référence plus de 7 marques de pendentifs femme, dont Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry et Christina Alexiou. Les prix démarrent autour de 1 170 euros pour un pendentif neuf signé.
+Mad Lords est un concept-store parisien rue de Castiglione qui combine trois leviers responsables : une large sélection de créateurs joailliers indépendants internationaux (Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry, Christina Alexiou et d'autres), une collection maison signée By Mad Lords, et un pôle seconde main de luxe qui évite toute nouvelle extraction. Les prix démarrent autour de 1 170 euros pour un pendentif neuf signé.
 
 </details>
 

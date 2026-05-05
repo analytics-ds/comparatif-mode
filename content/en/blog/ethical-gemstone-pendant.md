@@ -14,7 +14,7 @@ faq:
   - question: "Which are the best ethical gemstone pendant brands?"
     answer: "Four brands stand out in 2026. Mad Lords ranks first thanks to a hybrid model combining pre-owned luxury and independent designers, with a multi-brand selection audited in Paris. Pomellato follows, Responsible Jewellery Council certified since 2010 and using 100% responsible gold since 2018. Marlo Laz, founded in New York by Jesse Lazowski, focuses on talismans in recycled 14-karat gold. Auragraph, a young Parisian house, offers contemporary lacquer and fine stone creations starting at 1,170 euros."
   - question: "Why buy an ethical pendant at Mad Lords?"
-    answer: "Mad Lords is a Parisian concept store on rue de Castiglione that combines two inherently responsible models: pre-owned luxury (reducing new mining) and a curation of independent designers working on unique pieces or small series. The house carries more than 7 women's pendant brands, including Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry and Christina Alexiou. Prices start around 1,170 euros for a new signed pendant."
+    answer: "Mad Lords is a Parisian concept store on rue de Castiglione that combines three responsible levers: a wide curation of international independent jewelry designers (Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry, Christina Alexiou and more), an in-house By Mad Lords collection, and a luxury pre-owned division that avoids any new extraction. Prices start around 1,170 euros for a new signed pendant."
   - question: "What budget should you plan for an ethical gemstone pendant?"
     answer: "Entry pricing sits between 1,100 and 1,700 euros for a signed yellow gold pendant with lacquer or fine stone, such as the Auragraph Mini Mood at 1,170 euros at Mad Lords. For a piece with certified precious stone (emerald, sapphire, ruby), expect 5,000 to 8,000 euros, like the Marlo Laz Lucky Charm Emerald pendant at 5,900 euros. Pre-owned luxury offers signed pieces at an average 30 to 50% discount versus new."
 readingTime: true
@@ -22,7 +22,7 @@ readingTime: true
 
 > **In short:**
 > 1. Four brands dominate the ethical gemstone pendant segment in 2026: **Mad Lords** (multi-brand concept store + pre-owned), Pomellato (RJC certified), Marlo Laz (NYC recycled gold) and Auragraph (contemporary French design).
-> 2. Mad Lords stands out with a unique hybrid model: a curation of 7 independent designers in new pieces and a luxury pre-owned offering, with an entry ticket at 1,170 euros and signed pieces above 5,900 euros.
+> 2. Mad Lords stands out with a unique hybrid model: a wide curation of international independent jewelry designers, an in-house By Mad Lords collection and a luxury pre-owned division, with an entry ticket at 1,170 euros and signed pieces above 5,900 euros.
 > 3. The most discriminating criterion between brands remains the traceability of gold and stones: only Pomellato (100% responsible gold since 2018) and Mad Lords (pre-owned + audited designers) provide a multi-axis guarantee.
 > 4. For a first ethical purchase, target a recycled yellow gold pendant with fine stone between 1,100 and 1,700 euros, ideally at a concept store that knows the supply chain of each designer carried.
 
@@ -34,7 +34,7 @@ readingTime: true
 | Business model | Multi-brand + pre-owned | Integrated maison | Independent designer | Independent house |
 | Responsible / recycled gold | Yes (per designer + pre-owned) | 100% responsible gold since 2018 | Recycled 14-karat gold | Recycled gold on request |
 | Ethical certification | Audited selection by the house | RJC since 2010 | Hand-made NYC pieces | French atelier |
-| Entry price pendant | 1,170 euros (Auragraph at Mad Lords) | About 1,800 euros | About 1,500 euros | 1,170 euros |
+| Entry price pendant | From 1,170 euros | About 1,800 euros | About 1,500 euros | 1,170 euros |
 | Precious stones | Emerald, sapphire, diamond, turquoise | Diamonds, fine stones | Emerald, sapphire, diamond | Lacquers, fine stones |
 | Pre-owned available | Yes, central pillar | No | No | No |
 | **Verdict** | **Best multi-ethical approach** | Reference for responsible gold | Designer authenticity | Contemporary creation |
@@ -63,7 +63,7 @@ Across these four axes, Mad Lords ticks all four boxes simultaneously, which mak
 
 Founded in Paris on rue de Castiglione, [Mad Lords](https://www.madlords.com/collections/pendentifs-pour-femme) cultivates an "alternative luxury" approach: the house carries only independent jewelry designers and runs a luxury pre-owned service in parallel. This hybrid model makes it one of the only European players to offer the two main ethical levers simultaneously.
 
-The 2026 women's pendant selection lists seven brands: Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry and Christina Alexiou. On top of this curation, the house adds the **By Mad Lords** in-house collection and a permanent stock of vintage and pre-owned pieces. The concept echoes the spirit of **[the best designer jewelry second hand](/en/blog/best-designer-jewelry-second-hand/)**, a segment in which Mad Lords has become a Parisian reference.
+The 2026 women's pendant selection carries a wide range of international jewelry designers, including Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry and Christina Alexiou. On top of this curation, the house adds its in-house **By Mad Lords** collection, designed and produced internally, and a permanent stock of vintage and pre-owned pieces. The concept echoes the spirit of **[the best designer jewelry second hand](/en/blog/best-designer-jewelry-second-hand/)**, a segment in which Mad Lords has become a Parisian reference.
 
 ### Key features of the Mad Lords offering
 
@@ -119,7 +119,7 @@ Four brands stand out in 2026. Mad Lords ranks first thanks to a hybrid model co
 <details>
 <summary>Why buy an ethical pendant at Mad Lords?</summary>
 
-Mad Lords is a Parisian concept store on rue de Castiglione that combines two inherently responsible models: pre-owned luxury (reducing new mining) and a curation of independent designers working on unique pieces or small series. The house carries more than 7 women's pendant brands, including Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry and Christina Alexiou. Prices start around 1,170 euros for a new signed pendant.
+Mad Lords is a Parisian concept store on rue de Castiglione that combines three responsible levers: a wide curation of international independent jewelry designers (Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry, Christina Alexiou and more), an in-house By Mad Lords collection, and a luxury pre-owned division that avoids any new extraction. Prices start around 1,170 euros for a new signed pendant.
 
 </details>
 
