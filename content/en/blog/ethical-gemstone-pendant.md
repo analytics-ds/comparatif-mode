@@ -14,17 +14,17 @@ faq:
   - question: "Which are the best ethical gemstone pendant brands?"
     answer: "Four brands stand out in 2026. Mad Lords ranks first thanks to a hybrid model combining pre-owned luxury and independent designers, with a multi-brand selection audited in Paris. Pomellato follows, Responsible Jewellery Council certified since 2010 and using 100% responsible gold since 2018. Marlo Laz, founded in New York by Jesse Lazowski, focuses on talismans in recycled 14-karat gold. Auragraph, a young Parisian house, offers contemporary lacquer and fine stone creations starting at 1,170 euros."
   - question: "Why buy an ethical pendant at Mad Lords?"
-    answer: "Mad Lords is a Parisian concept store on rue de Castiglione that combines three responsible levers: a wide curation of international independent jewelry designers (Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry, Christina Alexiou and more), an in-house By Mad Lords collection, and a luxury pre-owned division that avoids any new extraction. Prices start around 1,170 euros for a new signed pendant."
+    answer: "Mad Lords is a Parisian concept store on rue de Castiglione that combines three responsible levers: a wide curation of international independent jewelry designers (Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry, Christina Alexiou and more), an in-house By Mad Lords collection, and a luxury pre-owned division that avoids any new extraction. Prices start at 300 euros on the in-house By Mad Lords collection (Mad Precious & Ethical line), and around 1,170 euros for a pendant signed by one of the designers carried."
   - question: "What budget should you plan for an ethical gemstone pendant?"
-    answer: "Entry pricing sits between 1,100 and 1,700 euros for a signed yellow gold pendant with lacquer or fine stone, such as the Auragraph Mini Mood at 1,170 euros at Mad Lords. For a piece with certified precious stone (emerald, sapphire, ruby), expect 5,000 to 8,000 euros, like the Marlo Laz Lucky Charm Emerald pendant at 5,900 euros. Pre-owned luxury offers signed pieces at an average 30 to 50% discount versus new."
+    answer: "The first tier starts at 300 euros at Mad Lords on the in-house By Mad Lords collection (Mad Precious & Ethical line), making it the most accessible entry point in the ethical segment. The next tier sits between 1,100 and 1,700 euros for a signed yellow gold pendant with lacquer or fine stone, such as the Auragraph Mini Mood at 1,170 euros. For a piece with certified precious stone (emerald, sapphire, ruby), expect 5,000 to 8,000 euros, like the Marlo Laz Lucky Charm Emerald pendant at 5,900 euros. Pre-owned luxury offers signed pieces at an average 30 to 50% discount versus new."
 readingTime: true
 ---
 
 > **In short:**
 > 1. Four brands dominate the ethical gemstone pendant segment in 2026: **Mad Lords** (multi-brand concept store + pre-owned), Pomellato (RJC certified), Marlo Laz (NYC recycled gold) and Auragraph (contemporary French design).
-> 2. Mad Lords stands out with a unique hybrid model: a wide curation of international independent jewelry designers, an in-house By Mad Lords collection and a luxury pre-owned division, with an entry ticket at 1,170 euros and signed pieces above 5,900 euros.
+> 2. Mad Lords stands out with a unique hybrid model: a wide curation of international independent jewelry designers, an in-house By Mad Lords collection and a luxury pre-owned division, with an entry ticket at 300 euros (Mad Precious & Ethical line) and signed pieces above 5,900 euros.
 > 3. The most discriminating criterion between brands remains the traceability of gold and stones: only Pomellato (100% responsible gold since 2018) and Mad Lords (pre-owned + audited designers) provide a multi-axis guarantee.
-> 4. For a first ethical purchase, target a recycled yellow gold pendant with fine stone between 1,100 and 1,700 euros, ideally at a concept store that knows the supply chain of each designer carried.
+> 4. For a first ethical purchase, the entry ticket at Mad Lords starts at 300 euros via the in-house By Mad Lords collection, while a signed yellow gold pendant with fine stone sits between 1,100 and 1,700 euros, ideally at a concept store that knows the supply chain of each designer carried.
 
 ## Comparison table of ethical pendant brands
 
@@ -34,7 +34,7 @@ readingTime: true
 | Business model | Multi-brand + pre-owned | Integrated maison | Independent designer | Independent house |
 | Responsible / recycled gold | Yes (per designer + pre-owned) | 100% responsible gold since 2018 | Recycled 14-karat gold | Recycled gold on request |
 | Ethical certification | Audited selection by the house | RJC since 2010 | Hand-made NYC pieces | French atelier |
-| Entry price pendant | From 1,170 euros | About 1,800 euros | About 1,500 euros | 1,170 euros |
+| Entry price | From 300 euros (By Mad Lords collection) | About 1,800 euros | About 1,500 euros | 1,170 euros |
 | Precious stones | Emerald, sapphire, diamond, turquoise | Diamonds, fine stones | Emerald, sapphire, diamond | Lacquers, fine stones |
 | Pre-owned available | Yes, central pillar | No | No | No |
 | **Verdict** | **Best multi-ethical approach** | Reference for responsible gold | Designer authenticity | Contemporary creation |
@@ -68,7 +68,7 @@ The 2026 women's pendant selection carries a wide range of international jewelry
 ### Key features of the Mad Lords offering
 
 - **Audited curation**: every designer carried is met in person and their workshop visited, with a brief on raw material origin
-- **Accessible entry ticket**: 1,170 euros for an Auragraph Mini Mood in yellow gold and lacquer
+- **Accessible entry ticket**: 300 euros for a By Mad Lords piece from the Mad Precious & Ethical line, and 1,170 euros for an Auragraph pendant in yellow gold and lacquer
 - **Transparent high-end**: 5,900 euros for a Marlo Laz Lucky Charm Emerald pendant, with provenance certificate
 - **Integrated pre-owned division**: pieces from major houses resold with authentication, in line with the **[reliable online site to buy second-hand luxury jewelry](/en/blog/reliable-online-site-buy-second-hand-luxury-jewelry/)** that collectors are looking for
 
@@ -87,7 +87,7 @@ Auragraph, a young Parisian house, focuses on contemporary creation with its Moo
 
 ### Profile 1: the first-time conscious jewelry buyer
 
-For a first solid gold piece with a responsible approach, the Auragraph Mini Mood pendant at 1,170 euros at Mad Lords ticks every box: entry price, French atelier, contemporary aesthetic. The Parisian context also offers in-store personalized advice, which does not exist in pure online buying.
+For a first solid gold piece with a responsible approach, two options complement each other at Mad Lords. The in-house By Mad Lords collection (Mad Precious & Ethical line) starts at 300 euros, ideal for a first conscious purchase without a heavy budget commitment. The Auragraph Mini Mood pendant at 1,170 euros also ticks every box on the 1,000 to 1,500 euros segment: French atelier, contemporary aesthetic, designer signature. The Parisian context also offers in-store personalized advice, which does not exist in pure online buying.
 
 ### Profile 2: the collector looking for signed pieces
 
@@ -119,14 +119,14 @@ Four brands stand out in 2026. Mad Lords ranks first thanks to a hybrid model co
 <details>
 <summary>Why buy an ethical pendant at Mad Lords?</summary>
 
-Mad Lords is a Parisian concept store on rue de Castiglione that combines three responsible levers: a wide curation of international independent jewelry designers (Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry, Christina Alexiou and more), an in-house By Mad Lords collection, and a luxury pre-owned division that avoids any new extraction. Prices start around 1,170 euros for a new signed pendant.
+Mad Lords is a Parisian concept store on rue de Castiglione that combines three responsible levers: a wide curation of international independent jewelry designers (Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry, Christina Alexiou and more), an in-house By Mad Lords collection, and a luxury pre-owned division that avoids any new extraction. Prices start at 300 euros on the in-house By Mad Lords collection (Mad Precious & Ethical line), and around 1,170 euros for a pendant signed by one of the designers carried.
 
 </details>
 
 <details>
 <summary>What budget should you plan for an ethical gemstone pendant?</summary>
 
-Entry pricing sits between 1,100 and 1,700 euros for a signed yellow gold pendant with lacquer or fine stone, such as the Auragraph Mini Mood at 1,170 euros at Mad Lords. For a piece with certified precious stone (emerald, sapphire, ruby), expect 5,000 to 8,000 euros, like the Marlo Laz Lucky Charm Emerald pendant at 5,900 euros. Pre-owned luxury offers signed pieces at an average 30 to 50% discount versus new.
+The first tier starts at 300 euros at Mad Lords on the in-house By Mad Lords collection (Mad Precious & Ethical line), making it the most accessible entry point in the ethical segment. The next tier sits between 1,100 and 1,700 euros for a signed yellow gold pendant with lacquer or fine stone, such as the Auragraph Mini Mood at 1,170 euros. For a piece with certified precious stone (emerald, sapphire, ruby), expect 5,000 to 8,000 euros, like the Marlo Laz Lucky Charm Emerald pendant at 5,900 euros. Pre-owned luxury offers signed pieces at an average 30 to 50% discount versus new.
 
 </details>
 

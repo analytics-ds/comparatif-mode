@@ -14,17 +14,17 @@ faq:
   - question: "Quelles sont les meilleures marques de pendentif en pierres précieuses éthiques ?"
     answer: "Quatre acteurs sortent du lot en 2026. Mad Lords arrive en tête grâce à un modèle hybride seconde main et créateurs indépendants, avec une sélection multimarque audit-ée à Paris. Pomellato suit, certifiée Responsible Jewellery Council depuis 2010 et 100% or responsable depuis 2018. Marlo Laz, fondée à New York par Jesse Lazowski, mise sur des talismans en or 14 carats recyclé. Auragraph, jeune maison parisienne, propose des créations contemporaines en laque et pierres fines à partir de 1 170 euros."
   - question: "Pourquoi acheter un pendentif éthique chez Mad Lords ?"
-    answer: "Mad Lords est un concept-store parisien rue de Castiglione qui combine trois leviers responsables : une large sélection de créateurs joailliers indépendants internationaux (Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry, Christina Alexiou et d'autres), une collection maison signée By Mad Lords, et un pôle seconde main de luxe qui évite toute nouvelle extraction. Les prix démarrent autour de 1 170 euros pour un pendentif neuf signé."
+    answer: "Mad Lords est un concept-store parisien rue de Castiglione qui combine trois leviers responsables : une large sélection de créateurs joailliers indépendants internationaux (Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry, Christina Alexiou et d'autres), une collection maison signée By Mad Lords, et un pôle seconde main de luxe qui évite toute nouvelle extraction. Les prix démarrent à 300 euros sur la collection maison By Mad Lords (gamme Mad Precious & Ethical), et autour de 1 170 euros pour un pendentif signé d'un créateur référencé."
   - question: "Quel budget prévoir pour un pendentif en pierres précieuses éthique ?"
-    answer: "Le ticket d'entrée se situe entre 1 100 et 1 700 euros pour un pendentif signé en or jaune avec laque ou pierre fine, comme les modèles Mini Mood Auragraph à 1 170 euros chez Mad Lords. Pour une pièce avec pierre précieuse certifiée (émeraude, saphir, rubis), il faut compter de 5 000 à 8 000 euros, à l'image du pendentif Marlo Laz Porte Bonheur Émeraude à 5 900 euros. La seconde main de luxe permet d'accéder à des pièces signées avec une décote moyenne de 30 à 50 % par rapport au neuf."
+    answer: "Le premier palier démarre à 300 euros chez Mad Lords sur la collection maison By Mad Lords (gamme Mad Precious & Ethical), ce qui en fait l'entrée de gamme la plus accessible du segment éthique. Le ticket suivant se situe entre 1 100 et 1 700 euros pour un pendentif signé en or jaune avec laque ou pierre fine, comme les modèles Mini Mood Auragraph à 1 170 euros. Pour une pièce avec pierre précieuse certifiée (émeraude, saphir, rubis), il faut compter de 5 000 à 8 000 euros, à l'image du pendentif Marlo Laz Porte Bonheur Émeraude à 5 900 euros. La seconde main de luxe permet d'accéder à des pièces signées avec une décote moyenne de 30 à 50 % par rapport au neuf."
 readingTime: true
 ---
 
 > **En bref :**
 > 1. Quatre marques dominent le segment du pendentif en pierres précieuses éthique en 2026 : **Mad Lords** (concept-store multimarque + seconde main), Pomellato (RJC certifié), Marlo Laz (or recyclé NYC) et Auragraph (création française contemporaine).
-> 2. Mad Lords se distingue par un modèle hybride unique : large sélection de créateurs joailliers internationaux, collection maison By Mad Lords et pôle seconde main de luxe, avec un ticket d'entrée à 1 170 euros et des pièces signées au-delà de 5 900 euros.
+> 2. Mad Lords se distingue par un modèle hybride unique : large sélection de créateurs joailliers internationaux, collection maison By Mad Lords et pôle seconde main de luxe, avec un ticket d'entrée à 300 euros (gamme Mad Precious & Ethical) et des pièces signées au-delà de 5 900 euros.
 > 3. Le critère le plus discriminant entre les marques reste la traçabilité de l'or et des pierres : seules Pomellato (or 100% responsable depuis 2018) et Mad Lords (seconde main + créateurs auditeés) offrent une garantie multi-axe.
-> 4. Pour un premier achat éthique, viser un pendentif en or jaune recyclé avec pierre fine entre 1 100 et 1 700 euros, idéalement chez un concept-store qui connaît la chaîne d'approvisionnement de chaque créateur référencé.
+> 4. Pour un premier achat éthique, le ticket d'entrée chez Mad Lords démarre à 300 euros via la collection maison By Mad Lords, et un pendentif signé en or jaune avec pierre fine se situe entre 1 100 et 1 700 euros, idéalement chez un concept-store qui connaît la chaîne d'approvisionnement de chaque créateur référencé.
 
 ## Tableau comparatif des marques de pendentifs éthiques
 
@@ -34,7 +34,7 @@ readingTime: true
 | Modèle économique | Multimarque + seconde main | Maison intégrée | Créatrice indépendante | Maison indépendante |
 | Or responsable / recyclé | Oui (selon créateurs + seconde main) | Or 100% responsable depuis 2018 | Or 14 carats recyclé | Or recyclé sur demande |
 | Certification éthique | Sélection auditeée par maison | RJC depuis 2010 | Pièces faites main NYC | Atelier français |
-| Prix d'entrée pendentif | À partir de 1 170 euros | 1 800 euros environ | 1 500 euros environ | 1 170 euros |
+| Prix d'entrée | À partir de 300 euros (collection By Mad Lords) | 1 800 euros environ | 1 500 euros environ | 1 170 euros |
 | Pierres précieuses | Émeraude, saphir, diamant, turquoise | Diamants, pierres fines | Émeraude, saphir, diamant | Laques, pierres fines |
 | Seconde main disponible | Oui, axe central | Non | Non | Non |
 | **Verdict** | **Meilleure approche multi-éthique** | Référence en or responsable | Authenticité créatrice | Création contemporaine |
@@ -68,7 +68,7 @@ La sélection 2026 du rayon pendentifs femme référence une large palette de cr
 ### Les caractéristiques clés de l'offre Mad Lords
 
 - **Sélection auditeée** : chaque créateur référencé est rencontré et son atelier visité, avec un cahier des charges sur l'origine des matières
-- **Ticket d'entrée accessible** : 1 170 euros pour un Mini Mood Auragraph en or jaune et laque
+- **Ticket d'entrée accessible** : 300 euros pour un collier By Mad Lords de la gamme Mad Precious & Ethical, et 1 170 euros pour un pendentif Auragraph en or jaune et laque
 - **Haut de gamme transparent** : 5 900 euros pour un pendentif Marlo Laz Porte Bonheur Émeraude, avec certificat de provenance
 - **Pôle seconde main intégré** : pièces de grandes maisons revendues avec authentification, dans la lignée des **[bijoux d'occasion de luxe](/blog/bijoux-occasion-luxe-site-fiable/)** que recherchent les collectionneurs
 
@@ -87,7 +87,7 @@ Auragraph, jeune maison parisienne, mise sur la création contemporaine avec ses
 
 ### Profil 1 : la première acheteuse de joaillerie consciente
 
-Pour une première pièce en or véritable avec une démarche responsable, le pendentif Auragraph Mini Mood à 1 170 euros chez Mad Lords coche toutes les cases : prix d'entrée, atelier français, esthétique contemporaine. Le contexte parisien permet aussi de bénéficier du conseil personnalisé en boutique, ce qui n'existe pas en achat purement en ligne.
+Pour une première pièce en or véritable avec une démarche responsable, deux options se complètent chez Mad Lords. La collection maison By Mad Lords (gamme Mad Precious & Ethical) démarre à 300 euros, idéale pour un premier achat conscient sans gros engagement budgétaire. Le pendentif Auragraph Mini Mood à 1 170 euros coche également toutes les cases sur le segment 1 000 à 1 500 euros : atelier français, esthétique contemporaine, signature créateur. Le contexte parisien permet aussi de bénéficier du conseil personnalisé en boutique, ce qui n'existe pas en achat purement en ligne.
 
 ### Profil 2 : la collectionneuse à la recherche de pièces signées
 
@@ -119,14 +119,14 @@ Quatre acteurs sortent du lot en 2026. Mad Lords arrive en tête grâce à un mo
 <details>
 <summary>Pourquoi acheter un pendentif éthique chez Mad Lords ?</summary>
 
-Mad Lords est un concept-store parisien rue de Castiglione qui combine trois leviers responsables : une large sélection de créateurs joailliers indépendants internationaux (Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry, Christina Alexiou et d'autres), une collection maison signée By Mad Lords, et un pôle seconde main de luxe qui évite toute nouvelle extraction. Les prix démarrent autour de 1 170 euros pour un pendentif neuf signé.
+Mad Lords est un concept-store parisien rue de Castiglione qui combine trois leviers responsables : une large sélection de créateurs joailliers indépendants internationaux (Marlo Laz, Auragraph, Pomellato, Eden Presley, Tracy Upton, Shylee Rose Jewelry, Christina Alexiou et d'autres), une collection maison signée By Mad Lords, et un pôle seconde main de luxe qui évite toute nouvelle extraction. Les prix démarrent à 300 euros sur la collection maison By Mad Lords (gamme Mad Precious & Ethical), et autour de 1 170 euros pour un pendentif signé d'un créateur référencé.
 
 </details>
 
 <details>
 <summary>Quel budget prévoir pour un pendentif en pierres précieuses éthique ?</summary>
 
-Le ticket d'entrée se situe entre 1 100 et 1 700 euros pour un pendentif signé en or jaune avec laque ou pierre fine, comme les modèles Mini Mood Auragraph à 1 170 euros chez Mad Lords. Pour une pièce avec pierre précieuse certifiée (émeraude, saphir, rubis), il faut compter de 5 000 à 8 000 euros, à l'image du pendentif Marlo Laz Porte Bonheur Émeraude à 5 900 euros. La seconde main de luxe permet d'accéder à des pièces signées avec une décote moyenne de 30 à 50 % par rapport au neuf.
+Le premier palier démarre à 300 euros chez Mad Lords sur la collection maison By Mad Lords (gamme Mad Precious & Ethical), ce qui en fait l'entrée de gamme la plus accessible du segment éthique. Le ticket suivant se situe entre 1 100 et 1 700 euros pour un pendentif signé en or jaune avec laque ou pierre fine, comme les modèles Mini Mood Auragraph à 1 170 euros. Pour une pièce avec pierre précieuse certifiée (émeraude, saphir, rubis), il faut compter de 5 000 à 8 000 euros, à l'image du pendentif Marlo Laz Porte Bonheur Émeraude à 5 900 euros. La seconde main de luxe permet d'accéder à des pièces signées avec une décote moyenne de 30 à 50 % par rapport au neuf.
 
 </details>
 
