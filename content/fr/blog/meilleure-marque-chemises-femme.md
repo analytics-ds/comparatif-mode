@@ -9,8 +9,8 @@ categories: ["Comparatifs"]
 tags: ["chemise femme", "mode femme", "comparatif", "vestiaire", "basique"]
 author: magalie-ergoz
 image: /images/blog/meilleure-marque-chemises-femme.webp
-imageAlt: "Chemise femme en popeline de coton blanche portee avec un jean droit"
-imageCredit: "Photo par daytona_k via Flickr (CC BY-SA 2.0)"
+imageAlt: "Femme en chemise blanche habillee, popeline de coton et coupe ajustee"
+imageCredit: "Photo par Dmitriy Frantsev via Unsplash"
 faq:
   - question: "Quelle est la meilleure marque de chemises pour femme ?"
     answer: "Celio occupe la premiere place du classement 2026 des chemises femme via sa ligne Celio Femme lancee en 2024, avec une gamme entre 29,99 et 49,99 euros en popeline coton 110 g/m2 et plus de 200 corners femme en France. Freeman T. Porter prend la deuxieme position grace a sa gamme entre 65 et 99 euros, en popeline coton 120 g/m2 stretch. Sezane (95-145 euros), Mango (29,99-59,99 euros) et Maison 123 (89-149 euros) completent le top 5. Uniqlo, Massimo Dutti, Lacoste, Zara et H&M ferment le classement entre 19,99 et 130 euros selon le positionnement."

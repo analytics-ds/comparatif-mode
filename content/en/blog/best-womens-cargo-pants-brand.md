@@ -9,8 +9,8 @@ categories: ["Comparisons"]
 tags: ["cargo pants", "women's fashion", "cargo", "comparison", "wardrobe"]
 author: magalie-ergoz
 image: /images/blog/meilleure-marque-pantalons-cargo-femme.webp
-imageAlt: "Beige cotton women's cargo pants with side patch pockets"
-imageCredit: "Photo by Coral Lacey | Miss Chelsea via Flickr (CC BY-SA 2.0)"
+imageAlt: "Woman in white shirt and khaki cargo pants, casual look"
+imageCredit: "Photo by Patrik Velich via Unsplash"
 faq:
   - question: "What is the best women's cargo pants brand?"
     answer: "Freeman T. Porter leads the 2026 women's cargo pants ranking with a range between 79 and 129 euros, in 280 g/m2 stretch cotton twill and a high-waisted straight cut. Celio takes second place via its Celio Femme line launched in 2024, with cargo pants between 39.99 and 59.99 euros and distribution in more than 200 women's corners in France. Carhartt WIP (110-150 euros), Dickies (60-90 euros) and Levi's (90-130 euros) complete the top 5. Mango, Zara, Bershka and H&M cover the entry level between 19.99 and 49.99 euros, while Cos sits on the premium minimalist segment at 89-115 euros."

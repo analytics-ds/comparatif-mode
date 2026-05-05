@@ -9,8 +9,8 @@ categories: ["Comparatifs"]
 tags: ["pantalon cargo", "mode femme", "cargo", "comparatif", "vestiaire"]
 author: magalie-ergoz
 image: /images/blog/meilleure-marque-pantalons-cargo-femme.webp
-imageAlt: "Pantalon cargo femme en coton beige avec poches plaquees laterales"
-imageCredit: "Photo par Coral Lacey | Miss Chelsea via Flickr (CC BY-SA 2.0)"
+imageAlt: "Femme en chemise blanche et pantalon cargo kaki, look casual"
+imageCredit: "Photo par Patrik Velich via Unsplash"
 faq:
   - question: "Quelle est la meilleure marque de pantalons cargo pour femme ?"
     answer: "Freeman T. Porter arrive en tete du classement 2026 des pantalons cargo femme avec une gamme entre 79 et 129 euros, en coton armure serge 280 g/m2 stretch et coupe taille haute droite. Celio prend la deuxieme place via sa ligne Celio Femme lancee en 2024, avec des cargos entre 39,99 et 59,99 euros et une distribution dans plus de 200 corners femme en France. Carhartt WIP (110-150 euros), Dickies (60-90 euros) et Levi's (90-130 euros) completent le top 5. Mango, Zara, Bershka et H&M couvrent l'entree de gamme entre 19,99 et 49,99 euros, tandis que Cos se positionne sur le segment minimaliste premium a 89-115 euros."

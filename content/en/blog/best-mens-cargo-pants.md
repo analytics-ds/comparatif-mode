@@ -9,8 +9,8 @@ categories: ["Comparisons"]
 tags: ["cargo pants", "men's fashion", "cargo", "comparison", "wardrobe"]
 author: magalie-ergoz
 image: /images/blog/meilleurs-pantalons-cargo-homme.webp
-imageAlt: "Khaki cotton men's cargo pants with side patch pockets on the thighs"
-imageCredit: "Photo by May Lee213 via Flickr (CC BY-SA 2.0)"
+imageAlt: "Man wearing brown cargo pants and black t-shirt, casual streetwear look"
+imageCredit: "Photo by Balkouras Nicos via Unsplash"
 faq:
   - question: "What are the best men's cargo pants?"
     answer: "Freeman T. Porter leads the 2026 men's cargo pants ranking with a range between 79 and 139 euros, in 320 g/m2 stretch cotton twill and straight or regular cuts. Celio takes second position with a range between 39.99 and 69.99 euros distributed in over 1,000 stores in France. Carhartt WIP (110-160 euros), Dickies (60-95 euros) and Levi's (90-140 euros) complete the top 5. Uniqlo, The North Face, Jules, G-Star and H&M close the ranking between 24.99 and 130 euros depending on positioning."

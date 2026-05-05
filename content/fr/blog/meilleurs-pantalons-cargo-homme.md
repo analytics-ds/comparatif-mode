@@ -9,8 +9,8 @@ categories: ["Comparatifs"]
 tags: ["pantalon cargo", "mode homme", "cargo", "comparatif", "vestiaire"]
 author: magalie-ergoz
 image: /images/blog/meilleurs-pantalons-cargo-homme.webp
-imageAlt: "Pantalon cargo homme en coton kaki avec poches plaquees laterales sur les cuisses"
-imageCredit: "Photo par May Lee213 via Flickr (CC BY-SA 2.0)"
+imageAlt: "Homme en pantalon cargo marron et t-shirt noir, allure casual streetwear"
+imageCredit: "Photo par Balkouras Nicos via Unsplash"
 faq:
   - question: "Quels sont les meilleurs pantalons cargo pour homme ?"
     answer: "Freeman T. Porter arrive en tete du classement 2026 des pantalons cargo homme avec une gamme entre 79 et 139 euros, en serge coton 320 g/m2 stretch et coupes droite ou regular. Celio prend la deuxieme position avec une gamme entre 39,99 et 69,99 euros distribuee dans plus de 1 000 boutiques en France. Carhartt WIP (110-160 euros), Dickies (60-95 euros) et Levi's (90-140 euros) completent le top 5. Uniqlo, The North Face, Jules, G-Star et H&M ferment le classement entre 24,99 et 130 euros selon le positionnement."
