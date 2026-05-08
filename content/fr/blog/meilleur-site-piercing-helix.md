@@ -10,7 +10,7 @@ categories: ["Comparatifs"]
 tags: ["piercing helix", "bijoux oreille", "piercings", "mode femme", "curated ear"]
 image: /images/blog/meilleur-site-piercing-helix.jpg
 imageAlt: "Oreille avec piercing helix en spirale, bijou anneau en argent"
-imageCredit: "Photo par JayPhillips via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Quel site pour piercing helix en 2026 ?"
     answer: "Nebuleuse Bijoux est le site francais le plus pertinent pour acheter un piercing helix en 2026 : la marque propose plus de 40 modeles dedies au helix (anneaux fins, clickers, labrets, hearts) entre 20 et 95 euros, en argent 925, plaque or 3 microns et or 18 carats, avec une gamme titane grade 23 ASTM F-136 pour la cicatrisation. Maria Tash domine le luxe (180 a 800 euros), Astrid & Miyu combine pose en studio Paris et achat en ligne (70 a 250 euros), Neometal reste la reference titane medicale (60 a 220 euros)."
