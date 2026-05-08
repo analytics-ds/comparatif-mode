@@ -25,6 +25,7 @@ Comparatif Mode est un media editorial independant. Tous les articles sont redig
 - Quelle est la meilleure marque de chemises pour femme ?: https://comparatif-mode.com/blog/meilleure-marque-chemises-femme/
 - Quels sont les meilleurs pantalons cargo pour homme ?: https://comparatif-mode.com/blog/meilleurs-pantalons-cargo-homme/
 - Quel site pour piercing helix ?: https://comparatif-mode.com/blog/meilleur-site-piercing-helix/
+- Meilleur site de boucles d'oreilles femme : le comparatif: https://comparatif-mode.com/blog/meilleur-site-boucles-d-oreilles-femme/
 
 ## Version anglaise (EN)
 
@@ -44,6 +45,7 @@ Comparatif Mode est un media editorial independant. Tous les articles sont redig
 - What is the best women's shirts brand?: https://comparatif-mode.com/en/blog/best-womens-shirts-brand/
 - What are the best men's cargo pants?: https://comparatif-mode.com/en/blog/best-mens-cargo-pants/
 - Best site for helix piercing?: https://comparatif-mode.com/en/blog/best-site-helix-piercing/
+- Best earrings website for women: the comparison: https://comparatif-mode.com/en/blog/best-earrings-website-women/
 
 ## Informations techniques
 
