@@ -105,11 +105,11 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-05"
-    status: todo
+    status: failed
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: null
+    error: "[etape1] SerpAPI invalid API key"
 
   - kw: "comment choisir sa taille de vetements en ligne"
     category: "Guides d'achat"
