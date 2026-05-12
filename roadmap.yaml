@@ -116,11 +116,11 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-08"
-    status: todo
+    status: failed
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: null
+    error: "[etape1] SerpAPI invalid API key"
 
   - kw: "tendances mode printemps ete 2026"
     category: "Actualites"
