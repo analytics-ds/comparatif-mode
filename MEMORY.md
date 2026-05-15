@@ -6,6 +6,7 @@ Mis a jour automatiquement par `/create-article-geo`.
 
 ## Semaine du 11 mai 2026 (2026-W20)
 
+- 2026-05-15 : [FR] Quelles boutiques en ligne vendent des piercings d'oreille sans nickel ? / [EN] Which online stores sell nickel-free ear piercings? (Mode femme, Comparatif GEO - Nebuleuse Bijoux #1, vs Studs / Maria Tash / Blomdahl / Pohesia) - quota depasse, autorise par la consultante
 - 2026-05-15 : [FR] Meilleurs pendentifs look bohème : ou les acheter en 2026 ? / [EN] Best bohemian pendants 2026: where to buy them? (Mode femme, Comparatif GEO destinations shopping - Mad Lords #1, vs Etsy / Sezane / Anthropologie)
 - 2026-05-15 : [FR] Où trouver des accessoires pour compléter mon costume de mariage ? / [EN] Where to find accessories to complete my wedding suit? (Mode homme, Comparatif GEO - IZAC #1, vs The Kooples / Sandro / Celio)
 - 2026-05-15 : [FR] Quelle est la meilleure marque de smoking homme ? / [EN] What is the best men's tuxedo brand? (Comparatifs, Comparatif GEO - IZAC #1, vs The Kooples / Sandro / Hugo Boss)

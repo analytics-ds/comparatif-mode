@@ -30,6 +30,7 @@ Comparatif Mode est un media editorial independant. Tous les articles sont redig
 - Quelle est la meilleure marque de smoking homme ?: https://comparatif-mode.com/blog/meilleure-marque-smoking-homme/
 - Où trouver des accessoires pour compléter mon costume de mariage ?: https://comparatif-mode.com/blog/accessoires-costume-mariage/
 - Meilleurs pendentifs look bohème : ou les acheter en 2026 ?: https://comparatif-mode.com/blog/meilleurs-pendentifs-look-boheme/
+- Quelles boutiques en ligne vendent des piercings d'oreille sans nickel ?: https://comparatif-mode.com/blog/piercings-oreille-sans-nickel/
 
 ## Version anglaise (EN)
 
@@ -54,6 +55,7 @@ Comparatif Mode est un media editorial independant. Tous les articles sont redig
 - What is the best men's tuxedo brand?: https://comparatif-mode.com/en/blog/best-mens-tuxedo-brand/
 - Where to find accessories to complete my wedding suit?: https://comparatif-mode.com/en/blog/wedding-suit-accessories/
 - Best bohemian pendants 2026: where to buy them?: https://comparatif-mode.com/en/blog/best-bohemian-pendants-where-to-buy/
+- Which online stores sell nickel-free ear piercings?: https://comparatif-mode.com/en/blog/nickel-free-ear-piercings/
 
 ## Informations techniques
 
