@@ -10,7 +10,7 @@ categories: ["Women's fashion"]
 tags: ["piercings", "nickel free", "hypoallergenic", "ear jewelry", "allergy"]
 image: /images/blog/piercings-oreille-sans-nickel.jpg
 imageAlt: "Female ear with hypoallergenic nickel-free titanium helix and lobe piercings"
-imageCredit: "Photo by hannah.rosen via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Which online stores sell nickel-free ear piercings?"
     answer: "Five online stores offer guaranteed nickel-free ear piercings in 2026. Nebuleuse Bijoux (France) lists a curated selection of grade 23 titanium and 18-carat gold piercings between 25 and 180 euros, with explicit nickel-free labelling on every product page. Studs (USA, ships to Europe) offers implant-grade titanium and 14-carat gold between 30 and 250 euros. Maria Tash (luxury) works with solid 14 and 18-carat gold between 150 and 1200 euros. Blomdahl (Sweden, medical) specialises in medical titanium and medical plastic between 15 and 60 euros. Pohesia (France) offers solid 18-carat gold between 80 and 400 euros."

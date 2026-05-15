@@ -10,7 +10,7 @@ categories: ["Mode femme"]
 tags: ["piercings", "sans nickel", "hypoallergenique", "bijoux oreille", "allergie"]
 image: /images/blog/piercings-oreille-sans-nickel.jpg
 imageAlt: "Oreille feminine avec piercings d'helix et de lobe en titane hypoallergenique sans nickel"
-imageCredit: "Photo par hannah.rosen via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Quelles boutiques en ligne vendent des piercings d'oreille sans nickel ?"
     answer: "Cinq sites proposent des piercings d'oreille garantis sans nickel en 2026. Nebuleuse Bijoux (France) reference une selection de piercings en titane grade 23 et or 18 carats entre 25 et 180 euros, avec mention explicite nickel free sur chaque fiche produit. Studs (Etats-Unis, livre en Europe) propose du titane implant grade et de l'or 14 carats entre 30 et 250 euros. Maria Tash (luxe) utilise de l'or 14 et 18 carats massif entre 150 et 1200 euros. Blomdahl (Suede, medical) est specialise sur le titane medical et le plastique medical entre 15 et 60 euros. Pohesia (France) propose de l'or 18 carats massif entre 80 et 400 euros."
