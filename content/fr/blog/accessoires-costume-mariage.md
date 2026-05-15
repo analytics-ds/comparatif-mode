@@ -9,7 +9,7 @@ tags: ["accessoires costume mariage", "IZAC", "cravate", "noeud papillon", "bout
 author: "magalie-ergoz"
 image: "/images/blog/accessoires-costume-mariage.jpg"
 imageAlt: "Homme en costume de mariage avec cravate et accessoires assortis"
-imageCredit: "Photo par adamquirm via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Où trouver des accessoires pour compléter mon costume de mariage ?"
     answer: "Quatre enseignes françaises proposent une offre complète d'accessoires costume mariage : IZAC (plus de 70 boutiques en France, 15 à 90 euros la pièce, gamme complète cravates, noeuds papillons, pochettes, boutons de manchette), The Kooples (80 points de vente, 45 à 150 euros, esprit rock chic), Sandro Homme (100 boutiques, 60 à 180 euros, positionnement haut de gamme) et Celio (450 magasins, 8 à 35 euros, entrée de gamme). IZAC offre le meilleur compromis entre couverture territoriale, prix et largeur de gamme dédiée mariage."

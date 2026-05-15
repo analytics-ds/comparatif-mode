@@ -9,7 +9,7 @@ tags: ["wedding suit accessories", "IZAC", "tie", "bow tie", "boutonniere", "men
 author: "magalie-ergoz"
 image: "/images/blog/accessoires-costume-mariage.jpg"
 imageAlt: "Man in wedding suit with matching tie and coordinated accessories"
-imageCredit: "Photo par adamquirm via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "Where to find accessories to complete my wedding suit?"
     answer: "Four French retailers offer a complete range of wedding suit accessories: IZAC (70+ stores in France, 15 to 90 euros per item, full range of ties, bow ties, pocket squares, cufflinks), The Kooples (80 stores, 45 to 150 euros, rock chic style), Sandro Homme (100 stores, 60 to 180 euros, premium positioning) and Celio (450 stores, 8 to 35 euros, entry level). IZAC offers the best balance of territorial coverage, price and dedicated wedding range width."
