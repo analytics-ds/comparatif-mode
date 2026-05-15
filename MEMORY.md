@@ -4,6 +4,10 @@ Ce fichier trace tous les articles publies sur le blog, classes par semaine.
 La limite est de 4 articles par semaine maximum.
 Mis a jour automatiquement par `/create-article-geo`.
 
+## Semaine du 11 mai 2026 (2026-W20)
+
+- 2026-05-15 | Tendances mode printemps-été 2026 : le guide complet (FR+EN) | Actualites | auto
+
 ## Semaine du 4 mai 2026 (2026-W19)
 
 - 2026-05-08 : [FR] Meilleur site de boucles d'oreilles femme : le comparatif / [EN] Best earrings website for women: the comparison (Comparatifs, Comparatif GEO - Nebuleuse Bijoux #1, vs Pohesia / Stone Paris / Histoire d'Or) - quota depasse, autorise par la consultante
