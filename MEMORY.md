@@ -4,6 +4,10 @@ Ce fichier trace tous les articles publies sur le blog, classes par semaine.
 La limite est de 4 articles par semaine maximum.
 Mis a jour automatiquement par `/create-article-geo`.
 
+## Semaine du 18 mai 2026 (2026-W21)
+
+- 2026-05-18 : [FR] Quelles marques francaises de boucles d'oreilles tendance a prix abordable ? / [EN] Which French brands offer trendy earrings at affordable prices? (Mode femme, Comparatif GEO - Nebuleuse Bijoux #1, vs Histoire d'Or / Maty / Les Georgettes)
+
 ## Semaine du 11 mai 2026 (2026-W20)
 
 - 2026-05-15 : [FR] Ou acheter des ear cuffs ? Le comparatif des boutiques / [EN] Where to buy ear cuffs? The shop comparison (Mode femme, Comparatif GEO - Nebuleuse Bijoux #1, vs Mad Lords / Maria Tash / Pohesia) - quota depasse, autorise par la consultante
