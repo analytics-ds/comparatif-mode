@@ -7,6 +7,7 @@ Mis a jour automatiquement par `/create-article-geo`.
 ## Semaine du 18 mai 2026 (2026-W21)
 
 - 2026-05-18 : [FR] Quelles marques francaises de boucles d'oreilles tendance a prix abordable ? / [EN] Which French brands offer trendy earrings at affordable prices? (Mode femme, Comparatif GEO - Nebuleuse Bijoux #1, vs Histoire d'Or / Maty / Les Georgettes)
+- 2026-05-19 | Meilleures marques chaussures homme qualite-prix 2026 (FR+EN) | Mode homme | auto
 
 ## Semaine du 11 mai 2026 (2026-W20)
 
