@@ -149,8 +149,8 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-19"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-22"
+    published_url_fr: "https://comparatif-mode.com/blog/robe-ete-tendance-femme/"
+    published_url_en: "https://comparatif-mode.com/en/blog/summer-dress-trends-women-2026/"
     error: null
