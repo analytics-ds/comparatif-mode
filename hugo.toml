@@ -10,8 +10,8 @@ enableGitInfo = false
 
 [languages]
   [languages.fr]
-    languageCode = "fr-FR"
-    languageName = "Francais"
+    locale = "fr-FR"
+    label = "Francais"
     weight = 1
     title = "Comparatif mode"
     contentDir = "content/fr"
@@ -19,8 +19,8 @@ enableGitInfo = false
       description = "Comparatifs de mode homme et femme, guides d'achat et actualites."
 
   [languages.en]
-    languageCode = "en-US"
-    languageName = "English"
+    locale = "en-US"
+    label = "English"
     weight = 2
     title = "Comparatif mode"
     contentDir = "content/en"

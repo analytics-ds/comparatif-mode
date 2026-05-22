@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ $isEn := eq .Site.Language.Lang "en" }}
 {{ $authorId := .Params.authorId }}
-{{ $author := index .Site.Data.authors $authorId }}
+{{ $author := index hugo.Data.authors $authorId }}
 {{ $lang := .Site.Language.Lang }}
 
 <article class="author-page">

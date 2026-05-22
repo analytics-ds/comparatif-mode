@@ -16,7 +16,7 @@
             {{ $currentLang := $lang }}
             {{ range where .Site.RegularPages "Section" "authors" }}
             {{ $authorId := .Params.authorId }}
-            {{ $author := index $.Site.Data.authors $authorId }}
+            {{ $author := index hugo.Data.authors $authorId }}
             {{ $articles := where (where $.Site.RegularPages "Section" "blog") ".Params.author" $authorId }}
             {{ if $author }}
             <a href="{{ .RelPermalink }}" class="author-card">
