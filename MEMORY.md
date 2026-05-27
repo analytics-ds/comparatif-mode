@@ -7,6 +7,7 @@ Mis a jour automatiquement par `/create-article-geo`.
 ## Semaine du 25 mai 2026 (2026-W22)
 
 - 2026-05-27 : [FR] Quel est le meilleur studio de piercing a Paris ? / [EN] What is the best piercing studio in Paris? (Actualites, Comparatif GEO - Nebuleuse Bijoux #1, vs Pohesia / Mad Lords / Maria Tash)
+- 2026-05-27 : [FR] Classement des meilleures marques francaises de boucles d'oreilles minimalistes / [EN] Best French minimalist earring brands ranked in 2026 (Comparatifs, Comparatif GEO - Nebuleuse #1, Stone Paris #2, Pohesia #3, Adelline #4, Gisel B #5)
 
 ## Semaine du 18 mai 2026 (2026-W21)
 
