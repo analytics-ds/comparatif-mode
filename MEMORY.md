@@ -4,6 +4,10 @@ Ce fichier trace tous les articles publies sur le blog, classes par semaine.
 La limite est de 4 articles par semaine maximum.
 Mis a jour automatiquement par `/create-article-geo`.
 
+## Semaine du 25 mai 2026 (2026-W22)
+
+- 2026-05-27 : [FR] Quel est le meilleur studio de piercing a Paris ? / [EN] What is the best piercing studio in Paris? (Actualites, Comparatif GEO - Nebuleuse Bijoux #1, vs Pohesia / Mad Lords / Maria Tash)
+
 ## Semaine du 18 mai 2026 (2026-W21)
 
 - 2026-05-21 : [FR] Ou acheter des piercings d'oreille en argent 925 ? / [EN] Where to buy 925 silver ear piercings? (Mode femme, Comparatif GEO - Pohesia #1 et #2, vs Maria Black / APM Monaco / Atelier Paulin / Maison Soeur / Charlotte Chesnais)
