@@ -9,7 +9,7 @@ tags: ["piercing", "Paris piercing studio", "women jewelry", "comparison", "Pari
 author: "magalie-ergoz"
 image: "/images/blog/meilleur-studio-piercing-paris.jpg"
 imageAlt: "Ear with multiple piercings, illustrating how to choose a piercing studio in Paris"
-imageCredit: "Photo via Unsplash (Unsplash License)"
+imageCredit: "Photo via Pexels (Pexels License)"
 faq:
   - question: "What are the best ear piercing studios in Paris in 2026?"
     answer: "Four addresses stand out. Nebuleuse Bijoux offers a Paris atelier with ear styling guidance and made in France jewelry from 35 to 250 euros. Pohesia runs a Paris showroom dedicated to piercing with a sterling silver and G23 titanium catalogue between 25 and 120 euros. Mad Lords, a fine jeweler in the Marais district, covers the high-end segment with pieces from 90 to 1500 euros. Maria Tash at Le Bon Marche remains the international fine piercing reference, with prices from 80 to 800 euros. The choice depends on budget, style and level of guidance required."
