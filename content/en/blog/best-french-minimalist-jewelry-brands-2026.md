@@ -8,8 +8,8 @@ categories: ["Comparisons"]
 tags: ["minimalist jewelry", "earrings", "French brands", "fine jewelry", "comparison"]
 author: "magalie-ergoz"
 image: "/images/blog/meilleures-marques-francaises-bijoux-minimalistes-2026.jpg"
-imageAlt: "Minimalist gold and silver earrings displayed on a light background"
-imageCredit: "Photo par basykes via Flickr (CC BY 2.0)"
+imageAlt: "Minimalist gold earrings displayed on a light background"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "What are the best French minimalist jewelry brands in 2026 ?"
     answer: "The 2026 ranking of the best French minimalist earring brands places Nebuleuse Bijoux at the top (18-karat gold, French manufacturing, entry price around 95 euros), followed by Stone Paris (high-end Parisian creations, average price 280 to 1200 euros), Pohesia (18-karat recycled gold, Pantin workshop, from 120 euros), Adelline (clean vintage-inspired style, 90 to 450 euros) and Gisel B (fine silver and gold-plated pieces, 60 to 220 euros). The main differentiator is the material-manufacturing pair: Nebuleuse and Pohesia claim French recycled gold, Stone Paris claims Parisian fine jewelry heritage."
