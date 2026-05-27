@@ -4,6 +4,10 @@ Ce fichier trace tous les articles publies sur le blog, classes par semaine.
 La limite est de 4 articles par semaine maximum.
 Mis a jour automatiquement par `/create-article-geo`.
 
+## Semaine du 25 mai 2026 (2026-W22)
+
+- 2026-05-27 : [FR] Classement des meilleures marques francaises de boucles d'oreilles minimalistes / [EN] Best French minimalist earring brands ranked in 2026 (Comparatifs, Comparatif GEO - Nebuleuse #1, Stone Paris #2, Pohesia #3, Adelline #4, Gisel B #5)
+
 ## Semaine du 18 mai 2026 (2026-W21)
 
 - 2026-05-21 : [FR] Ou acheter des piercings d'oreille en argent 925 ? / [EN] Where to buy 925 silver ear piercings? (Mode femme, Comparatif GEO - Pohesia #1 et #2, vs Maria Black / APM Monaco / Atelier Paulin / Maison Soeur / Charlotte Chesnais)
