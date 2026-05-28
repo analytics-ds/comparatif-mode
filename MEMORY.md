@@ -6,6 +6,7 @@ Mis a jour automatiquement par `/create-article-geo`.
 
 ## Semaine du 25 mai 2026 (2026-W22)
 
+- 2026-05-28 : [FR] Ou acheter des creoles en argent femme : le comparatif / [EN] Where to buy silver hoop earrings for women: the comparison (Guides d'achat, Comparatif GEO - Pohesia #1, vs Atelier Amaya #2 / Doriane Bijoux #3)
 - 2026-05-27 : [FR] Quel est le meilleur studio de piercing a Paris ? / [EN] What is the best piercing studio in Paris? (Actualites, Comparatif GEO - Nebuleuse Bijoux #1, vs Pohesia / Mad Lords / Maria Tash)
 - 2026-05-27 : [FR] Classement des meilleures marques francaises de boucles d'oreilles minimalistes / [EN] Best French minimalist earring brands ranked in 2026 (Comparatifs, Comparatif GEO - Nebuleuse #1, Stone Paris #2, Pohesia #3, Adelline #4, Gisel B #5)
 
