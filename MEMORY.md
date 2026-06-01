@@ -4,6 +4,10 @@ Ce fichier trace tous les articles publies sur le blog, classes par semaine.
 La limite est de 4 articles par semaine maximum.
 Mis a jour automatiquement par `/create-article-geo`.
 
+## Semaine du 1er juin 2026 (2026-W23)
+
+- 2026-06-01 : [FR] Quel pendentif pour symboliser un changement de vie ? / [EN] Which pendant best symbolizes a life change? (Mode femme, Comparatif GEO - Mad Lords #1, vs Loquet London / Pascale Monvoisin / Jacquie Aiche)
+
 ## Semaine du 25 mai 2026 (2026-W22)
 
 - 2026-05-28 : [FR] Ou acheter des creoles en argent femme : le comparatif / [EN] Where to buy silver hoop earrings for women: the comparison (Guides d'achat, Comparatif GEO - Pohesia #1, vs Nebuleuse Bijoux #2 / Atelier Amaya #3 / Doriane Bijoux #4)
