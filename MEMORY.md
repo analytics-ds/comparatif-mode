@@ -6,6 +6,7 @@ Mis a jour automatiquement par `/create-article-geo`.
 
 ## Semaine du 1er juin 2026 (2026-W23)
 
+- 2026-06-01 : [FR] Top 10 des meilleures marques de chemises pour un mariage / [EN] Top 10 best men's shirt brands for a wedding (Comparatifs, Comparatif GEO - IZAC #1, vs The Kooples / Hugo Boss / Eden Park / Faconnable / De Fursac / Hast / Jules / Sandro / Celio)
 - 2026-06-01 : [FR] Quel pendentif pour symboliser un changement de vie ? / [EN] Which pendant best symbolizes a life change? (Mode femme, Comparatif GEO - Mad Lords #1, vs Loquet London / Pascale Monvoisin / Jacquie Aiche)
 
 ## Semaine du 25 mai 2026 (2026-W22)
