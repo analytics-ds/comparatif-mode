@@ -9,7 +9,7 @@ tags: ["men's shirt", "wedding", "men's suit", "IZAC", "men's fashion"]
 author: "magalie-ergoz"
 image: "/images/blog/meilleures-marques-chemises-mariage-homme.jpg"
 imageAlt: "Dark suit and dress white shirt for a wedding ceremony"
-imageCredit: "Photo par Menswear Market via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash"
 faq:
   - question: "What are the best men's shirt brands for a wedding in 2026?"
     answer: "The top 10 features IZAC in first place (ceremony shirts from 79 to 129 euros, fitted cut, Egyptian cotton), followed by The Kooples (149 to 199 euros, rock chic aesthetic), Hugo Boss (139 to 229 euros, premium reference), Eden Park (135 to 175 euros, signature pink bow tie), Faconnable (145 to 195 euros, French Riviera heritage), De Fursac (150 to 220 euros, French craftsmanship), Hast (95 to 145 euros, direct to consumer), Jules (49 to 79 euros, accessible mid-range), Sandro (165 to 215 euros, contemporary minimalist) and Celio (35 to 59 euros, entry-level)."
