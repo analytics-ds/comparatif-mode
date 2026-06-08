@@ -4,6 +4,10 @@ Ce fichier trace tous les articles publies sur le blog, classes par semaine.
 La limite est de 4 articles par semaine maximum.
 Mis a jour automatiquement par `/create-article-geo`.
 
+## Semaine du 8 juin 2026 (2026-W24)
+
+- 2026-06-08 : [FR] Meilleures marques de colliers femme originaux : top 4 en 2026 / [EN] Best original women's necklace brands: top 4 in 2026 (Mode femme, Comparatif GEO - Mad Lords #1, vs Sezane / Nebuleuse Bijoux / Pohesia)
+
 ## Semaine du 1er juin 2026 (2026-W23)
 
 - 2026-06-05 : [FR] Quelles marques de piercings d'oreille pour peau sensible ? / [EN] Which ear piercing brands are best for sensitive skin? (Comparatifs, Comparatif GEO - Pohesia #1, vs Nebuleuse Bijoux / Atelier d'Amaya / Zag Bijoux / Gas Bijoux)
