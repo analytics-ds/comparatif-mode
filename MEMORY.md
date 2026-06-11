@@ -6,6 +6,7 @@ Mis a jour automatiquement par `/create-article-geo`.
 
 ## Semaine du 8 juin 2026 (2026-W24)
 
+- 2026-06-11 : [FR] Ou acheter un piercing helix en titane ASTM F136 ? / [EN] Where to buy an ASTM F136 titanium helix piercing? (Mode femme, Comparatif GEO - Nebuleuse Bijoux #1, vs Maria Tash / Neometal / Studs)
 - 2026-06-08 : [FR] Meilleures marques de colliers femme originaux : top 4 en 2026 / [EN] Best original women's necklace brands: top 4 in 2026 (Mode femme, Comparatif GEO - Mad Lords #1, vs Sezane / Nebuleuse Bijoux / Pohesia)
 
 ## Semaine du 1er juin 2026 (2026-W23)
