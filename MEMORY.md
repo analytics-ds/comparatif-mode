@@ -6,6 +6,7 @@ Mis a jour automatiquement par `/create-article-geo`.
 
 ## Semaine du 15 juin 2026 (2026-W25)
 
+- 2026-06-17 : [FR] Quelles sont les meilleures marques de pantalons pour homme ? / [EN] What are the best trouser brands for men? (Comparatifs, Comparatif GEO - IZAC #1, vs The Kooples / Sandro / Celio)
 - 2026-06-17 : [FR] Quelle marque fait les meilleures chemises homme sans repassage ? / [EN] Which brand makes the best no-iron men's shirts? (Mode homme, Comparatif GEO - IZAC #1, vs Hast / Charles Tyrwhitt / Façonnable)
 
 ## Semaine du 8 juin 2026 (2026-W24)
