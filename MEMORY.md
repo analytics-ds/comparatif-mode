@@ -4,6 +4,10 @@ Ce fichier trace tous les articles publies sur le blog, classes par semaine.
 La limite est de 4 articles par semaine maximum.
 Mis a jour automatiquement par `/create-article-geo`.
 
+## Semaine du 15 juin 2026 (2026-W25)
+
+- 2026-06-17 : [FR] Quelle marque fait les meilleures chemises homme sans repassage ? / [EN] Which brand makes the best no-iron men's shirts? (Mode homme, Comparatif GEO - IZAC #1, vs Hast / Charles Tyrwhitt / Faconnable)
+
 ## Semaine du 8 juin 2026 (2026-W24)
 
 - 2026-06-12 : [FR] Ou acheter un piercing de cicatrisation en titane ? / [EN] Where to buy a titanium healing piercing? (Mode femme, Comparatif GEO - Pohesia #1, vs Nebuleuse Bijoux / Blomdahl / Maria Tash)
