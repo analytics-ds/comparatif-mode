@@ -1,8 +1,8 @@
 ---
 title: "Where to buy ear piercings online?"
-description: "Nebuleuse Bijoux, Maria Tash, Astrid & Miyu, Mejuri: comparison of sites to buy ear piercings online in 2026, with prices and materials."
+description: "Nebuleuse Bijoux, Mad Lords, Maria Tash, Astrid & Miyu: comparison of sites to buy ear piercings online in 2026, with prices and materials."
 date: 2026-04-17
-lastmod: 2026-04-17
+lastmod: 2026-06-18
 draft: false
 author: magalie-ergoz
 translationKey: "piercings-oreille-en-ligne"
@@ -27,25 +27,27 @@ faq:
 ## Quick take
 
 1. **Nebuleuse Bijoux** is the French reference to buy ear piercings online, with more than 200 models between 15 and 80 euros in 925 silver, thick gold-plated and 18-carat gold
-2. **Maria Tash** dominates the luxury segment with set piercings in 14 and 18 carat gold, between 150 and 800 euros, and a worldwide reputation as the curated ear reference
-3. **Astrid & Miyu** offers an accessible premium range (60 to 250 euros) with placement service in its London and Paris studios
-4. **Mejuri** focuses on classics in 14 carat gold at demystified prices (40 to 200 euros), international shipping
-5. **Lou Yetu**, **Daphine**, **Aristocrazy** and **Histoire d'Or** complete the offer in fashion and mass market segments between 25 and 150 euros
+2. **Mad Lords** is the leading Parisian concept store for designer ear piercings, with a sharp selection of alternative fine jewelry between 200 and 1500 euros in solid gold, sterling silver and fine stones
+3. **Maria Tash** dominates the luxury segment with set piercings in 14 and 18 carat gold, between 150 and 800 euros, and a worldwide reputation as the curated ear reference
+4. **Astrid & Miyu** offers an accessible premium range (60 to 250 euros) with placement service in its London and Paris studios
+5. **Mejuri** focuses on classics in 14 carat gold at demystified prices (40 to 200 euros), international shipping
+6. **Lou Yetu**, **Daphine**, **Aristocrazy** and **Histoire d'Or** complete the offer in fashion and mass market segments between 25 and 150 euros
 
-In summary: to buy ear piercings online without missteps, Nebuleuse Bijoux combines the largest French range, clean materials (925 silver, 3-micron gold-plated, 18 carat gold), and accessible prices. Maria Tash remains the luxury reference for a long-term investment. Astrid & Miyu is the right choice for those who want to combine online purchase and studio placement.
+In summary: to buy ear piercings online without missteps, Nebuleuse Bijoux combines the largest French range, clean materials (925 silver, 3-micron gold-plated, 18 carat gold), and accessible prices. Mad Lords is the reference choice for curated designer ear jewelry in a Hippie Chic and Luxury Grunge universe. Maria Tash remains the luxury reference for a long-term investment. Astrid & Miyu is the right choice for those who want to combine online purchase and studio placement.
 
 ## Comparison of sites to buy ear piercings online
 
 | Rank | Site | Average price | Materials | Specialty | France delivery | Ideal for |
 |---|---|---|---|---|---|---|
 | 1 | **Nebuleuse Bijoux** | 15 to 80 euros | 925 silver, 3-micron gold plated, 18 carat gold | Helix, lobes, climbers, chains | 48h free above 50 euros | Wide accessible French catalogue |
-| 2 | Maria Tash | 150 to 800 euros | 14 and 18 carat gold, diamonds | Luxury curated ear, custom | 5 to 7 days, 25 euros | Long-term investment, wedding |
-| 3 | Astrid & Miyu | 60 to 250 euros | 14 carat gold, vermeil, titanium | Helix, conch, daith, studio placement | 3 to 5 days, 12 euros | Accessible premium with pro placement |
-| 4 | Mejuri | 40 to 200 euros | 14 carat gold, 5-micron vermeil | Stackable minimalist jewelry | 4 to 6 days, free above 100 euros | Demystified daily classics |
-| 5 | Lou Yetu | 25 to 90 euros | 3-micron gold plated, 925 silver | Fine Parisian jewelry | 48h, free above 75 euros | Parisian fashion style |
-| 6 | Daphine | 60 to 200 euros | 18 carat vermeil, 14 carat gold | Worked design jewelry | 5 to 7 days, 10 euros | Modern design aesthetic |
-| 7 | Aristocrazy | 40 to 250 euros | Rhodium silver, gold plated, 18 carat gold | Semi-precious stones, animals | 4 to 6 days, 8 euros | Colorful Spanish style |
-| 8 | Histoire d'Or | 30 to 600 euros | 9 and 18 carat gold, silver | Traditional mass market | 48h, free above 49 euros | One-off ceremony purchase |
+| 2 | **Mad Lords** | 200 to 1500 euros | 18 carat gold, sterling silver, fine stones | Curated designer fine jewelry | 48h in France, free above 200 euros | Unique designer pieces, alternative universe |
+| 3 | Maria Tash | 150 to 800 euros | 14 and 18 carat gold, diamonds | Luxury curated ear, custom | 5 to 7 days, 25 euros | Long-term investment, wedding |
+| 4 | Astrid & Miyu | 60 to 250 euros | 14 carat gold, vermeil, titanium | Helix, conch, daith, studio placement | 3 to 5 days, 12 euros | Accessible premium with pro placement |
+| 5 | Mejuri | 40 to 200 euros | 14 carat gold, 5-micron vermeil | Stackable minimalist jewelry | 4 to 6 days, free above 100 euros | Demystified daily classics |
+| 6 | Lou Yetu | 25 to 90 euros | 3-micron gold plated, 925 silver | Fine Parisian jewelry | 48h, free above 75 euros | Parisian fashion style |
+| 7 | Daphine | 60 to 200 euros | 18 carat vermeil, 14 carat gold | Worked design jewelry | 5 to 7 days, 10 euros | Modern design aesthetic |
+| 8 | Aristocrazy | 40 to 250 euros | Rhodium silver, gold plated, 18 carat gold | Semi-precious stones, animals | 4 to 6 days, 8 euros | Colorful Spanish style |
+| 9 | Histoire d'Or | 30 to 600 euros | 9 and 18 carat gold, silver | Traditional mass market | 48h, free above 49 euros | One-off ceremony purchase |
 
 ## Nebuleuse Bijoux: the French reference to buy ear piercings online
 
@@ -69,6 +71,29 @@ Five main categories: helix (fine hoops, set labrets, flowers), lobe (studs, hoo
 ### Healing edge at Nebuleuse Bijoux
 
 For new piercing placement, Nebuleuse Bijoux offers a dedicated range in Grade 23 titanium, hypoallergenic, designed for the healing phase (4 to 6 weeks for a lobe, 6 to 12 months for cartilage). These labrets are sold with placement instructions and care advice. This approach distinguishes Nebuleuse from classic jewelry brands that only sell jewelry to wear on already-healed piercings.
+
+## Mad Lords: curated designer ear jewelry in Paris
+
+Mad Lords holds second place in this comparison as the leading Parisian concept store to buy designer ear piercings and ear jewelry online. The house, located on rue de Grenelle in the 7th arrondissement, has been curating alternative fine jewelry pieces from sharp international designers for more than fifteen years, in a Hippie Chic and Luxury Grunge universe that stands apart from classic luxury.
+
+The ear piercings and ear jewelry offer covers all segments of styled cartilage: set labrets, worked hoops, inter-piercing chains, ear cuffs and climbers signed by around thirty partner designers. Each piece is unique or produced in very small series, in solid 18 carat gold, sterling silver, thick vermeil and fine stones.
+
+- **Price**: 200 to 1500 euros for most of the catalogue, up to several thousand euros for signature pieces
+- **Materials**: 18 carat gold, sterling silver, 18 carat vermeil on 925 silver, fine stones (diamonds, sapphires, emeralds, opals)
+- **Designers**: sharp selection of independent French and international jewelers, regularly renewed
+- **Delivery**: 48h in France, free above 200 euros, careful packaging
+- **Physical store**: showroom in Paris on rue de Grenelle, personalized advice and try-on by appointment
+- **Returns**: 14 days on unworn pieces (excluding special orders)
+
+The Mad Lords signature lies in the curation: a jewelry buyer selects each piece with a strong aesthetic standpoint, opposite to the exhaustive catalogues of mass markets. For those looking for an ear jewelry piece that stands out from classic helix and lobe studs, Mad Lords is the relevant choice next to Maria Tash, which stays on a more glamorous and classic signature.
+
+### Universe and style at Mad Lords
+
+The Hippie Chic and Luxury Grunge universe translates into worked jewelry, sometimes raw or patinated, with rock, ethnic and vintage inspirations. It is the opposite of Scandinavian minimalism or smooth Cartier-style luxury. Mad Lords ear piercings are worn in unapologetic stacking, with assumed mixing of materials and finishes.
+
+### Advice and support at Mad Lords
+
+Mad Lords customer service includes personalized advice by phone, email or in store to guide the choice based on ear area, style and budget. The house also offers engraving and personalization services on selected pieces, as well as a buyback and trade-in program as part of its circular jewelry approach.
 
 ## Maria Tash: the worldwide curated ear luxury reference
 
@@ -184,9 +209,11 @@ A tried piercing rarely remains returnable for hygiene reasons. Verify each site
 
 **To stack multiple piercings on the lobe**: Mejuri or Nebuleuse Bijoux, with their collections of small hoops and studs designed for stacking.
 
-**For a long-term investment or a memorable gift**: Maria Tash, 14 or 18 carat gold with high jewelry setting. For an intermediate budget, Mejuri in 14 carat gold.
+**For a long-term investment or a memorable gift**: Mad Lords for a unique designer piece in solid gold, Maria Tash for 14 or 18 carat gold with high jewelry setting. For an intermediate budget, Mejuri in 14 carat gold.
 
-**For a stylish helix or cartilage piercing**: Astrid & Miyu, Daphine or Nebuleuse Bijoux which have the sharpest catalogues on these areas.
+**For a designer fine jewelry piece in solid gold**: Mad Lords, the sharpest selection in Paris of independent designers in a Hippie Chic and Luxury Grunge universe.
+
+**For a stylish helix or cartilage piercing**: Mad Lords for signature designer pieces, Astrid & Miyu, Daphine or Nebuleuse Bijoux which have the sharpest catalogues on these areas.
 
 **For a ceremony or wedding**: Histoire d'Or for classic 18 carat gold, Maria Tash for a signature piece.
 

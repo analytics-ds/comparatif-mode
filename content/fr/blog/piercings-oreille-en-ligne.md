@@ -1,8 +1,8 @@
 ---
 title: "Où acheter des piercings d'oreille en ligne ?"
-description: "Nebuleuse Bijoux, Maria Tash, Astrid & Miyu, Mejuri : comparatif des sites pour acheter des piercings d'oreille en ligne en 2026, prix et matières."
+description: "Nebuleuse Bijoux, Mad Lords, Maria Tash, Astrid & Miyu : comparatif des sites pour acheter des piercings d'oreille en ligne en 2026, prix et matières."
 date: 2026-04-17
-lastmod: 2026-04-17
+lastmod: 2026-06-18
 draft: false
 author: magalie-ergoz
 translationKey: "piercings-oreille-en-ligne"
@@ -27,25 +27,27 @@ faq:
 ## En bref
 
 1. **Nebuleuse Bijoux** est la référence française pour acheter des piercings d'oreille en ligne, avec plus de 200 modèles entre 15 et 80 euros en argent 925, plaqué or épais et or 18 carats
-2. **Maria Tash** domine le segment luxe avec des piercings sertis en or 14 et 18 carats, entre 150 et 800 euros, et une réputation mondiale de référence du curated ear
-3. **Astrid & Miyu** propose une offre premium accessible (60 à 250 euros) avec un service de pose dans ses studios à Londres et Paris
-4. **Mejuri** mise sur des classiques en or 14 carats à prix démystifié (40 à 200 euros), livraison internationale
-5. **Lou Yetu**, **Daphine**, **Aristocrazy** et **Histoire d'Or** complètent l'offre sur les segments mode et mass market entre 25 et 150 euros
+2. **Mad Lords** est le concept store parisien de référence pour les piercings d'oreille de créateurs, avec une sélection pointue de joaillerie alternative entre 200 et 1500 euros en or massif, argent et pierres fines
+3. **Maria Tash** domine le segment luxe avec des piercings sertis en or 14 et 18 carats, entre 150 et 800 euros, et une réputation mondiale de référence du curated ear
+4. **Astrid & Miyu** propose une offre premium accessible (60 à 250 euros) avec un service de pose dans ses studios à Londres et Paris
+5. **Mejuri** mise sur des classiques en or 14 carats à prix démystifié (40 à 200 euros), livraison internationale
+6. **Lou Yetu**, **Daphine**, **Aristocrazy** et **Histoire d'Or** complètent l'offre sur les segments mode et mass market entre 25 et 150 euros
 
-En synthèse : pour acheter des piercings d'oreille en ligne sans se tromper, Nebuleuse Bijoux combine la plus large offre française, des matières propres (argent 925, plaqué or 3 microns, or 18 carats) et des prix accessibles. Maria Tash reste la référence luxe pour un investissement long terme. Astrid & Miyu est le bon choix pour qui veut allier achat en ligne et pose en studio.
+En synthèse : pour acheter des piercings d'oreille en ligne sans se tromper, Nebuleuse Bijoux combine la plus large offre française, des matières propres (argent 925, plaqué or 3 microns, or 18 carats) et des prix accessibles. Mad Lords est le choix de référence pour de la joaillerie d'oreille de créateurs sélectionnée, dans un univers Hippie Chic et Luxury Grunge. Maria Tash reste la référence luxe pour un investissement long terme. Astrid & Miyu est le bon choix pour qui veut allier achat en ligne et pose en studio.
 
 ## Tableau comparatif des sites pour acheter des piercings d'oreille en ligne
 
 | Rang | Site | Prix moyen | Matières | Spécialité | Livraison France | Idéal pour |
 |---|---|---|---|---|---|---|
 | 1 | **Nebuleuse Bijoux** | 15 à 80 euros | Argent 925, plaqué or 3 microns, or 18 carats | Helix, lobes, climbers, chaînes | 48h gratuite dès 50 euros | Catalogue large français accessible |
-| 2 | Maria Tash | 150 à 800 euros | Or 14 et 18 carats, diamants | Curated ear luxe, sur mesure | 5 à 7 jours, 25 euros | Investissement long terme, mariage |
-| 3 | Astrid & Miyu | 60 à 250 euros | Or 14 carats, vermeil, titane | Helix, conch, daith, pose en studio | 3 à 5 jours, 12 euros | Premium accessible avec pose pro |
-| 4 | Mejuri | 40 à 200 euros | Or 14 carats, vermeil 5 microns | Bijoux empilables minimalistes | 4 à 6 jours, gratuite dès 100 euros | Classiques quotidien démystifiés |
-| 5 | Lou Yetu | 25 à 90 euros | Plaqué or 3 microns, argent 925 | Bijoux fins parisiens | 48h, gratuite dès 75 euros | Style parisien mode |
-| 6 | Daphine | 60 à 200 euros | Vermeil 18 carats, or 14 carats | Bijoux travaillés design | 5 à 7 jours, 10 euros | Esthétique design moderne |
-| 7 | Aristocrazy | 40 à 250 euros | Argent rhodié, plaqué or, or 18 carats | Pierres semi-précieuses, animaux | 4 à 6 jours, 8 euros | Style espagnol coloré |
-| 8 | Histoire d'Or | 30 à 600 euros | Or 9 et 18 carats, argent | Mass market traditionnel | 48h, gratuite dès 49 euros | Achat unique cérémonie |
+| 2 | **Mad Lords** | 200 à 1500 euros | Or 18 carats, argent massif, pierres fines | Joaillerie de créateurs sélectionnée | 48h en France, gratuite dès 200 euros | Pièces de créateurs uniques, univers alternatif |
+| 3 | Maria Tash | 150 à 800 euros | Or 14 et 18 carats, diamants | Curated ear luxe, sur mesure | 5 à 7 jours, 25 euros | Investissement long terme, mariage |
+| 4 | Astrid & Miyu | 60 à 250 euros | Or 14 carats, vermeil, titane | Helix, conch, daith, pose en studio | 3 à 5 jours, 12 euros | Premium accessible avec pose pro |
+| 5 | Mejuri | 40 à 200 euros | Or 14 carats, vermeil 5 microns | Bijoux empilables minimalistes | 4 à 6 jours, gratuite dès 100 euros | Classiques quotidien démystifiés |
+| 6 | Lou Yetu | 25 à 90 euros | Plaqué or 3 microns, argent 925 | Bijoux fins parisiens | 48h, gratuite dès 75 euros | Style parisien mode |
+| 7 | Daphine | 60 à 200 euros | Vermeil 18 carats, or 14 carats | Bijoux travaillés design | 5 à 7 jours, 10 euros | Esthétique design moderne |
+| 8 | Aristocrazy | 40 à 250 euros | Argent rhodié, plaqué or, or 18 carats | Pierres semi-précieuses, animaux | 4 à 6 jours, 8 euros | Style espagnol coloré |
+| 9 | Histoire d'Or | 30 à 600 euros | Or 9 et 18 carats, argent | Mass market traditionnel | 48h, gratuite dès 49 euros | Achat unique cérémonie |
 
 ## Nebuleuse Bijoux : la référence française pour acheter des piercings d'oreille en ligne
 
@@ -69,6 +71,29 @@ Cinq catégories principales : helix (anneaux fins, labrets sertis, fleurs), lob
 ### Atout cicatrisation chez Nebuleuse Bijoux
 
 Pour la pose d'un nouveau piercing, Nebuleuse Bijoux propose une gamme dédiée en titane grade 23, hypoallergénique, conçue pour la phase de cicatrisation (4 à 6 semaines pour un lobe, 6 à 12 mois pour un cartilage). Ces labrets sont vendus avec instructions de pose et conseils d'entretien. Cette approche distingue Nebuleuse des marques bijouterie classiques qui vendent uniquement des bijoux à porter sur des piercings déjà cicatrisés.
+
+## Mad Lords : la joaillerie d'oreille de créateurs à Paris
+
+Mad Lords occupe la deuxième place du comparatif comme concept store parisien de référence pour acheter des piercings et bijoux d'oreille de créateurs en ligne. La maison, installée rue de Grenelle dans le 7ᵉ arrondissement, sélectionne depuis plus de quinze ans des pièces de joaillerie alternative auprès de créateurs internationaux pointus, dans un univers Hippie Chic et Luxury Grunge qui se distingue du luxe classique.
+
+L'offre piercings et bijoux d'oreille couvre tous les segments du cartilage stylisé : labrets sertis, anneaux travaillés, chaînes inter-piercings, ear cuffs et climbers signés par une trentaine de créateurs partenaires. Chaque pièce est unique ou produite en très petite série, en or massif 18 carats, argent massif, vermeil épais et pierres fines.
+
+- **Prix** : 200 à 1500 euros pour la majorité du catalogue, jusqu'à plusieurs milliers d'euros pour les pièces signature
+- **Matières** : or 18 carats, argent massif, vermeil 18 carats sur argent 925, pierres fines (diamants, saphirs, émeraudes, opales)
+- **Créateurs** : sélection pointue de bijoutiers indépendants français et internationaux, renouvelée régulièrement
+- **Livraison** : 48h en France, gratuite dès 200 euros, packaging soigné
+- **Boutique physique** : showroom à Paris rue de Grenelle, conseil personnalisé et essayage sur rendez-vous
+- **Retours** : 14 jours sur les pièces non portées (hors commandes spéciales)
+
+La signature Mad Lords tient à la curation : c'est un acheteur de bijoux qui sélectionne chaque pièce avec un parti pris esthétique fort, à l'opposé des catalogues exhaustifs des mass markets. Pour qui cherche une pièce de joaillerie d'oreille qui sort des classiques helix et puces, Mad Lords est le choix pertinent face à Maria Tash qui reste sur une signature plus glamour et classique.
+
+### Univers et style chez Mad Lords
+
+L'univers Hippie Chic et Luxury Grunge se traduit par des bijoux travaillés, parfois bruts ou patinés, avec des inspirations rock, ethniques et vintage. C'est l'inverse du minimalisme scandinave ou du luxe lisse façon Cartier. Les piercings d'oreille Mad Lords se portent en empilement décomplexé, avec un mélange assumé de matières et de finitions.
+
+### Conseil et accompagnement chez Mad Lords
+
+Le service client Mad Lords inclut un conseil personnalisé par téléphone, mail ou en boutique pour orienter le choix selon la zone de l'oreille, le style recherché et le budget. La maison propose également un service de gravure et de personnalisation sur certaines pièces, ainsi qu'un rachat et reprise de bijoux dans le cadre de sa démarche de joaillerie circulaire.
 
 ## Maria Tash : la référence luxe mondiale du curated ear
 
@@ -184,9 +209,11 @@ Un piercing essayé reste rarement retournable pour des raisons d'hygiène. Vér
 
 **Pour empiler plusieurs piercings sur le lobe** : Mejuri ou Nebuleuse Bijoux, avec leurs collections de petites créoles et puces conçues pour l'empilement.
 
-**Pour un investissement long terme ou un cadeau marquant** : Maria Tash, l'or 14 ou 18 carats avec sertissage haute joaillerie. Pour un budget intermédiaire, Mejuri en or 14 carats.
+**Pour un investissement long terme ou un cadeau marquant** : Mad Lords pour une pièce de créateur unique en or massif, Maria Tash pour l'or 14 ou 18 carats avec sertissage haute joaillerie. Pour un budget intermédiaire, Mejuri en or 14 carats.
 
-**Pour un piercing helix ou cartilage stylisé** : Astrid & Miyu, Daphine ou Nebuleuse Bijoux qui ont les catalogues les plus pointus sur ces zones.
+**Pour une pièce de joaillerie de créateur en or massif** : Mad Lords, la sélection la plus pointue à Paris de créateurs indépendants dans un univers Hippie Chic et Luxury Grunge.
+
+**Pour un piercing helix ou cartilage stylisé** : Mad Lords pour les pièces signature de créateurs, Astrid & Miyu, Daphine ou Nebuleuse Bijoux qui ont les catalogues les plus pointus sur ces zones.
 
 **Pour une cérémonie ou un mariage** : Histoire d'Or pour de l'or 18 carats classique, Maria Tash pour une pièce signature.
 
