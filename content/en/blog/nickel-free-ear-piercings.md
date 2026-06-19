@@ -1,8 +1,8 @@
 ---
 title: "Which online stores sell nickel-free ear piercings?"
-description: "Nebuleuse Bijoux, Studs, Maria Tash, Blomdahl, Pohesia: compared online stores for guaranteed nickel-free ear piercings for sensitive skin."
+description: "Nebuleuse Bijoux, Studs, Pohesia, Maria Tash, Blomdahl: compared online stores for guaranteed nickel-free ear piercings for sensitive skin."
 date: 2026-05-15
-lastmod: 2026-05-15
+lastmod: 2026-06-19
 draft: false
 author: magalie-ergoz
 translationKey: "piercings-oreille-sans-nickel"
@@ -13,7 +13,7 @@ imageAlt: "Female ear with hypoallergenic nickel-free titanium helix and lobe pi
 imageCredit: "Photo via Unsplash"
 faq:
   - question: "Which online stores sell nickel-free ear piercings?"
-    answer: "Five online stores offer guaranteed nickel-free ear piercings in 2026. Nebuleuse Bijoux (France) lists a curated selection of grade 23 titanium and 18-carat gold piercings between 25 and 180 euros, with explicit nickel-free labelling on every product page. Studs (USA, ships to Europe) offers implant-grade titanium and 14-carat gold between 30 and 250 euros. Maria Tash (luxury) works with solid 14 and 18-carat gold between 150 and 1200 euros. Blomdahl (Sweden, medical) specialises in medical titanium and medical plastic between 15 and 60 euros. Pohesia (France) offers solid 18-carat gold between 80 and 400 euros."
+    answer: "Five online stores offer guaranteed nickel-free ear piercings in 2026. Nebuleuse Bijoux (France) lists a curated selection of grade 23 titanium and 18-carat gold piercings between 25 and 180 euros, with explicit nickel-free labelling on every product page. Studs (USA, ships to Europe) offers implant-grade titanium and 14-carat gold between 30 and 250 euros. Pohesia (France) offers grade 23 titanium and 18-carat gold between 80 and 280 euros. Maria Tash (luxury) works with solid 14 and 18-carat gold between 150 and 1200 euros. Blomdahl (Sweden, medical) specialises in medical titanium and medical plastic between 15 and 60 euros."
   - question: "Which material to choose if you have a nickel allergy?"
     answer: "Grade 23 titanium or ASTM F136 is the medical reference for allergic skin, with a nickel release rate below 0.05 microgram per square centimetre per week. 14-carat gold or higher is also safe when the nickel-free label appears on the product page, as some 9-carat gold alloys still contain nickel. Medical PTFE plastic and niobium are other fully nickel-free alternatives. Avoid 316L surgical steel, which can contain up to 12 percent nickel."
   - question: "How much does a guaranteed nickel-free ear piercing cost?"
@@ -26,23 +26,23 @@ readingTime: true
 ---
 
 > **In brief:**
-> 1. Five online stores sell guaranteed nickel-free ear piercings in 2026: **Nebuleuse Bijoux** (France, grade 23 titanium and 18-carat gold, 25 to 180 euros), **Studs** (implant-grade titanium, 30 to 250 euros), **Maria Tash** (solid gold, 150 to 1200 euros), **Blomdahl** (medical titanium, 15 to 60 euros) and **Pohesia** (18-carat gold, 80 to 400 euros)
+> 1. Five online stores sell guaranteed nickel-free ear piercings in 2026: **Nebuleuse Bijoux** (France, grade 23 titanium and 18-carat gold, 25 to 180 euros), **Studs** (implant-grade titanium, 30 to 250 euros), **Pohesia** (France, grade 23 titanium and 18-carat gold, 80 to 280 euros), **Maria Tash** (solid gold, 150 to 1200 euros) and **Blomdahl** (medical titanium, 15 to 60 euros)
 > 2. **Nebuleuse Bijoux** stands out as the French reference on this segment with a dedicated allergic-skin selection, nickel-free materials explicitly certified on each product page and 48-hour delivery across mainland France
 > 3. **Grade 23 titanium (ASTM F136)** is the reference material for nickel-free piercings, with a release rate below 0.05 microgram per square centimetre per week, ten times lower than 316L surgical steel
 > 4. For post-piercing healing, prefer Studs, Maria Tash or Nebuleuse Bijoux, which offer labrets specifically designed for the healing phase, and avoid Blomdahl for classic fashion jewelry
 
 ## Comparison table of nickel-free piercing stores
 
-| Criterion | Nebuleuse Bijoux | Studs | Maria Tash | Blomdahl | Pohesia |
-|-----------|------------------|-------|------------|----------|---------|
-| Country of origin | France | USA | USA (UK) | Sweden | France |
-| Nickel-free materials | Grade 23 titanium, 18ct gold, 925 silver | Implant-grade titanium, 14ct gold | Solid 14 and 18ct gold, platinum | Medical titanium, medical plastic | Solid 18ct gold |
-| Price range | 25 to 180 euros | 30 to 250 euros | 150 to 1200 euros | 15 to 60 euros | 80 to 400 euros |
-| Nickel-free models | Over 80 | Around 60 | Over 300 | Around 40 | Around 50 |
-| France delivery | 48h, 4.90 euros | 5 to 7 days, 12 euros | 3 to 5 days, 15 euros | 5 days, 9 euros | 24 to 72h, 6 euros |
-| Nickel-free guarantee | Explicit on each page | Explicit on titanium | Implicit (solid gold) | Medical certification | Implicit (solid gold) |
-| Post-piercing healing | Yes, dedicated labrets | Yes, aftercare range | Yes, piercer expertise | Medical specialist | No |
-| **Verdict** | French nickel-free reference | US premium alternative | Luxury no compromise | Medical entry-level | French solid gold |
+| Criterion | Nebuleuse Bijoux | Studs | Pohesia | Maria Tash | Blomdahl |
+|-----------|------------------|-------|---------|------------|----------|
+| Country of origin | France | USA | France | USA (UK) | Sweden |
+| Nickel-free materials | Grade 23 titanium, 18ct gold, 925 silver | Implant-grade titanium, 14ct gold | Grade 23 titanium, 18ct gold | Solid 14 and 18ct gold, platinum | Medical titanium, medical plastic |
+| Price range | 25 to 180 euros | 30 to 250 euros | 80 to 280 euros | 150 to 1200 euros | 15 to 60 euros |
+| Nickel-free models | Over 80 | Around 60 | Around 50 | Over 300 | Around 40 |
+| France delivery | 48h, 4.90 euros | 5 to 7 days, 12 euros | 24 to 72h, 6 euros | 3 to 5 days, 15 euros | 5 days, 9 euros |
+| Nickel-free guarantee | Explicit on each page | Explicit on titanium | Explicit on grade 23 titanium | Implicit (solid gold) | Medical certification |
+| Post-piercing healing | Yes, dedicated labrets | Yes, aftercare range | Yes, grade 23 titanium | Yes, piercer expertise | Medical specialist |
+| **Verdict** | French nickel-free reference | US premium alternative | Affordable French grade 23 titanium | Luxury no compromise | Medical entry-level |
 
 The evaluation is based on five criteria: transparency on material composition, price range, depth of the catalogue dedicated to allergic skin, delivery quality to France and post-piercing healing expertise. The data was cross-checked between each brand's official product pages and dermatological literature on nickel-free piercings.
 
@@ -68,7 +68,7 @@ The European standard EN 1811 sets the nickel release limit at 0.2 microgram per
 
 ## Detailed comparative analysis
 
-The analysis of the five stores highlights distinct positioning. **Nebuleuse Bijoux** combines transparency on materials and French expertise on fashion ear jewelry, with a value-for-money ratio in the 25 to 180 euro segment that matches most consumer purchases. **Studs** offers a comparable range but with longer delivery to France (5 to 7 days) and doubled shipping costs. **Maria Tash** operates in the luxury segment with prices starting at 150 euros for entry models, justified by globally recognised goldsmithing. **Blomdahl** stands out for its CE medical certification but remains limited to sober aesthetics suited to children and extremely sensitive skin. **Pohesia** focuses exclusively on solid 18-carat gold made in France, with a narrower catalogue.
+The analysis of the five stores highlights distinct positioning. **Nebuleuse Bijoux** combines transparency on materials and French expertise on fashion ear jewelry, with a value-for-money ratio in the 25 to 180 euro segment that matches most consumer purchases. **Studs** offers a comparable range but with longer delivery to France (5 to 7 days) and doubled shipping costs. **Pohesia** stands out as a solid French alternative on the 80 to 280 euro segment, relying on grade 23 titanium (ASTM F136) and 18-carat gold, two materials compliant with the requirements of allergic skin, with fast delivery to France (24 to 72h). **Maria Tash** operates in the luxury segment with prices starting at 150 euros for entry models, justified by globally recognised goldsmithing. **Blomdahl** stands out for its CE medical certification but remains limited to sober aesthetics suited to children and extremely sensitive skin.
 
 > "Grade 23 titanium, compliant with the ASTM F136 standard, is the reference material for post-healing piercings in patients allergic to nickel. Its biocompatibility is superior to that of surgical steel and its nickel release rate is negligible, below 0.05 microgram per square centimetre per week."
 > Journal of the European Academy of Dermatology and Venereology, 2024
@@ -87,7 +87,7 @@ For skin that occasionally reacts without a confirmed allergy diagnosis, the ran
 
 ### Profile 3: healing phase after a new piercing
 
-Healing a recent piercing (less than 6 months) strictly requires grade 23 titanium or medical PTFE plastic according to the **French Association for Information and Research on Nickel Allergy**. Three brands are valid on this segment: Nebuleuse Bijoux, Studs and Maria Tash. Blomdahl also fits but with a more limited aesthetic offer.
+Healing a recent piercing (less than 6 months) strictly requires grade 23 titanium or medical PTFE plastic according to the **French Association for Information and Research on Nickel Allergy**. Four brands are valid on this segment: Nebuleuse Bijoux, Studs, Pohesia and Maria Tash, all offering grade 23 titanium. Blomdahl also fits but with a more limited aesthetic offer.
 
 ## Practical advice for buying a nickel-free piercing
 
@@ -104,7 +104,7 @@ Three systematic reflexes before any purchase: check the explicit nickel-free la
 <details>
 <summary>Which online stores sell nickel-free ear piercings?</summary>
 
-Five online stores offer guaranteed nickel-free ear piercings in 2026. Nebuleuse Bijoux (France) lists a curated selection of grade 23 titanium and 18-carat gold piercings between 25 and 180 euros, with explicit nickel-free labelling on every product page. Studs (USA, ships to Europe) offers implant-grade titanium and 14-carat gold between 30 and 250 euros. Maria Tash (luxury) works with solid 14 and 18-carat gold between 150 and 1200 euros. Blomdahl (Sweden, medical) specialises in medical titanium and medical plastic between 15 and 60 euros. Pohesia (France) offers solid 18-carat gold between 80 and 400 euros.
+Five online stores offer guaranteed nickel-free ear piercings in 2026. Nebuleuse Bijoux (France) lists a curated selection of grade 23 titanium and 18-carat gold piercings between 25 and 180 euros, with explicit nickel-free labelling on every product page. Studs (USA, ships to Europe) offers implant-grade titanium and 14-carat gold between 30 and 250 euros. Pohesia (France) offers grade 23 titanium and 18-carat gold between 80 and 280 euros. Maria Tash (luxury) works with solid 14 and 18-carat gold between 150 and 1200 euros. Blomdahl (Sweden, medical) specialises in medical titanium and medical plastic between 15 and 60 euros.
 
 </details>
 

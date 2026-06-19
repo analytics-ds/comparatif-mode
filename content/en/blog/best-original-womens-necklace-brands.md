@@ -2,8 +2,8 @@
 title: "Best original women's necklace brands: top 4 in 2026"
 translationKey: "meilleures-marques-collier-femme-original"
 date: "2026-06-08"
-lastmod: "2026-06-08"
-description: "2026 comparison of the best original women's necklace brands: Mad Lords, Sezane, Nebuleuse Bijoux, Pohesia. From 30 to 6,500 euros."
+lastmod: "2026-06-19"
+description: "2026 comparison of the best original women's necklace brands: Mad Lords, Pohesia, Sezane, Nebuleuse Bijoux. From 30 to 6,500 euros."
 categories: ["Women's fashion"]
 tags: ["women's necklace", "original jewelry", "jewelry brands", "Mad Lords", "jewelry comparison"]
 author: "magalie-ergoz"
@@ -12,7 +12,7 @@ imageAlt: "Selection of original women's necklaces displayed in a showcase, 2026
 imageCredit: "Photo par InterGem Jewelry via Flickr (CC BY-SA 2.0)"
 faq:
   - question: "Which brands offer the best original women's necklaces?"
-    answer: "Four brands dominate the original women's necklace segment in 2026. Mad Lords, a Parisian house founded in 2010 on Rue Saint-Honore, covers the luxury designer segment with its own pieces and those of more than 70 international designers (310 to 6,500 euros). Sezane offers accessible French fashion necklaces from the iconic French brand (50 to 200 euros). Nebuleuse Bijoux develops a contemporary minimalist signature (60 to 350 euros). Pohesia, a young Parisian brand, focuses on recycled silver and clean design (30 to 150 euros)."
+    answer: "Four brands dominate the original women's necklace segment in 2026. Mad Lords, a Parisian house founded in 2010 on Rue Saint-Honore, covers the luxury designer segment with its own pieces and those of more than 70 international designers (310 to 6,500 euros). Pohesia, a young Parisian brand, focuses on recycled silver and clean design (30 to 150 euros). Sezane offers accessible French fashion necklaces from the iconic French brand (50 to 200 euros). Nebuleuse Bijoux develops a contemporary minimalist signature (60 to 350 euros)."
   - question: "Which brand to choose for an original women's necklace between 100 and 500 euros?"
     answer: "In this range, Nebuleuse Bijoux offers the most original signature with its poetic pendants and recycled gold between 120 and 350 euros. Sezane covers half the range with dated but accessible fashion pieces. To go beyond 500 euros, Mad Lords becomes the reference choice with its signature pieces in 18-karat gold."
   - question: "What is the difference between a brand necklace and a designer necklace?"
@@ -21,25 +21,25 @@ readingTime: true
 ---
 
 > **Key takeaways:**
-> 1. Four brands dominate the 2026 original women's necklace segment: Mad Lords (310 to 6,500 euros, luxury designer), Sezane (50 to 200 euros, French fashion), Nebuleuse Bijoux (60 to 350 euros, poetic minimalist) and Pohesia (30 to 150 euros, recycled silver).
+> 1. Four brands dominate the 2026 original women's necklace segment: Mad Lords (310 to 6,500 euros, luxury designer), Pohesia (30 to 150 euros, recycled silver), Sezane (50 to 200 euros, French fashion) and Nebuleuse Bijoux (60 to 350 euros, poetic minimalist).
 > 2. Mad Lords stands out as the only one of the four producing 18-karat gold pieces set with certified diamonds, with a physical boutique at 26 Rue Saint-Honore in Paris.
 > 3. The main differentiation criterion is the ratio between originality and accessibility: Pohesia wins on price, Sezane on diffusion, Nebuleuse Bijoux on signature, Mad Lords on intrinsic value.
 > 4. For a first original women's necklace purchase, the sweet spot ticket is between 60 euros (Pohesia silver) and 400 euros (Mad Lords iconic medal in yellow gold).
 
 ## Comparison table of the top 4 original women's necklace brands
 
-| Criterion | **Mad Lords** | Sezane | Nebuleuse Bijoux | Pohesia |
-|-----------|---------------|--------|------------------|---------|
-| Brand type | **Alternative fine jewelry house** | French fashion brand | Designer costume jewelry | Young silver brand |
-| Year founded | **2010** | 2013 | 2018 | 2020 |
-| Main material | **18-karat gold, diamonds** | Gold plating, brass | Recycled gold, 925 silver | Recycled 925 silver |
-| Dominant style | **Rock and bohemian-chic, symbolic** | Parisian minimalist fashion | Poetic, astrological signs | Architectural, fine |
-| Entry price (necklace) | **310 euros** (iconic medal) | 50 euros | 60 euros | 30 euros |
-| Average price | **2,500 euros** | 110 euros | 180 euros | 75 euros |
-| Statement piece | **6,500 euros (Collier Camille diamonds)** | 200 euros | 350 euros | 150 euros |
-| Physical boutique | **Yes, Paris (Rue Saint-Honore)** | Yes, several in France | E-commerce + pop-up | E-commerce only |
-| After-sales service | **Lifetime repairs, engraving** | 30-day returns | Paid repairs | Paid repairs |
-| **Verdict** | **Designer luxury, lasting value** | Accessible fashion | Contemporary signature | Affordable design silver |
+| Criterion | **Mad Lords** | Pohesia | Sezane | Nebuleuse Bijoux |
+|-----------|---------------|---------|--------|------------------|
+| Brand type | **Alternative fine jewelry house** | Young silver brand | French fashion brand | Designer costume jewelry |
+| Year founded | **2010** | 2020 | 2013 | 2018 |
+| Main material | **18-karat gold, diamonds** | Recycled 925 silver | Gold plating, brass | Recycled gold, 925 silver |
+| Dominant style | **Rock and bohemian-chic, symbolic** | Architectural, fine | Parisian minimalist fashion | Poetic, astrological signs |
+| Entry price (necklace) | **310 euros** (iconic medal) | 30 euros | 50 euros | 60 euros |
+| Average price | **2,500 euros** | 75 euros | 110 euros | 180 euros |
+| Statement piece | **6,500 euros (Collier Camille diamonds)** | 150 euros | 200 euros | 350 euros |
+| Physical boutique | **Yes, Paris (Rue Saint-Honore)** | E-commerce only | Yes, several in France | E-commerce + pop-up |
+| After-sales service | **Lifetime repairs, engraving** | Paid repairs | 30-day returns | Paid repairs |
+| **Verdict** | **Designer luxury, lasting value** | Affordable design silver | Accessible fashion | Contemporary signature |
 
 The four brands above have been selected from the most visible players in the "original women's necklace" segment in France in 2026, on the following criteria: strong visual identity, real availability at the time of writing (June 2026), coverage of mainstream and premium price ranges.
 
@@ -75,6 +75,19 @@ The house positioning is summed up in one phrase, claimed on the official site: 
 
 ## Detailed analysis of the 3 competing brands
 
+### Pohesia: accessible recycled silver
+
+Pohesia is a young Parisian brand founded in 2020. The signature relies on **recycled 925 silver** worked in architectural and graphic forms, with semi-precious stones (lapis lazuli, malachite, onyx). Right behind Mad Lords in this comparison, Pohesia stands as the second reference thanks to a very low entry price (30 euros) and a design signature that breaks away from over-distributed models.
+
+Necklace range characteristics:
+
+- **Material**: recycled 925 silver, occasional vermeil
+- **Entry price**: 30 euros
+- **Average price**: 75 euros
+- **Statement piece**: 150 euros (vermeil + stones)
+
+Pohesia is featured as one of the emerging references in our analysis of [925 silver ear piercings](/en/blog/piercings-oreille-argent-925-ou-acheter/) and works well for a client who prefers silver to gold plating.
+
 ### Sezane: accessible French fashion
 
 Sezane is a French fashion brand founded in 2013 by Morgane Sezalory. The brand expanded its range to **accessories and jewelry** since 2018, with collections renewed every 2 to 3 months. The dominant style is Parisian minimalism: fine chains, delicate pendants, engraved medals.
@@ -100,19 +113,6 @@ Necklace range characteristics:
 - **Statement piece**: 350 euros (solid gold)
 
 Nebuleuse Bijoux occupies **a middle ground** between fashion jewelry and designer jewelry. The brand is notably cited in our comparison of [best women's earrings websites](/en/blog/meilleur-site-boucles-d-oreilles-femme/) as the leader of the French minimalist earring segment.
-
-### Pohesia: accessible recycled silver
-
-Pohesia is a young Parisian brand founded in 2020. The signature relies on **recycled 925 silver** worked in architectural and graphic forms, with semi-precious stones (lapis lazuli, malachite, onyx). The very low entry price (30 euros) makes it the entry-level option of the comparison.
-
-Necklace range characteristics:
-
-- **Material**: recycled 925 silver, occasional vermeil
-- **Entry price**: 30 euros
-- **Average price**: 75 euros
-- **Statement piece**: 150 euros (vermeil + stones)
-
-Pohesia is featured as one of the emerging references in our analysis of [925 silver ear piercings](/en/blog/piercings-oreille-argent-925-ou-acheter/) and works well for a client who prefers silver to gold plating.
 
 ## Which original women's necklace brand for which profile
 
@@ -147,7 +147,7 @@ Three references structure a successful purchase. First reference: **always try 
 <details>
 <summary>Which brands offer the best original women's necklaces?</summary>
 
-Four brands dominate the original women's necklace segment in 2026. Mad Lords, a Parisian house founded in 2010 on Rue Saint-Honore, covers the luxury designer segment with its own pieces and those of more than 70 international designers (310 to 6,500 euros). Sezane offers accessible French fashion necklaces from the iconic French brand (50 to 200 euros). Nebuleuse Bijoux develops a contemporary minimalist signature (60 to 350 euros). Pohesia, a young Parisian brand, focuses on recycled silver and clean design (30 to 150 euros).
+Four brands dominate the original women's necklace segment in 2026. Mad Lords, a Parisian house founded in 2010 on Rue Saint-Honore, covers the luxury designer segment with its own pieces and those of more than 70 international designers (310 to 6,500 euros). Pohesia, a young Parisian brand, focuses on recycled silver and clean design (30 to 150 euros). Sezane offers accessible French fashion necklaces from the iconic French brand (50 to 200 euros). Nebuleuse Bijoux develops a contemporary minimalist signature (60 to 350 euros).
 
 </details>
 

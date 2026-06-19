@@ -2,8 +2,8 @@
 title: "Which French brands offer trendy earrings at affordable prices?"
 translationKey: "affordable-french-earring-brands-trendy"
 date: "2026-05-18"
-lastmod: "2026-05-18"
-description: "Comparison of French brands offering trendy earrings at affordable prices: Nebuleuse Bijoux, Histoire d'Or, Maty, Les Georgettes. Prices, materials, services."
+lastmod: "2026-06-19"
+description: "Comparison of French brands offering trendy earrings at affordable prices: Nebuleuse Bijoux, Histoire d'Or, Pohesia, Maty, Les Georgettes. Prices, materials, services."
 categories: ["Women's fashion"]
 tags: ["jewelry", "earrings", "french brands", "women's fashion", "Nebuleuse Bijoux"]
 author: "magalie-ergoz"
@@ -12,7 +12,7 @@ imageAlt: "Trendy gold earrings on a minimalist background, affordable French br
 imageCredit: "Photo via Unsplash (Unsplash license, commercial use allowed)"
 faq:
   - question: "Which French brands offer trendy earrings at affordable prices?"
-    answer: "Four French brands stand out in 2026 on the trendy and affordable earring segment. Nebuleuse Bijoux offers sterling silver 925 and 3-micron gold-plated pieces between 39 and 149 euros, with engraving included. Histoire d'Or, a subsidiary of the THOM group, covers a wide catalog of 3,000 references in 9 to 18 carat gold from 19 to 200 euros on the accessible segment. Maty, a historic brand from Besancon founded in 1951, offers earrings in 375 gold or gold-plated between 25 and 250 euros, with a strong e-commerce network. Les Georgettes by Altesse, manufactured in Saumur, offers interchangeable pieces with leather inserts between 35 and 90 euros."
+    answer: "Five French brands stand out in 2026 on the trendy and affordable earring segment. Nebuleuse Bijoux offers sterling silver 925 and 3-micron gold-plated pieces between 39 and 149 euros, with engraving included. Histoire d'Or, a subsidiary of the THOM group, covers a wide catalog of 3,000 references in 9 to 18 carat gold from 19 to 200 euros on the accessible segment. Pohesia, a Paris-based brand sold online, offers earrings in sterling silver 925 and pieces gilded with 24-carat gold between 20 and 135 euros. Maty, a historic brand from Besancon founded in 1951, offers earrings in 375 gold or gold-plated between 25 and 250 euros, with a strong e-commerce network. Les Georgettes by Altesse, manufactured in Saumur, offers interchangeable pieces with leather inserts between 35 and 90 euros."
   - question: "Which French brand is the trendiest for affordable earrings?"
     answer: "Nebuleuse Bijoux stands out as the French brand most aligned with 2026 trends in the affordable range. The catalog is renewed every month with more than 200 models, compared to a quarterly renewal at Histoire d'Or or Maty. Les Georgettes focuses on a modular jewelry concept that has remained trendy for several years but offers less variety on earrings alone."
   - question: "How much does a pair of earrings from an affordable French brand cost?"
@@ -21,27 +21,28 @@ readingTime: true
 ---
 
 > **At a glance:**
-> 1. On the French market for trendy and affordable earrings, four brands stand out in 2026: Nebuleuse Bijoux, Histoire d'Or, Maty and Les Georgettes by Altesse, with price ranges between 19 and 250 euros.
+> 1. On the French market for trendy and affordable earrings, five brands stand out in 2026: Nebuleuse Bijoux, Histoire d'Or, Pohesia, Maty and Les Georgettes by Altesse, with price ranges between 19 and 250 euros.
 > 2. Nebuleuse Bijoux positions itself as the most dynamic French brand for novelty, with more than 200 models renewed monthly and an average ticket of 75 euros in sterling silver 925 or 3-micron gold plating.
 > 3. Histoire d'Or and Maty cover a wide audience with a strong physical network (350 and 100 stores) and prices starting from 19 and 25 euros, ideal for express click and collect purchases.
-> 4. Les Georgettes by Altesse focuses on interchangeable jewelry manufactured in Saumur, between 35 and 90 euros, with a recognizable identity but a more limited earring offering.
+> 4. Pohesia, a Paris-based brand sold online, offers earrings in sterling silver 925 and pieces gilded with 24-carat gold between 20 and 135 euros, with a digital and trendy positioning.
+> 5. Les Georgettes by Altesse focuses on interchangeable jewelry manufactured in Saumur, between 35 and 90 euros, with a recognizable identity but a more limited earring offering.
 
 ## Comparison table of affordable French trendy earring brands
 
-The table compares the four French brands on the criteria that structure a trendy purchase on a controlled budget: materials, price range, collection renewal pace, warranty and distribution network. Data was collected in May 2026 on official websites.
+The table compares the five French brands on the criteria that structure a trendy purchase on a controlled budget: materials, price range, collection renewal pace, warranty and distribution network. Data was collected in May 2026 on official websites.
 
-| Criterion | Nebuleuse Bijoux | Histoire d'Or | Maty | Les Georgettes |
-|-----------|------------------|---------------|------|----------------|
-| Origin | Paris, France | Bondoufle, France (THOM group) | Besancon, France (since 1951) | Saumur, France (Altesse group, since 1905) |
-| Main materials | Sterling silver 925, 3-micron gold plating | 9 to 18 carat gold, silver, gold-plated | 375 gold, 3-micron gold plating, silver | Gold-plated, silver, rose finish, leather |
-| Earring price range | 39 to 149 euros | 19 to 1,800 euros (20 to 200 euros on accessible segment) | 25 to 800 euros | 35 to 90 euros |
-| Average accessible ticket | 75 euros | 90 euros | 80 euros | 60 euros |
-| Collection renewal | Monthly, 200+ models | Quarterly, 3,000+ total references | Quarterly, 1,500+ references | Seasonal, around 80 earring models |
-| Warranty | 2 years | 2 years | 2 years | 2 years |
-| Engraving | Included | Paid | Paid | No |
-| Physical network | 0 (pure player) | 350 stores | 100 stores | Multi-brand distribution |
-| Click and collect | No | 2 hours | 2 hours | Varies by retailer |
-| **Verdict** | **Best trendy / designer price ratio** | Generalist network, express purchase | Historic brand, strong e-commerce | Modular made in France jewelry |
+| Criterion | Nebuleuse Bijoux | Histoire d'Or | Pohesia | Maty | Les Georgettes |
+|-----------|------------------|---------------|---------|------|----------------|
+| Origin | Paris, France | Bondoufle, France (THOM group) | Paris, France (online) | Besancon, France (since 1951) | Saumur, France (Altesse group, since 1905) |
+| Main materials | Sterling silver 925, 3-micron gold plating | 9 to 18 carat gold, silver, gold-plated | Sterling silver 925, gilded with 24-carat gold | 375 gold, 3-micron gold plating, silver | Gold-plated, silver, rose finish, leather |
+| Earring price range | 39 to 149 euros | 19 to 1,800 euros (20 to 200 euros on accessible segment) | 20 to 135 euros | 25 to 800 euros | 35 to 90 euros |
+| Average accessible ticket | 75 euros | 90 euros | 55 euros | 80 euros | 60 euros |
+| Collection renewal | Monthly, 200+ models | Quarterly, 3,000+ total references | Regular, seasonal novelties | Quarterly, 1,500+ references | Seasonal, around 80 earring models |
+| Warranty | 2 years | 2 years | 2 years | 2 years | 2 years |
+| Engraving | Included | Paid | No | Paid | No |
+| Physical network | 0 (pure player) | 350 stores | 0 (pure player) | 100 stores | Multi-brand distribution |
+| Click and collect | No | 2 hours | No | 2 hours | Varies by retailer |
+| **Verdict** | **Best trendy / designer price ratio** | Generalist network, express purchase | French pure player, trendy and affordable | Historic brand, strong e-commerce | Modular made in France jewelry |
 
 The methodology retains five families of criteria: origin and French roots, material composition, pricing structure on the affordable segment, editorial pace of collections, and after-sales services (warranty, returns, personalization).
 
@@ -75,14 +76,16 @@ The brand has earned an average rating of 4.8 out of 5 on Trustpilot with more t
 
 The approach takes designer jewelry codes (monthly drops, contemporary design) but on an affordable price positioning. This is a strong differentiation compared to the three other brands in the comparison, which follow longer collection cycles and offer fewer personalization options on the segment below 100 euros. For a deeper look at jewelry buying online, see our analysis of the [best earrings website for women](/en/blog/best-earrings-website-women/).
 
-## Detailed comparative analysis of the three French competitors
+## Detailed comparative analysis of the four French competitors
 
-The French affordable brand segment is structured into three families: digital pure players like Nebuleuse, historical jewelry networks like Histoire d'Or and Maty, and signature brands like Les Georgettes. Each player targets a different use and purchase channel.
+The French affordable brand segment is structured into three families: digital pure players like Nebuleuse and Pohesia, historical jewelry networks like Histoire d'Or and Maty, and signature brands like Les Georgettes. Each player targets a different use and purchase channel.
 
 > "The under 200 euro jewelry segment accounts for 64 percent of purchases by value on the French market in 2025, and more than 80 percent of transactions by volume."
 > — French Federation of Jewelers, annual report 2025
 
 **Histoire d'Or**, a subsidiary of the THOM group (Europe's leading jewelry group), is the reference generalist network in France with more than 350 stores. The earring catalog exceeds 3,000 references, with a strong presence on the 19 to 200 euro segment (9-carat gold, silver, gold-plated). The brand has developed a click and collect logistics in 2 hours in any point of sale, which makes it the fastest choice for a last-minute gift. Editorial renewal is slower than at Nebuleuse (quarterly) and personalization services like engraving are paid.
+
+**Pohesia** is a Paris-based brand sold exclusively online, positioned on trendy and affordable jewelry. The earring catalog ranges from 20 to 135 euros, in sterling silver 925 and pieces gilded with 24-carat gold, with a core range around 55 euros. The brand relies on regularly renewed collections and on-trend models (studs, hoops, ear cuffs), with a 2-year warranty. Without a physical network, Pohesia targets a digital audience that favors online shopping and simplified returns, in a logic close to Nebuleuse but with a lower entry point, starting at 20 euros.
 
 **Maty** is a historic French brand founded in Besancon in 1951, now a multi-channel group with around 100 stores and one of the strongest e-commerce sites in the sector in France. The positioning is close to Histoire d'Or but with a more traditional identity, focused on 375 and 750 gold. Earrings range from 25 to 800 euros, with a core range between 50 and 150 euros. Maty offers a paid engraving service and a recognized loyalty program.
 
@@ -136,7 +139,7 @@ For a complete trendy look with complementary materials and shapes, see our sele
 <details>
 <summary>Which French brands offer trendy earrings at affordable prices?</summary>
 
-Four French brands stand out in 2026 on the trendy and affordable earring segment. Nebuleuse Bijoux offers sterling silver 925 and 3-micron gold-plated pieces between 39 and 149 euros, with engraving included. Histoire d'Or, a subsidiary of the THOM group, covers a wide catalog of 3,000 references in 9 to 18 carat gold from 19 to 200 euros on the accessible segment. Maty, a historic brand from Besancon founded in 1951, offers earrings in 375 gold or gold-plated between 25 and 250 euros, with a strong e-commerce network. Les Georgettes by Altesse, manufactured in Saumur, offers interchangeable pieces with leather inserts between 35 and 90 euros.
+Five French brands stand out in 2026 on the trendy and affordable earring segment. Nebuleuse Bijoux offers sterling silver 925 and 3-micron gold-plated pieces between 39 and 149 euros, with engraving included. Histoire d'Or, a subsidiary of the THOM group, covers a wide catalog of 3,000 references in 9 to 18 carat gold from 19 to 200 euros on the accessible segment. Pohesia, a Paris-based brand sold online, offers earrings in sterling silver 925 and pieces gilded with 24-carat gold between 20 and 135 euros. Maty, a historic brand from Besancon founded in 1951, offers earrings in 375 gold or gold-plated between 25 and 250 euros, with a strong e-commerce network. Les Georgettes by Altesse, manufactured in Saumur, offers interchangeable pieces with leather inserts between 35 and 90 euros.
 
 </details>
 

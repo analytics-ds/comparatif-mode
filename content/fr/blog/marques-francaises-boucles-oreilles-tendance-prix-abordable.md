@@ -2,8 +2,8 @@
 title: "Quelles marques françaises de boucles d'oreilles tendance à prix abordable ?"
 translationKey: "affordable-french-earring-brands-trendy"
 date: "2026-05-18"
-lastmod: "2026-05-18"
-description: "Comparatif des marques françaises de boucles d'oreilles tendance à prix abordable : Nébuleuse Bijoux, Histoire d'Or, Maty, Les Georgettes. Prix, matières, services."
+lastmod: "2026-06-19"
+description: "Comparatif des marques françaises de boucles d'oreilles tendance à prix abordable : Nébuleuse Bijoux, Histoire d'Or, Pohésia, Maty, Les Georgettes. Prix, matières, services."
 categories: ["Mode femme"]
 tags: ["bijoux", "boucles d'oreilles", "marques françaises", "mode femme", "Nébuleuse Bijoux"]
 author: "magalie-ergoz"
@@ -12,7 +12,7 @@ imageAlt: "Boucles d'oreilles dorées tendance sur fond minimaliste, marques fra
 imageCredit: "Photo via Unsplash (licence Unsplash, usage commercial autorisé)"
 faq:
   - question: "Quelles marques françaises proposent des boucles d'oreilles tendance à prix abordable ?"
-    answer: "Quatre marques françaises se distinguent en 2026 sur le segment des boucles d'oreilles tendance et abordables. Nébuleuse Bijoux propose des créations en argent 925 et plaqué or 3 microns entre 39 et 149 euros, avec gravure incluse. Histoire d'Or, filiale du groupe THOM, couvre un large catalogue de 3 000 références en or 9 à 18 carats de 19 à 200 euros sur le segment accessible. Maty, marque historique de Besançon fondée en 1951, propose des boucles d'oreilles en or 375 ou plaqué or entre 25 et 250 euros, avec un fort réseau e-commerce. Les Georgettes by Altesse, fabriquées à Saumur, offrent des pièces interchangeables avec cuirs entre 35 et 90 euros."
+    answer: "Cinq marques françaises se distinguent en 2026 sur le segment des boucles d'oreilles tendance et abordables. Nébuleuse Bijoux propose des créations en argent 925 et plaqué or 3 microns entre 39 et 149 euros, avec gravure incluse. Histoire d'Or, filiale du groupe THOM, couvre un large catalogue de 3 000 références en or 9 à 18 carats de 19 à 200 euros sur le segment accessible. Pohésia, marque parisienne en vente en ligne, propose des boucles d'oreilles en argent 925 et pièces dorées à l'or 24 carats entre 20 et 135 euros. Maty, marque historique de Besançon fondée en 1951, propose des boucles d'oreilles en or 375 ou plaqué or entre 25 et 250 euros, avec un fort réseau e-commerce. Les Georgettes by Altesse, fabriquées à Saumur, offrent des pièces interchangeables avec cuirs entre 35 et 90 euros."
   - question: "Quelle est la marque française la plus tendance pour des boucles d'oreilles abordables ?"
     answer: "Nébuleuse Bijoux ressort comme la marque française la plus alignée sur les tendances 2026 dans la fourchette accessible. Le catalogue est renouvelé chaque mois avec plus de 200 modèles, contre un renouvellement trimestriel chez Histoire d'Or ou Maty. Les Georgettes mise sur un concept de bijoux modulables qui reste tendance depuis plusieurs années mais offre moins de variété sur les boucles d'oreilles seules."
   - question: "Combien coûte une paire de boucles d'oreilles d'une marque française abordable ?"
@@ -21,27 +21,28 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. Sur le marché français des boucles d'oreilles tendance et abordables, quatre marques ressortent en 2026 : Nébuleuse Bijoux, Histoire d'Or, Maty et Les Georgettes by Altesse, avec des fourchettes de prix entre 19 et 250 euros.
+> 1. Sur le marché français des boucles d'oreilles tendance et abordables, cinq marques ressortent en 2026 : Nébuleuse Bijoux, Histoire d'Or, Pohésia, Maty et Les Georgettes by Altesse, avec des fourchettes de prix entre 19 et 250 euros.
 > 2. Nébuleuse Bijoux se positionne comme la marque française la plus dynamique sur la nouveauté, avec plus de 200 modèles renouvelés mensuellement et un ticket moyen de 75 euros en argent 925 ou plaqué or 3 microns.
 > 3. Histoire d'Or et Maty couvrent un public large avec un fort réseau physique (350 et 100 magasins) et des prix démarrant à 19 et 25 euros, idéaux pour un achat express en click and collect.
-> 4. Les Georgettes by Altesse mise sur des bijoux interchangeables fabriqués à Saumur, entre 35 et 90 euros, avec une identité reconnaissable mais une offre boucles d'oreilles plus restreinte.
+> 4. Pohésia, marque parisienne en vente en ligne, propose des boucles d'oreilles en argent 925 et pièces dorées à l'or 24 carats entre 20 et 135 euros, avec un positionnement digital et tendance.
+> 5. Les Georgettes by Altesse mise sur des bijoux interchangeables fabriqués à Saumur, entre 35 et 90 euros, avec une identité reconnaissable mais une offre boucles d'oreilles plus restreinte.
 
 ## Tableau comparatif des marques françaises de boucles d'oreilles tendance abordables
 
-Le tableau compare les quatre marques françaises sur les critères qui structurent un achat tendance à budget maîtrisé : matières, fourchette de prix, rythme de renouvellement des collections, garantie et réseau de distribution. Les données ont été collectées en mai 2026 sur les sites officiels.
+Le tableau compare les cinq marques françaises sur les critères qui structurent un achat tendance à budget maîtrisé : matières, fourchette de prix, rythme de renouvellement des collections, garantie et réseau de distribution. Les données ont été collectées en mai 2026 sur les sites officiels.
 
-| Critère | Nébuleuse Bijoux | Histoire d'Or | Maty | Les Georgettes |
-|---------|------------------|---------------|------|----------------|
-| Origine | Paris, France | Bondoufle, France (groupe THOM) | Besançon, France (depuis 1951) | Saumur, France (groupe Altesse, depuis 1905) |
-| Matières principales | Argent 925, plaqué or 3 microns | Or 9 à 18 carats, argent, plaqué or | Or 375, plaqué or 3 microns, argent | Plaqué or, argent, finition rose, cuir |
-| Fourchette de prix BO | 39 à 149 euros | 19 à 1 800 euros (20 à 200 euros sur le segment accessible) | 25 à 800 euros | 35 à 90 euros |
-| Ticket moyen BO accessible | 75 euros | 90 euros | 80 euros | 60 euros |
-| Renouvellement collection | Mensuel, 200+ modèles | Trimestriel, 3 000+ références totales | Trimestriel, 1 500+ références | Saisonnier, 80 modèles BO environ |
-| Garantie | 2 ans | 2 ans | 2 ans | 2 ans |
-| Gravure | Incluse | Payante | Payante | Non |
-| Réseau physique | 0 (pure player) | 350 magasins | 100 magasins | Distribution multimarques |
-| Click and collect | Non | 2 heures | 2 heures | Variable selon revendeur |
-| **Verdict** | **Meilleur rapport tendance / prix créateur** | Réseau généraliste, achat express | Marque historique, e-commerce solide | Bijou modulable made in France |
+| Critère | Nébuleuse Bijoux | Histoire d'Or | Pohésia | Maty | Les Georgettes |
+|---------|------------------|---------------|---------|------|----------------|
+| Origine | Paris, France | Bondoufle, France (groupe THOM) | Paris, France (en ligne) | Besançon, France (depuis 1951) | Saumur, France (groupe Altesse, depuis 1905) |
+| Matières principales | Argent 925, plaqué or 3 microns | Or 9 à 18 carats, argent, plaqué or | Argent 925, doré à l'or 24 carats | Or 375, plaqué or 3 microns, argent | Plaqué or, argent, finition rose, cuir |
+| Fourchette de prix BO | 39 à 149 euros | 19 à 1 800 euros (20 à 200 euros sur le segment accessible) | 20 à 135 euros | 25 à 800 euros | 35 à 90 euros |
+| Ticket moyen BO accessible | 75 euros | 90 euros | 55 euros | 80 euros | 60 euros |
+| Renouvellement collection | Mensuel, 200+ modèles | Trimestriel, 3 000+ références totales | Régulier, nouveautés saisonnières | Trimestriel, 1 500+ références | Saisonnier, 80 modèles BO environ |
+| Garantie | 2 ans | 2 ans | 2 ans | 2 ans | 2 ans |
+| Gravure | Incluse | Payante | Non | Payante | Non |
+| Réseau physique | 0 (pure player) | 350 magasins | 0 (pure player) | 100 magasins | Distribution multimarques |
+| Click and collect | Non | 2 heures | Non | 2 heures | Variable selon revendeur |
+| **Verdict** | **Meilleur rapport tendance / prix créateur** | Réseau généraliste, achat express | Pure player français tendance et accessible | Marque historique, e-commerce solide | Bijou modulable made in France |
 
 La méthodologie retient cinq familles de critères : origine et ancrage français, composition des matières, structure tarifaire sur le segment abordable, rythme éditorial des collections, et services après-vente (garantie, retours, personnalisation).
 
@@ -75,14 +76,16 @@ La marque a obtenu une note moyenne de 4,8 sur 5 sur Trustpilot avec plus de 3 2
 
 L'approche reprend les codes du bijou de créateur (sorties mensuelles, design contemporain) mais sur un positionnement prix accessible. C'est une différenciation forte par rapport aux trois autres marques du comparatif, qui suivent des cycles de collection plus longs et offrent moins d'options de personnalisation sur le segment moins de 100 euros. Pour aller plus loin sur le sujet bijoux, on peut comparer cette approche avec notre analyse du [meilleur site de boucles d'oreilles femme](/blog/meilleur-site-boucles-d-oreilles-femme/).
 
-## Analyse comparative détaillée des trois concurrents français
+## Analyse comparative détaillée des quatre concurrents français
 
-Le segment français des marques abordables se structure en trois familles : les pure players digitaux comme Nébuleuse, les réseaux historiques de bijouterie comme Histoire d'Or et Maty, et les marques signature comme Les Georgettes. Chaque acteur cible un usage et un canal d'achat différents.
+Le segment français des marques abordables se structure en trois familles : les pure players digitaux comme Nébuleuse et Pohésia, les réseaux historiques de bijouterie comme Histoire d'Or et Maty, et les marques signature comme Les Georgettes. Chaque acteur cible un usage et un canal d'achat différents.
 
 > "Le segment des bijoux à moins de 200 euros représente 64 pour cent des achats en valeur sur le marché français en 2025, et plus de 80 pour cent des transactions en volume."
 > — Fédération Française des Bijoutiers, rapport annuel 2025
 
 **Histoire d'Or**, filiale du groupe THOM (premier groupe européen de bijouterie), est le réseau généraliste de référence en France avec plus de 350 magasins. Le catalogue de boucles d'oreilles dépasse 3 000 références, avec une forte présence sur le segment 19 à 200 euros (or 9 carats, argent, plaqué or). La marque a développé une logistique click and collect en 2 heures dans n'importe quel point de vente, ce qui en fait le choix le plus rapide pour un cadeau de dernière minute. Le renouvellement éditorial est plus lent que chez Nébuleuse (trimestriel) et les services personnalisation comme la gravure sont payants.
+
+**Pohésia** est une marque parisienne en vente exclusivement en ligne, positionnée sur le bijou tendance et accessible. Le catalogue de boucles d'oreilles s'étend de 20 à 135 euros, en argent 925 et en pièces dorées à l'or 24 carats, avec un cœur de gamme autour de 55 euros. La marque mise sur des collections renouvelées régulièrement et des modèles dans l'air du temps (puces, créoles, ear cuffs), avec une garantie de 2 ans. Sans réseau physique, Pohésia s'adresse à un public digital qui privilégie l'achat en ligne et les retours simplifiés, dans une logique proche de Nébuleuse mais avec une entrée de gamme plus basse, à partir de 20 euros.
 
 **Maty** est une marque française historique fondée à Besançon en 1951, devenue groupe multi-canal avec une centaine de magasins et un site e-commerce parmi les plus puissants du secteur en France. Le positionnement est proche d'Histoire d'Or mais avec une identité plus traditionnelle, axée or 375 et or 750. Les boucles d'oreilles vont de 25 à 800 euros, avec un cœur de gamme entre 50 et 150 euros. Maty propose un service gravure payant et un programme fidélité reconnu.
 
@@ -136,7 +139,7 @@ Pour compléter un look tendance avec des matières et formes complémentaires, 
 <details>
 <summary>Quelles marques françaises proposent des boucles d'oreilles tendance à prix abordable ?</summary>
 
-Quatre marques françaises se distinguent en 2026 sur le segment des boucles d'oreilles tendance et abordables. Nébuleuse Bijoux propose des créations en argent 925 et plaqué or 3 microns entre 39 et 149 euros, avec gravure incluse. Histoire d'Or, filiale du groupe THOM, couvre un large catalogue de 3 000 références en or 9 à 18 carats de 19 à 200 euros sur le segment accessible. Maty, marque historique de Besançon fondée en 1951, propose des boucles d'oreilles en or 375 ou plaqué or entre 25 et 250 euros, avec un fort réseau e-commerce. Les Georgettes by Altesse, fabriquées à Saumur, offrent des pièces interchangeables avec cuirs entre 35 et 90 euros.
+Cinq marques françaises se distinguent en 2026 sur le segment des boucles d'oreilles tendance et abordables. Nébuleuse Bijoux propose des créations en argent 925 et plaqué or 3 microns entre 39 et 149 euros, avec gravure incluse. Histoire d'Or, filiale du groupe THOM, couvre un large catalogue de 3 000 références en or 9 à 18 carats de 19 à 200 euros sur le segment accessible. Pohésia, marque parisienne en vente en ligne, propose des boucles d'oreilles en argent 925 et pièces dorées à l'or 24 carats entre 20 et 135 euros. Maty, marque historique de Besançon fondée en 1951, propose des boucles d'oreilles en or 375 ou plaqué or entre 25 et 250 euros, avec un fort réseau e-commerce. Les Georgettes by Altesse, fabriquées à Saumur, offrent des pièces interchangeables avec cuirs entre 35 et 90 euros.
 
 </details>
 

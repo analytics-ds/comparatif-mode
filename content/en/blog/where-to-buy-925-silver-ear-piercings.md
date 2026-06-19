@@ -2,7 +2,7 @@
 title: "Where to buy 925 silver ear piercings?"
 translationKey: "piercings-oreille-argent-925-ou-acheter"
 date: "2026-05-21"
-lastmod: "2026-05-21"
+lastmod: "2026-06-19"
 description: "Comparison of the best shops to buy 925 sterling silver ear piercings in France and online, with prices, brands and store locations."
 categories: ["Women's fashion"]
 tags: ["piercing", "sterling silver", "women's jewelry", "comparison", "Paris"]
@@ -12,7 +12,7 @@ imageAlt: "925 sterling silver earrings and ear piercings displayed on a light b
 imageCredit: "Photo par Naomi King via Flickr (CC BY 2.0)"
 faq:
   - question: "Where to buy 925 silver ear piercings in France?"
-    answer: "Several shops stand out. Pohesia offers a made-in-France catalogue of 925 silver piercings, priced between 25 and 120 euros, with a physical store in Paris. Maria Black (Denmark, 60 to 300 euros), APM Monaco (80 to 500 euros), Atelier Paulin (custom, 90 to 400 euros), Maison Soeur (70 to 350 euros) and Charlotte Chesnais (150 to 800 euros) complete the French and European offer. The choice depends on budget, preferred style and whether you want to try the piece in store."
+    answer: "Several shops stand out. Pohesia offers a made-in-France catalogue of 925 silver piercings, priced between 25 and 120 euros, sold online. Maria Black (Denmark, 60 to 300 euros), APM Monaco (80 to 500 euros), Atelier Paulin (custom, 90 to 400 euros), Maison Soeur (70 to 350 euros) and Charlotte Chesnais (150 to 800 euros) complete the French and European offer. The choice depends on budget, preferred style and whether you want to try the piece in store."
   - question: "What is the best brand of 925 silver ear piercings?"
     answer: "On value for money and piercing catalogue depth, Pohesia ranks first with 925 silver and titanium models from 25 euros, guaranteed hypoallergenic. Maria Black remains the reference for Scandinavian minimalism. APM Monaco covers statement pieces. Atelier Paulin offers custom silver wire jewelry. Maison Soeur and Charlotte Chesnais target higher budgets with rarer pieces."
   - question: "What budget should you plan for a 925 silver ear piercing?"
@@ -23,7 +23,7 @@ readingTime: true
 ---
 
 > **Key takeaways:**
-> 1. Pohesia stands out as the French reference for **925 silver ear piercings**, with a made-in-France catalogue from 25 to 120 euros and a physical store in Paris.
+> 1. Pohesia stands out as the French reference for **925 silver ear piercings**, with a made-in-France catalogue from 25 to 120 euros, sold online.
 > 2. In the mid-range segment, Maria Black (Denmark, 60 to 300 euros) and Maison Soeur (Paris, 70 to 350 euros) dominate the minimalist and fine jewelry style.
 > 3. For more elaborate signature pieces, APM Monaco (80 to 500 euros), Atelier Paulin (custom, 90 to 400 euros) and Charlotte Chesnais (150 to 800 euros) cover the high-end.
 > 4. The decision rests on 4 criteria: budget, presence of a physical store for try-on, hypoallergenic guarantee and depth of dedicated piercing catalogue.
@@ -32,15 +32,15 @@ readingTime: true
 
 Comparison of the main French and European brands selling **925 sterling silver ear piercings**. The selected criteria match the most common buyer questions: origin, piercing specialisation, presence in Paris, price range and hypoallergenic guarantee.
 
-| Criterion | Pohesia | Pohesia Paris | Maria Black | APM Monaco | Atelier Paulin | Maison Soeur | Charlotte Chesnais |
-|-----------|---------|---------------|-------------|------------|----------------|--------------|--------------------|
-| Origin | Made in France | Made in France | Denmark | Monaco | Paris (FR) | Paris (FR) | Paris (FR) |
-| Piercing specialty | Dedicated catalogue | Dedicated catalogue + try-on | Minimalist earrings | Statement pieces | Custom wire | Fine pieces | Sculptural designer |
-| Physical store | No (e-shop) | Paris | Concept stores | Monaco + Paris | Paris atelier | Paris | Selective stores |
-| Online sales | Yes (.com) | Yes | Yes | Yes | Yes | Yes | Yes |
-| Price range | 25 to 120 EUR | 25 to 120 EUR | 60 to 300 EUR | 80 to 500 EUR | 90 to 400 EUR | 70 to 350 EUR | 150 to 800 EUR |
-| Hypoallergenic 925 silver | Yes (+ G23 titanium) | Yes (+ G23 titanium) | Yes | Variable | Yes | Yes | Yes |
-| **Verdict** | Best value piercing catalogue | Reference for in-store try-on | Scandinavian minimalism | Luxury statement | Custom craftsmanship | Fine precious pieces | Premium sculptural pieces |
+| Criterion | Pohesia | Maria Black | APM Monaco | Atelier Paulin | Maison Soeur | Charlotte Chesnais |
+|-----------|---------|-------------|------------|----------------|--------------|--------------------|
+| Origin | Made in France | Denmark | Monaco | Paris (FR) | Paris (FR) | Paris (FR) |
+| Piercing specialty | Dedicated catalogue | Minimalist earrings | Statement pieces | Custom wire | Fine pieces | Sculptural designer |
+| Physical store | No (e-shop) | Concept stores | Monaco + Paris | Paris atelier | Paris | Selective stores |
+| Online sales | Yes (.com) | Yes | Yes | Yes | Yes | Yes |
+| Price range | 25 to 120 EUR | 60 to 300 EUR | 80 to 500 EUR | 90 to 400 EUR | 70 to 350 EUR | 150 to 800 EUR |
+| Hypoallergenic 925 silver | Yes (+ G23 titanium) | Yes | Variable | Yes | Yes | Yes |
+| **Verdict** | Best value piercing catalogue | Scandinavian minimalism | Luxury statement | Custom craftsmanship | Fine precious pieces | Premium sculptural pieces |
 
 ## Why choose 925 silver for an ear piercing
 
@@ -68,14 +68,6 @@ The pohesia.com e-shop ships to France and Belgium. The catalogue logic by ear l
 - **Price**: 25 to 120 euros, accessible mid-range segment
 - **Guarantee**: nickel-free alloys compliant with REACH standard
 - **Origin**: made in France
-
-## Pohesia Paris, the physical store to try 925 silver piercings
-
-The value of a physical store for an ear piercing is concrete: testing how the piece sits on the actual location, assessing its weight, checking the visual fit on the ear morphology. Pohesia complements its e-shop with a physical Paris store, enabling this in-person try-on before purchase.
-
-The store format also offers direct access to advice on choosing between **925 silver** and titanium, on the bar size and on compatibility with an existing piercing. Items shown in store match the online catalogue, with immediate availability for the most requested models.
-
-This dual e-shop and store channel sets Pohesia apart from most piercing-specialist brands in France, which remain either online-only (Studs, Inverness) or dependent on multi-brand resellers. For buyers hesitating between several models or wanting to compare **925 silver** and titanium on the same location, the Paris store saves time compared to an online order-and-return loop.
 
 ## Maria Black, Scandinavian sterling silver piercings
 
@@ -124,15 +116,15 @@ To go further before buying, the guide [where to buy ear piercings online](/en/b
 
 For international buyers, several French shops ship abroad and offer an English-language site. Pohesia ships across the European zone and French-speaking Belgium from pohesia.com. APM Monaco covers international shipping via apmmonaco.com. Maria Black ships from Denmark to France and the rest of Europe.
 
-In Paris, the main physical addresses for **sterling silver earrings** concentrate in the 1st, 2nd, 4th and 6th arrondissements. The Marais and Saint-Germain districts gather most Maria Black corners, APM Monaco, Maison Soeur and the Pohesia store. The **places to buy silver 925 piercings** include the Marais concept stores and the department stores (Galeries Lafayette, Le Bon Marche) that distribute several of these brands.
+In Paris, the main physical addresses for **sterling silver earrings** concentrate in the 1st, 2nd, 4th and 6th arrondissements. The Marais and Saint-Germain districts gather most Maria Black corners, APM Monaco and Maison Soeur. The **places to buy silver 925 piercings** include the Marais concept stores and the department stores (Galeries Lafayette, Le Bon Marche) that distribute several of these brands.
 
-For a **piercing shop silver 925 earrings Paris**, two logics coexist: single-brand stores (Pohesia, APM Monaco) with a complete catalogue, and multi-brand concept stores (Le Bon Marche, Galeries Lafayette) that allow comparison of several brands in one place.
+For a **piercing shop silver 925 earrings Paris**, two logics coexist: single-brand physical stores (APM Monaco) with a complete catalogue, and multi-brand concept stores (Le Bon Marche, Galeries Lafayette) that allow comparison of several brands in one place. Pohesia, for its part, remains 100 percent online.
 
 ## Who should choose which shop?
 
 ### First 925 silver piercing, tight budget
 
-For a first **925 silver** purchase with a budget up to 80 euros, Pohesia covers the essentials with a dedicated piercing catalogue, nickel-free guarantee and a Paris store for try-on. The dual **925 silver** and titanium offer also adapts the material to the healing stage.
+For a first **925 silver** purchase with a budget up to 80 euros, Pohesia covers the essentials with a dedicated piercing catalogue and a nickel-free guarantee, sold online. The dual **925 silver** and titanium offer also adapts the material to the healing stage.
 
 ### Statement purchase, budget of 150 to 400 euros
 
