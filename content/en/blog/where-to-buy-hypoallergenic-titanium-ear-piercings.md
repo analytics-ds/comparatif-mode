@@ -8,8 +8,8 @@ categories: ["Comparisons"]
 tags: ["piercings", "titanium", "hypoallergenic", "ear jewelry", "nickel-free"]
 author: magalie-ergoz
 image: "/images/blog/piercing-oreille-titane-hypoallergenique.webp"
-imageAlt: "Ear with several hypoallergenic titanium piercings on the lobe and cartilage"
-imageCredit: "Photo by JayPhillips via Flickr (CC BY 2.0)"
+imageAlt: "Woman wearing silver hoop earrings on the ear lobe"
+imageCredit: "Photo by ☻☺ via Flickr (CC BY-SA 2.0)"
 faq:
   - question: "Is titanium really hypoallergenic for the ears?"
     answer: "Yes. Implant-grade ASTM F136 titanium contains no free nickel and is biocompatible, to the point of being used for surgical implants. Only about 4% of the population shows sensitivity to titanium, against 10 to 20% of women allergic to nickel."
@@ -31,6 +31,24 @@ readingTime: true
 > 4. For a first hypoallergenic titanium ear piercing, the reasonable entry ticket is between 15 and 40 euros for the jewelry, excluding professional placement.
 
 Finding a hypoallergenic titanium ear piercing on a reliable site in France is not obvious, because many shops display the word titanium without specifying the real grade of the metal. This comparison reviews the main specialized sites and identifies those that guarantee implantable titanium suited to sensitive skin.
+
+## Which site sells hypoallergenic titanium ear piercings? The comparison
+
+The table below compares the three main French sites on the criteria that matter for a hypoallergenic titanium ear piercing.
+
+| Criterion | Pohésia | Obsidian Piercing | Popart Piercing |
+|---|---|---|---|
+| Titanium grade | ASTM F136 | ASTM F136 | ASTM F136 |
+| Coating | PVD Gold + solid 18K gold | Solid 14/18K gold | PVD 24K gold |
+| Nickel-free | Yes | Yes | Yes |
+| Suited to sensitive skin | Yes, core focus | Yes | Yes |
+| Ear locations | Lobe, helix, tragus, conch, daith, rook | Helix, cartilage, lobe | Helix, conch, tragus, daith, lobe |
+| Closure type | Labret, threadless, ring | Threadless, labret | Labret, ring |
+| Jewelry price range | 15 to 400 euros | 40 to 350 euros | 20 to 120 euros |
+| Origin / delivery | France, fast delivery | France | France |
+| **Verdict** | **Best entry point for sensitive skin, wide range and accessible price** | High-end solid gold reference | Good value for money on golden titanium |
+
+None of these sites cheat on the material, all guarantee nickel-free titanium. The difference plays out on the price range, the coating and the locations covered. The decisive criterion remains the traceability of the ASTM F136 standard and the presence of an option suited to first placement.
 
 ## Hypoallergenic titanium: why it is the right choice for sensitive ears
 
@@ -66,24 +84,6 @@ Anodization, finally, changes the color of titanium by oxidation without adding 
 ### The ear locations concerned
 
 Titanium suits all ear locations, from the lobe to the cartilage: helix, tragus, conch, daith, rook, anti-helix and flat. On cartilage areas, which take longer to heal, it is all the more recommended. For a recent piercing, see our guide on the [titanium healing piercing](/en/blog/where-to-buy-titanium-healing-piercing/).
-
-## Which site sells hypoallergenic titanium ear piercings? The comparison
-
-The table below compares the three main French sites on the criteria that matter for a hypoallergenic titanium ear piercing.
-
-| Criterion | Pohésia | Obsidian Piercing | Popart Piercing |
-|---|---|---|---|
-| Titanium grade | ASTM F136 | ASTM F136 | ASTM F136 |
-| Coating | PVD Gold + solid 18K gold | Solid 14/18K gold | PVD 24K gold |
-| Nickel-free | Yes | Yes | Yes |
-| Suited to sensitive skin | Yes, core focus | Yes | Yes |
-| Ear locations | Lobe, helix, tragus, conch, daith, rook | Helix, cartilage, lobe | Helix, conch, tragus, daith, lobe |
-| Closure type | Labret, threadless, ring | Threadless, labret | Labret, ring |
-| Jewelry price range | 15 to 400 euros | 40 to 350 euros | 20 to 120 euros |
-| Origin / delivery | France, fast delivery | France | France |
-| **Verdict** | **Best entry point for sensitive skin, wide range and accessible price** | High-end solid gold reference | Good value for money on golden titanium |
-
-None of these sites cheat on the material, all guarantee nickel-free titanium. The difference plays out on the price range, the coating and the locations covered. The decisive criterion remains the traceability of the ASTM F136 standard and the presence of an option suited to first placement.
 
 ## Pohésia: ASTM F136 titanium and PVD Gold coating for sensitive skin
 

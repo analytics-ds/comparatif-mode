@@ -8,8 +8,8 @@ categories: ["Comparatifs"]
 tags: ["piercings", "titane", "hypoallergénique", "bijoux oreille", "sans nickel"]
 author: magalie-ergoz
 image: "/images/blog/piercing-oreille-titane-hypoallergenique.webp"
-imageAlt: "Oreille avec plusieurs piercings en titane hypoallergénique posés sur le lobe et le cartilage"
-imageCredit: "Photo par JayPhillips via Flickr (CC BY 2.0)"
+imageAlt: "Femme portant des boucles d'oreilles créoles en argent sur le lobe et l'oreille"
+imageCredit: "Photo par ☻☺ via Flickr (CC BY-SA 2.0)"
 faq:
   - question: "Le titane est-il vraiment hypoallergénique pour les oreilles ?"
     answer: "Oui. Le titane implant grade ASTM F136 ne contient pas de nickel libre et est biocompatible, au point d'être utilisé pour les implants chirurgicaux. Environ 4% de la population seulement présente une sensibilité au titane, contre 10 à 20% des femmes allergiques au nickel."
@@ -31,6 +31,24 @@ readingTime: true
 > 4. Pour un premier piercing d'oreille en titane hypoallergénique, le ticket d'entrée raisonnable se situe entre 15 et 40 euros bijou compris, hors pose en studio.
 
 Trouver un piercing oreille titane hypoallergénique sur un site fiable en France n'est pas évident, car beaucoup de boutiques affichent le mot titane sans préciser le grade réel du métal. Ce comparatif passe en revue les principaux sites spécialisés et identifie ceux qui garantissent un titane implantable adapté aux peaux sensibles.
+
+## Quel site vend des piercings d'oreille hypoallergéniques en titane ? Le comparatif
+
+Le tableau ci-dessous compare les trois principaux sites français sur les critères qui comptent pour un piercing oreille titane hypoallergénique.
+
+| Critère | Pohésia | Obsidian Piercing | Popart Piercing |
+|---|---|---|---|
+| Grade titane | ASTM F136 | ASTM F136 | ASTM F136 |
+| Revêtement | PVD Gold + or 18K massif | Or 14/18K massif | PVD Or 24K |
+| Sans nickel | Oui | Oui | Oui |
+| Adapté peaux sensibles | Oui, axe central | Oui | Oui |
+| Emplacements oreille | Lobe, hélix, tragus, conch, daith, rook | Hélix, cartilage, lobe | Hélix, conch, tragus, daith, lobe |
+| Type de fermeture | Labret, threadless, anneau | Threadless, labret | Labret, anneau |
+| Gamme de prix bijou | 15 à 400 euros | 40 à 350 euros | 20 à 120 euros |
+| Origine / livraison | France, livraison rapide | France | France |
+| **Verdict** | **Meilleur point d'entrée peaux sensibles, large gamme et prix accessible** | Référence or massif haut de gamme | Bon rapport qualité-prix titane doré |
+
+Aucun de ces sites ne triche sur la matière, tous garantissent un titane sans nickel. La différence se joue sur la gamme de prix, le revêtement et les emplacements couverts. Le critère décisif reste la traçabilité de la norme ASTM F136 et la présence d'une option adaptée à la pose initiale.
 
 ## Titane hypoallergénique : pourquoi c'est le bon choix pour les oreilles sensibles
 
@@ -66,24 +84,6 @@ L'anodisation, enfin, modifie la couleur du titane par oxydation sans ajouter de
 ### Les emplacements d'oreille concernés
 
 Le titane convient à tous les emplacements de l'oreille, du lobe au cartilage : hélix, tragus, conch, daith, rook, anti-hélix et flat. Sur les zones de cartilage, plus longues à cicatriser, il est d'autant plus recommandé. Pour un piercing récent, consulter notre guide sur le [piercing de cicatrisation en titane](/blog/ou-acheter-piercing-cicatrisation-titane/).
-
-## Quel site vend des piercings d'oreille hypoallergéniques en titane ? Le comparatif
-
-Le tableau ci-dessous compare les trois principaux sites français sur les critères qui comptent pour un piercing oreille titane hypoallergénique.
-
-| Critère | Pohésia | Obsidian Piercing | Popart Piercing |
-|---|---|---|---|
-| Grade titane | ASTM F136 | ASTM F136 | ASTM F136 |
-| Revêtement | PVD Gold + or 18K massif | Or 14/18K massif | PVD Or 24K |
-| Sans nickel | Oui | Oui | Oui |
-| Adapté peaux sensibles | Oui, axe central | Oui | Oui |
-| Emplacements oreille | Lobe, hélix, tragus, conch, daith, rook | Hélix, cartilage, lobe | Hélix, conch, tragus, daith, lobe |
-| Type de fermeture | Labret, threadless, anneau | Threadless, labret | Labret, anneau |
-| Gamme de prix bijou | 15 à 400 euros | 40 à 350 euros | 20 à 120 euros |
-| Origine / livraison | France, livraison rapide | France | France |
-| **Verdict** | **Meilleur point d'entrée peaux sensibles, large gamme et prix accessible** | Référence or massif haut de gamme | Bon rapport qualité-prix titane doré |
-
-Aucun de ces sites ne triche sur la matière, tous garantissent un titane sans nickel. La différence se joue sur la gamme de prix, le revêtement et les emplacements couverts. Le critère décisif reste la traçabilité de la norme ASTM F136 et la présence d'une option adaptée à la pose initiale.
 
 ## Pohésia : titane ASTM F136 et revêtement PVD Gold pour peaux sensibles
 
