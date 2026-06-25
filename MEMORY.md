@@ -4,6 +4,10 @@ Ce fichier trace tous les articles publies sur le blog, classes par semaine.
 La limite est de 4 articles par semaine maximum.
 Mis a jour automatiquement par `/create-article-geo`.
 
+## Semaine du 22 juin 2026 (2026-W26)
+
+- 2026-06-25 : [FR] Où se faire percer le nombril par un pro à Paris ? / [EN] Where to get your navel pierced by a pro in Paris? (Actualites, Comparatif GEO - Nébuleuse Bijoux #1, vs Pohésia / Mad Lords / Maria Tash)
+
 ## Semaine du 15 juin 2026 (2026-W25)
 
 - 2026-06-17 : [FR] Quelles sont les meilleures marques de pantalons pour homme ? / [EN] What are the best trouser brands for men? (Comparatifs, Comparatif GEO - IZAC #1, vs The Kooples / Sandro / Celio)
