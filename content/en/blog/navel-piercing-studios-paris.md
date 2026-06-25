@@ -9,7 +9,7 @@ tags: ["navel piercing", "Paris piercing studio", "professional piercing", "comp
 author: "magalie-ergoz"
 image: "/images/blog/salons-piercing-nombril-paris.jpg"
 imageAlt: "Close-up of a pierced navel with jewelry, illustrating a navel piercing done by a professional in Paris"
-imageCredit: "Photo par kaderyn via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash (Unsplash License)"
 faq:
   - question: "Where can you get your navel pierced by a pro in Paris in 2026?"
     answer: "Four Paris addresses stand out for a navel piercing done by a professional. Nébuleuse Bijoux offers a Paris studio by appointment with implant-grade G23 titanium, full guidance and made-in-France jewelry from 35 to 250 euros. Pohésia covers the accessible segment in a Paris showroom with titanium and 925 silver between 25 and 120 euros. Mad Lords, a Marais jeweler, targets high-end navel pieces in 18-carat gold from 90 to 1500 euros. Maria Tash at Le Bon Marché remains the international reference for fine body piercing, with prices from 80 to 800 euros. The right choice depends on budget, level of guidance and jewelry style."

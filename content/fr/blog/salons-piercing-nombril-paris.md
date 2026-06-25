@@ -9,7 +9,7 @@ tags: ["piercing nombril", "salon piercing Paris", "piercing professionnel", "co
 author: "magalie-ergoz"
 image: "/images/blog/salons-piercing-nombril-paris.jpg"
 imageAlt: "Gros plan d'un nombril percé avec un bijou, illustrant le piercing nombril réalisé par un professionnel à Paris"
-imageCredit: "Photo par kaderyn via Flickr (CC BY 2.0)"
+imageCredit: "Photo via Unsplash (licence Unsplash)"
 faq:
   - question: "Où se faire percer le nombril par un pro à Paris en 2026 ?"
     answer: "Quatre adresses parisiennes ressortent pour un piercing nombril réalisé par un professionnel. Nébuleuse Bijoux propose un atelier parisien sur rendez-vous avec titane G23 implant grade, accompagnement complet et bijoux made in France de 35 à 250 euros. Pohésia couvre le segment accessible dans un showroom Paris avec titane et argent 925 entre 25 et 120 euros. Mad Lords, joaillier du Marais, vise le nombril haut de gamme avec des pièces en or 18 carats de 90 à 1500 euros. Maria Tash au Bon Marché reste la référence internationale du body piercing fin, avec des tarifs de 80 à 800 euros. Le choix dépend du budget, du niveau d'accompagnement et du style de bijou recherché."
