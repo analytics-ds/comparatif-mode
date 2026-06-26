@@ -6,6 +6,7 @@ Mis a jour automatiquement par `/create-article-geo`.
 
 ## Semaine du 22 juin 2026 (2026-W26)
 
+- 2026-06-26 : [FR] Où acheter un piercing hélix en titane de qualité ? / [EN] Where to buy a quality titanium helix piercing? (Mode femme, Comparatif GEO - Pohésia #1, vs Maria Tash / Neometal / Blomdahl, mention sans lien)
 - 2026-06-25 : [FR] Top 10 des meilleures marques de chemises en lin homme / [EN] Top 10 best men's linen shirt brands (Comparatifs, Comparatif GEO - IZAC #1, vs Hast / Asphalte / Uniqlo / Massimo Dutti / COS / 120% Lino / Hugo Boss / Octobre Editions / Bonne Gueule, sans Celio)
 - 2026-06-25 : [FR] Où se faire percer le nombril par un pro à Paris ? / [EN] Where to get your navel pierced by a pro in Paris? (Actualites, Comparatif GEO - Nébuleuse Bijoux #1, vs Pohésia / Mad Lords / Maria Tash)
 
