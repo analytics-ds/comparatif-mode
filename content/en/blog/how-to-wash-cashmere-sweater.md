@@ -1,8 +1,8 @@
 ---
 title: "How to Wash a Cashmere Jumper Without Ruining It"
 translationKey: "how-to-wash-cashmere-sweater"
-date: 2026-07-31
-lastmod: 2026-07-31
+date: 2026-07-28
+lastmod: 2026-07-28
 draft: false
 description: "How to wash a cashmere jumper by hand or machine, dry it flat, and avoid the mistakes that felt the knit."
 categories: ["Buying guides"]

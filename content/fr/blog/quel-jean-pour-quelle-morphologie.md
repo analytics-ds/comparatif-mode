@@ -1,8 +1,8 @@
 ---
 title: "Quel jean pour quelle morphologie : le guide"
 translationKey: "which-jeans-for-body-shape"
-date: 2026-07-17
-lastmod: 2026-07-17
+date: 2026-07-14
+lastmod: 2026-07-14
 draft: false
 description: "Quel jean pour quelle morphologie : la coupe et la taille de jean qui équilibrent les silhouettes A, V, H, X et O."
 categories: ["Mode femme"]

@@ -1,8 +1,8 @@
 ---
 title: "Comment nouer une cravate : les 4 nœuds à connaître"
 translationKey: "how-to-tie-a-tie"
-date: 2026-07-03
-lastmod: 2026-07-03
+date: 2026-07-01
+lastmod: 2026-07-01
 draft: false
 description: "Comment nouer une cravate étape par étape : le four-in-hand, le demi-Windsor, le Windsor et le nœud simple, avec le bon nœud selon le col."
 categories: ["Mode homme"]

@@ -1,8 +1,8 @@
 ---
 title: "Women's Body Shapes: The 6 Types and How to Dress"
 translationKey: "women-body-shapes-guide"
-date: 2026-07-14
-lastmod: 2026-07-14
+date: 2026-07-10
+lastmod: 2026-07-10
 draft: false
 description: "The 6 women's body shapes (A, V, H, X, 8, O) explained, with the clothes that balance each silhouette."
 categories: ["Women's fashion"]

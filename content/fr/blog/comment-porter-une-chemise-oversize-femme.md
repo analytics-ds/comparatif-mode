@@ -1,8 +1,8 @@
 ---
 title: "Comment porter une chemise oversize femme"
 translationKey: "how-to-wear-oversized-shirt-women"
-date: 2026-07-24
-lastmod: 2026-07-24
+date: 2026-07-21
+lastmod: 2026-07-21
 draft: false
 description: "Comment porter une chemise oversize femme sans se noyer dedans : rentrée, nouée, en robe ou en veste, avec les bonnes proportions."
 categories: ["Mode femme"]

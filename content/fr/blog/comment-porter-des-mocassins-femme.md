@@ -1,8 +1,8 @@
 ---
 title: "Comment porter des mocassins femme : 5 tenues"
 translationKey: "how-to-wear-loafers-women"
-date: 2026-07-28
-lastmod: 2026-07-28
+date: 2026-07-24
+lastmod: 2026-07-24
 draft: false
 description: "Comment porter des mocassins femme : avec un jean, une jupe, une robe ou un costume, et la question des chaussettes."
 categories: ["Mode femme"]

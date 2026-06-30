@@ -1,8 +1,8 @@
 ---
 title: "Which Jeans for Your Body Shape: The Guide"
 translationKey: "which-jeans-for-body-shape"
-date: 2026-07-17
-lastmod: 2026-07-17
+date: 2026-07-14
+lastmod: 2026-07-14
 draft: false
 description: "Which jeans for your body shape: the cut and rise that balance the A, V, H, X and O silhouettes."
 categories: ["Women's fashion"]

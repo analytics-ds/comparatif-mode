@@ -1,8 +1,8 @@
 ---
 title: "Morphologie femme : les 6 types et comment s'habiller"
 translationKey: "women-body-shapes-guide"
-date: 2026-07-14
-lastmod: 2026-07-14
+date: 2026-07-10
+lastmod: 2026-07-10
 draft: false
 description: "Les 6 types de morphologie femme (A, V, H, X, 8, O) expliqués, avec les vêtements qui équilibrent chaque silhouette."
 categories: ["Mode femme"]

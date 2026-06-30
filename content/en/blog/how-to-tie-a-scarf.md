@@ -1,8 +1,8 @@
 ---
 title: "How to Tie a Scarf: 8 Easy Ways"
 translationKey: "how-to-tie-a-scarf"
-date: 2026-07-07
-lastmod: 2026-07-07
+date: 2026-07-03
+lastmod: 2026-07-03
 draft: false
 description: "How to tie a scarf in 8 simple ways: around the neck, as a headband, on a bag. Methods by scarf size and season."
 categories: ["Women's fashion"]

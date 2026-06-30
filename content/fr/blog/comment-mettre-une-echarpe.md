@@ -1,8 +1,8 @@
 ---
 title: "Comment mettre une écharpe : 6 façons de la nouer"
 translationKey: "how-to-wear-a-scarf"
-date: 2026-07-10
-lastmod: 2026-07-10
+date: 2026-07-07
+lastmod: 2026-07-07
 draft: false
 description: "Comment mettre une écharpe : 6 nœuds simples du drapé au nœud parisien, avec la bonne longueur et la matière selon la saison."
 categories: ["Mode femme"]

@@ -1,8 +1,8 @@
 ---
 title: "How to Wear a Camel Coat: The Pairings"
 translationKey: "how-to-wear-camel-coat"
-date: 2026-08-04
-lastmod: 2026-08-04
+date: 2026-07-31
+lastmod: 2026-07-31
 draft: false
 description: "How to wear a camel coat: the colours that go with it, casual and dressed outfits, and the pitfalls to avoid."
 categories: ["Men's fashion"]

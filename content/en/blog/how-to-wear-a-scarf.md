@@ -1,8 +1,8 @@
 ---
 title: "How to Wear a Scarf: 6 Ways to Tie It"
 translationKey: "how-to-wear-a-scarf"
-date: 2026-07-10
-lastmod: 2026-07-10
+date: 2026-07-07
+lastmod: 2026-07-07
 draft: false
 description: "How to wear a scarf: 6 simple knots from the drape to the Parisian loop, with the right length and fabric for the season."
 categories: ["Women's fashion"]

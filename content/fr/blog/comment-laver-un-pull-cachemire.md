@@ -1,8 +1,8 @@
 ---
 title: "Comment laver un pull en cachemire sans l'abîmer"
 translationKey: "how-to-wash-cashmere-sweater"
-date: 2026-07-31
-lastmod: 2026-07-31
+date: 2026-07-28
+lastmod: 2026-07-28
 draft: false
 description: "Comment laver un pull en cachemire à la main ou en machine, le séchage à plat et les erreurs qui feutrent la maille."
 categories: ["Guides d'achat"]

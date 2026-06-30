@@ -1,8 +1,8 @@
 ---
 title: "How to Wear an Oversized Shirt (Women)"
 translationKey: "how-to-wear-oversized-shirt-women"
-date: 2026-07-24
-lastmod: 2026-07-24
+date: 2026-07-21
+lastmod: 2026-07-21
 draft: false
 description: "How to wear an oversized shirt for women without drowning in it: tucked, knotted, as a dress or a jacket, with the right proportions."
 categories: ["Women's fashion"]

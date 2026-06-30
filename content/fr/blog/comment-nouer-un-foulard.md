@@ -1,8 +1,8 @@
 ---
 title: "Comment nouer un foulard : 8 façons faciles"
 translationKey: "how-to-tie-a-scarf"
-date: 2026-07-07
-lastmod: 2026-07-07
+date: 2026-07-03
+lastmod: 2026-07-03
 draft: false
 description: "Comment nouer un foulard de 8 façons simples : autour du cou, en bandeau, sur un sac. Méthodes selon la taille du foulard et la saison."
 categories: ["Mode femme"]

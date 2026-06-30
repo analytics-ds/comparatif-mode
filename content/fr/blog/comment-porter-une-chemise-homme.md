@@ -1,8 +1,8 @@
 ---
 title: "Comment porter une chemise homme : le guide complet"
 translationKey: "how-to-wear-a-shirt-men"
-date: 2026-07-21
-lastmod: 2026-07-21
+date: 2026-07-17
+lastmod: 2026-07-17
 draft: false
 description: "Comment porter une chemise homme : rentrée ou sortie, col ouvert, superpositions et la bonne coupe selon les occasions."
 categories: ["Mode homme"]

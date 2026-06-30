@@ -1,8 +1,8 @@
 ---
 title: "Comment porter un manteau camel : les associations"
 translationKey: "how-to-wear-camel-coat"
-date: 2026-08-04
-lastmod: 2026-08-04
+date: 2026-07-31
+lastmod: 2026-07-31
 draft: false
 description: "Comment porter un manteau camel : les couleurs qui l'accompagnent, les tenues casual et habillées, et les pièges à éviter."
 categories: ["Mode homme"]

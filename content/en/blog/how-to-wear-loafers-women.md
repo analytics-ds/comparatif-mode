@@ -1,8 +1,8 @@
 ---
 title: "How to Wear Loafers (Women): 5 Outfits"
 translationKey: "how-to-wear-loafers-women"
-date: 2026-07-28
-lastmod: 2026-07-28
+date: 2026-07-24
+lastmod: 2026-07-24
 draft: false
 description: "How to wear loafers for women: with jeans, a skirt, a dress or a suit, plus the sock question."
 categories: ["Women's fashion"]

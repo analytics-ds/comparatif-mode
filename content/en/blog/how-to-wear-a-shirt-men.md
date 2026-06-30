@@ -1,8 +1,8 @@
 ---
 title: "How to Wear a Shirt for Men: The Complete Guide"
 translationKey: "how-to-wear-a-shirt-men"
-date: 2026-07-21
-lastmod: 2026-07-21
+date: 2026-07-17
+lastmod: 2026-07-17
 draft: false
 description: "How to wear a shirt for men: tucked or untucked, open collar, layering and the right fit for each occasion."
 categories: ["Men's fashion"]
