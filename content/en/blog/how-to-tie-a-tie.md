@@ -1,7 +1,7 @@
 ---
 title: "How to Tie a Tie: The 4 Knots Worth Knowing"
 translationKey: "how-to-tie-a-tie"
-date: 2026-06-30T20:27:00Z
+date: 2026-07-03
 lastmod: 2026-07-03
 draft: false
 description: "How to tie a tie step by step: the four-in-hand, half-Windsor, Windsor and simple knot, with the right knot for each collar."
