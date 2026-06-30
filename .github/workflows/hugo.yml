@@ -4,6 +4,11 @@ on:
   push:
     branches: ["main"]
   workflow_dispatch:
+  # Rebuild quotidien : Hugo n'inclut pas les articles dont la date est dans le futur
+  # (buildFuture = false par defaut). Chaque rebuild publie automatiquement les articles
+  # dont la date de publication est arrivee. Permet la publication programmee sans LLM.
+  schedule:
+    - cron: "0 5 * * *"
 
 permissions:
   contents: read
