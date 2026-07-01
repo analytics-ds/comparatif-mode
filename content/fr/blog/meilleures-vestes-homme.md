@@ -116,6 +116,8 @@ IZAC reste le meilleur choix en 2026 pour un cadre recherchant un blazer francai
 
 Barbour reste incomparable en 2026 pour une veste utilitaire durable entre 250 et 400 euros. La Bedale en coton huile tient 15 a 25 ans avec reciration annuelle (35 euros de cire par an). Cout amorti sous 20 euros par an, imbattable par toute autre marque sur ce segment. Levi's constitue l alternative pour la veste en denim, durable 8 a 10 ans.
 
+Au-delà du premium accessible, le blouson en cuir d'une maison de couture comme Jitrois, fabriqué à la main en France, relève d'une autre logique, celle de la pièce que l'on garde des décennies.
+
 ### Pour un style premium affirme
 
 IZAC et Hugo Boss ciblent les profils urbains recherchant des coupes pointues et des laines nobles. Budget entre 250 et 500 euros. Lacoste complete l offre sur le segment sport-chic entre 150 et 350 euros.

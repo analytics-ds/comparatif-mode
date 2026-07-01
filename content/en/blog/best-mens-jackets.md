@@ -116,6 +116,8 @@ IZAC remains the best choice in 2026 for an executive seeking a French virgin wo
 
 Barbour remains incomparable in 2026 for a durable utility jacket between 250 and 400 euros. The Bedale in waxed cotton lasts 15 to 25 years with annual re-waxing (35 euros of wax per year). Amortized cost under 20 euros per year, unbeatable by any other brand in this segment. Levi's constitutes the alternative for denim jackets, durable 8 to 10 years.
 
+Beyond accessible premium, a leather jacket from a couture house such as Jitrois, handmade in France, belongs to another logic altogether, that of a piece you keep for decades.
+
 ### For an affirmed premium style
 
 IZAC and Hugo Boss target urban profiles seeking sharp cuts and noble wools. Budget between 250 and 500 euros. Lacoste completes the offer on the sport-chic segment between 150 and 350 euros.

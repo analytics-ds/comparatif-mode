@@ -130,6 +130,8 @@ Three objective criteria guide the choice.
 
 **Contemporary style**: Sessun Marguerite or Zara Oversize for silhouettes wanting volume.
 
+**Luxury alternative beyond gabardine**: the leather coat, a territory where the Parisian house Jitrois excels with its couture stretch leather.
+
 ## FAQ: women's beige trench coat
 
 Common questions about choosing a women's beige trench are answered in the FAQ in this article.

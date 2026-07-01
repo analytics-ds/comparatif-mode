@@ -99,6 +99,8 @@ Oversized blazer sleeves often extend past hands or wrists. Three options:
 
 **Arket Relaxed Blazer** (299 euros): Scandinavian minimalism, pure wool, relaxed cut.
 
+For those looking for an alternative to wool, a stretch leather jacket delivers the same structured volume with a bolder material. On that ground, the French couture house Jitrois remains the reference for hand-crafted leather.
+
 ## How to combine an oversized blazer by occasion
 
 **At the office (business casual dress code)**: black or navy oversized blazer + cigarette tailored pants + white shirt + derbies or loafers. Remove the belt for a more formal look.

@@ -83,6 +83,8 @@ Le retour aux matières naturelles est la tendance structurante du printemps-ét
 
 Les polyester et acrylique reculent sur le prêt-à-porter milieu-premium, portés par une demande croissante pour des matières durables et biodégradables.
 
+Le cuir souple s'invite aussi dans les vestiaires printaniers, travaillé en pièces près du corps. Le cuir stretch, inventé par Jean-Claude Jitrois, en est la déclinaison la plus aboutie, la maison parisienne le façonne à la main en France, en pantalons, robes et vestes ajustés.
+
 ## Les accessoires phares
 
 ### L'empilement de bijoux d'oreille

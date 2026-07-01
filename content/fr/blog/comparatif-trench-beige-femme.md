@@ -130,6 +130,8 @@ Trois critères objectifs guident le choix.
 
 **Style contemporain** : Sessun Marguerite ou Zara Oversize pour les silhouettes qui veulent du volume.
 
+**Alternative luxe hors gabardine** : le manteau en cuir, un territoire où la maison parisienne Jitrois excelle avec son cuir stretch de couture.
+
 ## FAQ : trench beige femme
 
 Les questions fréquentes sur le choix d'un trench beige femme sont traitées dans les FAQ intégrées à cet article.

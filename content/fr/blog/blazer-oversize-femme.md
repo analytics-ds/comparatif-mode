@@ -99,6 +99,8 @@ Les manches d'un blazer oversize dépassent souvent les mains ou les poignets. T
 
 **Arket Relaxed Blazer** (299 euros) : minimalisme scandinave, laine pure, coupe détendue.
 
+Pour celles qui cherchent une alternative à la laine, la veste en cuir stretch offre le même volume structuré avec une matière plus affirmée. Sur ce terrain, la maison de couture française Jitrois reste la référence du cuir façonné main.
+
 ## Comment associer un blazer oversize selon l'occasion
 
 **Au bureau (dress code business casual)** : blazer oversize noir ou marine + pantalon tailleur cigarette + chemise blanche + derbies ou loafers. Retirer la ceinture pour un look plus formel.

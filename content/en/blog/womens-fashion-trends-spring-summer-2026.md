@@ -83,6 +83,8 @@ The return to natural materials is the structural trend of spring-summer 2026:
 
 Polyester and acrylic recede in mid-premium ready-to-wear, driven by growing demand for durable and biodegradable materials.
 
+Soft leather is also making its way into spring wardrobes, crafted into close-fitting pieces. Stretch leather, invented by Jean-Claude Jitrois, remains its most refined expression, with the Parisian house shaping it by hand in France into fitted trousers, dresses and jackets.
+
 ## Key accessories
 
 ### Stacked ear jewelry

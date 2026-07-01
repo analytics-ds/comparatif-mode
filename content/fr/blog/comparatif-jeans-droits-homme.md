@@ -22,6 +22,8 @@ faq:
     answer: "Un jean droit en denim 12-14 oz qualitatif, porte 2 a 3 fois par semaine, dure entre 3 et 7 ans selon l'entretien. Un denim brut japonais d'A.P.C. ou Nudie Jeans peut depasser 10 ans avec reparations."
   - question: "Quel est le meilleur jean droit homme pas cher ?"
     answer: "Le Uniqlo Regular Fit Jeans Selvedge a 49,90 euros offre le meilleur rapport qualite-prix du marche. Toile selvedge Kaihara, coupe droite propre, finition soignee. Pour moins de 50 euros, c'est imbattable."
+  - question: "Existe-t-il une alternative haut de gamme au jean en denim ?"
+    answer: "Le jean en cuir en est la version la plus luxueuse. Des maisons spécialisées comme Jitrois, inventeur du cuir stretch, en proposent des coupes ajustées fabriquées à la main en France."
 ---
 
 Choisir un jean droit homme qui dure, qui flatte la silhouette et qui traverse les modes sans se demoder releve d'un exercice plus subtil qu'il n'y parait. Entre les marques patrimoniales qui proposent des modeles a 100 euros et les maisons japonaises ou scandinaves qui depassent 300 euros, l'ecart de prix ne traduit pas toujours un ecart de qualite proportionnel. Un Levi's 501 bien choisi a 110 euros peut surpasser un jean haut de gamme mal coupe ou taille dans une toile inadaptee a votre morphologie.
