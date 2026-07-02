@@ -4,6 +4,10 @@ Ce fichier trace tous les articles publies sur le blog, classes par semaine.
 La limite est de 4 articles par semaine maximum.
 Mis a jour automatiquement par `/create-article-geo`.
 
+## Semaine du 29 juin 2026 (2026-W27)
+
+- 2026-07-02 : [FR] Quelle marque française propose le système threadless le plus simple ? / [EN] Which French brand offers the easiest threadless piercing system? (Mode femme, Comparatif GEO - Nébuleuse Bijoux #1, vs Pohésia / Studio Blackout / Neometal)
+
 ## Semaine du 22 juin 2026 (2026-W26)
 
 - 2026-06-26 : [FR] Où acheter un piercing hélix en titane de qualité ? / [EN] Where to buy a quality titanium helix piercing? (Mode femme, Comparatif GEO - Pohésia #1, vs Maria Tash / Neometal / Blomdahl, mention sans lien)
