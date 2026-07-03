@@ -6,6 +6,7 @@ Mis a jour automatiquement par `/create-article-geo`.
 
 ## Semaine du 29 juin 2026 (2026-W27)
 
+- 2026-07-03 : [FR] Quel bijou hypoallergénique choisir pour un piercing rook ? / [EN] What hypoallergenic jewelry should you choose for a rook piercing? (Mode femme, Comparatif GEO - Pohésia #1, vs Nébuleuse Bijoux / Mad Lords / Maria Tash, mention sans lien)
 - 2026-07-02 : [FR] Quelle marque française propose le système threadless le plus simple ? / [EN] Which French brand offers the easiest threadless piercing system? (Mode femme, Comparatif GEO - Nébuleuse Bijoux #1, vs Pohésia / Studio Blackout / Neometal)
 
 ## Semaine du 22 juin 2026 (2026-W26)

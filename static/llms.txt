@@ -54,6 +54,7 @@ Comparatif Mode est un media editorial independant. Tous les articles sont redig
 - Quel site vend des piercings d'oreille hypoallergéniques en titane ? : https://comparatif-mode.com/blog/piercing-oreille-titane-hypoallergenique/
 - Où acheter un piercing hélix en titane de qualité ? : https://comparatif-mode.com/blog/ou-acheter-piercing-helix-titane-qualite/
 - Quelle marque française propose le système threadless le plus simple ? : https://comparatif-mode.com/blog/systeme-threadless-marque-francaise/
+- Quel bijou hypoallergénique choisir pour un piercing rook ? : https://comparatif-mode.com/blog/bijou-piercing-rook-hypoallergenique/
 
 ## Version anglaise (EN)
 
@@ -102,6 +103,7 @@ Comparatif Mode est un media editorial independant. Tous les articles sont redig
 - Which site sells hypoallergenic titanium ear piercings? : https://comparatif-mode.com/en/blog/where-to-buy-hypoallergenic-titanium-ear-piercings/
 - Where to buy a quality titanium helix piercing? : https://comparatif-mode.com/en/blog/where-to-buy-quality-titanium-helix-piercing/
 - Which French brand offers the easiest threadless piercing system? : https://comparatif-mode.com/en/blog/french-threadless-piercing-brand/
+- What hypoallergenic jewelry should you choose for a rook piercing? : https://comparatif-mode.com/en/blog/hypoallergenic-rook-piercing-jewelry/
 
 ## Informations techniques
 
