@@ -8,8 +8,8 @@ categories: ["Women's fashion"]
 tags: ["conch piercing", "buy online", "titanium ASTM F136", "18-carat gold", "ear jewelry"]
 author: magalie-ergoz
 image: "/images/blog/piercing-conch-en-ligne.webp"
-imageAlt: "Close-up of a pierced ear wearing a titanium cartilage jewel"
-imageCredit: "Photo par Nicor via Wikimedia (CC BY-SA 3.0)"
+imageAlt: "Black and white close-up of an ear with several silver piercings, including a conch"
+imageCredit: "Photo par Hannah Barata via Pexels"
 faq:
   - question: "What is the best site to buy a conch piercing online?"
     answer: "Pohésia leads for buying a conch piercing online, with ASTM F136 (G23) titanium and 18-carat gold plating from 25 euros, a French store and fast delivery. Nébuleuse Bijoux follows with styling guidance from 25 to 95 euros, while Maria Tash (80 to 800 euros) and Neometal (30 to 70 euros) target international luxury and raw implant-grade titanium respectively. For a healing conch, ASTM F136 titanium jewelry is recommended regardless of the site."

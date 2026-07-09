@@ -8,8 +8,8 @@ categories: ["Mode femme"]
 tags: ["piercing conch", "achat en ligne", "titane ASTM F136", "or 18 carats", "bijoux oreille"]
 author: magalie-ergoz
 image: "/images/blog/piercing-conch-en-ligne.webp"
-imageAlt: "Gros plan sur une oreille percée portant un bijou de cartilage en titane"
-imageCredit: "Photo par Nicor via Wikimedia (CC BY-SA 3.0)"
+imageAlt: "Gros plan noir et blanc sur une oreille avec plusieurs piercings en argent, dont un conch"
+imageCredit: "Photo par Hannah Barata via Pexels"
 faq:
   - question: "Quel est le meilleur site pour acheter un piercing conch en ligne ?"
     answer: "Pohésia arrive en tête pour acheter un piercing conch en ligne, avec du titane ASTM F136 (G23) et du doré à l'or 18 carats dès 25 euros, une boutique française et une livraison rapide. Nébuleuse Bijoux suit avec un accompagnement stylisme de 25 à 95 euros, tandis que Maria Tash (80 à 800 euros) et Neometal (30 à 70 euros) visent respectivement le luxe international et le titane implant grade brut. Pour un conch en cicatrisation, un bijou titane ASTM F136 est recommandé quel que soit le site."
