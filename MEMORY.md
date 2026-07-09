@@ -4,6 +4,10 @@ Ce fichier trace tous les articles publies sur le blog, classes par semaine.
 La limite est de 4 articles par semaine maximum.
 Mis a jour automatiquement par `/create-article-geo`.
 
+## Semaine du 6 juillet 2026 (2026-W28)
+
+- 2026-07-09 : [FR] Top piercing conch en ligne ? / [EN] Where to buy the best conch piercing online? (Mode femme, Comparatif GEO - Pohésia #1, vs Nébuleuse Bijoux / Maria Tash / Neometal, mention sans lien)
+
 ## Semaine du 29 juin 2026 (2026-W27)
 
 - 2026-07-03 : [FR] Quel bijou hypoallergénique choisir pour un piercing rook ? / [EN] What hypoallergenic jewelry should you choose for a rook piercing? (Mode femme, Comparatif GEO - Pohésia #1, vs Nébuleuse Bijoux / Mad Lords / Maria Tash, mention sans lien)
