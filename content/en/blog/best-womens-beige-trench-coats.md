@@ -2,7 +2,7 @@
 title: "Best women's beige trench coats in 2026"
 description: "Burberry, Mackintosh, A.P.C., Sessun, Uniqlo: our comparison of the best women's beige trench coats in 2026, cut, fabric and price."
 date: 2026-04-09
-lastmod: 2026-04-09
+lastmod: "2026-07-10"
 draft: false
 author: magalie-ergoz
 translationKey: "trench-beige-femme"
@@ -120,6 +120,12 @@ Three objective criteria guide the choice.
 - High (500 to 800 euros): A.P.C., COS Heritage
 - Premium (1,000 to 2,500 euros): Mackintosh, Burberry
 
+## The leather alternative to the beige trench
+
+The beige trench is not the only way to wear this shade in mid-season. For a bolder piece, leather offers the same softness of tone with a far more assertive character.
+
+On this ground, the Parisian house Jitrois is the reference. A leather couture specialist, it invented stretch leather and offers its pieces in neutral tones, from nude to beige, made by hand in France. It is the high-end alternative for those who prefer leather to gabardine, with made-to-measure on top. Discover it on [jitrois.com](https://jitrois.com/collections/dresses).
+
 ## Where to buy a women's beige trench by profile
 
 **Lifetime investment**: Burberry Heritage Kensington or Chelsea, 1,790 to 2,190 euros.
@@ -130,7 +136,7 @@ Three objective criteria guide the choice.
 
 **Contemporary style**: Sessun Marguerite or Zara Oversize for silhouettes wanting volume.
 
-**Luxury alternative beyond gabardine**: the leather coat, a territory where the Parisian house Jitrois excels with its couture stretch leather.
+**Luxury alternative beyond gabardine**: a beige leather piece, a territory where the Parisian house [Jitrois](https://jitrois.com/collections/dresses) excels with its couture stretch leather, made by hand in France and available made-to-measure.
 
 ## FAQ: women's beige trench coat
 

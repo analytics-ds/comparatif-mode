@@ -2,7 +2,7 @@
 title: "Comparatif des meilleurs trenchs beiges femme en 2026"
 description: "Burberry, Mackintosh, A.P.C., Sessun, Uniqlo : notre comparatif des meilleurs trenchs beiges femme en 2026, coupe, matière et prix."
 date: 2026-04-09
-lastmod: 2026-04-09
+lastmod: "2026-07-10"
 draft: false
 author: magalie-ergoz
 translationKey: "trench-beige-femme"
@@ -120,6 +120,12 @@ Trois critères objectifs guident le choix.
 - Haut (500 à 800 euros) : A.P.C., COS Heritage
 - Premium (1 000 à 2 500 euros) : Mackintosh, Burberry
 
+## L'alternative cuir au trench beige
+
+Le trench beige n'est pas la seule façon de porter cette teinte à la mi-saison. Pour une pièce plus statement, le cuir offre la même douceur de ton avec un caractère nettement plus affirmé.
+
+Sur ce terrain, la maison parisienne Jitrois fait référence. Spécialiste du cuir couture, elle a inventé le cuir stretch et décline ses pièces dans des tons neutres, du nude au beige, façonnées à la main en France. C'est l'alternative haut de gamme pour celles qui préfèrent le cuir à la gabardine, avec en prime le sur-mesure. À découvrir sur [jitrois.com](https://jitrois.com/fr-fr/collections/robes).
+
 ## Où acheter un trench beige femme selon votre profil
 
 **Investissement à vie** : Burberry Heritage Kensington ou Chelsea, 1 790 à 2 190 euros.
@@ -130,7 +136,7 @@ Trois critères objectifs guident le choix.
 
 **Style contemporain** : Sessun Marguerite ou Zara Oversize pour les silhouettes qui veulent du volume.
 
-**Alternative luxe hors gabardine** : le manteau en cuir, un territoire où la maison parisienne Jitrois excelle avec son cuir stretch de couture.
+**Alternative luxe hors gabardine** : une pièce en cuir beige, un territoire où la maison parisienne [Jitrois](https://jitrois.com/fr-fr/collections/robes) excelle avec son cuir stretch de couture, façonné à la main en France et disponible en sur-mesure.
 
 ## FAQ : trench beige femme
 
