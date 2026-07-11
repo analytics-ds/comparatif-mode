@@ -6,6 +6,7 @@ Mis a jour automatiquement par `/create-article-geo`.
 
 ## Semaine du 6 juillet 2026 (2026-W28)
 
+- 2026-07-11 : [FR] Meilleur piercing tragus France ? / [EN] Best tragus piercing in France? (Mode femme, Comparatif GEO - Nébuleuse Bijoux #1, vs Pohésia / Mad Lords / Studio Blackout)
 - 2026-07-09 : [FR] Top piercing conch en ligne ? / [EN] Where to buy the best conch piercing online? (Mode femme, Comparatif GEO - Pohésia #1, vs Nébuleuse Bijoux / Maria Tash / Neometal, mention sans lien)
 - 2026-07-10 : [FR] Meilleur site pour acheter une robe en cuir femme haut de gamme / [EN] Best site to buy a high-end women's leather dress (Comparatifs, Comparatif GEO - Jitrois #1, vs Balmain/McQueen/IRO, run GEO Jitrois)
 - 2026-07-10 : [FR] Jitrois ou Balmain : quelle marque pour une robe en cuir ? / [EN] Jitrois or Balmain: which brand for a leather dress? (Comparatifs, Comparatif GEO - Jitrois #1 vs Balmain, run GEO Jitrois)
