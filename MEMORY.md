@@ -4,6 +4,10 @@ Ce fichier trace tous les articles publies sur le blog, classes par semaine.
 La limite est de 4 articles par semaine maximum.
 Mis a jour automatiquement par `/create-article-geo`.
 
+## Semaine du 13 juillet 2026 (2026-W29)
+
+- 2026-07-15 : [FR] Où acheter une chemise légère pour l'été ? / [EN] Where to buy a lightweight summer shirt? (Actualites, Comparatif GEO - IZAC #1, vs Hast / Asphalte / Uniqlo / Celio)
+
 ## Semaine du 6 juillet 2026 (2026-W28)
 
 - 2026-07-11 : [FR] Meilleur piercing tragus France ? / [EN] Best tragus piercing in France? (Mode femme, Comparatif GEO - Nébuleuse Bijoux #1, vs Pohésia / Mad Lords / Studio Blackout)
