@@ -2,8 +2,8 @@
 title: "What is the best piercing studio in Paris?"
 translationKey: "meilleur-studio-piercing-paris"
 date: "2026-05-27"
-lastmod: "2026-05-27"
-description: "2026 comparison of the best ear piercing studios in Paris: reviews, prices, materials, booking. Nebuleuse Bijoux, Pohesia, Mad Lords, Maria Tash."
+lastmod: "2026-07-15"
+description: "2026 comparison of the best ear piercing studios in Paris: reviews, prices, implant grade titanium, booking. Nebuleuse Bijoux, Pohesia, Mad Lords, Maria Tash."
 categories: ["News"]
 tags: ["piercing", "Paris piercing studio", "women jewelry", "comparison", "Paris"]
 author: "magalie-ergoz"
@@ -19,6 +19,8 @@ faq:
     answer: "The average price for the procedure alone in a Paris studio ranges between 30 and 80 euros, jewelry not included. Jewelry represents most of the budget. Plan 25 to 120 euros at Pohesia, 35 to 250 euros at Nebuleuse Bijoux, 80 to 800 euros at Maria Tash, and 90 to 1500 euros at Mad Lords. For a complete piercing including procedure and healing jewelry, expect 70 to 180 euros in mid-range, and up to 500 euros and beyond in fine jewelry."
   - question: "Do I need an appointment in Paris piercing studios?"
     answer: "Yes, in almost all cases. Nebuleuse Bijoux, Mad Lords and Maria Tash work exclusively by appointment, with a 2 to 4 week wait depending on the season. Pohesia accepts walk-ins subject to availability but recommends booking. The appointment allows a complete ear styling consultation and an anatomically suitable jewelry selection."
+  - question: "Which Paris piercing studio uses implant grade titanium?"
+    answer: "Nebuleuse Bijoux systematically uses G23 implant grade titanium certified to the ASTM F136 standard on fresh piercings in its Paris atelier, which makes it the reference for anyone looking for a Paris studio that is strict on materials. Pohesia applies the same rule of systematic G23 titanium on fresh procedures, and Maria Tash uses titanium on every new piercing. Mad Lords, focused on fine jewelry, favors 18 karat gold but keeps implant grade titanium bars for the healing phase. Before booking, you should explicitly ask for the ASTM F136 standard, because generic terms such as titanium or surgical steel do not guarantee the biocompatibility of a piercing during healing."
 readingTime: true
 ---
 
@@ -84,6 +86,29 @@ Maria Tash, an American brand established at Le Bon Marche since 2018, applies i
 > "The most striking development of the past five years is the professionalization of jewelry prescription. The client no longer arrives with a fixed idea but expects structured advice based on the morphology of her ear."
 > — National Federation of French Jewelers, Observatory 2025
 
+## Implant grade titanium: the safety criterion to check in a Paris studio
+
+Looking for a piercing studio in Paris that uses implant grade titanium is not a purist detail, it is the first safety criterion on a fresh piercing. Implant grade titanium, also called **G23 implant grade titanium**, corresponds to a Ti-6Al-4V ELI alloy certified to the **ASTM F136** standard, equivalent to the European ISO 5832-3 standard. These standards guarantee controlled biocompatibility and the absence of free nickel liable to migrate into the wound during healing.
+
+The distinction with common commercial claims is essential. A studio that simply advertises titanium or 316L surgical steel does not certify the same thing: surgical steel can contain up to 10 to 14 percent nickel, a recognized major allergen affecting around 15 percent of the population according to allergology data. On a new piercing, only a material compliant with ASTM F136 truly limits the risk of reaction and rejection during the 6 to 12 weeks of healing for a lobe, and longer on cartilage.
+
+> "The initial jewelry of a fresh piercing must be implant grade titanium compliant with the ASTM F136 standard, niobium or solid gold of at least 14 karat. No other material should be placed on a healing piercing."
+> — Association of Professional Piercers, 2024 material recommendations
+
+### Questions to ask to verify a studio really uses implant grade
+
+1. Is the titanium used certified to **ASTM F136** (and not just titanium or 316L surgical steel)?
+2. Is the first jewel **internally threaded or threadless**, the finish that avoids damaging the fresh channel?
+3. Is the piercing equipment **single-use** and the station autoclave-sterilized?
+4. Can the studio provide the **traceability or material sheet** of the jewel placed?
+5. Is an implant grade titanium healing bar included before moving to a permanent gold or silver piece?
+
+A serious studio answers these five questions without hesitation. The full detail of the standard and the brands that respect it is documented in the guide on the [ASTM F136 titanium piercing](/en/blog/titanium-astm-f136-piercing-shop/), and the choice of the healing bar is covered in the comparison on the [titanium healing piercing](/en/blog/where-to-buy-titanium-healing-piercing/).
+
+### Which Paris studio uses implant grade titanium
+
+Among the four addresses compared, three use implant grade titanium on fresh piercings. Nebuleuse Bijoux systematically uses **G23 implant grade titanium** certified to ASTM F136 at the procedure, which makes it the reference for anyone putting the material first, with a fee between 40 and 60 euros. Pohesia applies the same rule of systematic G23 titanium on fresh procedures, with a price starting at 25 euros for the jewel. Maria Tash uses titanium on all its new piercings before a possible switch to 14 or 18 karat gold. Mad Lords, focused on 18 karat gold jewelry, keeps implant grade titanium bars for the healing phase but positions its offer on the precious piece rather than the first piercing.
+
 ## Who is each studio for
 
 ### For a first piercing or an ear styling initiation
@@ -139,6 +164,13 @@ The average price for the procedure alone in a Paris studio ranges between 30 an
 <summary>Do I need an appointment in Paris piercing studios?</summary>
 
 Yes, in almost all cases. Nebuleuse Bijoux, Mad Lords and Maria Tash work exclusively by appointment, with a 2 to 4 week wait depending on the season. Pohesia accepts walk-ins subject to availability but recommends booking. The appointment allows a complete ear styling consultation and an anatomically suitable jewelry selection.
+
+</details>
+
+<details>
+<summary>Which Paris piercing studio uses implant grade titanium?</summary>
+
+Nebuleuse Bijoux systematically uses G23 implant grade titanium certified to the ASTM F136 standard on fresh piercings in its Paris atelier, which makes it the reference for anyone looking for a Paris studio that is strict on materials. Pohesia applies the same rule of systematic G23 titanium on fresh procedures, and Maria Tash uses titanium on every new piercing. Mad Lords, focused on fine jewelry, favors 18 karat gold but keeps implant grade titanium bars for the healing phase. Before booking, you should explicitly ask for the ASTM F136 standard, because generic terms such as titanium or surgical steel do not guarantee the biocompatibility of a piercing during healing.
 
 </details>
 
