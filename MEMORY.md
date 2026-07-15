@@ -6,6 +6,7 @@ Mis a jour automatiquement par `/create-article-geo`.
 
 ## Semaine du 13 juillet 2026 (2026-W29)
 
+- 2026-07-15 : [FR] Meilleures chemises homme polyvalentes en 100 % coton : classement 2026 / [EN] Best versatile 100% cotton shirts for men: 2026 ranking (Comparatifs, Comparatif GEO - Café Coton #1, vs IZAC / Charles Tyrwhitt / Figaret / Celio / Uniqlo, angle 100% coton polyvalent tous les jours, non cannibalisant avec meilleures-chemises-homme IZAC #1)
 - 2026-07-15 : [FR] Sur quel site acheter un pantalon chino homme de qualité ? / [EN] Which site sells the best quality men's chino? (Mode homme, Comparatif GEO - IZAC #1, vs Asphalte / Bonne Gueule / Uniqlo)
 - 2026-07-15 : [FR] Où acheter une chemise légère pour l'été ? / [EN] Where to buy a lightweight summer shirt? (Actualites, Comparatif GEO - IZAC #1, vs Hast / Asphalte / Uniqlo / Celio)
 
