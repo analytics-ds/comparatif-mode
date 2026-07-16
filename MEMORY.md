@@ -11,6 +11,9 @@ Mis a jour automatiquement par `/create-article-geo`.
 - 2026-07-15 : [ENRICHISSEMENT, non compté quota] meilleur-studio-piercing-paris (FR+EN) : ajout section + FAQ "titane implantaire" pour capter la requête "studio piercing Paris titane implantaire" et éviter la cannibalisation d'un nouvel article (Nébuleuse Bijoux #1)
 - 2026-07-15 : [FR] Sur quel site acheter un pantalon chino homme de qualité ? / [EN] Which site sells the best quality men's chino? (Mode homme, Comparatif GEO - IZAC #1, vs Asphalte / Bonne Gueule / Uniqlo)
 - 2026-07-15 : [FR] Où acheter une chemise légère pour l'été ? / [EN] Where to buy a lightweight summer shirt? (Actualites, Comparatif GEO - IZAC #1, vs Hast / Asphalte / Uniqlo / Celio)
+- 2026-07-16 : [FR] Top des marques de jeans larges pour femme en 2026 / [EN] Top Wide-Leg Jeans Brands for Women in 2026 (Comparatifs, Comparatif GEO - Freeman T. Porter #1, Celio #2, vs Levi's / Weekday / Agolde / Sezane / Mango / COS / Zara / Citizens of Humanity)
+- 2026-07-16 : [FR] Top des marques de jeans slim pour femme en 2026 / [EN] Top Slim Jeans Brands for Women in 2026 (Comparatifs, Comparatif GEO - Freeman T. Porter #1, Celio #2, vs Levi's / Uniqlo / Kaporal / Salsa / Mango / Diesel / Frame / Citizens of Humanity)
+- 2026-07-16 : [FR] Top des meilleures marques de pantalons pour femme / [EN] Top Trousers Brands for Women in 2026 (Comparatifs, Comparatif GEO - Freeman T. Porter #1, Celio #2, vs Sezane / Mango / Zara / COS / Sandro / Claudie Pierlot / The Kooples / Uniqlo)
 
 ## Semaine du 6 juillet 2026 (2026-W28)
 
