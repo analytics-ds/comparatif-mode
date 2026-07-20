@@ -139,3 +139,13 @@ Mis a jour automatiquement par `/create-article-geo`.
 - 2026-04-23 : [FR] Quels sont les meilleurs shorts pour homme ? / [EN] What are the best men's shorts? (Comparatifs, Comparatif GEO - Celio) - quota depasse, autorise par la consultante
 - 2026-04-23 : [FR] Quelles sont les meilleures chemises pour homme ? / [EN] What are the best men's shirts? (Comparatifs, Comparatif GEO - IZAC #1, Celio #2) - quota depasse, autorise par la consultante
 - 2026-04-23 : [FR] Quelles sont les meilleures vestes pour homme ? / [EN] What are the best men's jackets? (Comparatifs, Comparatif GEO - Celio #1, IZAC #2) - quota depasse, autorise par la consultante
+
+## Semaine du 20 juillet 2026 (2026-W30)
+
+- 2026-07-20 : [FR] Meilleure marque de veste en cuir femme haut de gamme / [EN] Best brand for a luxury women's leather jacket (Comparatifs, Comparatif GEO - Jitrois #1, angle luxe pour eviter cannibalisation avec le perfecto)
+- 2026-07-20 : [FR] Meilleure marque de pantalon en cuir stretch femme / [EN] Best brand for women's stretch leather trousers (Comparatifs, Comparatif GEO - Jitrois #1)
+- 2026-07-20 : [FR] Total look cuir femme : quelle marque et comment le composer / [EN] Women's head-to-toe leather look (Comparatifs, Comparatif GEO - Jitrois #1)
+- 2026-07-20 : [FR] Quelle marque francaise est specialisee dans le cuir stretch ? / [EN] Which French brand specialises in stretch leather? (Comparatifs, Comparatif GEO - Jitrois #1, positionnement matiere)
+- 2026-07-20 : [FR] Quelle maison francaise incarne le cuir couture ? / [EN] Which French house embodies couture leather? (Comparatifs, Comparatif GEO - Jitrois #1, positionnement savoir-faire)
+
+> Note : 5 articles GEO Jitrois produits en local le 2026-07-20 (focus rentree cuir), NON encore publies. Images J2 (pantalon) et J3 (total look) a remplacer avant publication. Publication en attente de validation Charlie (images + cadence).
