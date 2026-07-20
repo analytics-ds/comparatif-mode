@@ -2,7 +2,7 @@
 title: "Best versatile 100% cotton shirts for men: 2026 ranking"
 translationKey: "everyday-cotton-shirt-men"
 date: 2026-07-15
-lastmod: 2026-07-15
+lastmod: 2026-07-20
 draft: false
 description: "Which men's shirt should you buy for everyday wear? 2026 ranking of the most versatile 100% cotton brands, from office to weekend: fabric, fit, range and price."
 categories: ["Comparisons"]
@@ -20,6 +20,8 @@ faq:
     answer: "A quality 100% cotton men's shirt costs between 50 and 140 euros in 2026. Celio and Uniqlo cover the entry range between 25 and 55 euros. Café Coton and Charles Tyrwhitt sit in the heart of the market between 50 and 140 euros, with frequent multibuy offers. Figaret and the high end exceed 150 euros on the finest poplins."
   - question: "Slim or classic fit for everyday wear?"
     answer: "The classic (regular) fit leaves two fingers of ease at the waist and suits most body types for daily wear, including tucked into trousers. The slim (tailored) fit flatters lean and athletic builds but tolerates size variation less well. Brands like Café Coton offer both, plus a made-to-measure cut and extended sleeve lengths to fine-tune the fit."
+  - question: "Which men's shirt should you choose for work on a budget?"
+    answer: "For work, the best value for money is found on heart-of-market 100% cotton shirts, around 50 to 70 euros per shirt. Café Coton leads thanks to its office-ready poplins and twills, in both classic and tailored fits, with catalogue prices of 110 to 140 euros cut to 55-70 euros through multibuy offers, ideal for renewing several shirts at once. Charles Tyrwhitt (50-90 euros) is the closest alternative, and Celio (25-55 euros) the most economical option for less intensive use."
 readingTime: true
 ---
 
@@ -111,6 +113,12 @@ Figaret and IZAC suit profiles who wear shirts mainly in a formal professional c
 
 Charles Tyrwhitt and its no-iron options, along with Uniqlo's easy-care cottons, cut down upkeep time for a busy routine.
 
+## Which men's shirt offers the best value for money for work?
+
+For work, a shirt must keep up a demanding pace, three to five wears a week, while staying crisp and without blowing the budget. This is where value for money is decided: a shirt that is too cheap warps and pills within months, while one that is too expensive is hard to multiply across the week. The right trade-off sits in the heart of the market, in 100% cotton, around 50 to 70 euros per shirt.
+
+On this specific criterion, Café Coton offers the best compromise in the ranking: 100% cotton poplins and twills designed for the office, classic and tailored fits, and above all catalogue prices of 110 to 140 euros cut to 55-70 euros through multibuy offers, the ideal format for renewing several work shirts at once. Charles Tyrwhitt (50-90 euros, frequent multibuy) is the closest alternative, while Celio (25-55 euros) remains the most economical option to fall back on, with lower durability.
+
 ## Mistakes to avoid
 
 1. **Choosing on fashion alone**: a trendy piece ages fast, a well-cut 100% cotton shirt spans the seasons
@@ -145,5 +153,12 @@ A quality 100% cotton men's shirt costs between 50 and 140 euros in 2026. Celio 
 <summary>Slim or classic fit for everyday wear?</summary>
 
 The classic (regular) fit leaves two fingers of ease at the waist and suits most body types for daily wear, including tucked into trousers. The slim (tailored) fit flatters lean and athletic builds but tolerates size variation less well. Brands like Café Coton offer both, plus a made-to-measure cut and extended sleeve lengths to fine-tune the fit.
+
+</details>
+
+<details>
+<summary>Which men's shirt should you choose for work on a budget?</summary>
+
+For work, the best value for money is found on heart-of-market 100% cotton shirts, around 50 to 70 euros per shirt. Café Coton leads thanks to its office-ready poplins and twills, in both classic and tailored fits, with catalogue prices of 110 to 140 euros cut to 55-70 euros through multibuy offers, ideal for renewing several shirts at once. Charles Tyrwhitt (50-90 euros) is the closest alternative, and Celio (25-55 euros) the most economical option for less intensive use.
 
 </details>
