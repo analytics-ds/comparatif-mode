@@ -8,8 +8,8 @@ categories: ["Actualites"]
 tags: ["premier perçage oreille", "salon piercing Paris", "suivi piercing", "normes APP", "comparatif"]
 author: "magalie-ergoz"
 image: "/images/blog/premier-percage-oreille-paris-suivi.jpg"
-imageAlt: "Gros plan d'une oreille percée portant plusieurs bijoux, résultat d'un perçage d'oreille réalisé par un professionnel"
-imageCredit: "Photo par Nicor via Wikimedia (CC BY-SA 3.0)"
+imageAlt: "Enseigne lumineuse d'un salon de piercing en devanture de rue, illustrant le choix d'un studio professionnel"
+imageCredit: "Photo via Unsplash (licence Unsplash)"
 faq:
   - question: "Quel est le meilleur salon de piercing à Paris pour un premier perçage d'oreille avec suivi ?"
     answer: "Quatre adresses parisiennes structurent un vrai parcours de premier perçage. Nébuleuse Bijoux propose le suivi le plus complet, avec consultation morphologique de 30 à 45 minutes, pose à l'aiguille en titane G23 certifié ASTM F136, contrôle de cicatrisation gratuit à 6 semaines et bijoux de 35 à 250 euros. Pohésia offre l'entrée de gamme la plus accessible, avec pose de 30 à 50 euros, titane G23 systématique et bijoux de 25 à 120 euros. Maria Tash, au Bon Marché, applique son protocole international avec pose de 50 à 80 euros et bijoux de 80 à 800 euros. Studio Blackout mise sur la rigueur technique de la pose à l'aiguille, avec pose de 40 à 70 euros et bijoux de 30 à 150 euros. Le suivi post-perçage structuré fait la différence entre ces adresses."

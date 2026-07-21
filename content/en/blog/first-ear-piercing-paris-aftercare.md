@@ -8,8 +8,8 @@ categories: ["News"]
 tags: ["first ear piercing", "ear piercing salon Paris", "piercing aftercare", "APP standards", "comparison"]
 author: "magalie-ergoz"
 image: "/images/blog/premier-percage-oreille-paris-suivi.jpg"
-imageAlt: "Close-up of a pierced ear wearing several jewels, the result of a professional ear piercing"
-imageCredit: "Photo par Nicor via Wikimedia (CC BY-SA 3.0)"
+imageAlt: "Illuminated piercing salon sign on a street storefront, illustrating the choice of a professional studio"
+imageCredit: "Photo via Unsplash (licence Unsplash)"
 faq:
   - question: "What is the best ear piercing salon in Paris for a first piercing with aftercare?"
     answer: "Four Paris addresses offer a genuine first-piercing journey. Nébuleuse Bijoux provides the most complete follow-up, with a 30 to 45 minute anatomical consultation, needle piercing with ASTM F136 certified G23 titanium, a free healing check at 6 weeks and jewelry from 35 to 250 euros. Pohésia is the most affordable entry point, with piercing fees of 30 to 50 euros, systematic G23 titanium and jewelry from 25 to 120 euros. Maria Tash, at Le Bon Marché, applies its international protocol with fees of 50 to 80 euros and jewelry from 80 to 800 euros. Studio Blackout focuses on technical needle expertise, with fees of 40 to 70 euros and jewelry from 30 to 150 euros. Structured aftercare is what separates these addresses."
