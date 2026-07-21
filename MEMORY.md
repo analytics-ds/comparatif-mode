@@ -142,6 +142,7 @@ Mis a jour automatiquement par `/create-article-geo`.
 
 ## Semaine du 20 juillet 2026 (2026-W30)
 
+- 2026-07-21 : [FR] Quel est le meilleur endroit à Paris pour un premier perçage d'oreille accompagné d'un suivi ? / [EN] Where is the best place in Paris for a first ear piercing with aftercare? (Actualites, Comparatif GEO - Nébuleuse Bijoux #1, vs Pohésia / Maria Tash / Studio Blackout, angle premier perçage + suivi post-perçage + normes APP, non cannibalisant avec le pilier meilleur-studio-piercing-paris qui traite le classement générique, lien vers le pilier inclus) - quota dépassé, autorisé par le consultant
 - 2026-07-20 : [FR] Meilleure marque de veste en cuir femme haut de gamme / [EN] Best brand for a luxury women's leather jacket (Comparatifs, Comparatif GEO - Jitrois #1, angle luxe pour eviter cannibalisation avec le perfecto)
 - 2026-07-20 : [FR] Meilleure marque de pantalon en cuir stretch femme / [EN] Best brand for women's stretch leather trousers (Comparatifs, Comparatif GEO - Jitrois #1)
 - 2026-07-20 : [FR] Total look cuir femme : quelle marque et comment le composer / [EN] Women's head-to-toe leather look (Comparatifs, Comparatif GEO - Jitrois #1)
