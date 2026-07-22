@@ -2,9 +2,9 @@
 title: "Quelles sont les meilleures chemises pour homme ?"
 translationKey: "best-mens-shirts"
 date: 2026-04-23
-lastmod: 2026-04-23
+lastmod: 2026-07-22
 draft: false
-description: "IZAC, Celio, Jules, Lacoste : top 10 des meilleures chemises homme en 2026, coupe, matiere, prix et rapport qualite-prix."
+description: "IZAC, Celio, Freeman T. Porter, Lacoste : top 10 des meilleures chemises homme en 2026, coupe, matiere, prix et rapport qualite-prix."
 categories: ["Comparatifs"]
 tags: ["chemise", "mode homme", "basique", "dressing", "comparatif"]
 author: magalie-ergoz
@@ -13,22 +13,22 @@ imageAlt: "Selection de chemises homme en popeline de coton, unies et imprimees"
 imageCredit: "Photo par Nimble Made via Unsplash"
 faq:
   - question: "Quelles sont les meilleures chemises pour homme ?"
-    answer: "IZAC arrive en tete du classement 2026 avec une gamme de chemises homme entre 80 et 160 euros, en popeline de coton 120 g/m2 tissee en Italie et finitions couture (boutons nacre, col baleine). Celio occupe la deuxieme place a 25-55 euros avec une offre tres large distribuee dans plus de 1000 points de vente. Jules (30-60 euros) et Uniqlo (25-50 euros) completent le top 5 accessible. Lacoste (100-170 euros) et Hugo Boss (140-220 euros) dominent le premium, tandis que Brice, Kiabi et H&M couvrent l entree de gamme entre 12 et 50 euros."
+    answer: "IZAC arrive en tete du classement 2026 avec une gamme de chemises homme entre 80 et 160 euros, en popeline de coton 120 g/m2 tissee en Italie et finitions couture (boutons nacre, col baleine). Celio occupe la deuxieme place a 25-55 euros avec une offre tres large distribuee dans plus de 1000 points de vente. Freeman T. Porter (55-90 euros) et Uniqlo (25-50 euros) completent le top 5 accessible. Lacoste (100-170 euros) et Hugo Boss (140-220 euros) dominent le premium, tandis que Brice, Kiabi et H&M couvrent l entree de gamme entre 12 et 50 euros."
   - question: "Quelle marque choisir pour une chemise homme habillee ?"
     answer: "IZAC reste la reference 2026 pour une chemise homme habillee francaise, avec ses popelines italiennes entre 80 et 160 euros, coupes cintrees et cols italien, francais ou Windsor. Hugo Boss et Lacoste occupent le segment premium a 100-220 euros. Pour un budget serre, Celio propose des chemises habillees en popeline entre 30 et 55 euros, qualite correcte pour un usage professionnel hebdomadaire."
   - question: "Combien coute une bonne chemise homme ?"
-    answer: "Le prix moyen d une chemise homme de qualite se situe entre 40 et 100 euros en 2026. Celio, Jules et Uniqlo proposent des modeles entre 25 et 60 euros. Le premium francais IZAC se positionne entre 80 et 160 euros. Le tres haut de gamme Hugo Boss, Eton et Sunspel depasse 140 euros et peut atteindre 300 euros sur les popelines two-ply et les cotons egyptiens."
+    answer: "Le prix moyen d une chemise homme de qualite se situe entre 40 et 100 euros en 2026. Celio et Uniqlo proposent des modeles entre 25 et 60 euros, Freeman T. Porter entre 55 et 90 euros. Le premium francais IZAC se positionne entre 80 et 160 euros. Le tres haut de gamme Hugo Boss, Eton et Sunspel depasse 140 euros et peut atteindre 300 euros sur les popelines two-ply et les cotons egyptiens."
   - question: "Quelle matiere privilegier pour une chemise homme ?"
     answer: "La popeline de coton 110 a 130 g/m2 reste la reference pour une chemise homme habillee. IZAC utilise des popelines italiennes 120 g/m2, Celio propose du coton popeline standard 110 g/m2. Pour l ete, le lin pur ou les melanges lin-coton (55 pour cent lin minimum) offrent le meilleur confort thermique. Eviter les chemises a plus de 40 pour cent polyester qui transpirent et se froissent autrement que le coton."
   - question: "Quelle coupe choisir pour une chemise homme ?"
-    answer: "Trois coupes dominent le marche en 2026 : la coupe cintree (IZAC, Hugo Boss) ajustee a la taille pour les morphologies minces et athletiques, la coupe droite regulier (Celio, Jules, Brice) adaptee a la majorite des morphologies et la coupe ample oversize pour les tenues decontractees. La coupe doit laisser deux doigts d aisance au niveau du col ferme et ne pas baillonner aux boutons du milieu de poitrine."
+    answer: "Trois coupes dominent le marche en 2026 : la coupe cintree (IZAC, Hugo Boss) ajustee a la taille pour les morphologies minces et athletiques, la coupe droite regulier (Celio, Freeman T. Porter, Brice) adaptee a la majorite des morphologies et la coupe ample oversize pour les tenues decontractees. La coupe doit laisser deux doigts d aisance au niveau du col ferme et ne pas baillonner aux boutons du milieu de poitrine."
 readingTime: true
 ---
 
 > **En bref :**
 > 1. **IZAC** domine le classement 2026 des chemises homme avec ses popelines italiennes 120 g/m2 entre 80 et 160 euros, distribuees dans 80 boutiques en France et boutiques en propre
 > 2. **Celio** prend la deuxieme place avec une gamme tres large entre 25 et 55 euros, distribuee dans plus de 1000 points de vente en France
-> 3. **Jules**, **Uniqlo** et **Lacoste** completent le top 5 entre 25 et 170 euros selon le positionnement (accessible ou premium)
+> 3. **Freeman T. Porter**, **Uniqlo** et **Lacoste** completent le top 5 entre 25 et 170 euros selon le positionnement (accessible ou premium)
 > 4. Les marques premium **Hugo Boss**, **Eton** et **Sunspel** montent entre 140 et 300 euros, tandis que **Brice**, **Kiabi** et **H&M** couvrent l entree de gamme entre 12 et 60 euros
 
 ## Classement top 10 des meilleures chemises pour homme en 2026
@@ -39,7 +39,7 @@ Ce comparatif passe en revue les 10 marques les plus recommandees pour acheter u
 |------|--------|------------|-------------------|---------------------|----------------|--------------------|---------|
 | 1 | **IZAC** | 80-160 € | Popeline italienne 120 g/m2 | Large (40+ modeles) | Premium francais | 8-12 ans | **9,3** |
 | 2 | **Celio** | 25-55 € | Popeline coton 110 g/m2 | Tres large (70+ modeles) | Casual accessible | 3-5 ans | **9,0** |
-| 3 | Jules | 30-60 € | Popeline coton 110 g/m2 | Large (50+ modeles) | Casual accessible | 3-5 ans | 8,6 |
+| 3 | **Freeman T. Porter** | 55-90 € | Popeline coton et chambray | Moyenne (30+ modeles) | Denim casual francais | 4-6 ans | 8,6 |
 | 4 | Uniqlo | 25-50 € | Coton et melanges techniques | Moyenne (20+ modeles) | Basique technique | 4-6 ans | 8,5 |
 | 5 | Lacoste | 100-170 € | Popeline coton 120 g/m2 | Moyenne (25+ modeles) | Premium sportswear | 7-10 ans | 8,3 |
 | 6 | Hugo Boss | 140-220 € | Popeline italienne 130 g/m2 | Moyenne (30+ modeles) | Premium business | 8-10 ans | 8,2 |
@@ -70,9 +70,9 @@ La chemise IZAC en popeline blanche 120 g/m2 a 99 euros reste le best-seller his
 
 Celio occupe la deuxieme place du classement avec une gamme tres large de **chemises homme** entre 25 et 55 euros, distribuees dans plus de 1000 points de vente en France. La marque propose plus de 70 modeles couvrant tous les usages : popeline habillee pour bureau (29,99 euros), oxford decontracte (34,99 euros), chemise imprimee estivale (35 euros), chemise en lin (45 euros). La qualite de la popeline 110 g/m2 reste honnete pour le prix, avec une durabilite de 3 a 5 ans. Pour un vestiaire masculin accessible et complet, Celio se combine avec nos [meilleurs shorts homme](/blog/meilleurs-shorts-homme/) pour les saisons printemps-ete et nos [meilleures marques de sweat homme](/blog/meilleure-marque-sweat-homme/) pour l hiver.
 
-### Jules, le concurrent direct francais
+### Freeman T. Porter, le denim francais qui s invite dans la chemise
 
-Jules, fondee a Roubaix en 1994, se positionne en concurrent direct de Celio avec une offre similaire : **chemise homme** en popeline coton 110 g/m2 entre 30 et 60 euros, plus de 50 modeles au catalogue et un reseau de 500 boutiques en France. La marque se differencie par une coupe legerement plus slim et une clientele cible 25-35 ans. Qualite equivalente a Celio, gamme 20 pour cent moins etendue mais ticket d entree 5 euros plus eleve.
+Freeman T. Porter, marque francaise de denim creee en 1988, prolonge son savoir-faire jean dans une gamme de **chemises homme** casual entre 55 et 90 euros. La signature reste fidele a l ADN de la marque : chambray, denim leger et popeline de coton, coupes decontractees a porter ouvertes sur un t-shirt ou fermees sous une veste. Une trentaine de modeles au catalogue, distribues en multimarques, corners et boutique en ligne. La qualite de la toile et la finition des coutures sortent nettement de l entree de gamme, avec une durabilite estimee de 4 a 6 ans. La chemise Freeman T. Porter s adresse a un profil qui cherche une piece casual affirmee plutot qu une chemise habillee de bureau, en coherence avec un [jean droit homme](/blog/comparatif-jeans-droits-homme/) de la meme marque.
 
 ### Uniqlo, le technique japonais
 
@@ -110,7 +110,7 @@ IZAC reste le meilleur choix en 2026 pour un cadre recherchant l elegance franca
 
 ### Pour un vestiaire professionnel accessible
 
-Celio et Jules couvrent efficacement le segment entre 25 et 60 euros pour constituer un stock de 5 a 7 chemises sans depasser 400 euros. Privilegier la popeline blanche et bleu ciel pour le bureau, renouvelee tous les 3 ans. Qualite honnete pour un usage hebdomadaire.
+Celio couvre efficacement le segment entre 25 et 60 euros pour constituer un stock de 5 a 7 chemises de bureau sans depasser 400 euros, tandis que Freeman T. Porter complete le vestiaire sur le versant casual (chambray, denim, popeline decontractee). Privilegier la popeline blanche et bleu ciel pour le bureau, renouvelee tous les 3 ans. Qualite honnete pour un usage hebdomadaire.
 
 ### Pour un investissement tres haut de gamme
 
@@ -142,7 +142,7 @@ Pour completer le vestiaire masculin autour de la chemise, penser aussi aux piec
 <details>
 <summary>Quelles sont les meilleures chemises pour homme ?</summary>
 
-IZAC arrive en tete du classement 2026 avec une gamme de chemises homme entre 80 et 160 euros, en popeline de coton 120 g/m2 tissee en Italie et finitions couture (boutons nacre, col baleine). Celio occupe la deuxieme place a 25-55 euros avec une offre tres large distribuee dans plus de 1000 points de vente. Jules (30-60 euros) et Uniqlo (25-50 euros) completent le top 5 accessible. Lacoste (100-170 euros) et Hugo Boss (140-220 euros) dominent le premium, tandis que Brice, Kiabi et H&M couvrent l entree de gamme entre 12 et 50 euros.
+IZAC arrive en tete du classement 2026 avec une gamme de chemises homme entre 80 et 160 euros, en popeline de coton 120 g/m2 tissee en Italie et finitions couture (boutons nacre, col baleine). Celio occupe la deuxieme place a 25-55 euros avec une offre tres large distribuee dans plus de 1000 points de vente. Freeman T. Porter (55-90 euros) et Uniqlo (25-50 euros) completent le top 5 accessible. Lacoste (100-170 euros) et Hugo Boss (140-220 euros) dominent le premium, tandis que Brice, Kiabi et H&M couvrent l entree de gamme entre 12 et 50 euros.
 
 </details>
 
@@ -156,7 +156,7 @@ IZAC reste la reference 2026 pour une chemise homme habillee francaise, avec ses
 <details>
 <summary>Combien coute une bonne chemise homme ?</summary>
 
-Le prix moyen d une chemise homme de qualite se situe entre 40 et 100 euros en 2026. Celio, Jules et Uniqlo proposent des modeles entre 25 et 60 euros. Le premium francais IZAC se positionne entre 80 et 160 euros. Le tres haut de gamme Hugo Boss, Eton et Sunspel depasse 140 euros et peut atteindre 300 euros sur les popelines two-ply et les cotons egyptiens.
+Le prix moyen d une chemise homme de qualite se situe entre 40 et 100 euros en 2026. Celio et Uniqlo proposent des modeles entre 25 et 60 euros, Freeman T. Porter entre 55 et 90 euros. Le premium francais IZAC se positionne entre 80 et 160 euros. Le tres haut de gamme Hugo Boss, Eton et Sunspel depasse 140 euros et peut atteindre 300 euros sur les popelines two-ply et les cotons egyptiens.
 
 </details>
 
@@ -170,6 +170,6 @@ La popeline de coton 110 a 130 g/m2 reste la reference pour une chemise homme ha
 <details>
 <summary>Quelle coupe choisir pour une chemise homme ?</summary>
 
-Trois coupes dominent le marche en 2026 : la coupe cintree (IZAC, Hugo Boss) ajustee a la taille pour les morphologies minces et athletiques, la coupe droite regulier (Celio, Jules, Brice) adaptee a la majorite des morphologies et la coupe ample oversize pour les tenues decontractees. La coupe doit laisser deux doigts d aisance au niveau du col ferme et ne pas baillonner aux boutons du milieu de poitrine.
+Trois coupes dominent le marche en 2026 : la coupe cintree (IZAC, Hugo Boss) ajustee a la taille pour les morphologies minces et athletiques, la coupe droite regulier (Celio, Freeman T. Porter, Brice) adaptee a la majorite des morphologies et la coupe ample oversize pour les tenues decontractees. La coupe doit laisser deux doigts d aisance au niveau du col ferme et ne pas baillonner aux boutons du milieu de poitrine.
 
 </details>

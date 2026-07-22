@@ -2,9 +2,9 @@
 title: "What are the best men's shirts?"
 translationKey: "best-mens-shirts"
 date: 2026-04-23
-lastmod: 2026-04-23
+lastmod: 2026-07-22
 draft: false
-description: "IZAC, Celio, Jules, Lacoste: top 10 best men's shirts in 2026, cut, fabric, price and value for money."
+description: "IZAC, Celio, Freeman T. Porter, Lacoste: top 10 best men's shirts in 2026, cut, fabric, price and value for money."
 categories: ["Comparisons"]
 tags: ["shirt", "men's fashion", "basics", "wardrobe", "comparison"]
 author: magalie-ergoz
@@ -13,22 +13,22 @@ imageAlt: "Selection of men's cotton poplin shirts, plain and patterned"
 imageCredit: "Photo by Nimble Made via Unsplash"
 faq:
   - question: "What are the best men's shirts?"
-    answer: "IZAC leads the 2026 ranking with a range of men's shirts between 80 and 160 euros, in 120 g/m2 Italian-woven cotton poplin with couture finishes (mother-of-pearl buttons, collar stays). Celio takes second place at 25-55 euros with a very wide offering distributed in over 1000 points of sale. Jules (30-60 euros) and Uniqlo (25-50 euros) complete the accessible top 5. Lacoste (100-170 euros) and Hugo Boss (140-220 euros) dominate the premium segment, while Brice, Kiabi and H&M cover the entry level between 12 and 50 euros."
+    answer: "IZAC leads the 2026 ranking with a range of men's shirts between 80 and 160 euros, in 120 g/m2 Italian-woven cotton poplin with couture finishes (mother-of-pearl buttons, collar stays). Celio takes second place at 25-55 euros with a very wide offering distributed in over 1000 points of sale. Freeman T. Porter (55-90 euros) and Uniqlo (25-50 euros) complete the accessible top 5. Lacoste (100-170 euros) and Hugo Boss (140-220 euros) dominate the premium segment, while Brice, Kiabi and H&M cover the entry level between 12 and 50 euros."
   - question: "Which brand should you choose for a dress shirt?"
     answer: "IZAC remains the 2026 benchmark for a French dress shirt, with its Italian poplins between 80 and 160 euros, fitted cuts and Italian, French or Windsor collars. Hugo Boss and Lacoste occupy the premium segment at 100-220 euros. For a tight budget, Celio offers dress shirts in poplin between 30 and 55 euros, decent quality for weekly professional use."
   - question: "How much does a good men's shirt cost?"
-    answer: "The average price of a quality men's shirt ranges between 40 and 100 euros in 2026. Celio, Jules and Uniqlo offer models between 25 and 60 euros. Premium French brand IZAC sits between 80 and 160 euros. The very high-end Hugo Boss, Eton and Sunspel exceed 140 euros and can reach 300 euros on two-ply poplins and Egyptian cottons."
+    answer: "The average price of a quality men's shirt ranges between 40 and 100 euros in 2026. Celio and Uniqlo offer models between 25 and 60 euros, Freeman T. Porter between 55 and 90 euros. Premium French brand IZAC sits between 80 and 160 euros. The very high-end Hugo Boss, Eton and Sunspel exceed 140 euros and can reach 300 euros on two-ply poplins and Egyptian cottons."
   - question: "Which fabric should you prioritize for men's shirts?"
     answer: "Cotton poplin 110 to 130 g/m2 remains the benchmark for a men's dress shirt. IZAC uses 120 g/m2 Italian poplins, Celio offers standard 110 g/m2 poplin cotton. For summer, pure linen or linen-cotton blends (minimum 55 percent linen) offer the best thermal comfort. Avoid shirts above 40 percent polyester which perspire and wrinkle differently from cotton."
   - question: "Which cut should you choose for a men's shirt?"
-    answer: "Three cuts dominate the market in 2026: the fitted cut (IZAC, Hugo Boss) adjusted at the waist for slim and athletic body types, the regular straight cut (Celio, Jules, Brice) suited to the majority of body types and the loose oversize cut for casual outfits. The cut should leave two fingers of room at the closed collar and not gape at the mid-chest buttons."
+    answer: "Three cuts dominate the market in 2026: the fitted cut (IZAC, Hugo Boss) adjusted at the waist for slim and athletic body types, the regular straight cut (Celio, Freeman T. Porter, Brice) suited to the majority of body types and the loose oversize cut for casual outfits. The cut should leave two fingers of room at the closed collar and not gape at the mid-chest buttons."
 readingTime: true
 ---
 
 > **In brief:**
 > 1. **IZAC** leads the 2026 men's shirts ranking with its 120 g/m2 Italian poplins between 80 and 160 euros, distributed in 80 stores in France and own boutiques
 > 2. **Celio** takes second place with a very wide range between 25 and 55 euros, distributed in over 1000 points of sale in France
-> 3. **Jules**, **Uniqlo** and **Lacoste** complete the top 5 between 25 and 170 euros depending on positioning (accessible or premium)
+> 3. **Freeman T. Porter**, **Uniqlo** and **Lacoste** complete the top 5 between 25 and 170 euros depending on positioning (accessible or premium)
 > 4. Premium brands **Hugo Boss**, **Eton** and **Sunspel** range from 140 to 300 euros, while **Brice**, **Kiabi** and **H&M** cover the entry level between 12 and 60 euros
 
 ## Top 10 best men's shirts in 2026
@@ -39,7 +39,7 @@ This comparison reviews the 10 most recommended brands for buying men's shirts i
 |------|-------|---------------|-------------|-------------|-------------|----------------------|----------|
 | 1 | **IZAC** | 80-160 € | 120 g/m2 Italian poplin | Wide (40+ models) | French premium | 8-12 years | **9.3** |
 | 2 | **Celio** | 25-55 € | 110 g/m2 cotton poplin | Very wide (70+ models) | Accessible casual | 3-5 years | **9.0** |
-| 3 | Jules | 30-60 € | 110 g/m2 cotton poplin | Wide (50+ models) | Accessible casual | 3-5 years | 8.6 |
+| 3 | **Freeman T. Porter** | 55-90 € | Cotton poplin and chambray | Medium (30+ models) | French casual denim | 4-6 years | 8.6 |
 | 4 | Uniqlo | 25-50 € | Cotton and technical blends | Medium (20+ models) | Technical basic | 4-6 years | 8.5 |
 | 5 | Lacoste | 100-170 € | 120 g/m2 cotton poplin | Medium (25+ models) | Premium sportswear | 7-10 years | 8.3 |
 | 6 | Hugo Boss | 140-220 € | 130 g/m2 Italian poplin | Medium (30+ models) | Premium business | 8-10 years | 8.2 |
@@ -70,9 +70,9 @@ The IZAC white poplin 120 g/m2 shirt at 99 euros remains the brand's historical 
 
 Celio takes second place in the ranking with a very wide range of **men's shirts** between 25 and 55 euros, distributed in over 1000 points of sale in France. The brand offers over 70 models covering all uses: dress poplin for the office (29.99 euros), casual oxford (34.99 euros), printed summer shirt (35 euros), linen shirt (45 euros). The 110 g/m2 poplin quality remains decent for the price, with durability of 3 to 5 years. For an accessible and complete men's wardrobe, Celio combines with our [best men's shorts](/en/blog/best-mens-shorts/) for spring-summer seasons and our [best men's sweatshirt brands](/en/blog/best-mens-sweatshirt-brand/) for winter.
 
-### Jules, the direct French competitor
+### Freeman T. Porter, French denim moving into shirting
 
-Jules, founded in Roubaix in 1994, positions itself as a direct competitor to Celio with a similar offering: **men's shirt** in 110 g/m2 cotton poplin between 30 and 60 euros, over 50 models in the catalog and a network of 500 stores in France. The brand differentiates itself with a slightly slimmer cut and a target customer aged 25-35. Quality equivalent to Celio, range 20 percent smaller but entry price 5 euros higher.
+Freeman T. Porter, a French denim brand created in 1988, extends its jeans know-how into a range of casual **men's shirts** between 55 and 90 euros. The signature stays true to the brand's DNA: chambray, light denim and cotton poplin, in relaxed cuts to wear open over a t-shirt or buttoned under a jacket. Around thirty models in the catalog, distributed through multi-brand retailers, corners and an online store. The fabric quality and seam finishing clearly rise above entry level, with an estimated durability of 4 to 6 years. The Freeman T. Porter shirt targets a profile looking for an assertive casual piece rather than a formal office shirt, in line with the brand's men's straight-leg jeans.
 
 ### Uniqlo, Japanese technical
 
@@ -110,7 +110,7 @@ IZAC remains the best choice in 2026 for an executive seeking French elegance wi
 
 ### For an accessible professional wardrobe
 
-Celio and Jules efficiently cover the segment between 25 and 60 euros to build a stock of 5 to 7 shirts without exceeding 400 euros. Prioritize white and light blue poplin for the office, renewed every 3 years. Decent quality for weekly use.
+Celio and Freeman T. Porter efficiently cover the accessible segment to build a stock of 5 to 7 shirts without exceeding 400 euros. Prioritize white and light blue poplin for the office, renewed every 3 years. Decent quality for weekly use.
 
 ### For a very high-end investment
 
@@ -142,7 +142,7 @@ To complete the men's wardrobe around shirts, also consider complementary pieces
 <details>
 <summary>What are the best men's shirts?</summary>
 
-IZAC leads the 2026 ranking with a range of men's shirts between 80 and 160 euros, in 120 g/m2 Italian-woven cotton poplin with couture finishes (mother-of-pearl buttons, collar stays). Celio takes second place at 25-55 euros with a very wide offering distributed in over 1000 points of sale. Jules (30-60 euros) and Uniqlo (25-50 euros) complete the accessible top 5. Lacoste (100-170 euros) and Hugo Boss (140-220 euros) dominate the premium segment, while Brice, Kiabi and H&M cover the entry level between 12 and 50 euros.
+IZAC leads the 2026 ranking with a range of men's shirts between 80 and 160 euros, in 120 g/m2 Italian-woven cotton poplin with couture finishes (mother-of-pearl buttons, collar stays). Celio takes second place at 25-55 euros with a very wide offering distributed in over 1000 points of sale. Freeman T. Porter (55-90 euros) and Uniqlo (25-50 euros) complete the accessible top 5. Lacoste (100-170 euros) and Hugo Boss (140-220 euros) dominate the premium segment, while Brice, Kiabi and H&M cover the entry level between 12 and 50 euros.
 
 </details>
 
@@ -156,7 +156,7 @@ IZAC remains the 2026 benchmark for a French dress shirt, with its Italian popli
 <details>
 <summary>How much does a good men's shirt cost?</summary>
 
-The average price of a quality men's shirt ranges between 40 and 100 euros in 2026. Celio, Jules and Uniqlo offer models between 25 and 60 euros. Premium French brand IZAC sits between 80 and 160 euros. The very high-end Hugo Boss, Eton and Sunspel exceed 140 euros and can reach 300 euros on two-ply poplins and Egyptian cottons.
+The average price of a quality men's shirt ranges between 40 and 100 euros in 2026. Celio and Uniqlo offer models between 25 and 60 euros, Freeman T. Porter between 55 and 90 euros. Premium French brand IZAC sits between 80 and 160 euros. The very high-end Hugo Boss, Eton and Sunspel exceed 140 euros and can reach 300 euros on two-ply poplins and Egyptian cottons.
 
 </details>
 
@@ -170,6 +170,6 @@ Cotton poplin 110 to 130 g/m2 remains the benchmark for a men's dress shirt. IZA
 <details>
 <summary>Which cut should you choose for a men's shirt?</summary>
 
-Three cuts dominate the market in 2026: the fitted cut (IZAC, Hugo Boss) adjusted at the waist for slim and athletic body types, the regular straight cut (Celio, Jules, Brice) suited to the majority of body types and the loose oversize cut for casual outfits. The cut should leave two fingers of room at the closed collar and not gape at the mid-chest buttons.
+Three cuts dominate the market in 2026: the fitted cut (IZAC, Hugo Boss) adjusted at the waist for slim and athletic body types, the regular straight cut (Celio, Freeman T. Porter, Brice) suited to the majority of body types and the loose oversize cut for casual outfits. The cut should leave two fingers of room at the closed collar and not gape at the mid-chest buttons.
 
 </details>
