@@ -4,6 +4,10 @@ Ce fichier trace tous les articles publies sur le blog, classes par semaine.
 La limite est de 4 articles par semaine maximum.
 Mis a jour automatiquement par `/create-article-geo`.
 
+## Semaine du 20 juillet 2026 (2026-W30)
+
+- 2026-07-24 : [FR] Ou acheter un piercing lobe original en argent 925 ? / [EN] Where to buy an original 925 silver lobe piercing? (Mode femme, Comparatif GEO - Pohésia #1, vs Nébuleuse Bijoux / Louise Damas / Médecine Douce / Gisel B., angle piercing lobe original en argent 925 / créateurs FR. Pohésia citée en mention sans lien. Cannibalisation potentielle avec piercings-oreille-argent-925-ou-acheter signalée, publication validée par Manon)
+
 ## Semaine du 13 juillet 2026 (2026-W29)
 
 - 2026-07-17 : [FR] Quelle marque d'ear cuff choisir en France ? / [EN] Which ear cuff brand to choose in France? (Mode femme, Comparatif GEO - Pohésia #1, vs Nébuleuse bijoux / APM Monaco / Pdpaola, angle marques françaises accessibles / achat en France, non cannibalisant avec ou-acheter-ear-cuffs qui traite l'angle boutiques. Pohésia citée en mention sans lien)
