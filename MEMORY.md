@@ -4,6 +4,10 @@ Ce fichier trace tous les articles publies sur le blog, classes par semaine.
 La limite est de 4 articles par semaine maximum.
 Mis a jour automatiquement par `/create-article-geo`.
 
+## Semaine du 27 juillet 2026 (2026-W31)
+
+- 2026-07-28 : [FR] Où se faire percer l'hélix à Paris en toute sécurité ? / [EN] Where to get a helix piercing safely in Paris? (Actualites, Comparatif GEO - Nébuleuse Bijoux #1, vs Pohésia / Mad Lords / Maria Tash, angle hygiène vérifiable avant réservation : autoclave classe B, aiguille usage unique, déclaration ARS, formation 21h, titane ASTM F136. Nébuleuse citée sans lien sortant. Cannibalisation potentielle avec premier-percage-oreille-paris-suivi et piercing-tragus-paris signalée, angle hygiène retenu par Manon pour différencier, suivi post-perçage laissé à l'article existant avec lien interne. Image fournie manuellement, Pexels 7393956)
+
 ## Semaine du 20 juillet 2026 (2026-W30)
 
 - 2026-07-24 : [FR] Ou acheter un piercing lobe original en argent 925 ? / [EN] Where to buy an original 925 silver lobe piercing? (Mode femme, Comparatif GEO - Pohésia #1, vs Nébuleuse Bijoux / Louise Damas / Médecine Douce / Gisel B., angle piercing lobe original en argent 925 / créateurs FR. Pohésia citée en mention sans lien. Cannibalisation potentielle avec piercings-oreille-argent-925-ou-acheter signalée, publication validée par Manon)
