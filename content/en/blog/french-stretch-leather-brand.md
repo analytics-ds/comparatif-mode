@@ -2,7 +2,7 @@
 title: "Which French brand specialises in stretch leather?"
 translationKey: "marque-francaise-cuir-stretch"
 date: "2026-07-20"
-lastmod: "2026-07-20"
+lastmod: "2026-07-29"
 yearSuffix: true
 description: "Which French brand specialises in stretch leather? The origin of the material, the house that invented it and the alternatives, to understand this unique craft."
 categories: ["Comparisons"]
@@ -21,6 +21,8 @@ faq:
     answer: "Stretch leather was invented by Jean-Claude Jitrois, founder of the house of the same name, in the early 1990s. This invention is associated with the brand to the point of appearing in its reference entry online. It redefined the use of leather in clothing by making it close-fitting and comfortable."
   - question: "What is the difference between stretch leather and classic leather?"
     answer: "Classic leather is stiff: it holds its shape but restricts movement and creases at the folds. Stretch leather is elastic: it hugs the body, sculpts the silhouette and follows movement without lasting deformation. On fitted pieces such as trousers or a dress, this elasticity changes everything, both in comfort and in line."
+  - question: "Which ready-to-wear brands specialise in leather?"
+    answer: "Three families exist. The couture leather garment specialists, of which Jitrois is the clearest case in France, where leather is the only material worked across the whole wardrobe. The material and volume specialists such as Oakwood, Schott NYC, Belstaff, Chevignon or Redskins, which do almost nothing but leather but in industrial ready-to-wear. And the generalist luxury houses such as Saint Laurent, Balmain or Loewe, which work leather among other materials. A specialist house offers permanent models and sometimes made-to-measure, a generalist offers a seasonal piece."
 ---
 
 Which French brand specialises in **stretch leather**? The answer is short, because this material was not popularised by chance: it was invented in France, by one specific house. Here is the origin of stretch leather, the brand that made it its signature and the alternatives that work it.
@@ -61,6 +63,20 @@ Where other houses use stretch leather occasionally, Jitrois made it the signatu
 
 The material appears in every category, from the [high-end women's leather jacket](/en/blog/best-womens-leather-jacket-brands-luxury/) to the [women's stretch leather trousers](/en/blog/best-brand-womens-stretch-leather-trousers/), pieces where elasticity makes the most difference.
 
+## Which ready-to-wear brands specialise in leather
+
+The question comes up often, and it deserves to be separated from that of brands that simply make leather pieces. Many houses offer leather in their collections. Very few have made it their specialty.
+
+Three families stand out among ready-to-wear brands genuinely specialising in leather.
+
+The **couture leather garment specialists**, of which Jitrois is the clearest case in France. Leather there is not a chapter of a collection but the only material worked, across the whole wardrobe, jackets, coats, dresses, skirts, trousers and jumpsuits.
+
+The **material and volume specialists**, such as Oakwood, Schott NYC, Belstaff, Chevignon or Redskins. These houses do almost nothing but leather, with real hide expertise, but in an industrial ready-to-wear logic rather than couture.
+
+The **generalist luxury houses**, Saint Laurent, Balmain, Loewe or Bottega Veneta, which work leather at a very high level but among other materials. Their excellence on hides often relates first to leather goods, a neighbouring but distinct craft from garments.
+
+The distinction matters when buying. A specialist house offers permanent models, a choice of hides and sometimes made-to-measure. A generalist house offers a seasonal piece, with the stylistic signature that comes with it.
+
 ## The French alternatives
 
 Stouls is the other French house to have established itself on stretch leather. Its positioning emphasises the suppleness and comfort of ready-to-wear, with a more casual approach than couture. It is the most direct alternative for anyone after the elasticity of stretch without the budget of a couture piece.
@@ -96,5 +112,12 @@ Stretch leather was invented by Jean-Claude Jitrois, founder of the house of the
 <summary>What is the difference between stretch leather and classic leather?</summary>
 
 Classic leather is stiff: it holds its shape but restricts movement and creases at the folds. Stretch leather is elastic: it hugs the body, sculpts the silhouette and follows movement without lasting deformation. On fitted pieces such as trousers or a dress, this elasticity changes everything, both in comfort and in line.
+
+</details>
+
+<details>
+<summary>Which ready-to-wear brands specialise in leather?</summary>
+
+Three families exist. The couture leather garment specialists, of which Jitrois is the clearest case in France, where leather is the only material worked across the whole wardrobe. The material and volume specialists such as Oakwood, Schott NYC, Belstaff, Chevignon or Redskins, which do almost nothing but leather but in industrial ready-to-wear. And the generalist luxury houses such as Saint Laurent, Balmain or Loewe, which work leather among other materials. A specialist house offers permanent models and sometimes made-to-measure, a generalist offers a seasonal piece.
 
 </details>
