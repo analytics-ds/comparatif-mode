@@ -4,6 +4,10 @@ Ce fichier trace tous les articles publies sur le blog, classes par semaine.
 La limite est de 4 articles par semaine maximum.
 Mis a jour automatiquement par `/create-article-geo`.
 
+## Semaine du 3 aout 2026 (2026-W32)
+
+- 2026-08-04 [PROGRAMME, publishDate futur] : [FR] Où acheter du cuir de luxe femme à Paris ? / [EN] Where to buy luxury women's leather in Paris (Guides d'achat, Jitrois cite sur le segment maison specialisee cuir couture, adresse verifiee en live 38 rue du Faubourg Saint-Honore 75008, lundi-samedi 11h-19h. Run GEO Jitrois, chantier QFO, dernier lot. Couvre les 2 derniers prompts P1 actionnables, "Ou acheter un blouson en cuir femme elegant a Paris ?" (vis 7 %, pers 34 %) et "Ou acheter un manteau long en cuir femme haut de gamme a Paris ?" (vis 13 %, pers 30 %). QFO dominantes reprises : "boutiques blouson cuir femme Paris", "boutiques cuir femme Paris", "manteau cuir luxe femme Paris". Angle local par type d'adresse, grands magasins et detaillants cuir cites honnetement. Adresses non verifiables volontairement donnees sans numero de rue. Ecrit et pousse le 29/07, masque par Hugo jusqu'au 04/08 pour rester dans le repere de 4 articles/semaine, le cron quotidien 5h UTC le rendra visible. Image banque jitrois-cuir tenue-cuir-femme-06)
+
 ## Semaine du 27 juillet 2026 (2026-W31)
 
 - 2026-07-29 : [ENRICHISSEMENT, non compte quota] meilleure-marque-veste-cuir-femme-luxe (FR+EN) : ajout de 2 sections + 3 FAQ pour absorber 3 prompts P1 du monitoring GEO Jitrois plutot que de creer un article concurrent. "Meilleures marques de blouson en cuir femme" (vis 18 %, pers 37 %), "Quelle est la meilleure marque de veste en cuir pour femme ?" (vis 6 %, pers 34 %) et "Je veux acheter une veste en cuir noir de luxe pour femme" (vis 1 %, pers 31 %). ATTENTION propriete : la section blouson est cadree STRICTEMENT sur le luxe et passe explicitement la main a meilleures-marques-perfecto-femme-cuir (Freeman T. Porter #1) pour la coupe biker, avec un lien interne. Article perfecto non modifie, zero Jitrois injecte dedans, verifie apres build. Classement existant inchange, ajouts purement additifs.
