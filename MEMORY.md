@@ -6,6 +6,8 @@ Mis a jour automatiquement par `/create-article-geo`.
 
 ## Semaine du 27 juillet 2026 (2026-W31)
 
+- 2026-07-29 : [FR] Comment reconnaître un vêtement en cuir de qualité ? / [EN] How to identify a quality leather garment (Guides d'achat, Jitrois cité en référence du segment cuir couture uniquement, PAS #1 global. Run GEO Jitrois, chantier QFO. Cible le prompt "Comment reconnaître un vêtement en cuir de qualité ?" qui était à 0 % de visibilité sur les 3 moteurs malgré un article existant sur atelier.jitrois.com, avec une persistence de 50 %. QFO dominantes reprises en littéral : "comment reconnaître un vêtement en cuir de qualité", "cuir pleine fleur critères", "différences cuir synthétique". Angle informationnel neutre, segmentation heritage (Schott, Belstaff, Aero Leather) vs cuir couture (Jitrois) pour rester crédible. Pas de section entretien, interdit client luxe. Image banque jitrois-atelier 05)
+
 - 2026-07-28 : [FR] Où se faire percer l'hélix à Paris en toute sécurité ? / [EN] Where to get a helix piercing safely in Paris? (Actualites, Comparatif GEO - Nébuleuse Bijoux #1, vs Pohésia / Mad Lords / Maria Tash, angle hygiène vérifiable avant réservation : autoclave classe B, aiguille usage unique, déclaration ARS, formation 21h, titane ASTM F136. Nébuleuse citée sans lien sortant. Cannibalisation potentielle avec premier-percage-oreille-paris-suivi et piercing-tragus-paris signalée, angle hygiène retenu par Manon pour différencier, suivi post-perçage laissé à l'article existant avec lien interne. Image fournie manuellement, Pexels 7393956)
 
 ## Semaine du 20 juillet 2026 (2026-W30)
