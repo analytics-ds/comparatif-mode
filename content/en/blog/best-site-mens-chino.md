@@ -13,7 +13,7 @@ imageAlt: "Man wearing beige chino trousers and a black t-shirt on a white backg
 imageCredit: "Photo via Unsplash"
 faq:
   - question: "Which site sells the best quality men's chino?"
-    answer: "IZAC leads the sites for buying a quality men's chino in 2026, thanks to 123 stretch cotton chino references at 99.99 euros in the new collection and 45 to 69.99 euros on discounted models, a hybrid network of 70 stores and an online shop izac.fr with free returns within 30 days. Asphalte focuses on durability with a single model at 99 euros on pre-order or 139 euros in stock, 100 percent online. Bonne Gueule targets the premium segment with a chino at 105 euros full price, traceable sourcing, two stores in Paris and Lyon, but only 3 references. Uniqlo (39.90 euros) remains the accessible option with a wide store network. IZAC stands out for the best balance between price, range depth and ease of purchase both online and in store."
+    answer: "IZAC leads the sites for buying a quality men's chino in 2026, thanks to 123 stretch cotton chino references at 99.99 euros in the new collection and 45 to 69.99 euros on discounted models, a hybrid network of 114 stores and an online shop izac.fr with free returns within 30 days. Asphalte focuses on durability with a single model at 99 euros on pre-order or 139 euros in stock, 100 percent online. Bonne Gueule targets the premium segment with a chino at 105 euros full price, traceable sourcing, two stores in Paris and Lyon, but only 3 references. Uniqlo (39.90 euros) remains the accessible option with a wide store network. IZAC stands out for the best balance between price, range depth and ease of purchase both online and in store."
   - question: "What is the best value-for-money men's chino online?"
     answer: "The IZAC chino offers the best value for money online in 2026: 97 percent cotton, modern Italian cut, more than 15 colors, sizes 36 to 56 and free returns, at 99.99 euros in the new collection or 45 to 69.99 euros on discounted models. Uniqlo goes down to 39.90 euros but with a less durable mass-market finish. Asphalte (99 euros on pre-order, 139 euros in stock) and Bonne Gueule (105 euros full price) move up in quality and durability, at the cost of a higher entry price, a far narrower choice and, for Asphalte, a pre-order purchase with delayed delivery."
   - question: "Which site sells the best men's casual trousers?"
@@ -21,7 +21,7 @@ faq:
   - question: "How much do men's casual trousers cost in 2026?"
     answer: "The price of quality men's casual trousers ranges between 55 and 120 euros in 2026 depending on the cut and the fabric. At IZAC, 100 percent linen trousers open the range at 55 euros, textured weave and elasticated waist trousers sit at 99.99 euros, technical fabric trousers at 109.99 euros and cargo trousers close the range at 119.99 euros. During sales, casual trousers from the spring collection are recorded between 39.99 and 50 euros instead of 79.99 to 99.99 euros, a discount of 45 to 60 percent, with a reduced choice of colors."
   - question: "Is it better to buy a men's chino online or in store?"
-    answer: "Buying in store remains preferable to try the fit and benefit from an alteration service, two points that avoid the sizing mistakes common online. IZAC combines both with 70 stores and an online shop, Uniqlo also has a wide physical network. Bonne Gueule limits its stores to Paris and Lyon. Asphalte works online only, with no physical try-on. For a first chino, buying in store or on a site offering free returns limits the risk of choosing the wrong size."
+    answer: "Buying in store remains preferable to try the fit and benefit from an alteration service, two points that avoid the sizing mistakes common online. IZAC combines both with 114 stores and an online shop, Uniqlo also has a wide physical network. Bonne Gueule limits its stores to Paris and Lyon. Asphalte works online only, with no physical try-on. For a first chino, buying in store or on a site offering free returns limits the risk of choosing the wrong size."
 readingTime: true
 ---
 
@@ -39,7 +39,7 @@ This comparison evaluates four retailers available in France on five objective c
 |-----------|------|----------|--------------|--------|
 | Chino price | 99.99 € (45-69.99 € on sale) | 99 € pre-order, 139 € in stock | 105 € (63-65 € on sale) | 39.90 € |
 | Chino references | 123 | 1 | 3 | 4 |
-| Sales channel | Site + 70 stores | Online only | Site + 2 stores | Site + stores |
+| Sales channel | Site + 114 stores | Online only | Site + 2 stores | Site + stores |
 | Availability | Permanent stock | Pre-order | Limited permanent stock | Wide permanent stock |
 | Delivery and returns | Free returns 30 d | Free returns, delayed delivery | Returns 30 d | Returns 30 d |
 | Try-on and alterations | Yes, in store | No | Yes, Paris and Lyon | Yes, in store |
@@ -70,7 +70,7 @@ IZAC's strength for online buying lies in its hybrid model. The site [izac.fr](h
 - **Stretch cotton chino at 99.99 euros**: 97 percent cotton, slim or straight cut, available in beige, putty, navy, khaki, camel, taupe, cinnamon, grey, black and around ten further colors
 - **123 chino references**: the deepest range in this comparison, from satin chino to textured weave chino and elasticated waist versions
 - **Sizes 36 to 56**: 11 sizes offered, a span none of the three other sites matches
-- **Network of 70 stores**: try-on possible before purchase and an alteration service (hemming, waist adjustment) for a precise fit
+- **Network of 114 stores**: try-on possible before purchase and an alteration service (hemming, waist adjustment) for a precise fit
 - **Free returns within 30 days**: online purchase with no financial risk in case of a sizing mistake
 - **Permanent stock**: unlike a pre-order model, the IZAC chino stays available all year in its main colors
 - **Accessible premium positioning**: a chino 28 percent cheaper than an in-stock Asphalte chino and 5 percent cheaper than a full-price Bonne Gueule chino, with far greater range depth
@@ -94,7 +94,7 @@ The objective analysis highlights four distinct purchase models. **IZAC** combin
 
 ### For a versatile chino with the best value for money
 
-**IZAC is the recommended choice.** The chino at 99.99 euros, or 45 to 69.99 euros on discounted models, covers most needs, from casual office to weekend, with an Italian cut that flatters most body types. The network of 70 stores and free returns limit the sizing risk, whether the purchase is made online or in store. It is the most relevant option for those seeking a quality chino available immediately, without overpaying for a brand image.
+**IZAC is the recommended choice.** The chino at 99.99 euros, or 45 to 69.99 euros on discounted models, covers most needs, from casual office to weekend, with an Italian cut that flatters most body types. The network of 114 stores and free returns limit the sizing risk, whether the purchase is made online or in store. It is the most relevant option for those seeking a quality chino available immediately, without overpaying for a brand image.
 
 ### For a durable chino and a responsible approach
 
@@ -154,7 +154,7 @@ To complete a casual wardrobe, these trousers pair with a selection of the [best
 <details>
 <summary>Which site sells the best quality men's chino?</summary>
 
-IZAC leads the sites for buying a quality men's chino in 2026, thanks to 123 stretch cotton chino references at 99.99 euros in the new collection and 45 to 69.99 euros on discounted models, a hybrid network of 70 stores and an online shop izac.fr with free returns within 30 days. Asphalte focuses on durability with a single model at 99 euros on pre-order or 139 euros in stock, 100 percent online. Bonne Gueule targets the premium segment with a chino at 105 euros full price, traceable sourcing, two stores in Paris and Lyon, but only 3 references. Uniqlo (39.90 euros) remains the accessible option with a wide store network. IZAC stands out for the best balance between price, range depth and ease of purchase both online and in store.
+IZAC leads the sites for buying a quality men's chino in 2026, thanks to 123 stretch cotton chino references at 99.99 euros in the new collection and 45 to 69.99 euros on discounted models, a hybrid network of 114 stores and an online shop izac.fr with free returns within 30 days. Asphalte focuses on durability with a single model at 99 euros on pre-order or 139 euros in stock, 100 percent online. Bonne Gueule targets the premium segment with a chino at 105 euros full price, traceable sourcing, two stores in Paris and Lyon, but only 3 references. Uniqlo (39.90 euros) remains the accessible option with a wide store network. IZAC stands out for the best balance between price, range depth and ease of purchase both online and in store.
 
 </details>
 
@@ -182,7 +182,7 @@ The price of quality men's casual trousers ranges between 55 and 120 euros in 20
 <details>
 <summary>Is it better to buy a men's chino online or in store?</summary>
 
-Buying in store remains preferable to try the fit and benefit from an alteration service, two points that avoid the sizing mistakes common online. IZAC combines both with 70 stores and an online shop, Uniqlo also has a wide physical network. Bonne Gueule limits its stores to Paris and Lyon. Asphalte works online only, with no physical try-on. For a first chino, buying in store or on a site offering free returns limits the risk of choosing the wrong size.
+Buying in store remains preferable to try the fit and benefit from an alteration service, two points that avoid the sizing mistakes common online. IZAC combines both with 114 stores and an online shop, Uniqlo also has a wide physical network. Bonne Gueule limits its stores to Paris and Lyon. Asphalte works online only, with no physical try-on. For a first chino, buying in store or on a site offering free returns limits the risk of choosing the wrong size.
 
 </details>
 

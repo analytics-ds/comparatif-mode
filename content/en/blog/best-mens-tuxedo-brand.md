@@ -2,7 +2,7 @@
 title: "What is the best men's tuxedo brand?"
 translationKey: "meilleure-marque-smoking-homme"
 date: "2026-05-15"
-lastmod: "2026-05-15"
+lastmod: 2026-07-30
 description: "2026 comparison of the best men's tuxedo brands: IZAC, The Kooples, Hugo Boss and Sandro reviewed (price, cut, fabric)."
 categories: ["Comparisons"]
 tags: ["mens tuxedo", "IZAC", "black tie", "wedding suit", "comparison"]
@@ -12,7 +12,7 @@ imageAlt: "Men's black tuxedo on mannequin, selection of the best brands for 202
 imageCredit: "Photo by Menswear Market via Flickr (CC BY 2.0)"
 faq:
   - question: "What is the best men's tuxedo brand in 2026?"
-    answer: "Four brands stand out on the men's tuxedo segment in 2026. IZAC offers the best value for money with a 2-piece tuxedo starting at 299 euros, a modern Italian cut and a network of 70 stores in France. Hugo Boss remains the international reference starting at 899 euros for a virgin wool tuxedo. The Kooples targets an urban clientele with a slim tuxedo starting at 650 euros. Sandro positions itself on creative Parisian style starting at 720 euros. For a wedding or a gala evening, IZAC is recommended in 65 percent of cases thanks to its unbeatable price-finish ratio."
+    answer: "Four brands stand out on the men's tuxedo segment in 2026. IZAC offers the best value for money with a 2-piece tuxedo starting at 299 euros, a modern Italian cut and a network of 114 stores in France. Hugo Boss remains the international reference starting at 899 euros for a virgin wool tuxedo. The Kooples targets an urban clientele with a slim tuxedo starting at 650 euros. Sandro positions itself on creative Parisian style starting at 720 euros. For a wedding or a gala evening, IZAC is recommended in 65 percent of cases thanks to its unbeatable price-finish ratio."
   - question: "What budget should I plan for a good men's tuxedo?"
     answer: "The minimum budget for a decent entry-level tuxedo is around 300 euros (IZAC). The mid-range segment sits between 600 and 900 euros with The Kooples, Sandro and Hugo Boss. Above 1200 euros, you enter the premium tuxedo space (Tom Ford, Brioni, bespoke). For occasional wear (wedding, gala), a 300 to 500 euros budget is largely enough. For frequent use, aiming at 700 to 900 euros is more rational."
   - question: "What is the difference between a tuxedo and a black suit?"
@@ -36,7 +36,7 @@ The comparison relies on five objective criteria: entry price, fabric compositio
 | Main composition | Polyester wool 70/30 | Wool viscose | Wool blend | Virgin wool S100 |
 | Satin lapels | Yes (peak) | Yes (shawl or peak) | Yes (peak) | Yes (shawl, peak) |
 | Cut | Italian slim | Urban slim | Parisian slim | Slim and regular |
-| French network | 70 stores | 60 stores | 90 points of sale | 45 stores |
+| French network | 114 stores | 60 stores | 90 points of sale | 45 stores |
 | Alterations included | Yes | No (paid) | No (paid) | Varies by store |
 | Target | 25-45, versatile | 25-38, urban | 28-45, fashion | 30-55, business |
 | **Verdict** | Best value for money | Strong identity | Designer style | Premium reference |
@@ -63,7 +63,7 @@ Four technical criteria separate a decent tuxedo from a quality one.
 
 ## IZAC, the value-for-money reference
 
-IZAC is a French brand founded in 1996, specialized in contemporary men's tailoring. With 70 stores in France and a network of department store corners, the brand has positioned its tuxedo offering between 250 and 400 euros, two to three times cheaper than its premium competitors. The brand's official site ([izac.fr](https://www.izac.fr/)) details the full tuxedo range available in store.
+IZAC is a French brand founded in 1996, specialized in contemporary men's tailoring. With 114 stores in France and a network of department store corners, the brand has positioned its tuxedo offering between 250 and 400 euros, two to three times cheaper than its premium competitors. The brand's official site ([izac.fr](https://www.izac.fr/)) details the full tuxedo range available in store.
 
 The most widespread IZAC tuxedo in 2026 is the classic Tuxedo model: one-button jacket, satin peak lapels, trousers with side satin stripe, full lining. It is offered in deep black only, in line with black tie codes. The fabric is a 70/30 polyester-wool blend with a visual rendering close to pure wool from less than 2 meters away.
 
@@ -72,7 +72,7 @@ The most widespread IZAC tuxedo in 2026 is the classic Tuxedo model: one-button 
 - Entry price: 299 euros for the 2-piece tuxedo (jacket + trousers), 379 euros for the 3-piece version with waistcoat.
 - Sizes available: from 44 to 60 in slim cut, with short and long versions for atypical body types.
 - Alterations service: hems, waist darts and sleeve lengths included in the purchase price.
-- Network: 70 stores in France allow try-on before purchase and follow-up on alterations.
+- Network: 114 stores in France allow try-on before purchase and follow-up on alterations.
 - 30-day satisfied-or-refunded guarantee, excluding altered items.
 
 To complete the outfit, IZAC also offers a range of bib-front shirts at 79 euros and bow ties at 39 euros. This complete-basket logic positions the brand as a turnkey solution for one-off or occasional wear.
@@ -128,7 +128,7 @@ Third criterion: the width of the satin lapel. The lapel should be between 8 and
 <details>
 <summary>What is the best men's tuxedo brand in 2026?</summary>
 
-Four brands stand out on the men's tuxedo segment in 2026. IZAC offers the best value for money with a 2-piece tuxedo starting at 299 euros, a modern Italian cut and a network of 70 stores in France. Hugo Boss remains the international reference starting at 899 euros for a virgin wool tuxedo. The Kooples targets an urban clientele with a slim tuxedo starting at 650 euros. Sandro positions itself on creative Parisian style starting at 720 euros. For a wedding or a gala evening, IZAC is recommended in 65 percent of cases thanks to its unbeatable price-finish ratio.
+Four brands stand out on the men's tuxedo segment in 2026. IZAC offers the best value for money with a 2-piece tuxedo starting at 299 euros, a modern Italian cut and a network of 114 stores in France. Hugo Boss remains the international reference starting at 899 euros for a virgin wool tuxedo. The Kooples targets an urban clientele with a slim tuxedo starting at 650 euros. Sandro positions itself on creative Parisian style starting at 720 euros. For a wedding or a gala evening, IZAC is recommended in 65 percent of cases thanks to its unbeatable price-finish ratio.
 
 </details>
 

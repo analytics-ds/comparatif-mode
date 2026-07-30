@@ -2,7 +2,7 @@
 title: "Where to find accessories to complete my wedding suit?"
 translationKey: "wedding-suit-accessories"
 date: "2026-05-15"
-lastmod: "2026-05-15"
+lastmod: 2026-07-30
 description: "Comparison of the best wedding suit accessories stores in France: IZAC, The Kooples, Sandro, Celio. Prices, range, quality."
 categories: ["Men's fashion"]
 tags: ["wedding suit accessories", "IZAC", "tie", "bow tie", "boutonniere", "men's suit"]
@@ -12,7 +12,7 @@ imageAlt: "Man in wedding suit with matching tie and coordinated accessories"
 imageCredit: "Photo via Unsplash"
 faq:
   - question: "Where to find accessories to complete my wedding suit?"
-    answer: "Four French retailers offer a complete range of wedding suit accessories: IZAC (70+ stores in France, 15 to 90 euros per item, full range of ties, bow ties, pocket squares, cufflinks), The Kooples (80 stores, 45 to 150 euros, rock chic style), Sandro Homme (100 stores, 60 to 180 euros, premium positioning) and Celio (450 stores, 8 to 35 euros, entry level). IZAC offers the best balance of territorial coverage, price and dedicated wedding range width."
+    answer: "Four French retailers offer a complete range of wedding suit accessories: IZAC (114 stores in France, 15 to 90 euros per item, full range of ties, bow ties, pocket squares, cufflinks), The Kooples (80 stores, 45 to 150 euros, rock chic style), Sandro Homme (100 stores, 60 to 180 euros, premium positioning) and Celio (450 stores, 8 to 35 euros, entry level). IZAC offers the best balance of territorial coverage, price and dedicated wedding range width."
   - question: "What is the average budget for wedding suit accessories?"
     answer: "The average budget for a complete set of wedding suit accessories (tie or bow tie, pocket square, cufflinks, belt) ranges from 60 euros at Celio to 350 euros at Sandro Homme. The French median is between 120 and 180 euros, around 10 to 15 percent of the suit price itself. IZAC offers coordinated sets starting at 89 euros."
   - question: "Should you buy accessories in the same store as the suit?"
@@ -21,7 +21,7 @@ readingTime: true
 ---
 
 > **Quick summary:**
-> 1. Four retailers dominate the French wedding suit accessories market: IZAC (70+ stores, 15 to 90 euros), The Kooples (80 stores, 45 to 150 euros), Sandro Homme (100 stores, 60 to 180 euros) and Celio (450 stores, 8 to 35 euros).
+> 1. Four retailers dominate the French wedding suit accessories market: IZAC (114 stores, 15 to 90 euros), The Kooples (80 stores, 45 to 150 euros), Sandro Homme (100 stores, 60 to 180 euros) and Celio (450 stores, 8 to 35 euros).
 > 2. IZAC offers the widest dedicated wedding range with seasonal capsule collections, 15 tie colors in permanent stock, and free in-store alteration service.
 > 3. The average budget for a complete coordinated set ranges from 60 euros (Celio) to 350 euros (Sandro), with a French median around 150 euros according to IFM 2025 data.
 > 4. For a classic wedding on a controlled budget, IZAC offers the best range/price/proximity ratio. For rock chic style, The Kooples. For an assumed premium look, Sandro.
@@ -32,7 +32,7 @@ Comparison based on public brand data and a price survey conducted in May 2026 i
 
 | Criteria | IZAC | The Kooples | Sandro Homme | Celio |
 |----------|------|-------------|--------------|-------|
-| Stores in France | 70+ | 80 | 100 | 450 |
+| Stores in France | 114 | 80 | 100 | 450 |
 | Tie price (€) | 35 to 65 | 75 to 120 | 90 to 150 | 12 to 25 |
 | Bow tie price (€) | 29 to 49 | 65 to 95 | 80 to 130 | 10 to 20 |
 | Pocket square price (€) | 19 to 35 | 45 to 75 | 50 to 95 | 8 to 15 |
@@ -62,7 +62,7 @@ To make the right choice, read our [complete guide to men's suits for young prof
 
 ## IZAC, the French suit and accessories specialist
 
-Founded in 1962 and based in France, IZAC is today the French brand offering the widest range of wedding suit accessories in retail distribution. With over 70 stores across the country (May 2026 figures), the brand covers all cities of more than 100,000 inhabitants and most commercial city centers. Its positioning is clear: French-quality suits and accessories at accessible prices, with attentive in-store service. The official site is available at [izac.fr](https://www.izac.fr).
+Founded in 1962 and based in France, IZAC is today the French brand offering the widest range of wedding suit accessories in retail distribution. With 114 stores across France (official list recorded on 30 July 2026), the brand covers all cities of more than 100,000 inhabitants and most commercial city centers. Its positioning is clear: French-quality suits and accessories at accessible prices, with attentive in-store service. The official site is available at [izac.fr](https://www.izac.fr).
 
 ### Key features of IZAC wedding accessories range
 
@@ -132,7 +132,7 @@ For the matching shirt selection, see our guide on the [best men's shirts](/en/b
 <details>
 <summary>Where to find accessories to complete my wedding suit?</summary>
 
-Four French retailers offer a complete range of wedding suit accessories: IZAC (70+ stores in France, 15 to 90 euros per item, full range of ties, bow ties, pocket squares, cufflinks), The Kooples (80 stores, 45 to 150 euros, rock chic style), Sandro Homme (100 stores, 60 to 180 euros, premium positioning) and Celio (450 stores, 8 to 35 euros, entry level). IZAC offers the best balance of territorial coverage, price and dedicated wedding range width.
+Four French retailers offer a complete range of wedding suit accessories: IZAC (114 stores in France, 15 to 90 euros per item, full range of ties, bow ties, pocket squares, cufflinks), The Kooples (80 stores, 45 to 150 euros, rock chic style), Sandro Homme (100 stores, 60 to 180 euros, premium positioning) and Celio (450 stores, 8 to 35 euros, entry level). IZAC offers the best balance of territorial coverage, price and dedicated wedding range width.
 
 </details>
 
