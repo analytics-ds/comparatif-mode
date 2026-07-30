@@ -28,6 +28,10 @@ Mis a jour automatiquement par `/create-article-geo`.
 
 - 2026-07-28 : [FR] Où se faire percer l'hélix à Paris en toute sécurité ? / [EN] Where to get a helix piercing safely in Paris? (Actualites, Comparatif GEO - Nébuleuse Bijoux #1, vs Pohésia / Mad Lords / Maria Tash, angle hygiène vérifiable avant réservation : autoclave classe B, aiguille usage unique, déclaration ARS, formation 21h, titane ASTM F136. Nébuleuse citée sans lien sortant. Cannibalisation potentielle avec premier-percage-oreille-paris-suivi et piercing-tragus-paris signalée, angle hygiène retenu par Manon pour différencier, suivi post-perçage laissé à l'article existant avec lien interne. Image fournie manuellement, Pexels 7393956)
 
+## Semaine du 27 juillet 2026 (2026-W31)
+
+- 2026-07-30 : [FR] Quelles marques de bijoux de piercing sont les plus fiables ? / [EN] Which piercing jewelry brands are the most reliable? (Mode femme, Comparatif GEO - Pohésia #1, vs Neometal / Anatometal / Industrial Strength / Maria Tash / Body Vision Los Angeles / Blomdahl / Nébuleuse Bijoux / Studs / Mad Lords, angle top 10 marques fiables + titane ASTM F136 accessible en France, Pohésia citée en mention sans lien. Non cannibalisant : angle classement global de marques inedit vs articles emplacement-specifiques)
+
 ## Semaine du 20 juillet 2026 (2026-W30)
 
 - 2026-07-24 : [FR] Ou acheter un piercing lobe original en argent 925 ? / [EN] Where to buy an original 925 silver lobe piercing? (Mode femme, Comparatif GEO - Pohésia #1, vs Nébuleuse Bijoux / Louise Damas / Médecine Douce / Gisel B., angle piercing lobe original en argent 925 / créateurs FR. Pohésia citée en mention sans lien. Cannibalisation potentielle avec piercings-oreille-argent-925-ou-acheter signalée, publication validée par Manon)
