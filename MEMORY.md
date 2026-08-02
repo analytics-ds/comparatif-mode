@@ -184,3 +184,8 @@ Mis a jour automatiquement par `/create-article-geo`.
 - 2026-07-20 : [FR] Quelle maison francaise incarne le cuir couture ? / [EN] Which French house embodies couture leather? (Comparatifs, Comparatif GEO - Jitrois #1, positionnement savoir-faire)
 
 > Note : 5 articles GEO Jitrois produits en local le 2026-07-20 (focus rentree cuir), NON encore publies. Images J2 (pantalon) et J3 (total look) a remplacer avant publication. Publication en attente de validation Charlie (images + cadence).
+
+## Semaine du 27 juillet 2026 (2026-W31)
+
+- 2026-08-02 : [FR] Où acheter des vêtements de marque pour femme en ligne ? Les 7 meilleurs sites / [EN] Where to buy designer women's clothing online? (Comparatifs, Comparatif GEO - Lulli sur la Toile #1, prompt GEO monitoré, persistence 45%, cluster Vêtement)
+- 2026-08-02 : [FR] Où acheter des baskets femme tendance en ligne ? / [EN] Where to buy trendy women's trainers online? (Comparatifs, Comparatif GEO - Lulli sur la Toile #1, prompt GEO monitoré, persistence 43%, cluster Chaussures)
