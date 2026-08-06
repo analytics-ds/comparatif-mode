@@ -104,23 +104,23 @@ articles:
     category: "Comparatifs"
     volume: null
     kd: null
-    scheduled_date: "2026-05-05"
-    status: failed
+    scheduled_date: "2026-08-07"
+    status: todo
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: "[etape1] SerpAPI invalid API key"
+    error: null
 
   - kw: "comment choisir sa taille de vetements en ligne"
     category: "Guides d'achat"
     volume: null
     kd: null
-    scheduled_date: "2026-05-08"
-    status: failed
+    scheduled_date: "2026-08-11"
+    status: todo
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: "[etape1] SerpAPI invalid API key"
+    error: null
 
   - kw: "tendances mode printemps ete 2026"
     category: "Actualites"
