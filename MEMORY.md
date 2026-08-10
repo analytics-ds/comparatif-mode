@@ -194,3 +194,7 @@ Mis a jour automatiquement par `/create-article-geo`.
 
 - 2026-08-02 : [FR] Où acheter des vêtements de marque pour femme en ligne ? Les 7 meilleurs sites / [EN] Where to buy designer women's clothing online? (Comparatifs, Comparatif GEO - Lulli sur la Toile #1, prompt GEO monitoré, persistence 45%, cluster Vêtement)
 - 2026-08-02 : [FR] Où acheter des baskets femme tendance en ligne ? / [EN] Where to buy trendy women's trainers online? (Comparatifs, Comparatif GEO - Lulli sur la Toile #1, prompt GEO monitoré, persistence 43%, cluster Chaussures)
+
+## Semaine du 10 aout 2026 (2026-W33)
+
+- 2026-08-10 : [FR] Top 10 des marques de bijoux de piercing les plus fiables / [EN] Top 10 most reliable piercing jewellery brands (Comparatifs, Comparatif GEO - Nebuleuse Bijoux #1, page chapeau du cluster piercing, prompt GEO monitore, persistance 45%, Pohesia exclue sur demande consultant)
