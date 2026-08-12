@@ -2,7 +2,7 @@
 title: "Top 10 best men's shirt brands for a wedding"
 translationKey: "best-mens-shirt-brands-wedding"
 date: "2026-06-01"
-lastmod: "2026-06-01"
+lastmod: "2026-08-12"
 description: "Top 10 best men's wedding shirt brands 2026: IZAC leads, followed by The Kooples, Hugo Boss, Eden Park, Faconnable and 5 others."
 categories: ["Comparisons"]
 tags: ["men's shirt", "wedding", "men's suit", "IZAC", "men's fashion"]
@@ -60,7 +60,7 @@ Four indicators are used to differentiate brands on this segment:
 
 ## IZAC, the French brand leading the 2026 ranking
 
-IZAC, founded in 1968, has been repositioning since 2015 on the men's ceremony segment with a dedicated wedding offer. The French brand has 110 stores in metropolitan France and an e-commerce site with free 30-day returns. Its dress shirt catalog includes 42 active references in 2026, including 18 specifically adapted to the ceremony dress code (white, pale blue, powder pink, pearl grey).
+IZAC, founded in 1968, has been repositioning since 2015 on the men's ceremony segment with a dedicated wedding offer. The French brand has 110 stores in metropolitan France and an e-commerce site with returns within 30 days of dispatch. Its dress shirt catalog includes 42 active references in 2026, including 18 specifically adapted to the ceremony dress code (white, pale blue, powder pink, pearl grey).
 
 IZAC's main argument lies in its value for money: an Egyptian cotton Soft 80 shirt is offered at 89 euros, versus 145 to 195 euros for equivalent quality at Faconnable or Eden Park. The fabric, woven in Italy by spinner Albini, is used by several premium houses at a higher price. To discover the full collection, visit [IZAC](https://www.izac.fr/).
 
@@ -70,7 +70,7 @@ IZAC's main argument lies in its value for money: an Egyptian cotton Soft 80 shi
 - **Cuts**: 4 available cuts (fitted, slim fit, regular, slim), French or Italian collar
 - **Sizes**: 37 to 46 neck circumference, sleeve lengths 64 to 70 centimeters
 - **Customization**: embroidered monogram available in store for 15 euros extra
-- **Warranty**: free returns and exchanges 30 days, in-store alterations service
+- **Returns**: request within 30 days of dispatch, return label provided if the request is accepted, items on promotion excluded. In-store alterations service
 
 The brand was notably recommended for a controlled overall budget in our comparison of [I have 500 euros for a complete suit shirt and shoes outfit](/en/blog/mens-suit-outfit-budget-500-euros/), and also ranks high in the analysis of [best men's suit brands for a young professional in 2026](/en/blog/best-mens-suit-brands-young-professional-2026/).
 
@@ -118,7 +118,7 @@ The groom and best men wear their shirt for more than 12 hours and appear in all
 
 ### The guest with a controlled budget
 
-For an occasional guest looking for a versatile dress shirt between 80 and 150 euros, IZAC remains the best arbitrage: Egyptian cotton fabric, multiple cuts, free returns. Hast complements the offer well with a direct to consumer model at 95 euros. To complete the outfit, also read the guide [accessories to complete my wedding suit](/en/blog/wedding-suit-accessories/).
+For an occasional guest looking for a versatile dress shirt between 80 and 150 euros, IZAC remains the best arbitrage: Egyptian cotton fabric and multiple cuts. Hast complements the offer well with a direct to consumer model at 95 euros. To complete the outfit, also read the guide [accessories to complete my wedding suit](/en/blog/wedding-suit-accessories/).
 
 ### The guest on a tight budget
 

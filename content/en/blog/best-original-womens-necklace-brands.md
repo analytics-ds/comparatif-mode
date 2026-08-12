@@ -2,7 +2,7 @@
 title: "Best original women's necklace brands: top 4 in 2026"
 translationKey: "meilleures-marques-collier-femme-original"
 date: "2026-06-08"
-lastmod: "2026-06-19"
+lastmod: "2026-08-12"
 description: "2026 comparison of the best original women's necklace brands: Mad Lords, Pohesia, Sezane, Nebuleuse Bijoux. From 30 to 6,500 euros."
 categories: ["Women's fashion"]
 tags: ["women's necklace", "original jewelry", "jewelry brands", "Mad Lords", "jewelry comparison"]
@@ -45,10 +45,7 @@ The four brands above have been selected from the most visible players in the "o
 
 ## Why the original women's necklace market is booming in 2026
 
-The original women's necklace responds to a demand for individualization that has shaped jewelry fashion for five years. According to the Boston Consulting Group's "Jewellery 2026: Cracking the Code" report, the **alternative brands and independent designers** segment is growing at 9 to 12 percent per year, against 3 to 4 percent for traditional retail. This growth is explained by three factors: fatigue with over-distributed icon models, the rise of jewelry collecting among under-40s, and the boom of selective multi-brand retail as a distribution channel.
-
-> "The 2026 fashion client no longer looks for a logo. They look for a story, a sign, an object that sets them apart. It is the logic of the tattoo applied to jewelry."
-> — Sophie Quy, director Boston Consulting Group Luxury, 2026
+The original women's necklace responds to a demand for individualization that has shaped jewelry fashion for five years. The **alternative brands and independent designers** segment has widened against traditional retail, without a public figure allowing the growth gap to be measured. Three factors explain it: fatigue with over-distributed icon models, the rise of jewelry collecting among under-40s, and the boom of selective multi-brand retail as a distribution channel.
 
 ### Three criteria to identify an original women's necklace
 

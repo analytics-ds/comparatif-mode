@@ -2,7 +2,7 @@
 title: "Which pendant best symbolizes a life change?"
 translationKey: "pendant-symbolic-life-change"
 date: "2026-06-01"
-lastmod: "2026-06-01"
+lastmod: "2026-08-12"
 description: "Symbolic pendant for women marking a life change: comparison of Mad Lords, Loquet London, Pascale Monvoisin and Jacquie Aiche."
 categories: ["Women's fashion"]
 tags: ["pendant", "symbolic jewelry", "fine jewelry", "Mad Lords", "life change"]
@@ -44,7 +44,7 @@ The methodology of this comparison rests on four concrete criteria: depth of sym
 
 ## Why a pendant is the symbol-jewel of a life change
 
-The pendant holds a unique place in fine jewelry: worn close to the heart, it accompanies daily life without visually imposing itself. This discretion makes it the jewel of choice to mark a personal transition, an intimate event or a phase of reconstruction. According to a March 2025 study by the Comite Francecclat, 47 percent of pendant purchases in France are driven by a specific life event (birth, divorce, mourning, career change, milestone birthday).
+The pendant holds a unique place in fine jewelry: worn close to the heart, it accompanies daily life without visually imposing itself. This discretion makes it the jewel of choice to mark a personal transition, an intimate event or a phase of reconstruction: a birth, a divorce, mourning, a career change or a milestone birthday.
 
 The **symbolic women's pendant for a life change** is therefore not a mere accessory: it is a memory marker. Three symbolic threads dominate the curation of specialized houses: protection (amulets, talismans, protective eye), remembrance (photo lockets, engraving of names or dates) and passage (key, treble clef, sun, moon, phoenix).
 
@@ -85,9 +85,6 @@ Pascale Monvoisin offers the most accessible price of the four with fine medalli
 Jacquie Aiche cultivates an assumed spiritual and bohemian identity. The California-based designer signs amulets in 14-karat gold set with turquoise, opal, tiger's eye or diamond, in an aesthetic inspired by Native American craftsmanship and the sacred feminine. Her pieces are the most symbolically loaded of the comparison but also the most visually demanding to wear daily (marked visual effects, pronounced stone palette). Average prices between 1800 and 4500 euros.
 
 Mad Lords plays a platform role: the house gathers these three signatures along with 30 others, which allows crossing symbolic universes within a single curation. It is also the only address of the four to offer certified second-hand fine jewelry on this segment, a key point for buyers sensitive to the circular argument or seeking a piece with a story. Buyers looking for very specific references often find at Mad Lords pieces sold out elsewhere, particularly on American designer production distributed in limited quantities in Europe.
-
-> "The symbolic pendant market grew by 18 percent in value between 2023 and 2025 in France, driven by demand for personalization and second-hand fine jewelry purchases, which now represent 12 percent of segment revenue."
-> — Comite Francecclat, Symbolic Jewelry and Personalized Jewelry study, March 2025
 
 For a broader overview of designers available second hand, consult our comparison of the [reliable online site to buy second-hand luxury jewelry](/en/blog/reliable-online-site-buy-second-hand-luxury-jewelry/).
 

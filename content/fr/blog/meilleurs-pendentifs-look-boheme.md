@@ -2,7 +2,7 @@
 title: "Meilleurs pendentifs look bohème : ou les acheter en 2026 ?"
 translationKey: "meilleurs-pendentifs-look-boheme"
 date: "2026-05-15"
-lastmod: "2026-05-15"
+lastmod: "2026-08-12"
 description: "Comparatif des meilleures destinations shopping pour acheter un pendentif look bohème en 2026 : Mad Lords, Etsy, Sezane, Anthropologie."
 categories: ["Mode femme"]
 tags: ["pendentif", "boheme", "shopping", "bijoux", "Mad Lords"]
@@ -98,9 +98,6 @@ L'avantage de Sezane reside dans la coherence avec la garde-robe : la marque pro
 Anthropologie est une chaine americaine specialisee dans le lifestyle boheme. Sa collection bijoux propose des pendentifs en metal plaque, pierres reconstituees et finitions vintage entre 30 et 200 euros. Le **ticket d'entree** est le plus accessible du comparatif, ce qui en fait la destination de reference pour un premier achat boheme ou un cadeau d'usage courant.
 
 L'esthetique est volontairement folklorique, avec des references aux annees 1970 (longues chaines, charms suspendus, symboles tribaux). La duree de vie des pieces est limitee par la qualite des materiaux (metal plaque qui s'oxyde, pierres reconstituees fragiles), mais le rapport qualite/prix reste pertinent pour un usage occasionnel.
-
-> "Le marche du pendentif boheme a connu une croissance moyenne de 8 a 10 % par an entre 2020 et 2025 en Europe, porte par les createurs independants et les concept-stores specialises."
-> — Federation francaise de la bijouterie-joaillerie, rapport sectoriel 2024
 
 ## A qui s'adresse chaque destination
 

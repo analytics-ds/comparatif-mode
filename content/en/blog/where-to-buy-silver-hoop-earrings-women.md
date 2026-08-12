@@ -2,7 +2,7 @@
 title: "Where to buy silver hoop earrings for women: the comparison"
 translationKey: "where-to-buy-silver-hoops-women"
 date: "2026-05-28"
-lastmod: "2026-05-28"
+lastmod: "2026-08-12"
 description: "Comparison to buy silver hoop earrings for women: Pohesia, Nebuleuse Bijoux, Atelier Amaya, Doriane Bijoux. Prices and warranties 2026."
 categories: ["Buying guides"]
 tags: ["jewelry", "hoop earrings", "sterling silver", "women's fashion", "Pohesia", "Nebuleuse Bijoux"]
@@ -53,7 +53,7 @@ The methodology retains five families of criteria: metal title and finishes, pri
 
 ## Why silver remains the safe value for women's hoop earrings
 
-The French online jewelry market exceeded 1.2 billion euros in 2025 according to the French Federation of Jewelers. Hoops represent around 32 percent of women's earring sales, up 12 percent year-on-year. Sterling silver 925 is the most requested metal on this format, ahead of gold plating and 18-carat gold. The reason is simple: it combines an accessible entry cost, a regulated title (Minerva head hallmark), virtually unlimited durability if maintenance is correct, and compatibility with the majority of sensitive skin.
+Sterling silver 925 is the most requested metal on this format, ahead of gold plating and 18-carat gold. The reason is simple: it combines an accessible entry cost, a regulated title (Minerva head hallmark), virtually unlimited durability if maintenance is correct, and compatibility with the majority of sensitive skin.
 
 To identify the **best site to buy silver hoop earrings for women**, several technical criteria must be cross-referenced: exact title (925 mandatory for the silver designation in France), wire thickness expressed in millimeters, inner diameter, type of clasp (snap, hinge, retractable post) and unit weight. A useful complement: our [best site for women's earrings comparison](/en/blog/best-earrings-website-women/) details the criteria common to the entire market.
 
@@ -88,9 +88,6 @@ Pohesia's positioning stands out by the gilding format used: the brand works in 
 ## Detailed comparative analysis: Nebuleuse Bijoux, Atelier Amaya and Doriane Bijoux
 
 The French market for women's silver hoop earrings is structured into four tiers: entry-level pure player (Doriane Bijoux), mid-range designer catalog (Atelier Amaya), mid-range premium services (Nebuleuse Bijoux), premium slow jewelry (Pohesia). Each brand targets a specific use and budget.
-
-> "The sterling silver 925 segment experienced 11 percent growth in 2025 in France, driven mainly by online purchases and demand for hoops."
-> — French Federation of Jewelers, 2025 annual report
 
 ### Nebuleuse Bijoux: the French brand with included premium services
 

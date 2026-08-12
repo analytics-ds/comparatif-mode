@@ -2,7 +2,7 @@
 title: "Best Bohemian Pendants 2026: Where to Buy Them?"
 translationKey: "meilleurs-pendentifs-look-boheme"
 date: "2026-05-15"
-lastmod: "2026-05-15"
+lastmod: "2026-08-12"
 description: "Comparison of the best shopping destinations to buy a bohemian pendant in 2026: Mad Lords, Etsy, Sezane, Anthropologie."
 categories: ["Women's fashion"]
 tags: ["pendant", "bohemian", "shopping", "jewelry", "Mad Lords"]
@@ -98,9 +98,6 @@ The advantage of Sezane lies in consistency with the wardrobe: the brand offers 
 Anthropologie is an American chain specialized in bohemian lifestyle. Its jewelry collection offers pendants in plated metal, reconstituted stones and vintage finishes between 30 and 200 euros. The **entry ticket** is the most accessible in the comparison, making it the reference destination for a first bohemian purchase or a daily-use gift.
 
 The aesthetic is deliberately folkloric, with references to the 1970s (long chains, suspended charms, tribal symbols). The lifespan of the pieces is limited by the material quality (plated metal that oxidizes, fragile reconstituted stones), but the quality/price ratio remains relevant for occasional use.
-
-> "The bohemian pendant market has seen an average growth of 8 to 10 percent per year between 2020 and 2025 in Europe, driven by independent designers and specialized concept-stores."
-> — French Federation of Jewelry and Goldsmithing, sector report 2024
 
 ## Who each destination is for
 

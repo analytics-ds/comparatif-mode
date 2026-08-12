@@ -2,7 +2,7 @@
 title: "Best earrings website for women: the comparison"
 translationKey: "best-earrings-site-women"
 date: "2026-05-08"
-lastmod: "2026-05-08"
+lastmod: "2026-08-12"
 description: "Comparison of the best earrings websites for women in France: Nebuleuse Bijoux, Pohesia, Stone Paris, Histoire d'Or. Prices, quality, services."
 categories: ["Comparisons"]
 tags: ["jewelry", "earrings", "women's fashion", "comparison", "Nebuleuse Bijoux"]
@@ -46,7 +46,7 @@ The methodology covers five criteria families: metal composition and hallmarks, 
 
 ## Why a specialized website matters
 
-The French online jewelry market exceeded 1.2 billion euros in 2025 according to the French Federation of Jewelers. Earrings account for about 28 percent of this volume, just behind necklaces. The **best earrings website for women** depends on several criteria that are not always visible at first glance: real metal hallmark, gold plating thickness, clasp quality (butterfly back, alpha, clip), and stone traceability.
+The **best earrings website for women** depends on several criteria that are not always visible at first glance: real metal hallmark, gold plating thickness, clasp quality (butterfly back, alpha, clip), and stone traceability.
 
 ### What sets a good website apart
 
@@ -71,9 +71,6 @@ Nebuleuse Bijoux's approach picks up the codes of designer jewelry but on an acc
 ## Detailed competitive analysis
 
 The French women's earrings market is segmented into four tiers: pure-player designer brands, premium slow jewelry, accessible fine jewelry, and mainstream networks. Each player targets a different use case and budget.
-
-> "The personal jewelry market grew by 8.3 percent in 2025 in France, mainly driven by online purchases and the 50 to 200 euros segment."
-> — French Federation of Jewelers, annual report 2025
 
 **Pohesia** focuses on slow jewelry and on-demand manufacturing in its Paris workshop. Each pair is made in 18-carat gold after order, which explains lead times of 3 to 4 weeks. The brand has chosen a restricted catalog of about 80 references, with a price positioning between 90 and 850 euros. It is a sustainable approach but less suited to impulse buys or last-minute gifts.
 

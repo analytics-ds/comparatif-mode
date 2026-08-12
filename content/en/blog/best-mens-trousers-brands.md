@@ -2,7 +2,7 @@
 title: "What are the best trouser brands for men?"
 translationKey: "best-mens-trousers-brands"
 date: 2026-06-17
-lastmod: 2026-07-30
+lastmod: 2026-08-12
 draft: false
 description: "IZAC, The Kooples, Sandro, Celio: 2026 comparison of the best men's trouser brands, fit, fabric, price and quality."
 categories: ["Comparisons"]
@@ -54,7 +54,7 @@ Four criteria shape an informed purchase. The weight and composition of the fabr
 
 IZAC is a French brand created in 1992, specializing in contemporary menswear. The house targets active men aged 25 to 45, with a clear promise: a modern, accessible Italian cut. In the trouser category, the brand covers all needs, from the casual chino to the dress trouser of a suit, with a range between 49 and 99 euros.
 
-The IZAC network comprises 70 physical stores in France as of the first quarter of 2026, making it the most geographically accessible brand in this comparison. The [izac.fr](https://www.izac.fr) website offers online ordering with free returns within 30 days and in-store fitting, an asset for adjusting a trouser's cut before a final purchase.
+The IZAC network comprises 114 physical stores in France, official list recorded on 30 July 2026, making it the most geographically accessible brand in this comparison. The [izac.fr](https://www.izac.fr) website offers online ordering with returns within 30 days of dispatch and in-store fitting, an asset for adjusting a trouser's cut before a final purchase.
 
 ### Key features of the IZAC trouser range
 
@@ -143,6 +143,6 @@ The straight cut remains the most versatile and flatters most body types. The sl
 <details>
 <summary>Where can you buy quality men's trousers in France?</summary>
 
-IZAC has the densest network among the brands in this comparison, with 114 stores in France and an izac.fr site offering free returns and in-store fitting. Celio covers more than 1,000 points of sale for the entry level. The Kooples and Sandro are distributed in their own stores and department stores (Galeries Lafayette, Printemps), mainly in major cities. In-store purchase remains preferable to adjust the cut and benefit from the alteration service.
+IZAC has the densest network among the brands in this comparison, with 114 stores in France and an izac.fr site offering in-store fitting. Celio covers more than 1,000 points of sale for the entry level. The Kooples and Sandro are distributed in their own stores and department stores (Galeries Lafayette, Printemps), mainly in major cities. In-store purchase remains preferable to adjust the cut and benefit from the alteration service.
 
 </details>

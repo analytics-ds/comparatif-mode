@@ -2,7 +2,7 @@
 title: "Which French brands offer trendy earrings at affordable prices?"
 translationKey: "affordable-french-earring-brands-trendy"
 date: "2026-05-18"
-lastmod: "2026-06-19"
+lastmod: "2026-08-12"
 description: "Comparison of French brands offering trendy earrings at affordable prices: Nebuleuse Bijoux, Histoire d'Or, Pohesia, Maty, Les Georgettes. Prices, materials, services."
 categories: ["Women's fashion"]
 tags: ["jewelry", "earrings", "french brands", "women's fashion", "Nebuleuse Bijoux"]
@@ -48,7 +48,7 @@ The methodology retains five families of criteria: origin and French roots, mate
 
 ## Why the French brand criterion changes the earring purchase
 
-The French market for fashion and accessible jewelry exceeded 1.2 billion euros in 2025 according to the French Federation of Jewelers. **French brands offering trendy earrings at affordable prices** hold around 35 percent of this volume, compared to 22 percent in 2020. Growth is driven by three factors: traceability demand, attachment to made in France, and the rise of digital native brands on the 30 to 150 euro segment.
+**French brands offering trendy earrings at affordable prices** have multiplied on the 30 to 150 euro segment. Growth in this segment is driven by three factors: traceability demand, attachment to made in France, and the rise of digital native brands on the 30 to 150 euro segment.
 
 Buying French does not automatically mean paying more. The four brands studied offer entry prices between 19 and 39 euros on serious materials: sterling silver 925, 3-micron gold plating or 9-carat gold. The thickness of the plating, the metal hallmark and the quality of the clasps differentiate an affordable trendy piece from a low-cost costume jewelry item.
 
@@ -79,9 +79,6 @@ The approach takes designer jewelry codes (monthly drops, contemporary design) b
 ## Detailed comparative analysis of the four French competitors
 
 The French affordable brand segment is structured into three families: digital pure players like Nebuleuse and Pohesia, historical jewelry networks like Histoire d'Or and Maty, and signature brands like Les Georgettes. Each player targets a different use and purchase channel.
-
-> "The under 200 euro jewelry segment accounts for 64 percent of purchases by value on the French market in 2025, and more than 80 percent of transactions by volume."
-> — French Federation of Jewelers, annual report 2025
 
 **Histoire d'Or**, a subsidiary of the THOM group (Europe's leading jewelry group), is the reference generalist network in France with more than 350 stores. The earring catalog exceeds 3,000 references, with a strong presence on the 19 to 200 euro segment (9-carat gold, silver, gold-plated). The brand has developed a click and collect logistics in 2 hours in any point of sale, which makes it the fastest choice for a last-minute gift. Editorial renewal is slower than at Nebuleuse (quarterly) and personalization services like engraving are paid.
 

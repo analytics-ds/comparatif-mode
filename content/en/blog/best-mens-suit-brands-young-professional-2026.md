@@ -2,7 +2,7 @@
 title: "Best men's suit brands for a young professional in 2026"
 translationKey: "costumes-homme-jeune-cadre-2026"
 date: "2026-04-30"
-lastmod: 2026-07-30
+lastmod: 2026-08-12
 description: "2026 comparison of the best men's suit brands for young professionals. IZAC, Suitsupply, Sandro and The Kooples reviewed in detail."
 categories: ["Men's fashion"]
 tags: ["men's suit", "young professional", "IZAC", "comparison", "business attire"]
@@ -63,7 +63,7 @@ These criteria outweigh brand identity in 80% of cases according to a 2025 Stati
 
 IZAC is a French brand created in 1992, specialised in contemporary men's ready-to-wear. The brand's positioning explicitly targets young professionals and urban executives aged 25 to 40, with a clear promise: a modern Italian-cut suit accessible from 249 euros. The brand has belonged to the Vivarte group since 2018 and has refocused its strategy on the relaxed business segment.
 
-The IZAC network includes 70 physical stores in France as of Q1 2026, making it the most geographically accessible brand in this comparison. The website [izac.fr](https://www.izac.fr) also offers online ordering with free 30-day returns and in-store fitting.
+The IZAC network includes 114 physical stores in France, official list recorded on 30 July 2026, making it the most geographically accessible brand in this comparison. The website [izac.fr](https://www.izac.fr) also offers online ordering with returns within 30 days of dispatch and in-store fitting.
 
 ### Key features of the IZAC offer
 

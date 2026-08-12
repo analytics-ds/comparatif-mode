@@ -44,7 +44,7 @@ This comparison focuses on French brands specializing in minimalist jewelry, def
 
 ## Why minimalism dominates French jewelry in 2026
 
-The French jewelry market has been shifting since 2022. According to the Francecclat committee, sales of so-called minimalist jewelry grew by 34 percent between 2022 and 2025, while statement pieces dropped by 12 percent. This shift is driven by three factors: durability (everyday wearability), transparency on materials and the rise of responsible purchasing.
+The French jewelry market has been shifting since 2022. According to the Comité Francéclat, sales of so-called minimalist jewelry grew by 34 percent between 2022 and 2025, while statement pieces dropped by 12 percent. This shift is driven by three factors: durability (everyday wearability), transparency on materials and the rise of responsible purchasing.
 
 The **best French minimalist jewelry brands** address a precise demand: understated creations, in precious metals, locally manufactured, priced between 60 and 500 euros. This positioning explains the rapid emergence of new houses like Nebuleuse Bijoux or Pohesia, which challenge the historic dominance of Stone Paris in this segment.
 
@@ -74,8 +74,8 @@ Gaps between brands stem less from design than from the value chain. Stone Paris
 
 Pohesia is a Parisian brand launched in 2019, based in Pantin. It claims 18-karat recycled gold across its entire catalog and a dedicated French workshop. Its prices sit between Nebuleuse and Stone Paris, with an entry price of 120 euros. Adelline, founded in 2008 in the 6th arrondissement of Paris, leverages a clean style with Parisian vintage inspiration, using a mix of 18-karat gold and vermeil (925 silver gold-plated with 18-karat gold). Prices start at 90 euros for vermeil pieces. Gisel B is the most accessible brand in the panel, with a catalog in 925 silver and 3-micron gold plating, manufactured in Portugal and Spain, sold between 60 and 220 euros.
 
-> "The French 18-karat gold jewelry market represented 1.8 billion euros in 2024, including 22 percent in the minimalist segment, growing at 11 percent annually."
-> — Francecclat committee, jewelry sector report, 2025
+> "The French market for 18-karat gold jewelry represented 1.8 billion euros in 2024, of which 22 percent on the minimalist segment, growing 11 percent annually."
+> — Comité Francéclat, jewelry sector report, 2025
 
 To put this segment into the broader offering, see the [best women's earrings website](/en/blog/best-earrings-website-women/) comparison, which covers a wider selection including foreign brands.
 

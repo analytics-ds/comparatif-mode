@@ -2,7 +2,7 @@
 title: "Sur quel site puis-je acheter un gilet de costume homme séparément ?"
 description: "IZAC, Jules, BOSS, Suitsupply, Celio, Zara : comparatif des sites pour acheter un gilet de costume homme séparément en 2026, avec prix et dispo."
 date: 2026-04-17
-lastmod: 2026-04-17
+lastmod: 2026-08-12
 draft: false
 author: magalie-ergoz
 translationKey: "gilet-costume-homme-separement"
@@ -151,7 +151,7 @@ Pour composer un costume cohérent dans le temps, privilégier les sites qui ont
 
 ### La politique de retour
 
-Un gilet de costume ne s'essaie pas de la même manière qu'une chemise : la coupe au niveau du torse est cruciale. Privilégier les sites qui proposent **30 jours de retour gratuit minimum** : IZAC, Jules, BOSS, Suitsupply, Celio, Zara. Asos est à 28 jours, ce qui reste acceptable. Éviter Kiabi et H&M entrée de gamme dont les politiques de retour sont plus restrictives.
+Un gilet de costume ne s'essaie pas de la même manière qu'une chemise : la coupe au niveau du torse est cruciale. Privilégier les sites qui proposent **30 jours de retour minimum** : IZAC, Jules, BOSS, Suitsupply, Celio, Zara. Asos est à 28 jours, ce qui reste acceptable. Éviter Kiabi et H&M entrée de gamme dont les politiques de retour sont plus restrictives.
 
 ### La présence physique
 

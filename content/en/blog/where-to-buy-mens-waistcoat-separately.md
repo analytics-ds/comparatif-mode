@@ -2,7 +2,7 @@
 title: "Where can I buy a men's suit waistcoat separately?"
 description: "IZAC, Jules, BOSS, Suitsupply, Celio, Zara: comparison of sites to buy a men's suit waistcoat separately in 2026, with prices and availability."
 date: 2026-04-17
-lastmod: 2026-04-17
+lastmod: 2026-08-12
 draft: false
 author: magalie-ergoz
 translationKey: "gilet-costume-homme-separement"
@@ -151,7 +151,7 @@ To compose a coherent suit over time, favor sites with a **permanent** range of 
 
 ### Return policy
 
-A suit waistcoat is not tried on like a shirt: torso fit is critical. Favor sites offering **at least 30 days free returns**: IZAC, Jules, BOSS, Suitsupply, Celio, Zara. Asos is 28 days, still acceptable. Avoid Kiabi and entry-level H&M whose return policies are more restrictive.
+A suit waistcoat is not tried on like a shirt: torso fit is critical. Favor sites offering **at least 30 days returns**: IZAC, Jules, BOSS, Suitsupply, Celio, Zara. Asos is 28 days, still acceptable. Avoid Kiabi and entry-level H&M whose return policies are more restrictive.
 
 ### Physical presence
 
