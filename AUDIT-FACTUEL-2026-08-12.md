@@ -240,9 +240,22 @@ Les 4 interdits, identiques partout :
 
 Plus une règle de cohérence inter-articles, et le rappel que toute correction factuelle est bilingue, puisque la correction IZAC du 30/07 n'avait été appliquée qu'au français.
 
-### À reporter dans le template du réseau
+### Reporté dans le template du réseau, le 12/08/2026
 
-Ces modifications sont locales à `comparatif-mode`. Le template d'origine `Site web/blog-site-template/` n'est pas modifié, donc tout nouveau blog généré repartira avec les templates fautifs, et les 10 autres blogs du réseau tournent encore avec. À arbitrer avec Damien, c'est le point le plus structurant qui reste.
+Le garde-fou a été appliqué à `Site web/blog-site-template/` en version générique, sans référence à l'audit de ce blog. 4 fichiers, 12 remplacements, 0 manque : `.claude/skills/create-article/SKILL.md`, `.claude/templates/articles/article-standard.md`, `.claude/templates/articles/geo-comparatif.md` et `CLAUDE.md`. Tout nouveau blog généré hérite donc de la règle.
+
+À noter, le template est en retard sur ce blog : sa skill de rédaction s'appelle encore `create-article`, et il n'a ni `create-article-seo` ni `create-article-auto`. Les références internes ont été adaptées en conséquence. Le template est un dossier local non versionné, il n'y a rien à pousser.
+
+### Reste ouvert au niveau du réseau
+
+Les 10 autres blogs tournent toujours avec les templates fautifs et n'ont pas été audités : `ma-bonne-sante`, `como-blog-ai`, `guide-maison-habitat`, `comparatif-pro`, `quel-placement`, `avis-services-fr`, `meilleur-transport`, `le-mag-de-nebuleuse`, `ai.1969`, `madlords`.
+
+Deux priorités probables, à arbitrer :
+
+- `ma-bonne-sante`, en production sur la méthode batch locale, et sur une thématique santé donc YMYL. Une statistique de santé inventée est nettement plus grave qu'un prix de chino faux.
+- `magazine-como` et `como-blog-ai`, en production sur la routine cron automatique, donc sans relecture humaine, avec le même mode dégradé "publier quand même" que celui durci ici.
+
+Le `Site web/CONTEXTE.md` de l'area n'a pas été modifié. Y inscrire le garde-fou comme règle transverse le rendrait visible à toute l'équipe datashake, pas seulement aux sessions ouvertes sur un blog.
 
 ### Reste à faire
 
