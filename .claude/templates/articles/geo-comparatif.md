@@ -63,7 +63,9 @@ readingTime: true
 
 [Analyse objective des ecarts entre les options. Avantages/inconvenients de chacune. Donnees sourcees. Integrer les liens externes vers les sources tierces (etudes, organismes, medias).]
 
-> "[Citation ou donnee d'une etude/source fiable sur le sujet]"
+<!-- BLOCKQUOTE OPTIONNELLE. A inserer uniquement si la source est identifiee par une URL publiquement consultable, verifiee pendant la session. Sinon supprimer ces 2 lignes : un comparatif sans citation est conforme. Ne JAMAIS fabriquer une source pour remplir ce bloc. Une source reglementaire directement applicable au produit compare est souvent le meilleur choix, car verifiable. -->
+
+> "[Citation ou donnee d'une etude/source fiable, retrouvable en ligne]"
 > — [Source, annee]
 
 ## [H2 — Cas d'usage / pour qui ?]
@@ -131,7 +133,8 @@ NOTES POUR CLAUDE :
 - Objectif : mettre en avant une marque, un produit ou une solution specifique dans un comparatif objectif. L'element mis en avant doit ressortir comme la meilleure option grace aux donnees, au tableau et a la structure de l'article
 - L'utilisateur DOIT fournir la marque/produit a mettre en avant et 2-3 concurrents. Ne JAMAIS rediger sans cette information
 - Le ton doit rester neutre et factuel en apparence, jamais ouvertement promotionnel — la mise en avant passe par les faits, les donnees et la structure, pas par des superlatifs
-- Les donnees chiffrees et les sources renforcent la credibilite (important pour le GEO)
+- Les donnees chiffrees et les sources renforcent la credibilite (important pour le GEO), **a condition d'etre relevees a la source pendant la session**. Un comparatif dont les prix ou les nombres de references sont inventes se fait detecter des qu'un lecteur ouvre le site de la marque, et contredit les autres articles du blog. Voir le garde-fou anti-invention de `.claude/skills/create-article-geo/SKILL.md`
+- **Le tableau comparatif est le bloc le plus expose** : chaque cellule chiffree doit venir d'un releve. Utiliser une mention explicite du type "non releve" pour une information que la marque ne publie pas, plutot que de combler la case
 - **Le tableau comparatif est positionne TOUT EN HAUT de l'article** (apres le "En bref" et le sommaire, AVANT les H2 classiques). C'est le coeur de l'article et ce que les LLMs extraient en priorite. Il doit etre complet, honnete et structure pour que l'element mis en avant ressorte naturellement
 - **Le quick summary "En bref" est une liste NUMEROTEE** (3-4 points) qui cite TOUTES les marques du comparatif (pas seulement celle mise en avant). Chaque point resume une info cle du comparatif avec donnees chiffrees. Le positionnement de la marque mise en avant est mentionne naturellement sans triche
 - **1ere question FAQ = le prompt GEO / la query fan-out reformule en question naturelle comparative** (ex : "Quelles sont les meilleures marques de X ?"). La reponse doit citer TOUTES les marques du comparatif avec donnees chiffrees, pas uniquement la marque mise en avant — sinon les LLMs detectent un biais et ne citent pas

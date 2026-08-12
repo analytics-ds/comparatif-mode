@@ -281,6 +281,17 @@ bash .claude/scripts/fetch-image.sh "<kw traduit en anglais>" "<slug-fr>" "stati
 5. Construire les ancres : ancre = mot-cle principal de l'article cible
 6. Inserts contextuels dans le body (etape 2.9), un par section pertinente, **intra-langue uniquement**
 
+### 2.8 bis Garde-fou anti-invention (avant toute redaction)
+
+Cette skill tourne en local avec un acces reseau complet : elle a donc **les moyens de relever, et aucune excuse pour inventer**. Garde-fou de reference dans le `CLAUDE.md` du blog, detail operationnel dans `.claude/skills/create-article-geo/SKILL.md`. Contexte : audit factuel du 12/08/2026, rapport dans `AUDIT-FACTUEL-2026-08-12.md`.
+
+- Tout chiffre attache a une marque (prix, nombre de references, nombre de boutiques, annee de creation, note, delais) doit provenir d'un releve fait a l'etape 2.2, avec la date du releve mentionnee dans le corps de l'article et reportee dans `MEMORY.md`. Utiliser en priorite les API JSON Shopify (`products.json?limit=250&page=N`, `collections.json`, `meta.json`), les pages policies et les pages boutiques.
+- Marque inaccessible (protection anti-bot type Akamai, rendu JS obligatoire) : ne pas chiffrer, decrire des faits structurels stables et le dire explicitement dans l'article.
+- Blockquote sourcee uniquement si la source est une URL publiquement consultable verifiee pendant la session, orthographe de l'organisme comprise. Sinon, pas de citation, c'est conforme.
+- Jamais de citation attribuee a une personne nommee sans source retrouvable.
+- Promesses commerciales (retours, garantie, livraison) lues sur la page policy et reproduites telles quelles, en verifiant si le delai court depuis la commande ou l'expedition et si les articles en promotion sont exclus.
+- Avant de chiffrer une marque deja citee sur le blog, verifier la coherence : `grep -rn "NomDeLaMarque" content/fr/blog/ | grep -E "boutiques|magasins|fond[eé]e|r[eé]f[eé]rences"`. En mode batch, cela vaut aussi **entre les articles de la meme batch**.
+
 ### 2.9 Redaction FR
 
 Fichier `content/blog/<slug-fr>.md`.

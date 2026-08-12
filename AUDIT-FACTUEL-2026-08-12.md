@@ -218,6 +218,32 @@ Trouvaille annexe corrigée au passage : 4 occurrences de "70 physical stores" p
 
 6 articles n'ont plus aucune citation sourcée, ce qui contrevient à l'exigence "au moins 1 citation sourcée" des templates `article-standard.md` et `geo-comparatif.md`. C'est assumé : mieux vaut aucune citation qu'une citation fabriquée. Cela confirme que l'exigence du template doit devenir conditionnelle, sans quoi la prochaine rédaction reproduira le schéma.
 
+### Garde-fou anti-invention, traité le 12/08/2026
+
+Traitement de la cause racine, fait avant les lots 2 à 6 pour éviter que les prochaines rédactions ne reproduisent le schéma. 6 fichiers modifiés.
+
+| Fichier | Modification |
+|---|---|
+| `.claude/templates/articles/article-standard.md` | Le H3 "Source / étude" et sa blockquote passent en section optionnelle, avec commentaire HTML d'instruction. "1+ citation sourcée" retiré des minima. Mention que les données chiffrées doivent être relevées à la source |
+| `.claude/templates/articles/geo-comparatif.md` | Blockquote passée en optionnelle. Note ajoutée sur le tableau comparatif comme bloc le plus exposé, avec consigne d'écrire "non relevé" plutôt que de combler une case |
+| `.claude/skills/create-article-geo/SKILL.md` | Les règles GEO deviennent "Données chiffrées RELEVÉES" et "Citation sourcée CONDITIONNELLE". Nouvelle section "Garde-fou anti-invention" avec les 4 interdits et la commande grep de cohérence. Checklist révisée |
+| `CLAUDE.md` du blog | Nouvelle section "Garde-fou anti-invention (règle absolue, prime sur toute exigence de forme)", placée avant les règles générales |
+| `.claude/skills/create-article-auto/SKILL.md` | Section 1.4 bis. Chemin le plus exposé du réseau : publication sans relecture 2 fois par semaine et aucun accès aux pages marchandes par construction. Règles durcies en interdiction, avec sortie en `status: failed` si le sujet n'est pas traitable sans chiffrer des marques |
+| `.claude/skills/create-article-seo/SKILL.md` | Section 2.8 bis. Skill locale avec accès réseau complet, donc obligation de relever. Contrôle de cohérence étendu aux articles d'une même batch |
+
+Les 4 interdits, identiques partout :
+
+1. Aucun chiffre sur une marque sans relevé daté fait pendant la session, date mentionnée dans l'article et dans `MEMORY.md`.
+2. Aucune blockquote sourcée sans URL publiquement consultable, orthographe de l'organisme comprise.
+3. Aucune citation attribuée à une personne nommée sans source retrouvable.
+4. Aucune promesse commerciale non lue sur la page policy du site concerné.
+
+Plus une règle de cohérence inter-articles, et le rappel que toute correction factuelle est bilingue, puisque la correction IZAC du 30/07 n'avait été appliquée qu'au français.
+
+### À reporter dans le template du réseau
+
+Ces modifications sont locales à `comparatif-mode`. Le template d'origine `Site web/blog-site-template/` n'est pas modifié, donc tout nouveau blog généré repartira avec les templates fautifs, et les 10 autres blogs du réseau tournent encore avec. À arbitrer avec Damien, c'est le point le plus structurant qui reste.
+
 ### Reste à faire
 
 Lots 2 à 6 tels que décrits ci-dessus. Le lot 2 nécessite deux arbitrages préalables : l'année de création d'IZAC, à demander au client, et le nombre réel de points de vente Celio, à vérifier.

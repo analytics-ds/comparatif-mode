@@ -60,11 +60,13 @@ readingTime: true
 
 ## [H2 — Aspect principal 3]
 
-[Developpement avec citation sourcee.]
+[Developpement factuel.]
 
-### [H3 — Source / etude]
+### [H3 — Source / etude — SECTION OPTIONNELLE, a supprimer si aucune source verifiable n'existe]
 
-> "[Citation ou donnee d'une etude/source fiable]"
+<!-- N'inserer la blockquote ci-dessous QUE si la source est identifiee par une URL publiquement consultable, verifiee pendant la session. Sinon supprimer ce H3 et sa blockquote : un article sans citation est conforme. Ne JAMAIS fabriquer une source pour remplir ce bloc. -->
+
+> "[Citation ou donnee d'une etude/source fiable, retrouvable en ligne]"
 > — [Source, annee]
 
 [Analyse de la source, mise en perspective.]
@@ -120,18 +122,18 @@ readingTime: true
 NOTES POUR CLAUDE :
 - Type : Article standard (SEO + GEO)
 - Objectif : article informatif complet, optimise a la fois pour le referencement organique Google ET pour etre cite par les moteurs generatifs (ChatGPT, Perplexity, Google AI Overviews)
-- Le quick summary (blockquote "En bref") est critique : c'est ce que les LLMs extraient en priorite. **Format OBLIGATOIRE : liste NUMEROTEE** (3-4 points). Chaque point doit resumer une VRAIE information cle de l'article (equivalent d'un H2 entier), pas un point marketing. Donnees chiffrees obligatoires
+- Le quick summary (blockquote "En bref") est critique : c'est ce que les LLMs extraient en priorite. **Format OBLIGATOIRE : liste NUMEROTEE** (3-4 points). Chaque point doit resumer une VRAIE information cle de l'article (equivalent d'un H2 entier), pas un point marketing. Chiffrer chaque point **si et seulement si** le chiffre vient d'un releve fait pendant la session : c'est le bloc que les LLMs extraient le plus, donc celui ou une donnee inventee fait le plus de degats
 - **1ere question FAQ = le prompt GEO / la query fan-out reformule en question naturelle**. La reponse doit etre directe et structuree (3-5 phrases avec donnee chiffree) — c'est cette reponse que les LLMs vont extraire en priorite. Les autres questions peuvent porter sur des variantes du mot-cle ou des sous-questions
 - **Regle liens externes** : 1 SEUL lien externe maximum vers le site de la marque/client cible (si applicable). Les liens externes vers des sources tierces (etudes, organismes, medias, Wikipedia) sont autorises et encourages pour renforcer l'E-E-A-T. Les liens internes au cocon semantique (autres articles du blog, pages categories) ne sont pas limites
-- Privilegier les donnees chiffrees, etudes, faits verifiables — ca renforce a la fois l'E-E-A-T (SEO) et la citabilite (GEO)
+- Privilegier les donnees chiffrees, etudes, faits verifiables — ca renforce a la fois l'E-E-A-T (SEO) et la citabilite (GEO). **Uniquement des donnees relevees a la source pendant la session, jamais des ordres de grandeur plausibles.** Voir le garde-fou anti-invention de `.claude/skills/create-article-geo/SKILL.md`
 - Les tableaux et listes structurees sont extraits en priorite par les IA generatives ET ameliorent la lisibilite pour Google
-- Les citations sourcees renforcent l'autorite
+- Les citations sourcees renforcent l'autorite, mais **une citation fabriquee detruit l'autorite de tout le blog**. Pas de source verifiable en ligne, pas de citation
 - Focus sur la structure Hn, la densite de mots-cles (1-2%), le maillage interne
 - Mots-cles principaux et secondaires en gras
 - Ton neutre, impersonnel, factuel
 - La FAQ doit TOUJOURS utiliser des balises <details>/<summary> pour creer un accordeon natif HTML5
 - La FAQ doit AUSSI etre dans le frontmatter (champ `faq`) pour generer automatiquement le schema FAQPage JSON-LD. Les questions/reponses du frontmatter et du body doivent correspondre
 - Les champs `image`, `imageAlt` et `imageCredit` sont OBLIGATOIRES et remplis automatiquement par le script `.claude/scripts/fetch-image.sh` (Openverse API, images libres de droit compatibles usage commercial). L'image est affichee dans les cards du blog, en bannière de l'article, dans og:image et le schema Article
-- Min. 1500 mots, 5+ H2, 1+ tableau, 1+ citation sourcee, 3-5 questions FAQ
+- Min. 1500 mots, 5+ H2, 1+ tableau, 3-5 questions FAQ. La citation sourcee est un plus, pas un minimum a atteindre
 - **Bilinguisme obligatoire** : chaque article est redige dans les 2 langues du site (langue principale + anglais). Les 2 versions partagent le meme `translationKey`. Fichier FR dans `content/blog/[slug-fr].md`, fichier EN dans `content/en/blog/[slug-en].md`. Les categories et tags sont traduits selon le mapping documente dans le CLAUDE.md du site
 -->

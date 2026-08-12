@@ -127,6 +127,21 @@ Noter dans le log et dans la ligne ajoutee a `MEMORY.md` le mode reellement util
 
 Ne **PAS** utiliser `WebFetch` sur les URLs concurrentes : dans le sandbox cloud les domaines commerciaux sont bloques par la politique reseau (403/503). L'analyse se fait uniquement sur les titres, descriptions, PAA et AI Overview renvoyes par l'API.
 
+### 1.4 bis Garde-fou anti-invention (regle absolue dans cette skill)
+
+Cette skill est le chemin le plus expose du reseau : elle publie sans relecture humaine, deux fois par semaine, **et elle n'a par construction aucun acces aux pages des marques** (point 1.4 ci-dessus). Le mode degrade du repli en cascade va jusqu'a "publier quand meme" sur la seule base du `kw`. Dans ces conditions, toute exigence de chiffrage devient une incitation a fabriquer.
+
+L'audit factuel du 12/08/2026 a montre ce que ca produit a l'echelle du blog : organismes de reference inexistants, citations attribuees a des personnes qui n'existent pas, et une meme marque chiffree de 4 facons differentes selon l'article. Rapport dans `AUDIT-FACTUEL-2026-08-12.md`, garde-fou de reference dans le `CLAUDE.md` du blog.
+
+Regles applicables ici :
+
+1. **Zero chiffre sur une marque.** Prix, nombre de references, nombre de boutiques, annee de creation, note client. Les pages marchandes ne sont pas accessibles depuis le sandbox, donc aucun de ces chiffres ne peut etre releve. L'article se construit sur le sujet, pas sur des fiches produit. Si le `kw` impose de citer des marques, les traiter qualitativement, sur leur positionnement, pas sur des valeurs numeriques.
+2. **Zero blockquote sourcee.** Cette skill n'a pas les moyens de verifier qu'un rapport existe. Elle ne produit donc jamais de citation d'etude, d'organisme ou d'expert. Les templates rendent cette citation optionnelle, c'est ici une interdiction.
+3. **Les seuls chiffres autorises** sont ceux renvoyes par l'API dans les donnees SERP (volume de recherche, contenu d'AI Overview) et les faits generaux non attaches a une marque, sous reserve d'etre exacts et non presentes comme sourcees.
+4. **Ne pas reprendre un chiffre lu dans un snippet SERP** et le presenter comme un fait de l'article : un snippet n'est pas une source verifiee.
+
+Si le sujet de la roadmap ne peut pas etre traite sans chiffrer des marques, ne pas improviser : passer l'entree en `status: failed` avec `error: "1.4bis sujet non traitable sans releve de donnees marques"`. L'humain la reprendra via `/create-article-seo` en local, ou celui-ci a un acces reseau complet.
+
 ### 1.5 Synthese auto (aucun output humain, juste des variables internes)
 
 L'agent determine :

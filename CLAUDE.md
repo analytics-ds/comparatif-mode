@@ -127,6 +127,33 @@ Quand l'utilisateur (ou Claude pour son compte) ajoute un nouveau mot-cle dans `
 
 Ce garde-fou est purement informatif. L'utilisateur peut toujours forcer l'ajout. L'objectif est juste de l'avertir avant qu'il ne commande deux articles qui se cannibaliseraient en SERP.
 
+## Garde-fou anti-invention (regle absolue, prime sur toute exigence de forme)
+
+Mis en place le 12/08/2026 apres l'audit factuel du blog. Rapport complet dans `AUDIT-FACTUEL-2026-08-12.md` a la racine. Detail operationnel et checklist dans `.claude/skills/create-article-geo/SKILL.md`, section "Garde-fou anti-invention".
+
+Ce qui avait ete trouve sur les articles anciens : une citation attribuee a une personne nommee inexistante, un organisme de reference inexistant ("Federation Francaise des Bijoutiers") cite dans 4 articles avec des chiffres de marche precis, un rapport BCG invente, une marque cliente decrite avec 4 nombres de boutiques et 4 annees de creation differents selon l'article, et une promesse de retours gratuits fausse sur un client, mise en avant comme argument de classement dans 10 fichiers.
+
+**La cause n'etait pas la negligence, c'etait le template.** Les exigences "donnees chiffrees obligatoires dans chaque section" et "au moins 1 citation sourcee" ont ete satisfaites en fabriquant quand aucun releve n'etait disponible. Ces deux exigences sont desormais conditionnelles.
+
+Les 4 interdits :
+
+1. **Aucun chiffre sur une marque sans releve date** fait pendant la session, avec la date mentionnee dans l'article et dans `MEMORY.md`. Concerne les prix, nombres de references, nombres de boutiques, annees de creation, notes clients, delais, dimensions. Site inaccessible ou protege anti-bot : on ne chiffre pas, on decrit des faits structurels stables.
+2. **Aucune blockquote sourcee sans URL publiquement consultable.** Un organisme reel plus un rapport invente reste une invention. Verifier aussi l'orthographe exacte du nom de l'organisme.
+3. **Aucune citation attribuee a une personne nommee** sauf citation reellement publiee et retrouvable, avec sa source.
+4. **Aucune promesse commerciale non lue** sur la page policy du site concerne. Retours, garantie, livraison, delais. Verifier si le delai court depuis la commande ou l'expedition, et si les articles en promotion sont exclus.
+
+Un article sans citation et avec moins de chiffres est meilleur qu'un article qui invente sa credibilite. Si un element manque, l'article se publie sans.
+
+**Coherence inter-articles obligatoire.** Avant de chiffrer une marque deja citee sur le blog, verifier la valeur employee ailleurs :
+
+```bash
+grep -rn "NomDeLaMarque" content/fr/blog/ | grep -E "boutiques|magasins|fond[eé]e|r[eé]f[eé]rences"
+```
+
+Deux chiffres differents pour la meme marque est une contradiction visible par le lecteur comme par les LLMs. Relever la valeur reelle et aligner, ou signaler a la consultante.
+
+**Toute correction factuelle est bilingue.** L'audit a montre que la correction du 30/07/2026 sur IZAC avait ete appliquee au FR seulement, laissant 4 occurrences fausses cote EN pendant deux semaines. Verifier systematiquement la paire.
+
 ## Regles generales
 
 - **Bilinguisme obligatoire (langue principale + EN)** : tous les blogs generes par ce template sont bilingues. La langue principale est servie a la racine (`/`), la version anglaise en sous-dossier `/en/`. Hugo gere le multilingue via la convention de dossiers `content/` (principale) et `content/en/` (anglais). Chaque article et page a une paire de fichiers avec un `translationKey` identique dans le frontmatter. Le header contient un language switcher automatique. Les balises hreflang sont generees automatiquement par le partial `seo-head.html`. **Ne JAMAIS generer un site ou un article dans une seule langue** — c'est systematiquement FR + EN (ou la langue principale + EN)

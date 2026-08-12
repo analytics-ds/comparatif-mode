@@ -261,9 +261,32 @@ Ces regles sont fondamentales pour que l'article soit cite par les moteurs IA ge
 | **1 paragraphe = 1 idee** | Chaque paragraphe traite d'une seule idee distincte. Ne jamais melanger plusieurs concepts dans un meme paragraphe. Cela facilite l'extraction par les LLMs |
 | **Quick summary auto-suffisant** | Le bloc "En bref" est le bloc le plus critique : les LLMs l'extraient en priorite. Il doit etre auto-suffisant (comprehensible seul) et contenir les faits cles avec des donnees chiffrees |
 | **H2 explicites et descriptifs** | Pas de titres vagues. Chaque H2 doit etre auto-suffisant et comprehensible hors contexte de l'article |
-| **Donnees chiffrees obligatoires** | Integrer des donnees chiffrees dans chaque section (prix, pourcentages, statistiques, durees). Les LLMs extraient les faits verifiables en priorite |
+| **Donnees chiffrees RELEVEES** | Integrer des donnees chiffrees dans chaque section (prix, pourcentages, durees) **uniquement si elles ont ete relevees a la source pendant cette session**. Une section sans donnee relevee reste qualitative. Ne JAMAIS produire un chiffre plausible pour satisfaire cette regle, voir le garde-fou anti-invention ci-dessous |
 | **Tableaux extractibles** | Au moins 1 tableau structurant les informations cles. Les tableaux sont extraits en priorite par les IA generatives |
-| **Citation sourcee obligatoire** | Au moins 1 citation d'une etude, d'un organisme ou d'un expert, avec source et annee. Renforce la credibilite et la citabilite |
+| **Citation sourcee CONDITIONNELLE** | Une citation d'etude ou d'organisme est un plus, **jamais une obligation**. Elle n'est autorisee que si la source est identifiee par une URL publiquement consultable, verifiee pendant cette session. Si aucune source de ce type n'existe sur le sujet, l'article se publie SANS citation. Voir le garde-fou anti-invention ci-dessous |
+
+### Garde-fou anti-invention (regle absolue)
+
+Mis en place le 12/08/2026 apres l'audit factuel du blog, qui a trouve une citation attribuee a une personne nommee inexistante, un organisme de reference inexistant cite dans 4 articles, et une marque cliente decrite avec 4 nombres de boutiques et 4 annees de creation differents. Rapport complet dans `AUDIT-FACTUEL-2026-08-12.md` a la racine du blog.
+
+**Cause identifiee : les exigences "donnees chiffrees obligatoires" et "citation sourcee obligatoire" ont pousse a fabriquer des chiffres et des sources quand aucun releve n'etait disponible.** Une exigence de forme ne justifie jamais une invention de fond.
+
+Les 4 interdits :
+
+1. **Aucun chiffre sur une marque sans releve date.** Prix, nombre de references, nombre de boutiques, annee de creation, note client, delais, poids, dimensions. Le releve se fait pendant la session (API JSON Shopify `products.json` / `collections.json` / `meta.json`, pages policies, pages boutiques) et la date du releve est mentionnee dans le corps de l'article et dans `MEMORY.md`. Si le site est inaccessible (protection anti-bot, JS obligatoire), on ne chiffre pas : on decrit la marque sur des faits structurels stables.
+2. **Aucune blockquote sourcee sans URL consultable.** L'existence de l'organisme ne suffit pas, le rapport precis et le chiffre precis doivent etre retrouvables. Un organisme reel plus un rapport invente reste une invention. Verifier aussi l'orthographe exacte du nom de l'organisme.
+3. **Aucune citation attribuee a une personne nommee**, sauf citation reellement publiee et retrouvable, avec sa source. C'est l'invention la plus grave : elle fait dire a quelqu'un ce qu'il n'a pas dit.
+4. **Aucune promesse commerciale non lue.** Retours gratuits, garantie, livraison offerte, delais. Ces mentions se lisent sur la page policy du site et se reproduisent telles quelles, sans arrondi favorable. Verifier notamment si le delai court a partir de la commande ou de l'expedition, et si les articles en promotion sont exclus.
+
+Si l'un de ces elements manque, l'article se publie sans. Un article sans citation et avec moins de chiffres est meilleur qu'un article inventant sa credibilite.
+
+**Coherence inter-articles.** Avant de chiffrer une marque deja citee ailleurs sur le blog, verifier la valeur utilisee dans les autres articles :
+
+```bash
+grep -rn "NomDeLaMarque" content/fr/blog/ | grep -E "boutiques|magasins|fond[eé]e|r[eé]f[eé]rences"
+```
+
+Deux chiffres differents pour la meme marque sur le meme blog est une contradiction visible par le lecteur comme par les LLMs. En cas d'ecart, relever la valeur reelle et aligner, ou signaler a la consultante.
 
 ### Regles communes a tous les types
 
@@ -302,14 +325,16 @@ Lire les commentaires HTML `<!-- NOTES POUR CLAUDE -->` en bas du template chois
 - [ ] H2 explicites et auto-suffisants (comprehensibles hors contexte)
 - [ ] 1 paragraphe = 1 idee distincte (pas de paragraphes multi-idees)
 - [ ] Nombre de mots minimum atteint (voir notes du template)
-- [ ] Donnees chiffrees presentes dans chaque section
+- [ ] Chaque donnee chiffree sur une marque provient d'un releve fait pendant la session, avec sa date mentionnee dans l'article
+- [ ] Aucun chiffre de marque en contradiction avec un autre article du blog (verifie par grep)
+- [ ] Les promesses commerciales (retours, garantie, livraison) ont ete lues sur la page policy du site concerne
 - [ ] Mots-cles en gras
 - [ ] Ton correct
 - [ ] Min. 3 liens internes contextuels (ancres = mots-cles des articles cibles)
 - [ ] Blocs obligatoires presents selon le type
 - [ ] Quick summary "En bref" auto-suffisant avec donnees chiffrees
 - [ ] Au moins 1 tableau recapitulatif
-- [ ] Au moins 1 citation sourcee (source + annee)
+- [ ] S'il y a une citation sourcee, sa source est une URL publiquement consultable verifiee pendant la session, et son organisme est correctement orthographie. Sinon, pas de citation, et c'est conforme
 - [ ] FAQ presente avec balises `<details>/<summary>` (accordeon) dans le body
 - [ ] FAQ presente dans le frontmatter (champ `faq`, min. 3 questions) pour le schema FAQPage JSON-LD
 - [ ] Les questions FAQ du frontmatter et du body correspondent
