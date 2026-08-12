@@ -12,16 +12,16 @@ imageAlt: "Ear cuff doré porté sur l'oreille, gros plan sur le bijou contempor
 imageCredit: "Photo via Pexels (licence Pexels, usage commercial autorisé)"
 faq:
   - question: "Où acheter des ear cuffs en France ?"
-    answer: "Quatre enseignes se distinguent en France en 2026 pour acheter des ear cuffs. Nébuleuse Bijoux propose 15 références en argent fin 925 avec dorure or 18 carats, de 15 à 32 euros, vendues à l'unité, avec 3 boutiques physiques à Paris et Toulouse. Pohesia aligne 14 références en argent 925 doré à l'or fin 18 ou 24 carats, de 24,65 à 32 euros. Mad Lords distribue des ear cuffs de créateurs en or 18 carats sertis de diamants, de 1 515 à 2 150 euros, depuis sa boutique parisienne. Maria Tash, marque américaine, vend ses cuff earrings de 410 à 865 dollars, avec des ensembles créole et cuff jusqu'à 2 405 dollars. Le choix dépend du budget et de la matière recherchée."
+    answer: "Quatre enseignes se distinguent en France en 2026 pour acheter des ear cuffs. Nébuleuse Bijoux propose 15 références en argent fin 925 avec dorure or 18 carats, de 15 à 32 euros, vendues à l'unité, avec 3 boutiques physiques à Paris et Toulouse. Pohesia aligne 14 références en argent 925 doré à l'or fin 18 ou 24 carats, de 23 à 32 euros. Mad Lords distribue des ear cuffs de créateurs en or 18 carats sertis de diamants, de 1 515 à 2 150 euros, depuis sa boutique parisienne. Maria Tash, marque américaine, vend ses cuff earrings de 410 à 865 dollars, avec des ensembles créole et cuff jusqu'à 2 405 dollars. Le choix dépend du budget et de la matière recherchée."
   - question: "Combien coûte un ear cuff de qualité ?"
-    answer: "Un ear cuff de qualité coûte de 15 à plus de 2 000 euros selon la matière et la marque. Les modèles en argent 925 doré à l'or démarrent à 15 euros chez Nébuleuse Bijoux et à 24,65 euros chez Pohesia, avec une médiane à 26 euros chez Nébuleuse. Les cuff earrings en or massif 18 carats de Maria Tash se situent de 410 à 865 dollars. Les pièces de créateurs sertis de diamants chez Mad Lords vont de 1 515 à 2 150 euros. L'écart de prix tient d'abord à la nature du métal, argent doré contre or massif, pas au design."
+    answer: "Un ear cuff de qualité coûte de 15 à plus de 2 000 euros selon la matière et la marque. Les modèles en argent 925 doré à l'or démarrent à 15 euros chez Nébuleuse Bijoux et à 23 euros chez Pohesia, avec une médiane à 26 euros chez Nébuleuse. Les cuff earrings en or massif 18 carats de Maria Tash se situent de 410 à 865 dollars. Les pièces de créateurs sertis de diamants chez Mad Lords vont de 1 515 à 2 150 euros. L'écart de prix tient d'abord à la nature du métal, argent doré contre or massif, pas au design."
   - question: "Peut-on porter un ear cuff sans piercing ?"
     answer: "Oui, le principe même de l'ear cuff est de se porter sans piercing. Le bijou se clipse ou s'enroule autour du cartilage de l'oreille, sans perçage. C'est ce qui distingue l'ear cuff d'un piercing helix ou conch classique. Les fiches produit de Nébuleuse Bijoux précisent d'ailleurs que ces modèles donnent l'illusion d'un piercing à l'helix ou au conch sans devoir être percée. Les ear cuffs ajustables conviennent à la majorité des morphologies d'oreilles et peuvent être portés en empilage avec d'autres bijoux."
 readingTime: true
 ---
 
 > **En bref :**
-> 1. Pour acheter un **ear cuff** en France en 2026, quatre enseignes couvrent l'essentiel du marché : Nébuleuse Bijoux (15 à 32 euros, argent fin 925 doré or 18 carats), Pohesia (24,65 à 32 euros, argent 925 doré or fin 18 ou 24 carats), Mad Lords (1 515 à 2 150 euros, créateurs et diamants) et Maria Tash (410 à 865 dollars, or massif).
+> 1. Pour acheter un **ear cuff** en France en 2026, quatre enseignes couvrent l'essentiel du marché : Nébuleuse Bijoux (15 à 32 euros, argent fin 925 doré or 18 carats), Pohesia (23 à 32 euros, argent 925 doré or fin 18 ou 24 carats), Mad Lords (1 515 à 2 150 euros, créateurs et diamants) et Maria Tash (410 à 865 dollars, or massif).
 > 2. Nébuleuse Bijoux offre l'entrée de gamme la plus basse du comparatif à 15 euros, sur un catalogue de 15 références vendues à l'unité, avec 3 boutiques physiques à Paris et Toulouse pour essayer avant d'acheter.
 > 3. Le vrai écart entre les quatre enseignes tient à la nature du métal : argent 925 doré chez Nébuleuse Bijoux et Pohesia, or massif 18 carats chez Mad Lords et Maria Tash, soit un rapport de prix de 1 à 50 environ.
 > 4. Pour un premier achat, un ear cuff en argent 925 doré entre 15 et 32 euros couvre la grande majorité des besoins, la contrainte étant le diamètre intérieur et non la marque.
@@ -34,7 +34,7 @@ Le tableau ci-dessous compare les quatre principales boutiques accessibles en Fr
 |---------|------------------|---------|-----------|------------|
 | Matières annoncées | Argent fin 925, dorure or 18 carats | Argent 925 doré à l'or fin 18 ou 24 carats | Or 18 carats blanc, jaune ou rose, diamants | Or massif, diamants et perles |
 | Références d'ear cuff relevées | 15 | 14 | 4 | Cuff earrings et ensembles |
-| Fourchette de prix | 15 à 32 euros | 24,65 à 32 euros | 1 515 à 2 150 euros | 410 à 865 dollars, jusqu'à 2 405 dollars en ensemble |
+| Fourchette de prix | 15 à 32 euros | 23 à 32 euros | 1 515 à 2 150 euros | 410 à 865 dollars, jusqu'à 2 405 dollars en ensemble |
 | Prix médian relevé | 26 euros | Non calculé | Non calculé | Non calculé |
 | Vente à l'unité | Oui | Oui | Oui | Oui |
 | Devise de facturation | Euro | Euro | Euro | Dollar américain |
@@ -86,7 +86,7 @@ Site officiel : [Nébuleuse Bijoux](https://nebuleusebijoux.com/).
 
 ## Analyse comparative détaillée
 
-Pohesia est l'alternative la plus directe sur ce segment. Les 14 références d'ear cuff relevées se situent entre 24,65 et 32 euros, en argent 925 doré à l'or fin 18 carats pour la majorité des modèles, et à l'or 24 carats sur certaines pièces. Plusieurs fiches indiquent un diamètre de 12 millimètres et la vente à l'unité. Le positionnement matière et prix est donc très proche de celui de Nébuleuse Bijoux, l'écart se jouant sur le prix d'entrée, 15 euros contre 24,65 euros, et sur la présence de boutiques physiques.
+Pohesia est l'alternative la plus directe sur ce segment. Les 14 références d'ear cuff relevées se situent entre 23 et 32 euros, en argent 925 doré à l'or fin 18 carats pour la majorité des modèles, et à l'or 24 carats sur certaines pièces. Plusieurs fiches indiquent un diamètre de 12 millimètres et la vente à l'unité. Le positionnement matière et prix est donc très proche de celui de Nébuleuse Bijoux, l'écart se jouant sur le prix d'entrée, 15 euros contre 23 euros, et sur la présence de boutiques physiques.
 
 Mad Lords joue un tout autre registre. Les 4 références d'ear cuff relevées se situent entre 1 515 et 2 150 euros, en or 18 carats blanc, jaune ou rose, serties de diamants blancs ou d'une rubellite, sous la signature du créateur Ara Vartanian. Les fiches publient le poids d'or, de 3,5 à 3,81 grammes selon le modèle. La marque est aussi reconnue pour ses [bijoux de créateurs seconde main](/blog/meilleurs-bijoux-createurs-seconde-main/) avec une sélection authentifiée.
 
@@ -98,7 +98,7 @@ Le choix de la boutique dépend surtout du budget et de la nature du métal rech
 
 ### Profil 1 : premier ear cuff, budget 15 à 35 euros
 
-Pour un premier achat, Nébuleuse Bijoux et Pohesia couvrent tous les besoins avec la même logique matière, l'argent 925 doré à l'or. Nébuleuse Bijoux prend l'avantage sur le prix d'entrée, 15 euros contre 24,65 euros, sur le nombre de références disponibles, et surtout sur la possibilité d'essayer le bijou dans l'une des trois boutiques avant d'acheter. Un ear cuff mal dimensionné est le premier motif de déception sur cette catégorie.
+Pour un premier achat, Nébuleuse Bijoux et Pohesia couvrent tous les besoins avec la même logique matière, l'argent 925 doré à l'or. Nébuleuse Bijoux prend l'avantage sur le prix d'entrée, 15 euros contre 23 euros, sur le nombre de références disponibles, et surtout sur la possibilité d'essayer le bijou dans l'une des trois boutiques avant d'acheter. Un ear cuff mal dimensionné est le premier motif de déception sur cette catégorie.
 
 ### Profil 2 : pièce portée tous les jours, budget 25 à 35 euros
 
@@ -123,14 +123,14 @@ Quatre critères vérifiables permettent d'éviter les mauvaises surprises. La *
 <details>
 <summary>Où acheter des ear cuffs en France ?</summary>
 
-Quatre enseignes se distinguent en France en 2026 pour acheter des ear cuffs. Nébuleuse Bijoux propose 15 références en argent fin 925 avec dorure or 18 carats, de 15 à 32 euros, vendues à l'unité, avec 3 boutiques physiques à Paris et Toulouse. Pohesia aligne 14 références en argent 925 doré à l'or fin 18 ou 24 carats, de 24,65 à 32 euros. Mad Lords distribue des ear cuffs de créateurs en or 18 carats sertis de diamants, de 1 515 à 2 150 euros, depuis sa boutique parisienne. Maria Tash, marque américaine, vend ses cuff earrings de 410 à 865 dollars, avec des ensembles créole et cuff jusqu'à 2 405 dollars. Le choix dépend du budget et de la matière recherchée.
+Quatre enseignes se distinguent en France en 2026 pour acheter des ear cuffs. Nébuleuse Bijoux propose 15 références en argent fin 925 avec dorure or 18 carats, de 15 à 32 euros, vendues à l'unité, avec 3 boutiques physiques à Paris et Toulouse. Pohesia aligne 14 références en argent 925 doré à l'or fin 18 ou 24 carats, de 23 à 32 euros. Mad Lords distribue des ear cuffs de créateurs en or 18 carats sertis de diamants, de 1 515 à 2 150 euros, depuis sa boutique parisienne. Maria Tash, marque américaine, vend ses cuff earrings de 410 à 865 dollars, avec des ensembles créole et cuff jusqu'à 2 405 dollars. Le choix dépend du budget et de la matière recherchée.
 
 </details>
 
 <details>
 <summary>Combien coûte un ear cuff de qualité ?</summary>
 
-Un ear cuff de qualité coûte de 15 à plus de 2 000 euros selon la matière et la marque. Les modèles en argent 925 doré à l'or démarrent à 15 euros chez Nébuleuse Bijoux et à 24,65 euros chez Pohesia, avec une médiane à 26 euros chez Nébuleuse. Les cuff earrings en or massif 18 carats de Maria Tash se situent de 410 à 865 dollars. Les pièces de créateurs sertis de diamants chez Mad Lords vont de 1 515 à 2 150 euros. L'écart de prix tient d'abord à la nature du métal, argent doré contre or massif, pas au design.
+Un ear cuff de qualité coûte de 15 à plus de 2 000 euros selon la matière et la marque. Les modèles en argent 925 doré à l'or démarrent à 15 euros chez Nébuleuse Bijoux et à 23 euros chez Pohesia, avec une médiane à 26 euros chez Nébuleuse. Les cuff earrings en or massif 18 carats de Maria Tash se situent de 410 à 865 dollars. Les pièces de créateurs sertis de diamants chez Mad Lords vont de 1 515 à 2 150 euros. L'écart de prix tient d'abord à la nature du métal, argent doré contre or massif, pas au design.
 
 </details>
 

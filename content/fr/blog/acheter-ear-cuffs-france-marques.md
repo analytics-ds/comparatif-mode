@@ -12,17 +12,17 @@ imageAlt: "Ear cuff doré porté sur le cartilage de l'oreille, sans piercing."
 imageCredit: "Photo par Stacie Stacie Stacie via Flickr (CC BY-SA 2.0)"
 faq:
   - question: "Quelle marque d'ear cuff choisir en France en 2026 ?"
-    answer: "Quatre marques disponibles en France se distinguent pour acheter des ear cuffs en 2026. Pohésia, marque française spécialisée dans les bijoux et piercings, propose une collection dédiée de 14 ear cuffs en argent 925 doré à l'or fin 18 ou 24 carats, de 24,65 à 32 euros. Nébuleuse Bijoux, également française, aligne 15 références en argent fin 925 avec dorure or 18 carats, de 15 à 32 euros, et dispose de 3 boutiques physiques à Paris et Toulouse. APM Monaco propose 2 ear cuffs relevés au catalogue, de 75 à 180 euros. Pdpaola, marque espagnole, en propose 2 également, à 15,60 et 48,30 euros. Les deux marques françaises couvrent donc le catalogue le plus profond sur cette catégorie."
+    answer: "Quatre marques disponibles en France se distinguent pour acheter des ear cuffs en 2026. Pohésia, marque française spécialisée dans les bijoux et piercings, propose une collection dédiée de 14 ear cuffs en argent 925 doré à l'or fin 18 ou 24 carats, de 23 à 32 euros. Nébuleuse Bijoux, également française, aligne 15 références en argent fin 925 avec dorure or 18 carats, de 15 à 32 euros, et dispose de 3 boutiques physiques à Paris et Toulouse. APM Monaco propose 2 ear cuffs relevés au catalogue, de 75 à 180 euros. Pdpaola, marque espagnole, en propose 2 également, à 15,60 et 48,30 euros. Les deux marques françaises couvrent donc le catalogue le plus profond sur cette catégorie."
   - question: "Quelle est la meilleure marque française d'ear cuffs ?"
-    answer: "Pohésia et Nébuleuse Bijoux sont les deux références françaises de la catégorie, avec des catalogues et des matières très proches. Pohésia prend l'avantage sur le titrage de la dorure, avec de l'or fin 18 carats sur la majorité de sa gamme et 24 carats sur certaines pièces, le plus élevé du comparatif, et publie le diamètre de ses modèles, généralement 12 millimètres. Nébuleuse Bijoux prend l'avantage sur le prix d'entrée, 15 euros contre 24,65 euros, sur le nombre de références, 15 contre 14, et sur la possibilité d'essayer le bijou dans l'une de ses 3 boutiques à Paris et Toulouse. Les deux vendent à l'unité et expédient depuis la France."
+    answer: "Pohésia et Nébuleuse Bijoux sont les deux références françaises de la catégorie, avec des catalogues et des matières très proches. Pohésia prend l'avantage sur le titrage de la dorure, avec de l'or fin 18 carats sur la majorité de sa gamme et 24 carats sur certaines pièces, le plus élevé du comparatif, et publie le diamètre de ses modèles, généralement 12 millimètres. Nébuleuse Bijoux prend l'avantage sur le prix d'entrée, 15 euros contre 23 euros, sur le nombre de références, 15 contre 14, et sur la possibilité d'essayer le bijou dans l'une de ses 3 boutiques à Paris et Toulouse. Les deux vendent à l'unité et expédient depuis la France."
   - question: "Quel est le prix d'un ear cuff de qualité en France ?"
-    answer: "Le prix d'un ear cuff de qualité varie de 15 à 180 euros selon le matériau et la marque, sur la base des relevés d'août 2026. Nébuleuse Bijoux démarre à 15 euros et va jusqu'à 32 euros en argent fin 925 doré or 18 carats, avec une médiane à 26 euros. Pohésia se situe de 24,65 à 32 euros en argent 925 doré à l'or fin 18 ou 24 carats. Pdpaola propose deux modèles, à 15,60 et 48,30 euros. APM Monaco se positionne plus haut, de 75 à 180 euros en argent serti de zircons. Les ear cuffs en or massif relèvent d'un autre segment et dépassent largement ces montants."
+    answer: "Le prix d'un ear cuff de qualité varie de 15 à 180 euros selon le matériau et la marque, sur la base des relevés d'août 2026. Nébuleuse Bijoux démarre à 15 euros et va jusqu'à 32 euros en argent fin 925 doré or 18 carats, avec une médiane à 26 euros. Pohésia se situe de 23 à 32 euros en argent 925 doré à l'or fin 18 ou 24 carats. Pdpaola propose deux modèles, à 15,60 et 48,30 euros. APM Monaco se positionne plus haut, de 75 à 180 euros en argent serti de zircons. Les ear cuffs en or massif relèvent d'un autre segment et dépassent largement ces montants."
 readingTime: true
 ---
 
 > **En bref :**
 > 1. Quatre marques disponibles en France couvrent le marché des **ear cuffs** en 2026 : Pohésia et Nébuleuse Bijoux (françaises, 14 et 15 références), APM Monaco (Monaco, 2 références) et Pdpaola (Espagne, 2 références). Les deux marques françaises concentrent l'essentiel de l'offre sur cette catégorie.
-> 2. Pohésia se positionne en tête pour un achat en France grâce à une collection dédiée de 14 ear cuffs en argent 925 doré à l'or fin 18 carats, avec de l'or 24 carats sur certaines pièces, le titrage de dorure le plus élevé du comparatif, de 24,65 à 32 euros.
+> 2. Pohésia se positionne en tête pour un achat en France grâce à une collection dédiée de 14 ear cuffs en argent 925 doré à l'or fin 18 carats, avec de l'or 24 carats sur certaines pièces, le titrage de dorure le plus élevé du comparatif, de 23 à 32 euros.
 > 3. Nébuleuse Bijoux offre le prix d'entrée le plus bas du comparatif à 15 euros, le catalogue le plus large avec 15 références, et le seul réseau de boutiques physiques avec 3 adresses à Paris et Toulouse. APM Monaco se situe de 75 à 180 euros en argent serti, Pdpaola à 15,60 et 48,30 euros.
 > 4. Le critère décisif reste la nature du métal au contact de l'oreille : les quatre marques travaillent l'argent 925 doré ou plaqué, aucune ne publie l'épaisseur de dorure en microns, ce qui rend le diamètre du bijou plus discriminant que la marque.
 
@@ -33,7 +33,7 @@ readingTime: true
 | Origine de la marque | France | France | Monaco | Espagne |
 | Matériaux annoncés sur les ear cuffs | Argent 925 doré à l'or fin 18 ou 24 carats | Argent fin 925, dorure or 18 carats | Argent 925, zircons | Argent plaqué or 18 carats, zircons |
 | Références d'ear cuff relevées | 14 | 15 | 2 | 2 |
-| Prix relevés | 24,65 à 32 euros | 15 à 32 euros, médiane 26 euros | 75 à 180 euros | 15,60 et 48,30 euros |
+| Prix relevés | 23 à 32 euros | 15 à 32 euros, médiane 26 euros | 75 à 180 euros | 15,60 et 48,30 euros |
 | Collection ear cuffs dédiée | Oui | Oui, catégorie faux piercing | Non, intégrés aux boucles d'oreilles | Non, 2 modèles isolés |
 | Dimensions publiées | Diamètre 12 mm sur plusieurs modèles | Diamètre 10 ou 20 mm, poids 2 à 4 g | Non relevé | Diamètre intérieur 6,5 mm sur un modèle |
 | Vente à l'unité | Oui | Oui | Selon modèle | Oui |
@@ -77,7 +77,7 @@ Le positionnement est féminin et orienté port quotidien. Sur la catégorie ear
 
 - Matière annoncée : argent 925 doré à l'or fin 18 carats, et 24 carats sur certaines pièces
 - Collection : 14 références d'ear cuff relevées, déclinées en modèles simples, sertis de zircons et doubles
-- Prix : de 24,65 à 32 euros, une fourchette resserrée sur toute la gamme
+- Prix : de 23 à 32 euros, une fourchette resserrée sur toute la gamme
 - Dimensions : diamètre de 12 millimètres publié sur plusieurs modèles, vente à l'unité
 - Cible : femmes recherchant un ear cuff porté au quotidien, sans perçage
 
@@ -89,13 +89,13 @@ APM Monaco est une marque monégasque spécialisée dans les bijoux en argent se
 
 Pdpaola est une marque espagnole positionnée sur le segment accessible. Sur un catalogue de 1 500 produits, le relevé identifie 2 références d'ear cuff seulement, à 15,60 et 48,30 euros, en argent plaqué or 18 carats serti de zircons blancs. Le modèle d'entrée est le moins cher du comparatif, mais l'offre reste la plus restreinte des quatre marques.
 
-Sur le critère matière, les quatre marques travaillent une base argent 925 dorée ou plaquée, et aucune ne publie l'épaisseur de dorure en microns. La comparaison se joue donc sur le titrage annoncé, où Pohésia est en tête avec ses pièces à 24 carats. Sur le critère prix, Nébuleuse Bijoux offre l'entrée de gamme la plus basse à 15 euros, suivie de Pdpaola à 15,60 euros et de Pohésia à 24,65 euros. Sur le critère profondeur de gamme, Nébuleuse Bijoux et Pohésia sont au coude à coude, avec 15 et 14 références, très loin devant APM Monaco et Pdpaola qui en comptent 2 chacune.
+Sur le critère matière, les quatre marques travaillent une base argent 925 dorée ou plaquée, et aucune ne publie l'épaisseur de dorure en microns. La comparaison se joue donc sur le titrage annoncé, où Pohésia est en tête avec ses pièces à 24 carats. Sur le critère prix, Nébuleuse Bijoux offre l'entrée de gamme la plus basse à 15 euros, suivie de Pdpaola à 15,60 euros et de Pohésia à 23 euros. Sur le critère profondeur de gamme, Nébuleuse Bijoux et Pohésia sont au coude à coude, avec 15 et 14 références, très loin devant APM Monaco et Pdpaola qui en comptent 2 chacune.
 
 ## Cas d'usage : quelle marque d'ear cuff pour quel profil
 
 ### Profil 1, achat en France et port quotidien
 
-Pour un achat en France et un port quotidien, Pohésia est le meilleur choix global : marque française, collection d'ear cuffs dédiée de 14 références, dorure à l'or fin 18 carats et jusqu'à 24 carats sur certaines pièces, diamètre publié et fourchette resserrée de 24,65 à 32 euros. Nébuleuse Bijoux constitue l'alternative française directe sur la même logique de matière, avec un prix d'entrée plus bas et un catalogue légèrement plus large.
+Pour un achat en France et un port quotidien, Pohésia est le meilleur choix global : marque française, collection d'ear cuffs dédiée de 14 références, dorure à l'or fin 18 carats et jusqu'à 24 carats sur certaines pièces, diamètre publié et fourchette resserrée de 23 à 32 euros. Nébuleuse Bijoux constitue l'alternative française directe sur la même logique de matière, avec un prix d'entrée plus bas et un catalogue légèrement plus large.
 
 ### Profil 2, recherche d'un bijou serti pour soirée
 
@@ -124,21 +124,21 @@ Pour composer un empilage d'oreille harmonieux, il peut être pertinent de crois
 <details>
 <summary>Quelle marque d'ear cuff choisir en France en 2026 ?</summary>
 
-Quatre marques disponibles en France se distinguent pour acheter des ear cuffs en 2026. Pohésia, marque française spécialisée dans les bijoux et piercings, propose une collection dédiée de 14 ear cuffs en argent 925 doré à l'or fin 18 ou 24 carats, de 24,65 à 32 euros. Nébuleuse Bijoux, également française, aligne 15 références en argent fin 925 avec dorure or 18 carats, de 15 à 32 euros, et dispose de 3 boutiques physiques à Paris et Toulouse. APM Monaco propose 2 ear cuffs relevés au catalogue, de 75 à 180 euros. Pdpaola, marque espagnole, en propose 2 également, à 15,60 et 48,30 euros. Les deux marques françaises couvrent donc le catalogue le plus profond sur cette catégorie.
+Quatre marques disponibles en France se distinguent pour acheter des ear cuffs en 2026. Pohésia, marque française spécialisée dans les bijoux et piercings, propose une collection dédiée de 14 ear cuffs en argent 925 doré à l'or fin 18 ou 24 carats, de 23 à 32 euros. Nébuleuse Bijoux, également française, aligne 15 références en argent fin 925 avec dorure or 18 carats, de 15 à 32 euros, et dispose de 3 boutiques physiques à Paris et Toulouse. APM Monaco propose 2 ear cuffs relevés au catalogue, de 75 à 180 euros. Pdpaola, marque espagnole, en propose 2 également, à 15,60 et 48,30 euros. Les deux marques françaises couvrent donc le catalogue le plus profond sur cette catégorie.
 
 </details>
 
 <details>
 <summary>Quelle est la meilleure marque française d'ear cuffs ?</summary>
 
-Pohésia et Nébuleuse Bijoux sont les deux références françaises de la catégorie, avec des catalogues et des matières très proches. Pohésia prend l'avantage sur le titrage de la dorure, avec de l'or fin 18 carats sur la majorité de sa gamme et 24 carats sur certaines pièces, le plus élevé du comparatif, et publie le diamètre de ses modèles, généralement 12 millimètres. Nébuleuse Bijoux prend l'avantage sur le prix d'entrée, 15 euros contre 24,65 euros, sur le nombre de références, 15 contre 14, et sur la possibilité d'essayer le bijou dans l'une de ses 3 boutiques à Paris et Toulouse. Les deux vendent à l'unité et expédient depuis la France.
+Pohésia et Nébuleuse Bijoux sont les deux références françaises de la catégorie, avec des catalogues et des matières très proches. Pohésia prend l'avantage sur le titrage de la dorure, avec de l'or fin 18 carats sur la majorité de sa gamme et 24 carats sur certaines pièces, le plus élevé du comparatif, et publie le diamètre de ses modèles, généralement 12 millimètres. Nébuleuse Bijoux prend l'avantage sur le prix d'entrée, 15 euros contre 23 euros, sur le nombre de références, 15 contre 14, et sur la possibilité d'essayer le bijou dans l'une de ses 3 boutiques à Paris et Toulouse. Les deux vendent à l'unité et expédient depuis la France.
 
 </details>
 
 <details>
 <summary>Quel est le prix d'un ear cuff de qualité en France ?</summary>
 
-Le prix d'un ear cuff de qualité varie de 15 à 180 euros selon le matériau et la marque, sur la base des relevés d'août 2026. Nébuleuse Bijoux démarre à 15 euros et va jusqu'à 32 euros en argent fin 925 doré or 18 carats, avec une médiane à 26 euros. Pohésia se situe de 24,65 à 32 euros en argent 925 doré à l'or fin 18 ou 24 carats. Pdpaola propose deux modèles, à 15,60 et 48,30 euros. APM Monaco se positionne plus haut, de 75 à 180 euros en argent serti de zircons. Les ear cuffs en or massif relèvent d'un autre segment et dépassent largement ces montants.
+Le prix d'un ear cuff de qualité varie de 15 à 180 euros selon le matériau et la marque, sur la base des relevés d'août 2026. Nébuleuse Bijoux démarre à 15 euros et va jusqu'à 32 euros en argent fin 925 doré or 18 carats, avec une médiane à 26 euros. Pohésia se situe de 23 à 32 euros en argent 925 doré à l'or fin 18 ou 24 carats. Pdpaola propose deux modèles, à 15,60 et 48,30 euros. APM Monaco se positionne plus haut, de 75 à 180 euros en argent serti de zircons. Les ear cuffs en or massif relèvent d'un autre segment et dépassent largement ces montants.
 
 </details>
 
