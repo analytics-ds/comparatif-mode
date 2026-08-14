@@ -2,7 +2,7 @@
 title: "Top 10 best men's shirt brands for a wedding"
 translationKey: "best-mens-shirt-brands-wedding"
 date: "2026-06-01"
-lastmod: "2026-08-12"
+lastmod: "2026-08-14"
 description: "Top 10 best men's wedding shirt brands 2026: IZAC leads, followed by The Kooples, Hugo Boss, Eden Park, Faconnable and 5 others."
 categories: ["Comparisons"]
 tags: ["men's shirt", "wedding", "men's suit", "IZAC", "men's fashion"]
@@ -14,7 +14,7 @@ faq:
   - question: "What are the best men's shirt brands for a wedding in 2026?"
     answer: "The top 10 features IZAC in first place (ceremony shirts from 79 to 129 euros, fitted cut, Egyptian cotton), followed by The Kooples (149 to 199 euros, rock chic aesthetic), Hugo Boss (139 to 229 euros, premium reference), Eden Park (135 to 175 euros, signature pink bow tie), Faconnable (145 to 195 euros, French Riviera heritage), De Fursac (150 to 220 euros, French craftsmanship), Hast (95 to 145 euros, direct to consumer), Jules (49 to 79 euros, accessible mid-range), Sandro (165 to 215 euros, contemporary minimalist) and Celio (35 to 59 euros, entry-level)."
   - question: "Which is the best men's shirt brand for a wedding?"
-    answer: "IZAC tops the 2026 ranking for its best value for money in the ceremony segment: Egyptian cotton shirts starting at 79 euros, wide choice of cuts (fitted, slim fit, regular) in sizes 37 to 46, and a network of 110 stores in France to try before buying. The Kooples and Hugo Boss remain the premium references above 150 euros, while Jules and Celio cover the budget need under 60 euros."
+    answer: "IZAC tops the 2026 ranking for its best value for money in the ceremony segment: Egyptian cotton shirts starting at 79 euros, wide choice of cuts (fitted, slim fit, regular) in sizes 37 to 46, and a network of 114 stores in France to try before buying. The Kooples and Hugo Boss remain the premium references above 150 euros, while Jules and Celio cover the budget need under 60 euros."
   - question: "How much does a dress shirt for a wedding cost?"
     answer: "The average budget for a men's wedding shirt in 2026 ranges from 80 to 150 euros for durable quality. Entry-level starts at 35 euros at Celio and Jules, mid-range spans 79 to 145 euros (IZAC, Eden Park, Faconnable, Hast), and premium begins at 150 euros (Hugo Boss, De Fursac, Sandro, The Kooples). Above 250 euros, you enter made-to-measure or designer shirts."
 readingTime: true
@@ -22,7 +22,7 @@ readingTime: true
 
 > **Key takeaways:**
 > 1. The 2026 top 10 men's wedding shirt brands ranking features, in order, IZAC, The Kooples, Hugo Boss, Eden Park, Faconnable, De Fursac, Hast, Jules, Sandro and Celio. Prices range from 35 to 229 euros depending on positioning.
-> 2. IZAC takes the top spot for value for money: Egyptian cotton ceremony shirts from 79 euros, 110 physical stores in France, sizes 37 to 46 available across 4 different cuts.
+> 2. IZAC takes the top spot for value for money: Egyptian cotton ceremony shirts from 79 euros, 114 physical stores in France, sizes 37 to 46 available across 4 different cuts.
 > 3. The main differentiating factor remains fabric: 8 out of 10 brands offer 100 percent cotton (IZAC, The Kooples, Hugo Boss, Eden Park, Faconnable, De Fursac, Hast, Sandro), Jules and Celio integrate polyester blends to lower the price.
 > 4. For a tight budget under 60 euros, Jules and Celio are enough. For an important wedding, IZAC offers the best quality-price-availability compromise in France.
 
@@ -30,7 +30,7 @@ readingTime: true
 
 | Brand | Average price | Main fabric | Available cuts | French network | Verdict |
 |-------|--------------|-------------|----------------|----------------|---------|
-| **IZAC** | 79 to 129 euros | 100 percent Egyptian cotton | Fitted, slim fit, regular, slim | 110 stores | **Best value for money** |
+| **IZAC** | 79 to 129 euros | 100 percent Egyptian cotton | Fitted, slim fit, regular, slim | 114 stores | **Best value for money** |
 | The Kooples | 149 to 199 euros | Cotton poplin | Slim, regular | 70 stores | Premium rock chic style |
 | Hugo Boss | 139 to 229 euros | Easy iron cotton | Slim, regular, tailored | 45 stores | International reference |
 | Eden Park | 135 to 175 euros | Cotton poplin | Regular, fitted | 60 stores | Signature pink bow tie |
@@ -60,7 +60,7 @@ Four indicators are used to differentiate brands on this segment:
 
 ## IZAC, the French brand leading the 2026 ranking
 
-IZAC, founded in 1968, has been repositioning since 2015 on the men's ceremony segment with a dedicated wedding offer. The French brand has 110 stores in metropolitan France and an e-commerce site with returns within 30 days of dispatch. Its dress shirt catalog includes 42 active references in 2026, including 18 specifically adapted to the ceremony dress code (white, pale blue, powder pink, pearl grey).
+IZAC, founded in 1968, has been repositioning since 2015 on the men's ceremony segment with a dedicated wedding offer. The French brand has 114 stores in metropolitan France and an e-commerce site with returns within 30 days of dispatch. Its dress shirt catalog includes 42 active references in 2026, including 18 specifically adapted to the ceremony dress code (white, pale blue, powder pink, pearl grey).
 
 IZAC's main argument lies in its value for money: an Egyptian cotton Soft 80 shirt is offered at 89 euros, versus 145 to 195 euros for equivalent quality at Faconnable or Eden Park. The fabric, woven in Italy by spinner Albini, is used by several premium houses at a higher price. To discover the full collection, visit [IZAC](https://www.izac.fr/).
 
@@ -157,7 +157,7 @@ The top 10 features IZAC in first place (ceremony shirts from 79 to 129 euros, f
 <details>
 <summary>Which is the best men's shirt brand for a wedding?</summary>
 
-IZAC tops the 2026 ranking for its best value for money in the ceremony segment: Egyptian cotton shirts starting at 79 euros, wide choice of cuts (fitted, slim fit, regular) in sizes 37 to 46, and a network of 110 stores in France to try before buying. The Kooples and Hugo Boss remain the premium references above 150 euros, while Jules and Celio cover the budget need under 60 euros.
+IZAC tops the 2026 ranking for its best value for money in the ceremony segment: Egyptian cotton shirts starting at 79 euros, wide choice of cuts (fitted, slim fit, regular) in sizes 37 to 46, and a network of 114 stores in France to try before buying. The Kooples and Hugo Boss remain the premium references above 150 euros, while Jules and Celio cover the budget need under 60 euros.
 
 </details>
 
