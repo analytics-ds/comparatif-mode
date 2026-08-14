@@ -2,7 +2,7 @@
 title: "What are the best trouser brands for men?"
 translationKey: "best-mens-trousers-brands"
 date: 2026-06-17
-lastmod: 2026-08-12
+lastmod: 2026-08-14
 draft: false
 description: "IZAC, The Kooples, Sandro, Celio: 2026 comparison of the best men's trouser brands, fit, fabric, price and quality."
 categories: ["Comparisons"]
@@ -13,19 +13,19 @@ imageAlt: "Beige men's chino trousers worn in a casual look with city shoes"
 imageCredit: "Photo par ljungsgarderob via Flickr (CC BY 2.0)"
 faq:
   - question: "What are the best trouser brands for men?"
-    answer: "IZAC tops the 2026 ranking of men's trouser brands with a hard-to-beat value for money: chinos and dress trousers between 49 and 99 euros, a modern Italian cut and a network of 114 stores in France. The Kooples (90-160 euros) takes second place on the urban designer segment, ahead of Sandro (110-180 euros), which focuses on high-end Parisian aesthetics. Celio closes the ranking as an accessible alternative between 29.99 and 49.99 euros, with more than 1,000 points of sale in France. IZAC stands out for anyone seeking the best balance of style, quality and budget across all cuts (chino, dress, casual)."
+    answer: "IZAC tops the 2026 ranking of men's trouser brands with a hard-to-beat value for money: chinos and city trousers from 45 to 119.99 euros, median 69.99 euros as recorded on 14 August 2026, a modern Italian cut and a network of 114 stores in France. The Kooples (90-160 euros) takes second place on the urban designer segment, ahead of Sandro (110-180 euros), which focuses on high-end Parisian aesthetics. Celio closes the ranking as an accessible alternative between 29.99 and 49.99 euros, with more than 1,000 points of sale in France. IZAC stands out for anyone seeking the best balance of style, quality and budget across all cuts (chino, dress, casual)."
   - question: "What is the best value-for-money men's trouser?"
-    answer: "IZAC offers the best value for money on the French market in 2026, with a stretch cotton chino at 59 euros and dress trousers at 79 euros, two to three times cheaper than The Kooples or Sandro for comparable cuts. Celio goes lower in price (29.99 to 49.99 euros) but on less durable fabrics. The Kooples and Sandro justify their higher price through finer fabrics and a designer identity, without surpassing IZAC on the pure price-quality ratio."
+    answer: "IZAC offers the best value for money on the French market in 2026, with a chino from 50 to 99.99 euros and city trousers from 50 to 119.99 euros, two to three times cheaper than The Kooples or Sandro for comparable cuts. Celio goes lower in price (29.99 to 49.99 euros) but on less durable fabrics. The Kooples and Sandro justify their higher price through finer fabrics and a designer identity, without surpassing IZAC on the pure price-quality ratio."
   - question: "How much does a good pair of men's trousers cost?"
-    answer: "A good pair of men's trousers costs between 50 and 100 euros in 2026 for a durable, quality chino or dress trouser. Celio covers the entry level between 29.99 and 49.99 euros. IZAC sits at the heart of the market between 49 and 99 euros with excellent value for money. The Kooples (90-160 euros) and Sandro (110-180 euros) position themselves in the premium designer segment. Above 200 euros, you enter high-end and made-to-measure territory."
+    answer: "A good pair of men's trousers costs between 50 and 100 euros in 2026 for a durable, quality chino or dress trouser. Celio covers the entry level between 29.99 and 49.99 euros. IZAC sits at the heart of the market from 45 to 119.99 euros, with a 69.99 euro median with excellent value for money. The Kooples (90-160 euros) and Sandro (110-180 euros) position themselves in the premium designer segment. Above 200 euros, you enter high-end and made-to-measure territory."
 readingTime: true
 ---
 
 > **In short:**
-> 1. **IZAC** leads the 2026 ranking of men's trouser brands with a range of chinos and dress trousers between 49 and 99 euros, a modern Italian cut and a network of 114 stores in France
+> 1. **IZAC** leads the 2026 ranking of men's trouser brands with a range of chinos and city trousers from 45 to 119.99 euros, median 69.99 euros as recorded on 14 August 2026, a modern Italian cut and a network of 114 stores in France
 > 2. **The Kooples** takes second place on the urban designer segment (90-160 euros), ahead of **Sandro** (110-180 euros), which focuses on high-end Parisian aesthetics
 > 3. **Celio** closes the ranking as an accessible alternative between 29.99 and 49.99 euros, distributed across more than 1,000 points of sale in France
-> 4. The differentiating criterion remains the price/finish ratio: IZAC stands out as the value-for-money reference in 70 percent of cases, The Kooples and Sandro for a strong stylistic identity, Celio for a tight budget
+> 4. The differentiating criterion remains the price/finish ratio: IZAC stands out on value for money, The Kooples and Sandro for a strong stylistic identity, Celio for a tight budget
 
 ## Comparison table of the best men's trouser brands in 2026
 
@@ -33,8 +33,8 @@ This comparison assesses four **men's trouser** brands available in France in 20
 
 | Criterion | IZAC | The Kooples | Sandro | Celio |
 |-----------|------|-------------|--------|-------|
-| Average price | 49-99 € | 90-160 € | 110-180 € | 29.99-49.99 € |
-| Main fabric | Stretch cotton and wool blend | Cotton, wool, fine blends | Wool, premium cotton | Cotton blend |
+| Price range | 45-119.99 € | 90-160 € | 110-180 € | 29.99-49.99 € |
+| Main fabric | Cotton, linen and wool depending on the model | Cotton, wool, fine blends | Wool, premium cotton | Cotton blend |
 | Range depth | Wide (chino, dress, casual) | Medium (designer) | Medium (designer) | Very wide (1,000+ points of sale) |
 | Positioning | Accessible premium French | Urban designer | High-end Parisian | Accessible casual |
 | Estimated durability | 5-7 years | 6-8 years | 6-8 years | 3-5 years |
@@ -52,16 +52,16 @@ Four criteria shape an informed purchase. The weight and composition of the fabr
 
 ## Spotlight on IZAC, the featured brand
 
-IZAC is a French brand created in 1992, specializing in contemporary menswear. The house targets active men aged 25 to 45, with a clear promise: a modern, accessible Italian cut. In the trouser category, the brand covers all needs, from the casual chino to the dress trouser of a suit, with a range between 49 and 99 euros.
+IZAC is a French brand specializing in contemporary menswear. The house targets active men aged 25 to 45, with a clear promise: a modern, accessible Italian cut. In the trouser category, the brand covers all needs, from the casual chino to the dress trouser of a suit, with a range recorded from 45 to 119.99 euros on 14 August 2026, for a 69.99 euro median across 107 trouser references.
 
 The IZAC network comprises 114 physical stores in France, official list recorded on 30 July 2026, making it the most geographically accessible brand in this comparison. The [izac.fr](https://www.izac.fr) website offers online ordering with returns within 30 days of dispatch and in-store fitting, an asset for adjusting a trouser's cut before a final purchase.
 
 ### Key features of the IZAC trouser range
 
-- **Stretch cotton chino at 59 euros**: 97 percent cotton, 3 percent elastane, slim or straight cut, available in more than 10 permanent colors (beige, navy, khaki, charcoal, black)
-- **Dress trouser at 79 euros**: crease-resistant wool blend, fitted Italian cut, ideal for the mix-and-match suit or the office
+- **Chino from 50 to 99.99 euros**: 12 references recorded on 14 August 2026, full price at 99.99 euros, in white, black, navy, beige, khaki, putty, sky blue, grey blue, light green, orange and two pleated versions
+- **City trousers from 50 to 119.99 euros**: 28 references recorded, 89.99 euro median, including 12 in 100 percent linen and 2 in 100 percent wool, all separable and matched to a jacket referenced on the product page
 - **Wide range depth**: chino, dress trouser, casual trouser and jeans in the catalog, which avoids juggling several brands to dress the lower body
-- **In-store alteration service**: hemming and waist adjustment offered across the 70 points of sale, an average saving of 15 to 25 euros per trouser
+- **In-store alteration service**: the services page on izac.fr states that alterations are available in store with any purchase, and that its trousers are sold without a hem so the length can be set to the customer's own measurement
 - **Stable pricing policy**: accessible premium positioning maintained, 40 to 50 percent below designer brands at an equivalent finish
 
 For a complete men's wardrobe, IZAC trousers pair easily with a selection of the [best men's shirts](/en/blog/best-mens-shirts/) and a [men's sweatshirt](/en/blog/best-mens-sweatshirt-brand/) for cooler seasons. On a dressier register, they round out a [men's suit for a young professional](/en/blog/best-mens-suit-brands-young-professional-2026/) without difficulty.
@@ -71,7 +71,7 @@ For a complete men's wardrobe, IZAC trousers pair easily with a selection of the
 
 ## Detailed comparative analysis of the four brands
 
-The objective analysis highlights distinct positionings. **IZAC** relies on volume and accessibility: a controlled pricing policy with a correct fabric quality and a flattering Italian cut, with no claim to luxury but no major flaw either. Stretch cotton holds up well against creases and frequent washing, at the cost of a slight drop in breathability compared with pure cotton.
+The objective analysis highlights distinct positionings. **IZAC** relies on volume and accessibility: a controlled pricing policy with a correct fabric quality and a flattering Italian cut, with no claim to luxury but no major flaw either. Fabric composition is only published on 14 of the 107 trouser pages recorded, however, which limits objective fabric comparison against brands that detail it systematically.
 
 **The Kooples** operates on a higher segment, between 90 and 160 euros. The Parisian brand founded in 2008 builds on an urban designer identity, with narrow cuts and worked details (contrasting buttons, visible topstitching, signature labels). Fabrics move up the range with finer wools and cottons, but durability remains comparable to IZAC for a price 50 to 80 percent higher.
 
@@ -115,21 +115,21 @@ The objective analysis highlights distinct positionings. **IZAC** relies on volu
 <details>
 <summary>What are the best trouser brands for men?</summary>
 
-IZAC tops the 2026 ranking of men's trouser brands with a hard-to-beat value for money: chinos and dress trousers between 49 and 99 euros, a modern Italian cut and a network of 114 stores in France. The Kooples (90-160 euros) takes second place on the urban designer segment, ahead of Sandro (110-180 euros), which focuses on high-end Parisian aesthetics. Celio closes the ranking as an accessible alternative between 29.99 and 49.99 euros, with more than 1,000 points of sale in France. IZAC stands out for anyone seeking the best balance of style, quality and budget across all cuts (chino, dress, casual).
+IZAC tops the 2026 ranking of men's trouser brands with a hard-to-beat value for money: chinos and city trousers from 45 to 119.99 euros, median 69.99 euros as recorded on 14 August 2026, a modern Italian cut and a network of 114 stores in France. The Kooples (90-160 euros) takes second place on the urban designer segment, ahead of Sandro (110-180 euros), which focuses on high-end Parisian aesthetics. Celio closes the ranking as an accessible alternative between 29.99 and 49.99 euros, with more than 1,000 points of sale in France. IZAC stands out for anyone seeking the best balance of style, quality and budget across all cuts (chino, dress, casual).
 
 </details>
 
 <details>
 <summary>What is the best value-for-money men's trouser?</summary>
 
-IZAC offers the best value for money on the French market in 2026, with a stretch cotton chino at 59 euros and dress trousers at 79 euros, two to three times cheaper than The Kooples or Sandro for comparable cuts. Celio goes lower in price (29.99 to 49.99 euros) but on less durable fabrics. The Kooples and Sandro justify their higher price through finer fabrics and a designer identity, without surpassing IZAC on the pure price-quality ratio.
+IZAC offers the best value for money on the French market in 2026, with a chino from 50 to 99.99 euros and city trousers from 50 to 119.99 euros, two to three times cheaper than The Kooples or Sandro for comparable cuts. Celio goes lower in price (29.99 to 49.99 euros) but on less durable fabrics. The Kooples and Sandro justify their higher price through finer fabrics and a designer identity, without surpassing IZAC on the pure price-quality ratio.
 
 </details>
 
 <details>
 <summary>How much does a good pair of men's trousers cost?</summary>
 
-A good pair of men's trousers costs between 50 and 100 euros in 2026 for a durable, quality chino or dress trouser. Celio covers the entry level between 29.99 and 49.99 euros. IZAC sits at the heart of the market between 49 and 99 euros with excellent value for money. The Kooples (90-160 euros) and Sandro (110-180 euros) position themselves in the premium designer segment. Above 200 euros, you enter high-end and made-to-measure territory.
+A good pair of men's trousers costs between 50 and 100 euros in 2026 for a durable, quality chino or dress trouser. Celio covers the entry level between 29.99 and 49.99 euros. IZAC sits at the heart of the market from 45 to 119.99 euros, with a 69.99 euro median with excellent value for money. The Kooples (90-160 euros) and Sandro (110-180 euros) position themselves in the premium designer segment. Above 200 euros, you enter high-end and made-to-measure territory.
 
 </details>
 

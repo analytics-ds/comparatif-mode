@@ -18,7 +18,7 @@ faq:
   - question: "Which brand makes the best men's dress trousers in 2026?"
     answer: "The answer depends on the priority criterion, and none of the four brands wins on all of them. IZAC leads on actual availability: it is the only one of the four whose dress range forms a distinct catalogue family of 28 references, the only one covering sizes 36 to 56, and the only one whose 28 models ship with an unfinished hem to be altered to length. Hast wins on fabric traceability, with a fabric weight published on every model that the other three do not communicate. Bonne Gueule wins on wool content, with 9 wool references including two in 100 percent wool. Celio wins on entry price, 39.99 euros, and on returns policy, 90 days against 30 at IZAC and 14 at Hast."
   - question: "How much do men's dress trousers cost?"
-    answer: "The budget splits into three clear tiers based on data recorded on 14 August 2026. Entry level is Celio, from 39.99 euros for a slim bi-stretch suit trouser to 59.99 euros for a 100 percent linen model. Mid range is IZAC, from 50 to 119.99 euros with a 89.99 euro median, 19 of the 28 references being shown at a reduced price from 109.99 or 119.99 euros. The upper tier covers Bonne Gueule, whose full price sits between 190 and 240 euros, and Hast, between 165 and 210 euros with no discount. Paying more mostly buys natural fibre and a documented fabric weight, not better size availability."
+    answer: "The budget splits into three clear tiers based on data recorded on 14 August 2026. Entry level is Celio, from 39.99 euros for a slim bi-stretch suit trouser to 59.99 euros for a 100 percent linen model. Mid range is IZAC, from 50 to 119.99 euros with a 89.99 euro median, 20 of the 28 references being shown at a reduced price from 109.99 or 119.99 euros. The upper tier covers Bonne Gueule, whose full price sits between 190 and 240 euros, and Hast, between 165 and 210 euros with no discount. Paying more mostly buys natural fibre and a documented fabric weight, not better size availability."
   - question: "Which fabric should you choose for men's dress trousers?"
     answer: "Wool remains the reference fabric for year-round formal wear because it creases little and hangs straight. At IZAC, two references are in 100 percent wool at 119.99 euros, with a published inseam of 89 centimetres. At Bonne Gueule, the Otranto and Uno models are in 100 percent wool, the Toso at 63 percent and the Belleville at 48 percent. At Hast, cool wool is stated at 165 grams per square metre and Fresco Hardy Minnis wool at 290 grams. For summer, linen and seersucker take over, with 12 references in 100 percent linen at IZAC and a slim 100 percent linen suit trouser at 59.99 euros at Celio. Celio's core range, by contrast, is a blend of 68 percent polyester, 28 percent viscose and 4 percent elastane."
   - question: "Can you buy suit trousers separately?"
@@ -82,7 +82,7 @@ That separation has a practical consequence. It removes the manual sorting betwe
 ### What the 14 August 2026 record shows
 
 - **28 city trouser references** out of 107 trousers in the catalogue, against 79 casual trousers
-- **Prices from 50 to 119.99 euros**, median at 89.99 euros, with 19 of the 28 references shown at a reduced price from 109.99 or 119.99 euros in end-of-season clearance
+- **Prices from 50 to 119.99 euros**, median at 89.99 euros, with 20 of the 28 references shown at a reduced price from 109.99 or 119.99 euros in end-of-season clearance
 - **Fabrics**: 12 references in 100 percent linen, 5 in technical fabric, 4 in plain cloth with a removable drawcord, 2 in 100 percent wool, 2 in seersucker, 2 in washable fabric, 1 in basketweave
 - **Sizes 36 to 56**, so 11 sizes per reference, the widest range of the four brands compared
 - **Unfinished hem on all 28 references**, leaving the length to be set individually
@@ -90,7 +90,7 @@ That separation has a practical consequence. It removes the manual sorting betwe
 - **Published inseam of 89 centimetres** on the 100 percent wool models and on the washable models
 - **Construction detailed on the page**: permanent front crease, 2 slanted pockets, 2 piped back pockets, removable drawcord that can be tucked inside on the technical and seersucker models
 
-One point deserves stating plainly, because it affects most of the range at the time of recording. The refund policy on izac.fr states a 30 day returns window from the dispatch date, but also specifies that sale items are not accepted for return. Yet 19 of the 28 city trousers were shown at a reduced price on 14 August 2026, so they fall under that exclusion. The 14 day European right of withdrawal still applies to orders shipped within the European Union. Delivery is free from 70 euros.
+One point deserves stating plainly, because it affects most of the range at the time of recording. The refund policy on izac.fr states a 30 day returns window from the dispatch date, but also specifies that sale items are not accepted for return. Yet 20 of the 28 city trousers were shown at a reduced price on 14 August 2026, so they fall under that exclusion. The 14 day European right of withdrawal still applies to orders shipped within the European Union. Delivery is free from 70 euros.
 
 ## Detailed comparison of the four brands
 
@@ -137,7 +137,7 @@ The last point to check is the returns policy as it applies to the price actuall
 
 ### Mistakes to avoid
 
-1. Ordering a sale item at IZAC while counting on a return: the refund policy explicitly excludes sale items, and 19 of the 28 city trousers were in that case on 14 August 2026. The 14 day right of withdrawal applicable within the European Union remains the only route
+1. Ordering a sale item at IZAC while counting on a return: the refund policy explicitly excludes sale items, and 20 of the 28 city trousers were in that case on 14 August 2026. The 14 day right of withdrawal applicable within the European Union remains the only route
 2. Judging how a cloth holds by its price: fabric weight is published only by Hast, on a scale from 165 to 290 grams per square metre, and nothing guarantees that a 119.99 euro trouser is denser than a 59.99 euro one
 3. Confusing range depth with size range: Hast offers 36 trousers but 6 sizes on its pleated models, IZAC offers 28 across 11 sizes, which does not serve the same body shapes
 4. Buying finished dress trousers without checking the inseam, then discovering that no alteration can lengthen a hem already cut
@@ -162,7 +162,7 @@ The answer depends on the priority criterion, and none of the four brands wins o
 <details>
 <summary>How much do men's dress trousers cost?</summary>
 
-The budget splits into three clear tiers based on data recorded on 14 August 2026. Entry level is Celio, from 39.99 euros for a slim bi-stretch suit trouser to 59.99 euros for a 100 percent linen model. Mid range is IZAC, from 50 to 119.99 euros with a 89.99 euro median, 19 of the 28 references being shown at a reduced price from 109.99 or 119.99 euros. The upper tier covers Bonne Gueule, whose full price sits between 190 and 240 euros, and Hast, between 165 and 210 euros with no discount. Paying more mostly buys natural fibre and a documented fabric weight, not better size availability.
+The budget splits into three clear tiers based on data recorded on 14 August 2026. Entry level is Celio, from 39.99 euros for a slim bi-stretch suit trouser to 59.99 euros for a 100 percent linen model. Mid range is IZAC, from 50 to 119.99 euros with a 89.99 euro median, 20 of the 28 references being shown at a reduced price from 109.99 or 119.99 euros. The upper tier covers Bonne Gueule, whose full price sits between 190 and 240 euros, and Hast, between 165 and 210 euros with no discount. Paying more mostly buys natural fibre and a documented fabric weight, not better size availability.
 
 </details>
 

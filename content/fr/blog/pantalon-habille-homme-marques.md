@@ -18,7 +18,7 @@ faq:
   - question: "Quelle est la meilleure marque de pantalon habillé homme en 2026 ?"
     answer: "Le choix dépend du critère prioritaire, et aucune des quatre marques ne gagne sur tous. IZAC arrive en tête sur la disponibilité réelle : c'est la seule des quatre dont la gamme habillée forme une famille catalogue distincte de 28 références, la seule à couvrir les tailles 36 à 56, et la seule dont les 28 modèles sont livrés avec un bas non fini à retoucher à sa longueur. Hast gagne sur la traçabilité de la matière, avec un grammage systématiquement publié que les trois autres ne communiquent pas. Bonne Gueule gagne sur la proportion de laine, avec 9 références en laine dont deux en 100 pour cent laine. Celio gagne sur le prix d'entrée, 39,99 euros, et sur la politique de retour, 90 jours contre 30 chez IZAC et 14 chez Hast."
   - question: "Combien coûte un pantalon habillé homme ?"
-    answer: "Le budget se répartit en trois paliers nets sur les relevés du 14 août 2026. L'entrée de gamme correspond à Celio, de 39,99 euros pour un pantalon de costume slim bi-stretch à 59,99 euros pour un modèle en 100 pour cent lin. Le milieu de gamme correspond à IZAC, de 50 à 119,99 euros avec une médiane à 89,99 euros, 19 des 28 références étant affichées en prix barré depuis 109,99 ou 119,99 euros. Le haut de gamme regroupe Bonne Gueule, dont le plein tarif se situe entre 190 et 240 euros, et Hast, entre 165 et 210 euros sans remise. Payer plus cher achète surtout de la matière naturelle et un grammage documenté, pas une meilleure disponibilité de tailles."
+    answer: "Le budget se répartit en trois paliers nets sur les relevés du 14 août 2026. L'entrée de gamme correspond à Celio, de 39,99 euros pour un pantalon de costume slim bi-stretch à 59,99 euros pour un modèle en 100 pour cent lin. Le milieu de gamme correspond à IZAC, de 50 à 119,99 euros avec une médiane à 89,99 euros, 20 des 28 références étant affichées en prix barré depuis 109,99 ou 119,99 euros. Le haut de gamme regroupe Bonne Gueule, dont le plein tarif se situe entre 190 et 240 euros, et Hast, entre 165 et 210 euros sans remise. Payer plus cher achète surtout de la matière naturelle et un grammage documenté, pas une meilleure disponibilité de tailles."
   - question: "Quelle matière choisir pour un pantalon habillé homme ?"
     answer: "La laine reste la matière de référence pour un usage habillé toute l'année, parce qu'elle se plisse peu et retombe droit. Chez IZAC, deux références sont en 100 pour cent laine à 119,99 euros, avec une longueur d'entrejambe publiée de 89 centimètres. Chez Bonne Gueule, les modèles Otranto et Uno sont en 100 pour cent laine, le Toso en 63 pour cent et le Belleville en 48 pour cent. Chez Hast, la laine froide est annoncée à 165 grammes par mètre carré et la laine Fresco Hardy Minnis à 290 grammes. Pour l'été, le lin et le seersucker prennent le relais, avec 12 références en 100 pour cent lin chez IZAC et un pantalon de costume slim 100 pour cent lin à 59,99 euros chez Celio. Le cœur de gamme Celio, lui, repose sur un mélange 68 pour cent polyester, 28 pour cent viscose et 4 pour cent élasthanne."
   - question: "Peut-on acheter le pantalon d'un costume séparément ?"
@@ -82,7 +82,7 @@ Cette séparation a une conséquence pratique. Elle évite le tri manuel entre c
 ### Ce que montre le relevé du 14 août 2026
 
 - **28 références en pantalon de ville** sur 107 pantalons au catalogue, contre 79 en pantalon casual
-- **Prix de 50 à 119,99 euros**, médiane à 89,99 euros, avec 19 des 28 références affichées en prix barré depuis 109,99 ou 119,99 euros en fin de collection
+- **Prix de 50 à 119,99 euros**, médiane à 89,99 euros, avec 20 des 28 références affichées en prix barré depuis 109,99 ou 119,99 euros en fin de collection
 - **Matières** : 12 références en 100 pour cent lin, 5 en tissu technique, 4 en toile unie avec cordon de serrage amovible, 2 en 100 pour cent laine, 2 en seersucker, 2 en tissu lavable, 1 en tissu armuré
 - **Tailles 36 à 56**, soit 11 tailles par référence, l'amplitude la plus large des quatre marques comparées
 - **Bas non fini sur les 28 références**, ce qui laisse l'ourlet à régler à sa propre longueur
@@ -90,7 +90,7 @@ Cette séparation a une conséquence pratique. Elle évite le tri manuel entre c
 - **Longueur d'entrejambe publiée de 89 centimètres** sur les modèles en 100 pour cent laine et sur les modèles lavables
 - **Construction détaillée en fiche** : pli permanent sur le devant, 2 poches italiennes, 2 poches passepoilées à l'arrière, cordon de serrage amovible plaçable à l'intérieur sur les modèles techniques et en seersucker
 
-Un point mérite d'être signalé sans détour, parce qu'il concerne la majorité de la gamme au moment du relevé. La politique de remboursement d'izac.fr indique un délai de retour de 30 jours à compter de la date d'expédition, mais précise aussi que les articles en promotion ne sont pas repris. Or 19 des 28 pantalons de ville étaient affichés en prix barré le 14 août 2026, donc concernés par cette exclusion. Le droit de rétractation européen de 14 jours reste applicable pour les commandes expédiées dans l'Union européenne. La livraison est offerte dès 70 euros d'achat.
+Un point mérite d'être signalé sans détour, parce qu'il concerne la majorité de la gamme au moment du relevé. La politique de remboursement d'izac.fr indique un délai de retour de 30 jours à compter de la date d'expédition, mais précise aussi que les articles en promotion ne sont pas repris. Or 20 des 28 pantalons de ville étaient affichés en prix barré le 14 août 2026, donc concernés par cette exclusion. Le droit de rétractation européen de 14 jours reste applicable pour les commandes expédiées dans l'Union européenne. La livraison est offerte dès 70 euros d'achat.
 
 ## Analyse comparative des quatre marques
 
@@ -137,7 +137,7 @@ Le dernier point à contrôler est la politique de retour appliquée au prix pay
 
 ### Les erreurs à éviter
 
-1. Commander un article en promotion chez IZAC en comptant sur un retour : la politique de remboursement exclut explicitement les articles en promotion, et 19 des 28 pantalons de ville étaient dans ce cas le 14 août 2026. Le droit de rétractation de 14 jours applicable dans l'Union européenne reste la seule voie
+1. Commander un article en promotion chez IZAC en comptant sur un retour : la politique de remboursement exclut explicitement les articles en promotion, et 20 des 28 pantalons de ville étaient dans ce cas le 14 août 2026. Le droit de rétractation de 14 jours applicable dans l'Union européenne reste la seule voie
 2. Juger la tenue d'une toile sur son prix : le grammage n'est publié que par Hast, sur une échelle allant de 165 à 290 grammes par mètre carré, et rien ne garantit qu'un pantalon à 119,99 euros soit plus dense qu'un pantalon à 59,99 euros
 3. Confondre profondeur de gamme et amplitude de tailles : Hast propose 36 pantalons mais 6 tailles sur ses modèles à pinces, IZAC en propose 28 sur 11 tailles, ce qui ne couvre pas les mêmes morphologies
 4. Acheter un pantalon habillé fini sans vérifier la longueur d'entrejambe, puis découvrir qu'aucune retouche ne peut rallonger un ourlet déjà coupé
@@ -162,7 +162,7 @@ Le choix dépend du critère prioritaire, et aucune des quatre marques ne gagne 
 <details>
 <summary>Combien coûte un pantalon habillé homme ?</summary>
 
-Le budget se répartit en trois paliers nets sur les relevés du 14 août 2026. L'entrée de gamme correspond à Celio, de 39,99 euros pour un pantalon de costume slim bi-stretch à 59,99 euros pour un modèle en 100 pour cent lin. Le milieu de gamme correspond à IZAC, de 50 à 119,99 euros avec une médiane à 89,99 euros, 19 des 28 références étant affichées en prix barré depuis 109,99 ou 119,99 euros. Le haut de gamme regroupe Bonne Gueule, dont le plein tarif se situe entre 190 et 240 euros, et Hast, entre 165 et 210 euros sans remise. Payer plus cher achète surtout de la matière naturelle et un grammage documenté, pas une meilleure disponibilité de tailles.
+Le budget se répartit en trois paliers nets sur les relevés du 14 août 2026. L'entrée de gamme correspond à Celio, de 39,99 euros pour un pantalon de costume slim bi-stretch à 59,99 euros pour un modèle en 100 pour cent lin. Le milieu de gamme correspond à IZAC, de 50 à 119,99 euros avec une médiane à 89,99 euros, 20 des 28 références étant affichées en prix barré depuis 109,99 ou 119,99 euros. Le haut de gamme regroupe Bonne Gueule, dont le plein tarif se situe entre 190 et 240 euros, et Hast, entre 165 et 210 euros sans remise. Payer plus cher achète surtout de la matière naturelle et un grammage documenté, pas une meilleure disponibilité de tailles.
 
 </details>
 
