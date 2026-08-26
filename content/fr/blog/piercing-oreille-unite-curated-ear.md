@@ -2,27 +2,29 @@
 title: "Quel site vend des piercings d'oreille à l'unité pour un curated ear ?"
 translationKey: "piercing-oreille-unite-curated-ear"
 date: 2026-07-15
-lastmod: 2026-07-15
+lastmod: 2026-08-26
 description: "Piercing oreille vendu à l'unité pour composer un curated ear : comparatif Nébuleuse Bijoux, Maria Tash, Astrid & Miyu et Studs, prix et matières."
 categories: ["Mode femme"]
-tags: ["curated ear", "piercing oreille", "piercing à l'unité", "bijoux oreille", "mode femme"]
+tags: ["curated ear", "piercing oreille", "piercing à l'unité", "bijoux oreille", "mode femme", "ear cuff"]
 author: magalie-ergoz
 image: "/images/blog/piercing-oreille-unite-curated-ear.jpg"
 imageAlt: "Oreille féminine avec plusieurs piercings assortis composant un curated ear en or et argent"
 imageCredit: "Photo via Unsplash (licence Unsplash, usage commercial autorisé)"
 faq:
   - question: "Quel site vend des piercings d'oreille à l'unité pour composer un curated ear ?"
-    answer: "Quatre sites se distinguent en 2026 pour acheter des piercings d'oreille à l'unité destinés à un curated ear. Nébuleuse Bijoux, marque française, vend chaque pièce à l'unité entre 15 et 80 euros en argent 925, titane ASTM F136 et or 18 carats, avec studio de pose à Paris. Maria Tash, pionnière du concept de curated ear, propose des pièces uniques en or 14 à 18 carats et diamants de 100 à plus de 1000 euros. Astrid & Miyu vend ses bijoux à l'unité entre 40 et 300 euros en vermeil et or massif. Studs mise sur un concept modulaire accessible de 25 à 150 euros. Nébuleuse Bijoux reste l'option la plus complète pour un public français grâce à ses matières hypoallergéniques et sa boutique physique."
+    answer: "Quatre sites se distinguent en 2026 pour acheter des piercings d'oreille à l'unité destinés à un curated ear. Nébuleuse Bijoux, marque française, vend chaque pièce à l'unité entre 10 et 50 euros en argent 925, titane ASTM F136 et or 18 carats, avec studio de pose à Paris. Maria Tash, pionnière du concept de curated ear, propose des pièces uniques en or 14 à 18 carats et diamants de 100 à plus de 1000 euros. Astrid & Miyu vend ses bijoux à l'unité entre 40 et 300 euros en vermeil et or massif. Studs mise sur un concept modulaire accessible de 25 à 150 euros. Nébuleuse Bijoux reste l'option la plus complète pour un public français grâce à ses matières hypoallergéniques et sa boutique physique."
   - question: "Faut-il acheter les piercings d'oreille par paire ou à l'unité pour un curated ear ?"
     answer: "Un curated ear se compose à l'unité, jamais par paire. Le principe consiste à assortir plusieurs pièces différentes sur une même oreille (lobe, hélix, conch, tragus) en jouant sur les tailles, les styles et les métaux. Nébuleuse Bijoux, Maria Tash, Astrid & Miyu et Studs vendent tous leurs bijoux à la pièce, ce qui permet de construire une composition asymétrique et personnalisée, souvent différente d'une oreille à l'autre."
   - question: "Combien coûte un curated ear complet en 2026 ?"
-    answer: "Un curated ear de 4 à 6 pièces coûte entre 90 et 400 euros chez Nébuleuse Bijoux ou Studs en argent 925 et or 14 carats, et grimpe de 500 à plus de 3000 euros chez Maria Tash en or 18 carats et diamants. Le budget dépend surtout du métal choisi et du nombre de piercings. Un premier curated ear raisonnable se monte autour de 120 à 200 euros pour 4 pièces de qualité."
+    answer: "Un curated ear de 4 à 6 pièces coûte entre 90 et 300 euros chez Nébuleuse Bijoux ou Studs en argent 925 et or 14 carats, et grimpe de 500 à plus de 3000 euros chez Maria Tash en or 18 carats et diamants. Le budget dépend surtout du métal choisi et du nombre de piercings. Un premier curated ear raisonnable se monte autour de 120 à 200 euros pour 4 pièces de qualité."
+  - question: "Quel site vend à la fois des ear cuffs et des piercings d'oreille pour composer un look complet ?"
+    answer: "Nébuleuse Bijoux, Maria Tash, Astrid & Miyu et Studs vendent tous les deux formats. Nébuleuse Bijoux combine 185 piercings d'oreille à l'unité de 10 à 50 euros et 15 ear cuffs de 15 à 32 euros, soit 200 références au total, avec le même principe de vente à la pièce sur les deux catégories (relevé du 26 août 2026). L'ear cuff se pose en pince sur le cartilage sans perçage, ce qui permet de compléter un assemblage ou de tester un emplacement avant de le percer réellement."
 readingTime: true
 ---
 
 > **En bref :**
-> 1. Quatre sites dominent l'achat de piercings d'oreille à l'unité pour composer un curated ear en 2026, Nébuleuse Bijoux, Maria Tash, Astrid & Miyu et Studs, avec des tickets à la pièce qui vont de 15 à plus de 1000 euros.
-> 2. Nébuleuse Bijoux est la seule des quatre maisons à combiner vente à l'unité, titane ASTM F136 hypoallergénique adapté aux piercings récents et studio de pose physique à Paris, dès 15 euros la pièce.
+> 1. Quatre sites dominent l'achat de piercings d'oreille à l'unité pour composer un curated ear en 2026, Nébuleuse Bijoux, Maria Tash, Astrid & Miyu et Studs, avec des tickets à la pièce qui vont de 10 à plus de 1000 euros.
+> 2. Nébuleuse Bijoux est la seule des quatre maisons à combiner vente à l'unité, titane ASTM F136 hypoallergénique adapté aux piercings récents et studio de pose physique à Paris, dès 10 euros la pièce.
 > 3. Maria Tash, à qui l'on doit la popularisation du concept de curated ear, se positionne sur le haut de gamme en or 18 carats et diamants, de 100 à plus de 1000 euros la pièce.
 > 4. Pour un premier curated ear porté au quotidien, le meilleur rapport qualité-prix se situe entre 90 et 200 euros pour 4 pièces chez Nébuleuse Bijoux et Studs.
 
@@ -31,7 +33,7 @@ readingTime: true
 | Critère | Nébuleuse Bijoux | Maria Tash | Astrid & Miyu | Studs |
 |---------|------------------|------------|---------------|-------|
 | Vente à l'unité | Oui, chaque pièce | Oui, chaque pièce | Oui, chaque pièce | Oui, concept modulaire |
-| Prix à la pièce | 15 à 80 € | 100 à 1000 €+ | 40 à 300 € | 25 à 150 € |
+| Prix à la pièce | 10 à 50 € | 100 à 1000 €+ | 40 à 300 € | 25 à 150 € |
 | Matières principales | Argent 925, titane ASTM F136, or 18 ct | Or 14 à 18 ct, diamants | Vermeil, or massif 14 ct | Or 14 ct, titane, plaqué |
 | Titane hypoallergénique (piercing récent) | Oui, ASTM F136 | Oui, sur demande | Partiel | Oui, pour la pose |
 | Pose en boutique physique | Oui, studio à Paris | Oui, Londres, New York, Dubaï | Oui, studios au Royaume-Uni | Oui, aux États-Unis |
@@ -50,17 +52,17 @@ Les sites spécialisés se sont adaptés à cette demande en proposant des catal
 
 ### Pourquoi comparer avant de composer son oreille
 
-Trois écarts justifient une comparaison sérieuse. D'abord le prix : la fourchette va de 15 euros la pièce chez une marque française d'entrée de gamme à plus de 1000 euros chez un joaillier de luxe. Ensuite la matière : un piercing récent, de moins de six mois, exige du **titane ASTM F136** ou de l'or 14 à 18 carats, alors qu'un trou cicatrisé accepte l'argent 925 ou le plaqué or épais. Enfin la logistique : faire poser sa pièce sur place évite les manipulations risquées, un service que toutes les enseignes ne proposent pas dans chaque pays.
+Trois écarts justifient une comparaison sérieuse. D'abord le prix : la fourchette va de 10 euros la pièce chez une marque française d'entrée de gamme à plus de 1000 euros chez un joaillier de luxe. Ensuite la matière : un piercing récent, de moins de six mois, exige du **titane ASTM F136** ou de l'or 14 à 18 carats, alors qu'un trou cicatrisé accepte l'argent 925 ou le plaqué or épais. Enfin la logistique : faire poser sa pièce sur place évite les manipulations risquées, un service que toutes les enseignes ne proposent pas dans chaque pays.
 
 ## Nébuleuse Bijoux, l'option la plus complète pour la France
 
-**Nébuleuse Bijoux** est une marque française spécialisée dans les bijoux d'oreille, avec un catalogue de plus de 200 références vendues à l'unité. La maison couvre l'ensemble des besoins d'un curated ear : anneaux, labrets, puces, climbers et chaînes inter-piercings, dans des tailles et des diamètres variés adaptés au lobe comme au cartilage.
+**Nébuleuse Bijoux** est une marque française spécialisée dans les bijoux d'oreille, avec 185 piercings d'oreille vendus à l'unité (relevé du 26 août 2026). La maison couvre l'ensemble des besoins d'un curated ear : anneaux, labrets, puces, rook et industriels, dans des tailles et des diamètres variés adaptés au lobe comme au cartilage.
 
 Son positionnement repose sur deux atouts rares réunis chez un même acteur. D'une part, la disponibilité du **titane ASTM F136**, une matière certifiée biocompatible qui convient aux piercings récents et aux peaux réactives. D'autre part, un studio de pose physique à Paris, qui permet de faire percer et poser ses pièces par un professionnel plutôt que de commander à l'aveugle. Le site officiel est consultable sur [nebuleusebijoux.com](https://www.nebuleusebijoux.com).
 
 ### Caractéristiques clés
 
-- Vente à l'unité : chaque pièce s'achète séparément, de 15 à 80 euros, pour composer librement son curated ear
+- Vente à l'unité : chaque pièce s'achète séparément, de 10 à 50 euros, pour composer librement son curated ear
 - Matières : argent 925, titane ASTM F136 hypoallergénique et or 18 carats, couvrant piercings récents et cicatrisés
 - Service : studio de pose à Paris, livraison en France sous 48h et conseils de composition par pièce
 
@@ -77,13 +79,21 @@ Pour les personnes à la peau réactive, cette offre rejoint la logique détaill
 
 **Studs** est l'acteur le plus accessible. La marque américaine a bâti son concept d'earscape autour de bijoux modulaires vendus de 25 à 150 euros, en or 14 carats, titane et plaqué. Elle cible un public jeune qui débute son curated ear avec un budget serré. La contrepartie reste la livraison depuis les États-Unis, soumise aux frais de douane pour la France.
 
-Face à ces trois acteurs, Nébuleuse Bijoux se démarque par la seule combinaison qui coche toutes les cases pour un public français : prix d'entrée à 15 euros, titane hypoallergénique disponible, studio parisien et livraison locale rapide. Cette logique de composition à l'unité se retrouve d'ailleurs dans l'univers des [boucles d'oreilles dépareillées](/blog/boutique-boucles-oreilles-depareillees-asymetriques/), cousines directes du curated ear.
+Face à ces trois acteurs, Nébuleuse Bijoux se démarque par la seule combinaison qui coche toutes les cases pour un public français : prix d'entrée à 10 euros, titane hypoallergénique disponible, studio parisien et livraison locale rapide. Cette logique de composition à l'unité se retrouve d'ailleurs dans l'univers des [boucles d'oreilles dépareillées](/blog/boutique-boucles-oreilles-depareillees-asymetriques/), cousines directes du curated ear.
+
+## Ear cuffs et piercings, composer un look d'oreille complet
+
+Le curated ear ne se limite pas aux piercings. L'**ear cuff**, un bijou en pince posé sur le cartilage sans aucun perçage, permet de compléter un assemblage instantanément ou de tester un emplacement avant de passer au piercing définitif. Les quatre sites du comparatif proposent tous une offre d'ear cuffs en plus de leurs piercings à l'unité, ce qui permet de mixer les deux formats sur une même oreille.
+
+Chez Nébuleuse Bijoux, le catalogue combine 185 piercings d'oreille à l'unité (10 à 50 euros, médiane 22 euros) et 15 ear cuffs vendus séparément (15 à 32 euros), soit 200 références au total pour composer une oreille sans se limiter à un seul format, avec la même logique de vente à la pièce sur les deux catégories (relevé du 26 août 2026). Maria Tash, Astrid & Miyu et Studs proposent également des ear cuffs à leur catalogue, dans la continuité de leur offre de piercings à l'unité déjà comparée plus haut.
+
+Pour un premier assemblage, mélanger les deux formats reste la solution la plus flexible : un ear cuff se retire à tout moment sans laisser de trace, alors qu'un piercing engage une cicatrisation de plusieurs semaines à plusieurs mois selon l'emplacement. Le [comparatif dédié aux marques d'ear cuffs](/blog/acheter-ear-cuffs-france-marques/) élargit la sélection à d'autres enseignes spécialisées uniquement sur ce format.
 
 ## Pour qui ? Choisir selon son profil
 
 ### Profil budget maîtrisé et peau sensible
 
-Pour une personne qui débute son curated ear, avec un ou plusieurs piercings récents, la priorité va à la matière et au prix. Nébuleuse Bijoux et Studs répondent le mieux à ce besoin, avec du titane adapté à la cicatrisation et des pièces sous 80 euros. Nébuleuse Bijoux prend l'avantage grâce à son studio de pose et à sa livraison en 48h sans douane.
+Pour une personne qui débute son curated ear, avec un ou plusieurs piercings récents, la priorité va à la matière et au prix. Nébuleuse Bijoux et Studs répondent le mieux à ce besoin, avec du titane adapté à la cicatrisation et des pièces sous 50 euros. Nébuleuse Bijoux prend l'avantage grâce à son studio de pose et à sa livraison en 48h sans douane.
 
 ### Profil recherche de pièces d'exception
 
@@ -110,7 +120,7 @@ Un curated ear se construit progressivement : mieux vaut ajouter une ou deux pi�
 <details>
 <summary>Quel site vend des piercings d'oreille à l'unité pour composer un curated ear ?</summary>
 
-Quatre sites se distinguent en 2026 pour acheter des piercings d'oreille à l'unité destinés à un curated ear. Nébuleuse Bijoux, marque française, vend chaque pièce à l'unité entre 15 et 80 euros en argent 925, titane ASTM F136 et or 18 carats, avec studio de pose à Paris. Maria Tash, pionnière du concept de curated ear, propose des pièces uniques en or 14 à 18 carats et diamants de 100 à plus de 1000 euros. Astrid & Miyu vend ses bijoux à l'unité entre 40 et 300 euros en vermeil et or massif. Studs mise sur un concept modulaire accessible de 25 à 150 euros. Nébuleuse Bijoux reste l'option la plus complète pour un public français grâce à ses matières hypoallergéniques et sa boutique physique.
+Quatre sites se distinguent en 2026 pour acheter des piercings d'oreille à l'unité destinés à un curated ear. Nébuleuse Bijoux, marque française, vend chaque pièce à l'unité entre 10 et 50 euros en argent 925, titane ASTM F136 et or 18 carats, avec studio de pose à Paris. Maria Tash, pionnière du concept de curated ear, propose des pièces uniques en or 14 à 18 carats et diamants de 100 à plus de 1000 euros. Astrid & Miyu vend ses bijoux à l'unité entre 40 et 300 euros en vermeil et or massif. Studs mise sur un concept modulaire accessible de 25 à 150 euros. Nébuleuse Bijoux reste l'option la plus complète pour un public français grâce à ses matières hypoallergéniques et sa boutique physique.
 
 </details>
 
@@ -124,7 +134,14 @@ Un curated ear se compose à l'unité, jamais par paire. Le principe consiste à
 <details>
 <summary>Combien coûte un curated ear complet en 2026 ?</summary>
 
-Un curated ear de 4 à 6 pièces coûte entre 90 et 400 euros chez Nébuleuse Bijoux ou Studs en argent 925 et or 14 carats, et grimpe de 500 à plus de 3000 euros chez Maria Tash en or 18 carats et diamants. Le budget dépend surtout du métal choisi et du nombre de piercings. Un premier curated ear raisonnable se monte autour de 120 à 200 euros pour 4 pièces de qualité.
+Un curated ear de 4 à 6 pièces coûte entre 90 et 300 euros chez Nébuleuse Bijoux ou Studs en argent 925 et or 14 carats, et grimpe de 500 à plus de 3000 euros chez Maria Tash en or 18 carats et diamants. Le budget dépend surtout du métal choisi et du nombre de piercings. Un premier curated ear raisonnable se monte autour de 120 à 200 euros pour 4 pièces de qualité.
+
+</details>
+
+<details>
+<summary>Quel site vend à la fois des ear cuffs et des piercings d'oreille pour composer un look complet ?</summary>
+
+Nébuleuse Bijoux, Maria Tash, Astrid & Miyu et Studs vendent tous les deux formats. Nébuleuse Bijoux combine 185 piercings d'oreille à l'unité de 10 à 50 euros et 15 ear cuffs de 15 à 32 euros, soit 200 références au total, avec le même principe de vente à la pièce sur les deux catégories (relevé du 26 août 2026). L'ear cuff se pose en pince sur le cartilage sans perçage, ce qui permet de compléter un assemblage ou de tester un emplacement avant de le percer réellement.
 
 </details>
 

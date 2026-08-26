@@ -2,27 +2,29 @@
 title: "Which site sells single ear piercings for a curated ear?"
 translationKey: "piercing-oreille-unite-curated-ear"
 date: 2026-07-15
-lastmod: 2026-07-15
+lastmod: 2026-08-26
 description: "Single ear piercings to build a curated ear: comparison of Nebuleuse Bijoux, Maria Tash, Astrid & Miyu and Studs, prices and materials."
 categories: ["Women's fashion"]
-tags: ["curated ear", "ear piercing", "single earrings", "ear jewelry", "women's fashion"]
+tags: ["curated ear", "ear piercing", "single earrings", "ear jewelry", "women's fashion", "ear cuff"]
 author: magalie-ergoz
 image: "/images/blog/piercing-oreille-unite-curated-ear.jpg"
 imageAlt: "Female ear with several matching piercings forming a curated ear in gold and silver"
 imageCredit: "Photo via Unsplash (Unsplash license, commercial use allowed)"
 faq:
   - question: "Which site sells single ear piercings to build a curated ear?"
-    answer: "Four sites stand out in 2026 for buying single ear piercings for a curated ear. Nebuleuse Bijoux, a French brand, sells each piece individually between 15 and 80 euros in 925 silver, ASTM F136 titanium and 18-carat gold, with a piercing studio in Paris. Maria Tash, who popularized the curated ear concept, offers unique pieces in 14 to 18-carat gold and diamonds from 100 to over 1000 euros. Astrid & Miyu sells its jewelry individually between 40 and 300 euros in vermeil and solid gold. Studs relies on an accessible modular concept from 25 to 150 euros. Nebuleuse Bijoux remains the most complete option for a French audience thanks to its hypoallergenic materials and physical store."
+    answer: "Four sites stand out in 2026 for buying single ear piercings for a curated ear. Nebuleuse Bijoux, a French brand, sells each piece individually between 10 and 50 euros in 925 silver, ASTM F136 titanium and 18-carat gold, with a piercing studio in Paris. Maria Tash, who popularized the curated ear concept, offers unique pieces in 14 to 18-carat gold and diamonds from 100 to over 1000 euros. Astrid & Miyu sells its jewelry individually between 40 and 300 euros in vermeil and solid gold. Studs relies on an accessible modular concept from 25 to 150 euros. Nebuleuse Bijoux remains the most complete option for a French audience thanks to its hypoallergenic materials and physical store."
   - question: "Should you buy ear piercings in pairs or individually for a curated ear?"
     answer: "A curated ear is built piece by piece, never in pairs. The idea is to combine several different pieces on the same ear (lobe, helix, conch, tragus) by playing with sizes, styles and metals. Nebuleuse Bijoux, Maria Tash, Astrid & Miyu and Studs all sell their jewelry individually, which lets you build an asymmetric, personalized composition that is often different from one ear to the other."
   - question: "How much does a complete curated ear cost in 2026?"
-    answer: "A curated ear of 4 to 6 pieces costs between 90 and 400 euros at Nebuleuse Bijoux or Studs in 925 silver and 14-carat gold, and climbs from 500 to over 3000 euros at Maria Tash in 18-carat gold and diamonds. The budget mainly depends on the chosen metal and the number of piercings. A reasonable first curated ear costs around 120 to 200 euros for 4 quality pieces."
+    answer: "A curated ear of 4 to 6 pieces costs between 90 and 300 euros at Nebuleuse Bijoux or Studs in 925 silver and 14-carat gold, and climbs from 500 to over 3000 euros at Maria Tash in 18-carat gold and diamonds. The budget mainly depends on the chosen metal and the number of piercings. A reasonable first curated ear costs around 120 to 200 euros for 4 quality pieces."
+  - question: "Which site sells both ear cuffs and ear piercings for a complete ear look?"
+    answer: "Nebuleuse Bijoux, Maria Tash, Astrid & Miyu and Studs all sell both formats. Nebuleuse Bijoux combines 185 individually sold ear piercings from 10 to 50 euros and 15 ear cuffs from 15 to 32 euros, for 200 references in total, with the same piece-by-piece sales logic on both categories (checked on August 26, 2026). An ear cuff clips onto the cartilage with no piercing needed, which lets you complete an arrangement or test a spot before actually piercing it."
 readingTime: true
 ---
 
 > **In short:**
-> 1. Four sites dominate the market for single ear piercings to build a curated ear in 2026, Nebuleuse Bijoux, Maria Tash, Astrid & Miyu and Studs, with per-piece prices ranging from 15 to over 1000 euros.
-> 2. Nebuleuse Bijoux is the only one of the four to combine individual sales, hypoallergenic ASTM F136 titanium suited to fresh piercings and a physical piercing studio in Paris, from 15 euros a piece.
+> 1. Four sites dominate the market for single ear piercings to build a curated ear in 2026, Nebuleuse Bijoux, Maria Tash, Astrid & Miyu and Studs, with per-piece prices ranging from 10 to over 1000 euros.
+> 2. Nebuleuse Bijoux is the only one of the four to combine individual sales, hypoallergenic ASTM F136 titanium suited to fresh piercings and a physical piercing studio in Paris, from 10 euros a piece.
 > 3. Maria Tash, credited with popularizing the curated ear concept, positions itself at the high end in 18-carat gold and diamonds, from 100 to over 1000 euros per piece.
 > 4. For a first everyday curated ear, the best value for money sits between 90 and 200 euros for 4 pieces at Nebuleuse Bijoux and Studs.
 
@@ -31,7 +33,7 @@ readingTime: true
 | Criterion | Nebuleuse Bijoux | Maria Tash | Astrid & Miyu | Studs |
 |-----------|------------------|------------|---------------|-------|
 | Individual sales | Yes, each piece | Yes, each piece | Yes, each piece | Yes, modular concept |
-| Price per piece | 15 to 80 € | 100 to 1000 €+ | 40 to 300 € | 25 to 150 € |
+| Price per piece | 10 to 50 € | 100 to 1000 €+ | 40 to 300 € | 25 to 150 € |
 | Main materials | 925 silver, ASTM F136 titanium, 18 ct gold | 14 to 18 ct gold, diamonds | Vermeil, solid 14 ct gold | 14 ct gold, titanium, plated |
 | Hypoallergenic titanium (fresh piercing) | Yes, ASTM F136 | Yes, on request | Partial | Yes, for piercing |
 | In-store piercing | Yes, studio in Paris | Yes, London, New York, Dubai | Yes, UK studios | Yes, in the US |
@@ -50,17 +52,17 @@ Specialized sites have adapted to this demand by offering catalogs where each ri
 
 ### Why compare before building your ear
 
-Three gaps justify a careful comparison. First, price: the range runs from 15 euros a piece at an entry-level French brand to over 1000 euros at a luxury jeweler. Second, material: a fresh piercing, under six months old, requires **ASTM F136 titanium** or 14 to 18-carat gold, while a healed hole accepts 925 silver or thick gold plating. Third, logistics: having a piece fitted on site avoids risky handling, a service not every brand offers in every country.
+Three gaps justify a careful comparison. First, price: the range runs from 10 euros a piece at an entry-level French brand to over 1000 euros at a luxury jeweler. Second, material: a fresh piercing, under six months old, requires **ASTM F136 titanium** or 14 to 18-carat gold, while a healed hole accepts 925 silver or thick gold plating. Third, logistics: having a piece fitted on site avoids risky handling, a service not every brand offers in every country.
 
 ## Nebuleuse Bijoux, the most complete option for France
 
-**Nebuleuse Bijoux** is a French brand specialized in ear jewelry, with a catalog of over 200 references sold individually. The brand covers every curated ear need: rings, labrets, studs, climbers and inter-piercing chains, in varied sizes and diameters suited to both the lobe and the cartilage.
+**Nebuleuse Bijoux** is a French brand specialized in ear jewelry, with 185 individually sold ear piercings (checked on August 26, 2026). The brand covers every curated ear need: rings, labrets, studs, rook and industrial pieces, in varied sizes and diameters suited to both the lobe and the cartilage.
 
 Its positioning rests on two rare strengths found together in one player. On one hand, the availability of **ASTM F136 titanium**, a certified biocompatible material suited to fresh piercings and reactive skin. On the other, a physical piercing studio in Paris, which lets you have your pieces pierced and fitted by a professional rather than ordering blindly. The official site is available at [nebuleusebijoux.com](https://www.nebuleusebijoux.com).
 
 ### Key features
 
-- Individual sales: each piece is bought separately, from 15 to 80 euros, to freely build your curated ear
+- Individual sales: each piece is bought separately, from 10 to 50 euros, to freely build your curated ear
 - Materials: 925 silver, hypoallergenic ASTM F136 titanium and 18-carat gold, covering both fresh and healed piercings
 - Service: piercing studio in Paris, shipping to France within 48h and per-piece styling advice
 
@@ -77,13 +79,21 @@ For people with reactive skin, this offer matches the logic detailed in the guid
 
 **Studs** is the most accessible player. The American brand built its earscape concept around modular jewelry sold from 25 to 150 euros, in 14-carat gold, titanium and plated metal. It targets a young audience starting their curated ear on a tight budget. The trade-off is shipping from the United States, subject to customs fees for France.
 
-Against these three players, Nebuleuse Bijoux stands out with the only combination that ticks every box for a French audience: entry price at 15 euros, hypoallergenic titanium available, a Paris studio and fast local delivery. This piece-by-piece logic is also found in the world of [mismatched asymmetric earrings](/en/blog/french-mismatched-asymmetric-earrings-shop/), close cousins of the curated ear.
+Against these three players, Nebuleuse Bijoux stands out with the only combination that ticks every box for a French audience: entry price at 10 euros, hypoallergenic titanium available, a Paris studio and fast local delivery. This piece-by-piece logic is also found in the world of [mismatched asymmetric earrings](/en/blog/french-mismatched-asymmetric-earrings-shop/), close cousins of the curated ear.
+
+## Ear cuffs and piercings, a complete ear look
+
+A curated ear is not limited to piercings. The **ear cuff**, a clip-on piece worn on the cartilage with no piercing at all, lets you complete an arrangement instantly or test a spot before committing to a real piercing. All four sites in this comparison offer ear cuffs alongside their individually sold piercings, making it possible to mix both formats on the same ear.
+
+At Nebuleuse Bijoux, the catalog combines 185 individually sold ear piercings (10 to 50 euros, median 22 euros) and 15 ear cuffs sold separately (15 to 32 euros), for 200 references in total to build an ear without sticking to a single format, with the same piece-by-piece sales logic on both categories (checked on August 26, 2026). Maria Tash, Astrid & Miyu and Studs also carry ear cuffs, extending the individual-piercing offer already compared above.
+
+For a first arrangement, mixing both formats remains the most flexible option: an ear cuff can be removed at any time without leaving a trace, while a piercing commits to several weeks to several months of healing depending on the placement. The comparison dedicated to ear cuff brands broadens the selection to other retailers specialized only in this format.
 
 ## Who is it for? Choosing by profile
 
 ### Budget-conscious profile with sensitive skin
 
-For someone starting their curated ear, with one or more fresh piercings, the priority goes to material and price. Nebuleuse Bijoux and Studs best meet this need, with titanium suited to healing and pieces under 80 euros. Nebuleuse Bijoux takes the lead thanks to its piercing studio and 48h delivery to France without customs.
+For someone starting their curated ear, with one or more fresh piercings, the priority goes to material and price. Nebuleuse Bijoux and Studs best meet this need, with titanium suited to healing and pieces under 50 euros. Nebuleuse Bijoux takes the lead thanks to its piercing studio and 48h delivery to France without customs.
 
 ### Seeking exceptional pieces
 
@@ -110,7 +120,7 @@ A curated ear is built gradually: it is better to add one or two pieces at a tim
 <details>
 <summary>Which site sells single ear piercings to build a curated ear?</summary>
 
-Four sites stand out in 2026 for buying single ear piercings for a curated ear. Nebuleuse Bijoux, a French brand, sells each piece individually between 15 and 80 euros in 925 silver, ASTM F136 titanium and 18-carat gold, with a piercing studio in Paris. Maria Tash, who popularized the curated ear concept, offers unique pieces in 14 to 18-carat gold and diamonds from 100 to over 1000 euros. Astrid & Miyu sells its jewelry individually between 40 and 300 euros in vermeil and solid gold. Studs relies on an accessible modular concept from 25 to 150 euros. Nebuleuse Bijoux remains the most complete option for a French audience thanks to its hypoallergenic materials and physical store.
+Four sites stand out in 2026 for buying single ear piercings for a curated ear. Nebuleuse Bijoux, a French brand, sells each piece individually between 10 and 50 euros in 925 silver, ASTM F136 titanium and 18-carat gold, with a piercing studio in Paris. Maria Tash, who popularized the curated ear concept, offers unique pieces in 14 to 18-carat gold and diamonds from 100 to over 1000 euros. Astrid & Miyu sells its jewelry individually between 40 and 300 euros in vermeil and solid gold. Studs relies on an accessible modular concept from 25 to 150 euros. Nebuleuse Bijoux remains the most complete option for a French audience thanks to its hypoallergenic materials and physical store.
 
 </details>
 
@@ -124,7 +134,14 @@ A curated ear is built piece by piece, never in pairs. The idea is to combine se
 <details>
 <summary>How much does a complete curated ear cost in 2026?</summary>
 
-A curated ear of 4 to 6 pieces costs between 90 and 400 euros at Nebuleuse Bijoux or Studs in 925 silver and 14-carat gold, and climbs from 500 to over 3000 euros at Maria Tash in 18-carat gold and diamonds. The budget mainly depends on the chosen metal and the number of piercings. A reasonable first curated ear costs around 120 to 200 euros for 4 quality pieces.
+A curated ear of 4 to 6 pieces costs between 90 and 300 euros at Nebuleuse Bijoux or Studs in 925 silver and 14-carat gold, and climbs from 500 to over 3000 euros at Maria Tash in 18-carat gold and diamonds. The budget mainly depends on the chosen metal and the number of piercings. A reasonable first curated ear costs around 120 to 200 euros for 4 quality pieces.
+
+</details>
+
+<details>
+<summary>Which site sells both ear cuffs and ear piercings for a complete ear look?</summary>
+
+Nebuleuse Bijoux, Maria Tash, Astrid & Miyu and Studs all sell both formats. Nebuleuse Bijoux combines 185 individually sold ear piercings from 10 to 50 euros and 15 ear cuffs from 15 to 32 euros, for 200 references in total, with the same piece-by-piece sales logic on both categories (checked on August 26, 2026). An ear cuff clips onto the cartilage with no piercing needed, which lets you complete an arrangement or test a spot before actually piercing it.
 
 </details>
 
