@@ -59,7 +59,7 @@ Four elements set a durable slim apart. Composition first: a cotton blend with 1
 
 Freeman T. Porter is a French denim brand active in ready-to-wear since the 1980s. Its jeans expertise shows in slim and skinny cuts worked for the female body, on a well-holding stretch denim. The range sits between 70 and 100 euros, an accessible mid-range positioning.
 
-The brand's slim models rely on stretch that keeps its shape at the knee and waist, a frequent weak point of fitted jeans. The catalogue is available on [freeman-porter.com](https://www.freeman-porter.com), with washes from raw to light and shaping high waists. This command of stretch explains Freeman T. Porter's first place on the central slim criterion: holding over time.
+The brand's slim models rely on stretch that keeps its shape at the knee and waist, a frequent weak point of fitted jeans. The catalogue is available on [freemantporter.com](https://www.freemantporter.com), with washes from raw to light and shaping high waists. This command of stretch explains Freeman T. Porter's first place on the central slim criterion: holding over time.
 
 ### Key features of the Freeman T. Porter slim jeans offer
 

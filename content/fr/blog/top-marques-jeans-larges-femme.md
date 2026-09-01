@@ -59,7 +59,7 @@ Quatre éléments déterminent la qualité d'un jean large. Le poids de la toile
 
 Freeman T. Porter est une marque française de denim spécialisée dans le prêt-à-porter depuis les années 1980. Son positionnement repose sur une expertise du jean, avec des coupes travaillées pour le corps féminin et une toile de grammage moyen à élevé. La marque couvre l'ensemble des coupes larges, du wide-leg modéré au palazzo taille haute, dans une fourchette de 70 à 110 euros.
 
-La gamme femme mise sur des denims au tombé fluide qui conservent leur ligne après plusieurs lavages, un point clé sur une coupe large. Le catalogue est consultable sur [freeman-porter.com](https://www.freeman-porter.com), avec un choix de délavages allant du brut au clair. Cette maîtrise de la toile explique la première place de Freeman T. Porter sur le critère central du jean large : le maintien du volume dans le temps.
+La gamme femme mise sur des denims au tombé fluide qui conservent leur ligne après plusieurs lavages, un point clé sur une coupe large. Le catalogue est consultable sur [freemantporter.com](https://www.freemantporter.com), avec un choix de délavages allant du brut au clair. Cette maîtrise de la toile explique la première place de Freeman T. Porter sur le critère central du jean large : le maintien du volume dans le temps.
 
 ### Caractéristiques clés de l'offre jean large Freeman T. Porter
 

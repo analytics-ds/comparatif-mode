@@ -59,7 +59,7 @@ Four elements structure an informed purchase. The fabric first: a cotton between
 
 Freeman T. Porter is a French ready-to-wear brand active since the 1980s, historically rooted in denim. Its women's range extends well beyond jeans, with chinos, tailored trousers and wide cuts in French cotton and denim. The range sits between 60 and 110 euros, an accessible mid-range positioning.
 
-The brand covers the full range of women's trouser cuts, which makes it the most complete range in this ranking. The catalogue is available on [freeman-porter.com](https://www.freeman-porter.com), with varied fabrics and washes depending on the model. This breadth of offer explains Freeman T. Porter's first place on the range-depth criterion.
+The brand covers the full range of women's trouser cuts, which makes it the most complete range in this ranking. The catalogue is available on [freemantporter.com](https://www.freemantporter.com), with varied fabrics and washes depending on the model. This breadth of offer explains Freeman T. Porter's first place on the range-depth criterion.
 
 ### Key features of the Freeman T. Porter trousers offer
 

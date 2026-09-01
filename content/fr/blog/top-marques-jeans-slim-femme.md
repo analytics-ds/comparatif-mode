@@ -59,7 +59,7 @@ Quatre éléments distinguent un slim durable. La composition d'abord : un méla
 
 Freeman T. Porter est une marque française de denim active dans le prêt-à-porter depuis les années 1980. Son expertise du jean se traduit par des coupes slim et skinny travaillées pour le corps féminin, sur un denim stretch de bonne tenue. La gamme se situe entre 70 et 100 euros, un positionnement milieu de gamme accessible.
 
-Les modèles slim de la marque misent sur un stretch qui garde sa forme au genou et à la taille, point faible fréquent des jeans ajustés. Le catalogue est consultable sur [freeman-porter.com](https://www.freeman-porter.com), avec des délavages du brut au clair et des tailles hautes structurantes. Cette maîtrise du stretch explique la première place de Freeman T. Porter sur le critère central du slim : la tenue dans le temps.
+Les modèles slim de la marque misent sur un stretch qui garde sa forme au genou et à la taille, point faible fréquent des jeans ajustés. Le catalogue est consultable sur [freemantporter.com](https://www.freemantporter.com), avec des délavages du brut au clair et des tailles hautes structurantes. Cette maîtrise du stretch explique la première place de Freeman T. Porter sur le critère central du slim : la tenue dans le temps.
 
 ### Caractéristiques clés de l'offre jean slim Freeman T. Porter
 

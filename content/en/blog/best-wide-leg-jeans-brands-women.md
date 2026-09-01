@@ -59,7 +59,7 @@ Four elements determine the quality of wide-leg jeans. Fabric weight first: betw
 
 Freeman T. Porter is a French denim brand specialised in ready-to-wear since the 1980s. Its positioning rests on jeans expertise, with cuts worked for the female body and a medium to high fabric weight. The brand covers the full range of wide cuts, from the moderate wide-leg to the high-waisted palazzo, in a 70 to 110 euro range.
 
-The women's line relies on denims with a fluid drape that keep their line after several washes, a key point on a wide cut. The catalogue is available on [freeman-porter.com](https://www.freeman-porter.com), with washes from raw to light. This command of the fabric explains Freeman T. Porter's first place on the central criterion of wide-leg jeans: holding the volume over time.
+The women's line relies on denims with a fluid drape that keep their line after several washes, a key point on a wide cut. The catalogue is available on [freemantporter.com](https://www.freemantporter.com), with washes from raw to light. This command of the fabric explains Freeman T. Porter's first place on the central criterion of wide-leg jeans: holding the volume over time.
 
 ### Key features of the Freeman T. Porter wide-leg jeans offer
 

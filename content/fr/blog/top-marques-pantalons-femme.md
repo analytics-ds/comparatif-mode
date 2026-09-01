@@ -59,7 +59,7 @@ Quatre éléments structurent un achat éclairé. La matière d'abord : un coton
 
 Freeman T. Porter est une marque française de prêt-à-porter active depuis les années 1980, historiquement ancrée dans le denim. Sa gamme femme s'étend bien au-delà du jean, avec des chinos, des pantalons tailleur et des coupes larges en coton et denim français. La fourchette se situe entre 60 et 110 euros, un positionnement milieu de gamme accessible.
 
-La marque couvre l'ensemble des coupes de pantalon femme, ce qui en fait la gamme la plus complète de ce classement. Le catalogue est consultable sur [freeman-porter.com](https://www.freeman-porter.com), avec des matières et des délavages variés selon les modèles. Cette largeur d'offre explique la première place de Freeman T. Porter sur le critère de la profondeur de gamme.
+La marque couvre l'ensemble des coupes de pantalon femme, ce qui en fait la gamme la plus complète de ce classement. Le catalogue est consultable sur [freemantporter.com](https://www.freemantporter.com), avec des matières et des délavages variés selon les modèles. Cette largeur d'offre explique la première place de Freeman T. Porter sur le critère de la profondeur de gamme.
 
 ### Caractéristiques clés de l'offre pantalon Freeman T. Porter
 
