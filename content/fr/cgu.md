@@ -1,41 +1,69 @@
 ---
-title: "Conditions generales d'utilisation"
-description: "Conditions generales d'utilisation de Comparatif mode : acceptation, acces, responsabilite, liens externes, modifications."
+title: "Conditions générales d'utilisation"
+description: "Conditions générales d'utilisation de Comparatif mode : accès au site, portée des contenus, responsabilité, propriété intellectuelle."
+slug: "cgu"
 translationKey: "terms-of-service"
+date: 2026-09-08
+lastmod: 2026-09-08
 ---
-
 ## Objet
 
-Les presentes conditions generales d'utilisation (CGU) regissent l'utilisation du site Comparatif mode, accessible a l'adresse https://comparatif-mode.fr.
+Les présentes conditions générales d'utilisation définissent les modalités d'accès et d'utilisation du site Comparatif mode, accessible à l'adresse https://comparatif-mode.com/.
 
 ## Acceptation
 
-L'acces et l'utilisation du site impliquent l'acceptation pleine et entiere des presentes CGU. Si vous n'acceptez pas ces conditions, merci de ne pas utiliser le site.
+L'accès au site et sa consultation impliquent l'acceptation pleine et entière des présentes conditions. Si vous ne les acceptez pas, il vous est demandé de ne pas utiliser le site.
 
-## Acces au site
+## Accès au site
 
-L'acces au site est gratuit et ouvert a toute personne disposant d'une connexion internet. Les eventuels couts d'acces et d'utilisation du reseau sont a la charge de l'utilisateur.
+L'accès au site est gratuit et ouvert à toute personne disposant d'un accès à internet. Les frais d'équipement et de connexion restent à la charge de l'utilisateur, qui s'assure de la compatibilité de son matériel.
 
-Comparatif mode s'efforce de maintenir le site accessible en permanence, mais ne peut garantir une disponibilite totale, notamment en cas de maintenance, incident technique ou cas de force majeure.
+L'éditeur s'efforce de maintenir le site accessible en permanence, sans que cela constitue une obligation de résultat. L'accès peut être interrompu, notamment pour maintenance, en cas d'incident technique, de défaillance d'un prestataire ou de force majeure. Aucune assistance technique n'est garantie.
 
-## Responsabilite editoriale
+## Nature et portée des contenus
 
-Les articles publies sur Comparatif mode sont rediges avec le plus grand soin. Neanmoins, Comparatif mode ne saurait etre tenu responsable des erreurs, omissions, ou interpretations qui pourraient resulter de leur lecture.
+Les contenus publiés sur Comparatif mode ont une finalité d'information générale. Ils sont rédigés avec soin, à partir de sources que l'éditeur estime fiables, et actualisés selon les moyens disponibles.
 
-Les informations sur les produits et les prix sont fournies a titre indicatif. Ils peuvent evoluer independamment de notre volonte. Nous recommandons de verifier les caracteristiques et prix directement sur les sites des marques avant tout achat.
+Ils ne constituent pas un conseil personnalisé et ne remplacent pas l'avis d'un professionnel qualifié. Les informations relatives à des produits, des services, des tarifs ou des disponibilités sont données à titre indicatif et peuvent évoluer indépendamment de la volonté de l'éditeur. Il est recommandé de les vérifier auprès de la source concernée avant toute décision.
 
-## Liens externes
+## Responsabilité
 
-Le site peut contenir des liens vers des sites tiers. Comparatif mode n'exerce aucun controle sur ces sites et decline toute responsabilite quant a leur contenu, leurs pratiques ou leur politique de confidentialite.
+Malgré le soin apporté à la rédaction, des inexactitudes ou des omissions peuvent subsister. L'éditeur se réserve le droit de corriger tout contenu dès qu'une erreur est portée à sa connaissance, et invite les lecteurs à signaler celles qu'ils constatent à contact@comparatif-mode.com.
 
-## Propriete intellectuelle
+L'utilisation des informations publiées relève de la seule responsabilité de l'utilisateur. L'éditeur ne saurait être tenu responsable des dommages indirects résultant de l'accès au site ou de son utilisation, notamment d'une perte de données, d'une perte d'exploitation ou d'un préjudice commercial.
 
-L'ensemble des contenus du site (textes, images, logos) est protege par le droit d'auteur. Toute reproduction, totale ou partielle, est interdite sans autorisation prealable.
+## Obligations de l'utilisateur
 
-## Modifications
+L'utilisateur s'engage à ne pas utiliser le site à des fins illicites et à ne pas porter atteinte à son fonctionnement. Sont notamment interdites toute tentative d'accès non autorisé aux systèmes, toute action visant à surcharger ou à dégrader le service, et la diffusion de contenus contraires à la loi par les moyens de communication mis à disposition.
 
-Comparatif mode se reserve le droit de modifier les presentes CGU a tout moment. Les modifications entrent en vigueur des leur publication sur le site.
+Lorsque le site permet le dépôt de contributions, l'utilisateur garantit qu'il en détient les droits, qu'elles ne portent atteinte ni aux droits des tiers ni à l'ordre public, et qu'elles ne comportent aucune donnée personnelle concernant un tiers sans son accord.
+
+## Propriété intellectuelle
+
+L'ensemble des éléments composant le site est protégé par le droit de la propriété intellectuelle. Toute reproduction ou représentation, totale ou partielle, est interdite sans autorisation écrite préalable, en dehors des usages permis par la loi, notamment la courte citation accompagnée de la mention de la source et d'un lien vers la page d'origine, ainsi que la reproduction à usage strictement privé.
+
+## Liens hypertextes
+
+Le site propose des liens vers des ressources externes, à titre documentaire. L'éditeur n'exerce aucun contrôle sur leur contenu, leurs conditions d'utilisation ou leurs pratiques en matière de données personnelles, et décline toute responsabilité à cet égard.
+
+La création d'un lien vers Comparatif mode est libre et ne requiert pas d'autorisation préalable, dès lors qu'elle ne porte pas atteinte à l'image du site et n'induit pas de confusion sur l'origine des contenus.
+
+## Signalement d'un contenu
+
+Toute demande de retrait ou de rectification peut être adressée à contact@comparatif-mode.com. Elle précise la page concernée, la nature de l'atteinte invoquée et les éléments qui la justifient. Les demandes fondées sont traitées dans les meilleurs délais.
+
+## Données personnelles
+
+Le traitement des données personnelles est décrit dans la politique de confidentialité du site, qui fait partie intégrante des présentes conditions.
+
+## Modification des conditions
+
+L'éditeur peut modifier les présentes conditions à tout moment. La version applicable est celle publiée sur cette page au moment de la consultation.
+
+## Divisibilité
+
+Si une stipulation des présentes conditions était jugée nulle ou inapplicable, les autres stipulations conserveraient leur pleine valeur.
 
 ## Droit applicable
 
-Les presentes CGU sont regies par le droit francais. Tout litige releve de la competence exclusive des tribunaux francais.
+Les présentes conditions sont régies par le droit français. À défaut de résolution amiable, tout litige relève de la compétence des tribunaux français.

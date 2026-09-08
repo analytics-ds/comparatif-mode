@@ -1,35 +1,54 @@
 ---
-title: "Mentions legales"
-description: "Mentions legales de Comparatif mode : editeur, hebergeur, directeur de publication et informations requises par la loi francaise."
+title: "Mentions légales"
+description: "Mentions légales de Comparatif mode : éditeur, directeur de la publication, hébergement, propriété intellectuelle et droit applicable."
+slug: "mentions-legales"
 translationKey: "legal-notice"
+date: 2026-09-08
+lastmod: 2026-09-08
 ---
+## Éditeur du site
 
-## Editeur du site
+Le site Comparatif mode, accessible à l'adresse https://comparatif-mode.com/, est édité par une personne physique exerçant en tant qu'éditeur de contenu indépendant.
 
-Comparatif mode est edite par une personne physique exercant en tant qu'editeur de contenu independant.
-
-**Contact editorial** : contact@comparatif-mode.fr
+**Contact éditorial** : contact@comparatif-mode.com
 
 ## Directeur de la publication
 
-Le directeur de la publication est le responsable du site Comparatif mode.
+Le directeur de la publication est le responsable éditorial du site Comparatif mode.
 
-## Hebergement
+## Hébergement
 
-Le site est heberge par GitHub, Inc.
-**Adresse** : 88 Colin P Kelly Jr St, San Francisco, CA 94107, Etats-Unis
+Le site est hébergé par GitHub, Inc.
+
+**Adresse** : 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis
 **Site** : https://github.com
 
-## Propriete intellectuelle
+## Nature du site
 
-L'ensemble du contenu publie sur Comparatif mode (articles, comparatifs, guides) est protege par le droit d'auteur. Toute reproduction, meme partielle, est interdite sans autorisation ecrite prealable.
+Comparatif mode est un site éditorial indépendant. Il publie des contenus d'information, des guides et des comparatifs à visée documentaire. Ces contenus n'ont pas valeur de conseil personnalisé et ne se substituent pas à l'avis d'un professionnel qualifié.
 
-Les marques, logos et noms de produits cites restent la propriete de leurs detenteurs respectifs. Leur mention dans les articles releve du droit de citation a des fins d'information editoriale.
+## Propriété intellectuelle
 
-## Credit photos
+L'ensemble des contenus publiés sur Comparatif mode (textes, images, éléments graphiques, structure et mise en page) est protégé par le droit d'auteur. Toute reproduction ou représentation, même partielle, est interdite sans autorisation écrite préalable, en dehors des usages permis par la loi, notamment la courte citation accompagnée de la mention de la source et d'un lien vers la page d'origine.
 
-Les images utilisees sur ce site proviennent soit de productions originales, soit de sources libres de droits (Openverse, Wikimedia, Flickr sous licences Creative Commons). Le credit photographique est mentionne sous chaque image lorsque la licence l'exige.
+## Marques et droit de citation
+
+Les marques, dénominations commerciales, logos et noms de produits cités restent la propriété de leurs détenteurs respectifs. Leur mention dans les contenus relève du droit de citation, à des fins d'information éditoriale. Elle n'implique aucun lien de partenariat ni aucune approbation de leur part, sauf lorsque cela est explicitement indiqué.
+
+## Crédits photographiques
+
+Les visuels utilisés proviennent de productions originales ou de banques d'images libres de droits. Le crédit est indiqué à proximité de l'image lorsque la licence l'exige.
+
+## Liens hypertextes
+
+Le site renvoie vers des ressources externes à titre documentaire. L'éditeur n'exerce aucun contrôle sur ces ressources et décline toute responsabilité quant à leur contenu.
+
+La mise en place d'un lien vers Comparatif mode est libre et ne requiert pas d'autorisation préalable, dès lors qu'elle ne porte pas atteinte à l'image du site et n'induit pas de confusion sur l'origine des contenus. L'éditeur se réserve le droit de demander le retrait d'un lien qu'il estime contraire à l'objet du site.
+
+## Signalement
+
+Toute personne estimant qu'un contenu publié porte atteinte à ses droits peut le signaler à contact@comparatif-mode.com, en précisant la page concernée, la nature de l'atteinte invoquée et les éléments qui la justifient. Les signalements fondés sont traités dans les meilleurs délais.
 
 ## Droit applicable
 
-Le site Comparatif mode est soumis au droit francais. Tout litige eventuel releve de la competence des tribunaux francais.
+Les présentes mentions légales sont régies par le droit français. Tout litige relève de la compétence des tribunaux français.

@@ -1,35 +1,54 @@
 ---
 title: "Legal notice"
-description: "Comparatif mode legal notice: publisher, host, publication director and information required by French law."
+description: "Legal notice for Comparatif mode: publisher, editorial manager, hosting, intellectual property and applicable law."
+slug: "legal-notice"
 translationKey: "legal-notice"
+date: 2026-09-08
+lastmod: 2026-09-08
 ---
-
 ## Site publisher
 
-Comparatif mode is published by an individual acting as an independent content publisher.
+Comparatif mode, available at https://comparatif-mode.com/, is published by a private individual acting as an independent content publisher.
 
-**Editorial contact**: contact@comparatif-mode.fr
+**Editorial contact**: contact@comparatif-mode.com
 
-## Publication director
+## Editorial manager
 
-The publication director is responsible for the Comparatif mode website.
+The editorial manager is the person responsible for the editorial content of Comparatif mode.
 
 ## Hosting
 
 The site is hosted by GitHub, Inc.
-**Address**: 88 Colin P Kelly Jr St, San Francisco, CA 94107, United States
+
+**Address**: 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, United States
 **Website**: https://github.com
+
+## Nature of the site
+
+Comparatif mode is an independent editorial website. It publishes informational content, guides and comparisons for documentary purposes. This content does not constitute personalised advice and is no substitute for the opinion of a qualified professional.
 
 ## Intellectual property
 
-All content published on Comparatif mode (articles, comparisons, guides) is protected by copyright. Any reproduction, even partial, is prohibited without prior written authorization.
+All content published on Comparatif mode (text, images, graphic elements, structure and layout) is protected by copyright. Any reproduction or representation, even partial, is prohibited without prior written permission, outside the uses permitted by law, in particular short quotations accompanied by an attribution and a link to the original page.
 
-Brands, logos and product names cited remain the property of their respective owners. Their mention in articles falls under the right to quote for editorial information purposes.
+## Trade marks and quotation
 
-## Photo credits
+The trade marks, trade names, logos and product names mentioned remain the property of their respective owners. Their mention in the content falls under the right of quotation, for editorial information purposes. It implies no partnership with, and no endorsement by, those owners unless expressly stated.
 
-Images used on this site come either from original productions or royalty-free sources (Openverse, Wikimedia, Flickr under Creative Commons licenses). Photo credit is mentioned under each image when the license requires it.
+## Image credits
+
+The visuals used are either original productions or come from royalty-free image libraries. Credit is displayed next to the image where the licence requires it.
+
+## Hyperlinks
+
+The site links to external resources for documentary purposes. The publisher exercises no control over those resources and accepts no liability for their content.
+
+Linking to Comparatif mode is free and requires no prior permission, provided it does not harm the image of the site and does not create confusion as to the origin of the content. The publisher reserves the right to request the removal of any link it considers inconsistent with the purpose of the site.
+
+## Reporting
+
+Anyone who considers that published content infringes their rights may report it to contact@comparatif-mode.com, specifying the page concerned, the nature of the alleged infringement and the evidence supporting the request. Well-founded reports are handled as promptly as possible.
 
 ## Applicable law
 
-The Comparatif mode website is subject to French law. Any dispute falls under the jurisdiction of French courts.
+This legal notice is governed by French law. Any dispute falls within the jurisdiction of the French courts.
