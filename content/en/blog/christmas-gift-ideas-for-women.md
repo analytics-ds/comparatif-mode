@@ -19,6 +19,8 @@ faq:
     answer: "The signature piece she would not buy for herself works better than novelty. A large format candle, a cashmere scarf, a high-end hairbrush, a niche fragrance. The other route is a gift card, less striking but often more accurate when the person is hard to surprise."
   - question: "What budget should you plan for a Christmas gift for a woman?"
     answer: "Three tiers come back every year. From 30 to 60 euros for a colleague or a Secret Santa. From 80 to 150 euros for a close friend. From 200 to 500 euros for a partner, a mother or a sister. Each corresponds to real designer pieces, the constraint lies mainly in the category you aim for."
+  - question: "What are the best Christmas presents for a woman?"
+    answer: "The four categories that disappoint least are candles and home fragrance, between 15 and 330 euros, cashmere scarves and knitwear, between 40 and 265 euros, small leather goods, between 25 and 290 euros, and jewellery, between 39 and over 1,000 euros. They share one thing, none of them depends on a size or a shoe size, except the ring which requires knowing her finger size."
   - question: "Is it better to buy a Christmas gift online or in store?"
     answer: "Online for choice and price comparison, in store for anything judged close up, jewellery, fragrance, a knitted piece. Retailers with both offer the best of each, with online ordering and in-store collection, which also avoids the mid-December delivery crunch."
 readingTime: true

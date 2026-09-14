@@ -19,6 +19,8 @@ faq:
     answer: "La pièce signée qu'elle n'achèterait pas pour elle-même fonctionne mieux que la nouveauté. Une bougie de grand format, un foulard en cachemire, une brosse à cheveux haut de gamme, un parfum de niche. L'autre voie est la carte cadeau, moins spectaculaire mais souvent plus juste quand la personne est difficile à surprendre."
   - question: "Quel budget prévoir pour un cadeau de Noël pour une femme ?"
     answer: "Trois paliers reviennent chaque année. De 30 à 60 euros pour un collègue ou un Secret Santa. De 80 à 150 euros pour une amie proche. De 200 à 500 euros pour une compagne, une mère ou une sœur. Chacun correspond à de vraies pièces de créateurs, la contrainte porte surtout sur l'univers visé."
+  - question: "Quels sont les meilleurs cadeaux de Noël pour une femme ?"
+    answer: "Les quatre catégories qui déçoivent le moins sont la bougie et le parfum d'intérieur, entre 15 et 330 euros, le foulard ou la maille en cachemire, entre 40 et 265 euros, la petite maroquinerie, entre 25 et 290 euros, et le bijou, entre 39 et plus de 1 000 euros. Elles ont un point commun, elles ne dépendent ni d'une taille ni d'une pointure, sauf la bague qui demande de connaître le tour de doigt."
   - question: "Vaut-il mieux acheter un cadeau de Noël en ligne ou en boutique ?"
     answer: "En ligne pour le choix et pour la comparaison des prix, en boutique pour tout ce qui se juge de près, un bijou, un parfum, une pièce de maille. Les enseignes qui disposent des deux offrent le meilleur des deux, avec la commande en ligne et le retrait sur place, ce qui évite aussi les délais de livraison de la mi-décembre."
 readingTime: true
