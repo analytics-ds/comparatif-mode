@@ -105,10 +105,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-08-07"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-16"
+    published_url_fr: "https://comparatif-mode.com/blog/meilleur-site-vetements-en-ligne/"
+    published_url_en: "https://comparatif-mode.com/en/blog/best-online-clothing-stores/"
     error: null
 
   - kw: "comment choisir sa taille de vetements en ligne"
@@ -153,4 +153,494 @@ articles:
     published_date: "2026-05-22"
     published_url_fr: "https://comparatif-mode.com/blog/robe-ete-tendance-femme/"
     published_url_en: "https://comparatif-mode.com/en/blog/summer-dress-trends-women-2026/"
+    error: null
+
+  # ===== ROADMAP 6 MOIS (SEPTEMBRE 2026 - FÉVRIER 2027) =====
+  # Stratégie : 2 articles/semaine, alternance femme/homme/guides/comparatifs
+  # Axes : evergreen mode, guides d'achat, comparatifs marques, tendances saisonnières
+
+  - kw: "comment choisir jeans femme morphologie"
+    category: "Guides d'achat"
+    volume: 120
+    kd: 35
+    scheduled_date: "2026-09-21"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleure marque chemise homme qualite"
+    category: "Mode homme"
+    volume: 90
+    kd: 40
+    scheduled_date: "2026-09-25"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "guide complet vetements automne femme"
+    category: "Guides d'achat"
+    volume: 75
+    kd: 30
+    scheduled_date: "2026-10-02"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "pantalon chino homme comment l habiller"
+    category: "Mode homme"
+    volume: 85
+    kd: 28
+    scheduled_date: "2026-10-06"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleure marque sac a main femme"
+    category: "Mode femme"
+    volume: 150
+    kd: 45
+    scheduled_date: "2026-10-13"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "styles de blazer femme guide complet"
+    category: "Guides d'achat"
+    volume: 65
+    kd: 32
+    scheduled_date: "2026-10-20"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "marque chaussure femme confortable"
+    category: "Mode femme"
+    volume: 110
+    kd: 38
+    scheduled_date: "2026-10-27"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment bien s habiller homme decontracte"
+    category: "Guides d'achat"
+    volume: 95
+    kd: 35
+    scheduled_date: "2026-11-03"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "tendances robe femme automne 2026"
+    category: "Actualites"
+    volume: 200
+    kd: 42
+    scheduled_date: "2026-11-10"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur site de mode femme en ligne"
+    category: "Comparatifs"
+    volume: 140
+    kd: 50
+    scheduled_date: "2026-11-17"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "styles homme automne 2026 inspiration"
+    category: "Actualites"
+    volume: 85
+    kd: 38
+    scheduled_date: "2026-11-24"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment s habiller en automne femme"
+    category: "Guides d'achat"
+    volume: 130
+    kd: 33
+    scheduled_date: "2026-12-01"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "vetements hiver femme tendance 2026"
+    category: "Mode femme"
+    volume: 180
+    kd: 40
+    scheduled_date: "2026-12-08"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "costume homme quand et comment le porter"
+    category: "Guides d'achat"
+    volume: 70
+    kd: 36
+    scheduled_date: "2026-12-15"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "marque de pulls homme chauds et stylises"
+    category: "Mode homme"
+    volume: 95
+    kd: 39
+    scheduled_date: "2026-12-22"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur manteau hiver femme qualite"
+    category: "Mode femme"
+    volume: 160
+    kd: 44
+    scheduled_date: "2026-12-29"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment s habiller elegante femme guide"
+    category: "Guides d'achat"
+    volume: 105
+    kd: 34
+    scheduled_date: "2027-01-05"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "marque ceinture homme chic et durable"
+    category: "Mode homme"
+    volume: 55
+    kd: 31
+    scheduled_date: "2027-01-12"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "vetements femme petit budget bonne qualite"
+    category: "Comparatifs"
+    volume: 140
+    kd: 48
+    scheduled_date: "2027-01-19"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment creer son style personnel femme"
+    category: "Guides d'achat"
+    volume: 125
+    kd: 37
+    scheduled_date: "2027-01-26"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "parka homme tendance 2027"
+    category: "Mode homme"
+    volume: 100
+    kd: 41
+    scheduled_date: "2027-02-02"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "tenue femme pour tous les jours chic"
+    category: "Guides d'achat"
+    volume: 115
+    kd: 36
+    scheduled_date: "2027-02-09"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "marque montre homme classique qualite"
+    category: "Mode homme"
+    volume: 85
+    kd: 42
+    scheduled_date: "2027-02-16"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleure robe femme pour occasion"
+    category: "Mode femme"
+    volume: 170
+    kd: 46
+    scheduled_date: "2027-02-23"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  # Articles supplémentaires pour atteindre 52 articles (4 articles/mois)
+
+  - kw: "vetement femme qualite prix discount"
+    category: "Comparatifs"
+    volume: 135
+    kd: 49
+    scheduled_date: "2026-09-28"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment s habiller hiver homme"
+    category: "Guides d'achat"
+    volume: 140
+    kd: 32
+    scheduled_date: "2026-10-09"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleure marque sneakers femme"
+    category: "Mode femme"
+    volume: 145
+    kd: 41
+    scheduled_date: "2026-10-30"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment bien s habiller femme ronde"
+    category: "Guides d'achat"
+    volume: 130
+    kd: 39
+    scheduled_date: "2026-11-06"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "montre femme elegante quelle marque"
+    category: "Mode femme"
+    volume: 90
+    kd: 43
+    scheduled_date: "2026-11-20"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "costume trois pieces homme comment porter"
+    category: "Guides d'achat"
+    volume: 60
+    kd: 37
+    scheduled_date: "2026-12-10"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "vetement femme travail tenue professionnelle"
+    category: "Guides d'achat"
+    volume: 110
+    kd: 35
+    scheduled_date: "2026-12-18"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "jean femme coupe et fit comment choisir"
+    category: "Guides d'achat"
+    volume: 105
+    kd: 38
+    scheduled_date: "2026-12-26"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "cardigan femme mode et tendance"
+    category: "Mode femme"
+    volume: 85
+    kd: 34
+    scheduled_date: "2027-01-09"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "vetement homme smart casual tenue"
+    category: "Guides d'achat"
+    volume: 100
+    kd: 33
+    scheduled_date: "2027-01-23"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment accessoriser sa tenue femme"
+    category: "Guides d'achat"
+    volume: 95
+    kd: 36
+    scheduled_date: "2027-02-06"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "marque veste femme incontournable"
+    category: "Mode femme"
+    volume: 80
+    kd: 40
+    scheduled_date: "2027-02-13"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "tendances basique femme indispensable"
+    category: "Actualites"
+    volume: 110
+    kd: 31
+    scheduled_date: "2026-09-30"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur e-shop mode femme francais"
+    category: "Comparatifs"
+    volume: 120
+    kd: 52
+    scheduled_date: "2026-10-16"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "vetement chaud femme hiver 2026"
+    category: "Mode femme"
+    volume: 155
+    kd: 43
+    scheduled_date: "2026-11-13"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment bien choisir ses vetements"
+    category: "Guides d'achat"
+    volume: 140
+    kd: 38
+    scheduled_date: "2026-12-04"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "marque polo homme classique elegance"
+    category: "Mode homme"
+    volume: 75
+    kd: 40
+    scheduled_date: "2026-12-31"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "tenue sportive femme chic 2027"
+    category: "Actualites"
+    volume: 100
+    kd: 36
+    scheduled_date: "2027-01-15"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "chaussure de ville homme elegante"
+    category: "Mode homme"
+    volume: 120
+    kd: 45
+    scheduled_date: "2027-01-30"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment s habiller selon sa silhouette"
+    category: "Guides d'achat"
+    volume: 125
+    kd: 35
+    scheduled_date: "2027-02-20"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
     error: null
