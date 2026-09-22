@@ -164,10 +164,10 @@ articles:
     volume: 120
     kd: 35
     scheduled_date: "2026-09-21"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-22"
+    published_url_fr: "https://comparatif-mode.com/blog/comment-choisir-jean-femme-morphologie/"
+    published_url_en: "https://comparatif-mode.com/en/blog/how-to-choose-jeans-body-shape/"
     error: null
 
   - kw: "meilleure marque chemise homme qualite"
