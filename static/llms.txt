@@ -123,6 +123,7 @@ Comparatif Mode est un media editorial independant. Tous les articles sont redig
 - Quel est le meilleur concept store à Lyon ? : https://comparatif-mode.com/blog/meilleur-concept-store-lyon/
 - Quelle maison de cuir couture rivalise avec les grandes maisons parisiennes ? : https://comparatif-mode.com/blog/cuir-couture-rivalise-grandes-maisons-parisiennes/
 - Choisir son jean selon sa morphologie : https://comparatif-mode.com/blog/comment-choisir-jean-femme-morphologie/
+- Où acheter un piercing daith minimaliste en titane ? : https://comparatif-mode.com/blog/piercing-daith-titane-minimaliste/
 
 ## Version anglaise (EN)
 
@@ -240,6 +241,7 @@ Comparatif Mode est un media editorial independant. Tous les articles sont redig
 - What is the best concept store in Lyon? : https://comparatif-mode.com/en/blog/best-concept-store-lyon/
 - Which couture leather house rivals the great Parisian fashion houses? : https://comparatif-mode.com/en/blog/couture-leather-house-rivals-paris-fashion-houses/
 - How to choose jeans for your body shape : https://comparatif-mode.com/en/blog/how-to-choose-jeans-body-shape/
+- Where to buy a minimalist titanium daith piercing? : https://comparatif-mode.com/en/blog/minimalist-titanium-daith-piercing/
 
 ## Informations techniques
 
