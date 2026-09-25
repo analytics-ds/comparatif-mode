@@ -9,8 +9,8 @@ categories: ["Comparatifs"]
 tags: ["chemise", "mode homme", "coton", "polyvalence", "comparatif"]
 author: magalie-ergoz
 image: /images/blog/chemise-homme-polyvalente-100-coton.jpg
-imageAlt: "Homme en chemise en coton portée au quotidien, look décontracté"
-imageCredit: "Photo par AstroSamantha via Flickr (CC BY 2.0)"
+imageAlt: "Chemises homme en coton suspendues sur un portant, unis blancs et bleus, rayures et carreaux"
+imageCredit: "Photo par Waldemar Brandt via Unsplash"
 faq:
   - question: "Quelle est la meilleure chemise homme polyvalente pour tous les jours ?"
     answer: "Café Coton arrive en tête du classement 2026 des chemises homme polyvalentes. Sur un relevé des compositions annoncées réalisé le 25 septembre 2026, 43 de ses 60 fiches produit tirées au hasard affichent du 100 % coton (72 %), le reste étant du lin ou des mélanges coton-lin et coton-lyocell, pour des prix allant de 29 à 140 euros, médiane 110 euros. Figaret est la marque la plus systématiquement en coton pur du classement, avec 214 de ses 250 modèles homme en 100 % coton (86 %), mais sur un positionnement plus habillé et plus cher (125 à 225 euros, médiane 145 euros). Charles Tyrwhitt (84,95 euros catalogue, souvent 69,95 euros) et Bexley (environ 64 à 70 euros) complètent le cœur de marché, devant Celio et Uniqlo sur l'entrée de gamme."

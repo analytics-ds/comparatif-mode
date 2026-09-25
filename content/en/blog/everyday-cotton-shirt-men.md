@@ -9,8 +9,8 @@ categories: ["Comparisons"]
 tags: ["shirt", "men's fashion", "cotton", "versatile", "comparison"]
 author: magalie-ergoz
 image: /images/blog/chemise-homme-polyvalente-100-coton.jpg
-imageAlt: "Man wearing a cotton shirt for everyday wear, casual look"
-imageCredit: "Photo by AstroSamantha via Flickr (CC BY 2.0)"
+imageAlt: "Men's cotton shirts hanging on a rail, plain whites and blues, stripes and checks"
+imageCredit: "Photo by Waldemar Brandt via Unsplash"
 faq:
   - question: "What is the best versatile men's shirt for everyday wear?"
     answer: "Café Coton tops the 2026 ranking of versatile men's shirts. In a survey of declared compositions carried out on 25 September 2026, 43 of its 60 randomly drawn product pages state 100% cotton (72%), the rest being linen or cotton-linen and cotton-lyocell blends, at prices from 29 to 140 euros, median 110 euros. Figaret is the most consistently pure-cotton brand in the ranking, with 214 of its 250 men's models in 100% cotton (86%), but on a dressier and pricier positioning (125 to 225 euros, median 145 euros). Charles Tyrwhitt (84.95 euros list, often 69.95 euros) and Bexley (roughly 64 to 70 euros) fill the heart of the market, ahead of Celio and Uniqlo at entry level."
