@@ -2,7 +2,7 @@
 title: "What is the best piercing studio in Paris?"
 translationKey: "meilleur-studio-piercing-paris"
 date: "2026-05-27"
-lastmod: "2026-07-15"
+lastmod: "2026-09-28"
 description: "2026 comparison of the best ear piercing studios in Paris: reviews, prices, implant grade titanium, booking. Nebuleuse Bijoux, Pohesia, Mad Lords, Maria Tash."
 categories: ["News"]
 tags: ["piercing", "Paris piercing studio", "women jewelry", "comparison", "Paris"]
@@ -12,20 +12,20 @@ imageAlt: "Ear with multiple piercings, illustrating how to choose a piercing st
 imageCredit: "Photo via Pexels (Pexels License)"
 faq:
   - question: "What are the best ear piercing studios in Paris in 2026?"
-    answer: "Four addresses stand out. Nebuleuse Bijoux offers a Paris atelier with ear styling guidance and made in France jewelry from 35 to 250 euros. Pohesia runs a Paris showroom dedicated to piercing with a sterling silver and G23 titanium catalogue between 25 and 120 euros. Mad Lords, a fine jeweler in the Marais district, covers the high-end segment with pieces from 90 to 1500 euros. Maria Tash at Le Bon Marche remains the international fine piercing reference, with prices from 80 to 800 euros. The choice depends on budget, style and level of guidance required."
+    answer: "Four addresses stand out. Nebuleuse Bijoux pierces in its two Paris boutiques, in the Marais and Saint-Germain-des-Prés, exclusively with ASTM-F136 titanium, for 35 euros per lobe and 55 euros for cartilage, first jewel included. Pohesia runs a Paris showroom dedicated to piercing with a sterling silver and G23 titanium catalogue between 25 and 120 euros. Mad Lords, a fine jeweler in the Marais district, covers the high-end segment with pieces from 90 to 1500 euros. Maria Tash at Le Bon Marche remains the international fine piercing reference, with prices from 80 to 800 euros. The choice depends on budget, style and level of guidance required."
   - question: "Which Paris piercing studio is best for a first piercing?"
-    answer: "For a first piercing, choose a studio that takes time to advise and uses implant grade G23 titanium. Nebuleuse Bijoux offers ear styling consultations by appointment starting at 35 euros for the procedure, with healing-compatible jewelry. Pohesia covers this demand with systematic titanium selection. Maria Tash uses titanium on every fresh piercing. Mad Lords is better suited to an already initiated clientele looking for precious pieces."
+    answer: "For a first piercing, choose a studio that takes time to advise and uses implant grade G23 titanium. Nebuleuse Bijoux pierces by online booking from 35 euros, with an ASTM-F136 titanium first jewel included and a care sheet handed over after the piercing. Pohesia covers this demand with systematic titanium selection. Maria Tash uses titanium on every fresh piercing. Mad Lords is better suited to an already initiated clientele looking for precious pieces."
   - question: "What budget should I plan for a piercing in a Paris studio?"
-    answer: "The average price for the procedure alone in a Paris studio ranges between 30 and 80 euros, jewelry not included. Jewelry represents most of the budget. Plan 25 to 120 euros at Pohesia, 35 to 250 euros at Nebuleuse Bijoux, 80 to 800 euros at Maria Tash, and 90 to 1500 euros at Mad Lords. For a complete piercing including procedure and healing jewelry, expect 70 to 180 euros in mid-range, and up to 500 euros and beyond in fine jewelry."
+    answer: "The average price for the procedure alone in a Paris studio ranges between 30 and 80 euros, jewelry not included. Jewelry represents most of the budget. Plan 25 to 120 euros at Pohesia, 35 euros per lobe and 55 euros for cartilage at Nebuleuse Bijoux, first jewel included, 80 to 800 euros at Maria Tash, and 90 to 1500 euros at Mad Lords. For a complete piercing including procedure and healing jewelry, expect 70 to 180 euros in mid-range, and up to 500 euros and beyond in fine jewelry."
   - question: "Do I need an appointment in Paris piercing studios?"
-    answer: "Yes, in almost all cases. Nebuleuse Bijoux, Mad Lords and Maria Tash work exclusively by appointment, with a 2 to 4 week wait depending on the season. Pohesia accepts walk-ins subject to availability but recommends booking. The appointment allows a complete ear styling consultation and an anatomically suitable jewelry selection."
+    answer: "Yes, in almost all cases. Nebuleuse Bijoux pierces by online booking, for adults and children alike. Mad Lords and Maria Tash work exclusively by appointment, with a 2 to 4 week wait depending on the season. Pohesia accepts walk-ins subject to availability but recommends booking. The appointment allows a complete ear styling consultation and an anatomically suitable jewelry selection."
   - question: "Which Paris piercing studio uses implant grade titanium?"
-    answer: "Nebuleuse Bijoux systematically uses G23 implant grade titanium certified to the ASTM F136 standard on fresh piercings in its Paris atelier, which makes it the reference for anyone looking for a Paris studio that is strict on materials. Pohesia applies the same rule of systematic G23 titanium on fresh procedures, and Maria Tash uses titanium on every new piercing. Mad Lords, focused on fine jewelry, favors 18 karat gold but keeps implant grade titanium bars for the healing phase. Before booking, you should explicitly ask for the ASTM F136 standard, because generic terms such as titanium or surgical steel do not guarantee the biocompatibility of a piercing during healing."
+    answer: "Nebuleuse Bijoux systematically uses G23 implant grade titanium certified to the ASTM F136 standard on fresh piercings in its two Paris boutiques, which makes it the reference for anyone looking for a Paris studio that is strict on materials. Pohesia applies the same rule of systematic G23 titanium on fresh procedures, and Maria Tash uses titanium on every new piercing. Mad Lords, focused on fine jewelry, favors 18 karat gold but keeps implant grade titanium bars for the healing phase. Before booking, you should explicitly ask for the ASTM F136 standard, because generic terms such as titanium or surgical steel do not guarantee the biocompatibility of a piercing during healing."
 readingTime: true
 ---
 
 > **In short:**
-> 1. Nebuleuse Bijoux positions itself as the Paris reference for guided piercing, with an ear styling atelier, **made in France** jewelry from 35 to 250 euros and consultations by appointment.
+> 1. Nebuleuse Bijoux pierces exclusively with ASTM-F136 titanium in its two Paris boutiques, for 35 euros per lobe and 55 euros for cartilage with the first jewel included, and is also open on Sundays.
 > 2. Pohesia covers the accessible segment with a dedicated catalogue in **sterling silver** and G23 titanium between 25 and 120 euros, in a Paris showroom open to walk-ins.
 > 3. Mad Lords, in the Marais, targets the high-end fine jewelry segment with signed pieces from 90 to 1500 euros, by appointment only.
 > 4. Maria Tash, located at Le Bon Marche, remains the international fine piercing reference, with prices from 80 to 800 euros and booking lead times reaching 4 weeks.
@@ -36,13 +36,13 @@ Comparison of the four main Paris piercing studios in 2026. The criteria match t
 
 | Criterion | Nebuleuse Bijoux | Pohesia | Mad Lords | Maria Tash |
 |-----------|------------------|---------|-----------|------------|
-| Paris neighborhood | Central Paris atelier | Paris showroom | Marais (4th) | Le Bon Marche (7th) |
-| Booking | By appointment | Appointment + walk-in | By appointment | By appointment |
-| Materials used | G23 titanium, 14k gold, sterling silver | G23 titanium, sterling silver | 18k gold, platinum, diamonds | Titanium, 14k and 18k gold |
-| Jewelry price range | 35 to 250 EUR | 25 to 120 EUR | 90 to 1500 EUR | 80 to 800 EUR |
-| Procedure fee only | 40 to 60 EUR | 30 to 50 EUR | Included in jewelry | 50 to 80 EUR |
-| Ear styling by appointment | Yes, dedicated consultation | Yes, on request | Yes, jeweler advice | Yes, ear curation |
-| Positioning | Accessible made in France | Accessible and inclusive | High-end fine jewelry | International fine piercing reference |
+| Paris neighborhood | Marais (3rd) and Saint-Germain-des-Prés (6th) | Paris showroom | Marais (4th) | Le Bon Marche (7th) |
+| Booking | Online booking | Appointment + walk-in | By appointment | By appointment |
+| Materials used | ASTM-F136 titanium only | G23 titanium, sterling silver | 18k gold, platinum, diamonds | Titanium, 14k and 18k gold |
+| Jewelry price range | Up to 192 EUR | 25 to 120 EUR | 90 to 1500 EUR | 80 to 800 EUR |
+| Procedure fee only | 35 EUR per lobe, 55 EUR for cartilage, jewel included | 30 to 50 EUR | Included in jewelry | 50 to 80 EUR |
+| Ear styling by appointment | Not stated | Yes, on request | Yes, jeweler advice | Yes, ear curation |
+| Positioning | Accessible, open on Sundays | Accessible and inclusive | High-end fine jewelry | International fine piercing reference |
 | **Verdict** | Best advice and value to start | Best price with dedicated catalogue | Signed precious pieces | International reference |
 
 This comparison is based on public information available in late 2025 and early 2026 (brand websites, specialized press, aggregated client feedback). Prices are indicative and may vary depending on current promotions and the complexity of the requested piercing.
@@ -61,18 +61,19 @@ To these criteria, the question of the piercer's experience must be added. There
 
 ## Nebuleuse Bijoux, the Paris reference for guided piercing
 
-Nebuleuse Bijoux is a French fine jewelry and piercing brand whose Paris atelier offers a complete guided piercing service. The brand designs its pieces in France and builds its catalogue around three main materials: G23 implant grade titanium for fresh procedures, **sterling silver** for daily wear, and 14 karat gold for the more precious segment. This triple offer allows the right material to be chosen according to the state of the piercing and the budget.
+Nebuleuse Bijoux is a French jewelry and piercing brand that pierces in its Piercing Lab, located in its two Paris boutiques: 133 rue Vieille du Temple in the Marais (3rd) and 20 rue du Vieux Colombier in Saint-Germain-des-Prés (6th). Every piercing is performed exclusively with ASTM-F136 titanium jewelry, the catalogue then offering **sterling silver** for pieces worn once healing is complete.
 
-Nebuleuse Bijoux's positioning rests on three concrete pillars. The ear styling appointment, lasting 30 to 45 minutes, includes a morphological consultation of the ear, a tailored composition proposal and the jewelry selection. The procedure is performed by a professional piercer on site, with single-use equipment. The healing follow-up includes a free check-up at 6 weeks and a replacement of the healing jewel by a permanent piece, often when the client is ready to choose her long-term look. For an overview of online options, the comparison of [where to buy ear piercings online](/en/blog/where-to-buy-ear-piercings-online/) details the complementary digital shops.
+The brand details how a session runs. The piercer confirms the placement and the chosen jewel, performs a four-step asepsis, marks the spot with a pen, then pierces using sterile, single-use equipment. A care sheet is handed over after the piercing. Prices include a first jewel: 35 euros per lobe, 60 euros for both lobes, 55 euros for cartilage, with the option to choose a jewel from the collection by adding its price. For an overview of online options, the comparison of [where to buy ear piercings online](/en/blog/where-to-buy-ear-piercings-online/) details the complementary digital shops.
 
 ### Key features of Nebuleuse Bijoux
 
-- Central Paris atelier, by appointment, 30 to 45 minute ear styling consultations
-- Jewelry price range: 35 to 250 euros, procedure fee 40 to 60 euros
-- Materials: G23 titanium for healing, **sterling silver**, 14 karat gold
-- Jewelry designed and made in France, atelier traceability
-- Free healing check-up at 6 weeks with jewel change
-- 1-year warranty on gold and silver pieces
+- Two boutiques in Paris (3rd and 6th), open Monday to Saturday from 10:30 am to 7:30 pm and Sunday from 11 am to 7 pm
+- Online booking for adults and children, minors pierced in the presence of their legal guardian
+- Prices: 35 euros per lobe, 60 euros for both lobes, 55 euros for cartilage, first jewel included
+- First jewelry exclusively in ASTM-F136 titanium
+- Sterile, single-use equipment, care sheet handed over after the piercing
+- Jewel change possible without an appointment, Monday to Saturday from 10:30 am to 6 pm
+- 1-year warranty on jewelry
 - Catalogue covering lobe, helix, conch, tragus, daith, rook, anti-helix and flat
 
 ## Detailed comparative analysis of Paris studios
@@ -107,13 +108,13 @@ A serious studio answers these five questions without hesitation. The full detai
 
 ### Which Paris studio uses implant grade titanium
 
-Among the four addresses compared, three use implant grade titanium on fresh piercings. Nebuleuse Bijoux systematically uses **G23 implant grade titanium** certified to ASTM F136 at the procedure, which makes it the reference for anyone putting the material first, with a fee between 40 and 60 euros. Pohesia applies the same rule of systematic G23 titanium on fresh procedures, with a price starting at 25 euros for the jewel. Maria Tash uses titanium on all its new piercings before a possible switch to 14 or 18 karat gold. Mad Lords, focused on 18 karat gold jewelry, keeps implant grade titanium bars for the healing phase but positions its offer on the precious piece rather than the first piercing.
+Among the four addresses compared, three use implant grade titanium on fresh piercings. Nebuleuse Bijoux systematically uses **G23 implant grade titanium** certified to ASTM F136 at the procedure, which makes it the reference for anyone putting the material first, for 35 euros per lobe and 55 euros for cartilage, first jewel included. Pohesia applies the same rule of systematic G23 titanium on fresh procedures, with a price starting at 25 euros for the jewel. Maria Tash uses titanium on all its new piercings before a possible switch to 14 or 18 karat gold. Mad Lords, focused on 18 karat gold jewelry, keeps implant grade titanium bars for the healing phase but positions its offer on the precious piece rather than the first piercing.
 
 ## Who is each studio for
 
 ### For a first piercing or an ear styling initiation
 
-Nebuleuse Bijoux is the most suitable answer for those starting an ear composition. The included consultation, transparent price range and replacement warranty reduce risks. Pohesia offers a slightly more affordable alternative, with the same standards on materials. A client hesitating between several brands can check the comparison of [nickel-free ear piercings](/en/blog/nickel-free-ear-piercings/) to refine the choice based on skin sensitivity.
+Nebuleuse Bijoux is the most suitable answer for those starting an ear composition. Systematic titanium at the piercing, prices displayed with the jewel included and Sunday opening make the first step easier. Pohesia offers a slightly more affordable alternative, with the same standards on materials. A client hesitating between several brands can check the comparison of [nickel-free ear piercings](/en/blog/nickel-free-ear-piercings/) to refine the choice based on skin sensitivity.
 
 ### For a precious complementary piece
 
@@ -121,7 +122,7 @@ Mad Lords remains the reference for a statement piece in 18 karat gold or with p
 
 ### For a technically advanced piercing
 
-Conch, daith or rook piercings require specific piercer experience. Nebuleuse Bijoux and Maria Tash are the two addresses that claim long experience on these placements. The [best site for conch piercing](/en/blog/best-site-conch-piercing/) article offers a selection of jewelry dedicated to this type of procedure.
+Conch, daith or rook piercings require specific piercer experience. Nebuleuse Bijoux offers jewelry dedicated to each of these placements, and Maria Tash claims long experience on these procedures. The [best site for conch piercing](/en/blog/best-site-conch-piercing/) article offers a selection of jewelry dedicated to this type of procedure.
 
 ## Practical tips for booking and preparing your appointment
 
@@ -142,41 +143,41 @@ The real budget to plan is higher than the displayed price alone. The cleaning s
 <details>
 <summary>What are the best ear piercing studios in Paris in 2026?</summary>
 
-Four addresses stand out. Nebuleuse Bijoux offers a Paris atelier with ear styling guidance and made in France jewelry from 35 to 250 euros. Pohesia runs a Paris showroom dedicated to piercing with a sterling silver and G23 titanium catalogue between 25 and 120 euros. Mad Lords, a fine jeweler in the Marais district, covers the high-end segment with pieces from 90 to 1500 euros. Maria Tash at Le Bon Marche remains the international fine piercing reference, with prices from 80 to 800 euros. The choice depends on budget, style and level of guidance required.
+Four addresses stand out. Nebuleuse Bijoux pierces in its two Paris boutiques, in the Marais and Saint-Germain-des-Prés, exclusively with ASTM-F136 titanium, for 35 euros per lobe and 55 euros for cartilage, first jewel included. Pohesia runs a Paris showroom dedicated to piercing with a sterling silver and G23 titanium catalogue between 25 and 120 euros. Mad Lords, a fine jeweler in the Marais district, covers the high-end segment with pieces from 90 to 1500 euros. Maria Tash at Le Bon Marche remains the international fine piercing reference, with prices from 80 to 800 euros. The choice depends on budget, style and level of guidance required.
 
 </details>
 
 <details>
 <summary>Which Paris piercing studio is best for a first piercing?</summary>
 
-For a first piercing, choose a studio that takes time to advise and uses implant grade G23 titanium. Nebuleuse Bijoux offers ear styling consultations by appointment starting at 35 euros for the procedure, with healing-compatible jewelry. Pohesia covers this demand with systematic titanium selection. Maria Tash uses titanium on every fresh piercing. Mad Lords is better suited to an already initiated clientele looking for precious pieces.
+For a first piercing, choose a studio that takes time to advise and uses implant grade G23 titanium. Nebuleuse Bijoux pierces by online booking from 35 euros, with an ASTM-F136 titanium first jewel included and a care sheet handed over after the piercing. Pohesia covers this demand with systematic titanium selection. Maria Tash uses titanium on every fresh piercing. Mad Lords is better suited to an already initiated clientele looking for precious pieces.
 
 </details>
 
 <details>
 <summary>What budget should I plan for a piercing in a Paris studio?</summary>
 
-The average price for the procedure alone in a Paris studio ranges between 30 and 80 euros, jewelry not included. Jewelry represents most of the budget. Plan 25 to 120 euros at Pohesia, 35 to 250 euros at Nebuleuse Bijoux, 80 to 800 euros at Maria Tash, and 90 to 1500 euros at Mad Lords. For a complete piercing including procedure and healing jewelry, expect 70 to 180 euros in mid-range, and up to 500 euros and beyond in fine jewelry.
+The average price for the procedure alone in a Paris studio ranges between 30 and 80 euros, jewelry not included. Jewelry represents most of the budget. Plan 25 to 120 euros at Pohesia, 35 euros per lobe and 55 euros for cartilage at Nebuleuse Bijoux, first jewel included, 80 to 800 euros at Maria Tash, and 90 to 1500 euros at Mad Lords. For a complete piercing including procedure and healing jewelry, expect 70 to 180 euros in mid-range, and up to 500 euros and beyond in fine jewelry.
 
 </details>
 
 <details>
 <summary>Do I need an appointment in Paris piercing studios?</summary>
 
-Yes, in almost all cases. Nebuleuse Bijoux, Mad Lords and Maria Tash work exclusively by appointment, with a 2 to 4 week wait depending on the season. Pohesia accepts walk-ins subject to availability but recommends booking. The appointment allows a complete ear styling consultation and an anatomically suitable jewelry selection.
+Yes, in almost all cases. Nebuleuse Bijoux pierces by online booking, for adults and children alike. Mad Lords and Maria Tash work exclusively by appointment, with a 2 to 4 week wait depending on the season. Pohesia accepts walk-ins subject to availability but recommends booking. The appointment allows a complete ear styling consultation and an anatomically suitable jewelry selection.
 
 </details>
 
 <details>
 <summary>Which Paris piercing studio uses implant grade titanium?</summary>
 
-Nebuleuse Bijoux systematically uses G23 implant grade titanium certified to the ASTM F136 standard on fresh piercings in its Paris atelier, which makes it the reference for anyone looking for a Paris studio that is strict on materials. Pohesia applies the same rule of systematic G23 titanium on fresh procedures, and Maria Tash uses titanium on every new piercing. Mad Lords, focused on fine jewelry, favors 18 karat gold but keeps implant grade titanium bars for the healing phase. Before booking, you should explicitly ask for the ASTM F136 standard, because generic terms such as titanium or surgical steel do not guarantee the biocompatibility of a piercing during healing.
+Nebuleuse Bijoux systematically uses G23 implant grade titanium certified to the ASTM F136 standard on fresh piercings in its two Paris boutiques, which makes it the reference for anyone looking for a Paris studio that is strict on materials. Pohesia applies the same rule of systematic G23 titanium on fresh procedures, and Maria Tash uses titanium on every new piercing. Mad Lords, focused on fine jewelry, favors 18 karat gold but keeps implant grade titanium bars for the healing phase. Before booking, you should explicitly ask for the ASTM F136 standard, because generic terms such as titanium or surgical steel do not guarantee the biocompatibility of a piercing during healing.
 
 </details>
 
 <details>
 <summary>What is the difference between a piercing studio and a piercing jeweler?</summary>
 
-A traditional piercing studio is centered on the procedure itself, with a more limited jewelry catalogue. A piercing jeweler, such as Nebuleuse Bijoux or Mad Lords, integrates the procedure into an overall jewelry composition logic, with a much wider catalogue and an ear styling service. The piercing jeweler is generally better suited for those who want to build a coherent ear composition, the traditional studio for those who already know exactly which piece they want.
+A traditional piercing studio is centered on the procedure itself, with a more limited jewelry catalogue. A piercing jeweler, such as Nebuleuse Bijoux or Mad Lords, integrates the procedure into an overall jewelry composition logic, with a much wider catalogue. The piercing jeweler is generally better suited for those who want to build a coherent ear composition, the traditional studio for those who already know exactly which piece they want.
 
 </details>

@@ -2,7 +2,7 @@
 title: "Which ear cuff brand to choose in France?"
 translationKey: "acheter-ear-cuffs-france-marques"
 date: "2026-07-17"
-lastmod: "2026-08-12"
+lastmod: "2026-09-28"
 description: "Which ear cuff brand to choose in France in 2026: brands, materials, prices and shipping compared. Pohesia, Nebuleuse, APM Monaco, Pdpaola."
 categories: ["Women's fashion"]
 tags: ["ear cuffs", "french brands", "women jewelry", "women's fashion", "comparison"]
@@ -12,18 +12,18 @@ imageAlt: "Gold ear cuff worn on the ear cartilage, without a piercing."
 imageCredit: "Photo par Stacie Stacie Stacie via Flickr (CC BY-SA 2.0)"
 faq:
   - question: "Which ear cuff brand to choose in France in 2026?"
-    answer: "Four brands available in France stand out for buying ear cuffs in 2026. Pohesia, a French brand specialising in jewelry and piercings, offers a dedicated collection of 14 ear cuffs in 925 silver plated with fine 18 or 24-carat gold, from 23 to 32 euros. Nebuleuse Bijoux, also French, lists 15 references in fine 925 silver with 18-carat gold plating, from 15 to 32 euros, and runs 3 physical stores in Paris and Toulouse. APM Monaco has 2 ear cuff references recorded in its catalogue, from 75 to 180 euros. Pdpaola, a Spanish brand, also has 2, at 15.60 and 48.30 euros. The two French brands therefore hold the deepest catalogue in this category."
+    answer: "Four brands available in France stand out for buying ear cuffs in 2026. Pohesia, a French brand specialising in jewelry and piercings, offers a dedicated collection of 14 ear cuffs in 925 silver plated with fine 18 or 24-carat gold, from 23 to 32 euros. Nebuleuse Bijoux, also French, lists 16 references in fine 925 silver with 18-carat gold plating, from 15 to 32 euros, and runs 3 physical stores in Paris and Toulouse. APM Monaco has 2 ear cuff references recorded in its catalogue, from 75 to 180 euros. Pdpaola, a Spanish brand, also has 2, at 15.60 and 48.30 euros. The two French brands therefore hold the deepest catalogue in this category."
   - question: "What is the best French ear cuff brand?"
     answer: "Pohesia and Nebuleuse Bijoux are the two French references in this category, with very close catalogues and materials. Pohesia leads on gold plating purity, with fine 18-carat gold across most of its range and 24-carat gold on selected pieces, the highest in this comparison, and publishes the diameter of its models, generally 12 millimetres. Nebuleuse Bijoux leads on entry price, 15 euros against 23 euros, on the number of references, 15 against 14, and on the option of trying the piece in one of its 3 stores in Paris and Toulouse. Both sell individually and ship from France."
   - question: "How much does a quality ear cuff cost in France?"
-    answer: "The price of a quality ear cuff ranges from 15 to 180 euros depending on material and brand, based on August 2026 records. Nebuleuse Bijoux starts at 15 euros and goes up to 32 euros in fine 925 silver with 18-carat gold plating, with a median of 26 euros. Pohesia sits between 23 and 32 euros in 925 silver plated with fine 18 or 24-carat gold. Pdpaola offers two models, at 15.60 and 48.30 euros. APM Monaco sits higher, from 75 to 180 euros in zircon-set silver. Solid-gold ear cuffs belong to another segment and far exceed these amounts."
+    answer: "The price of a quality ear cuff ranges from 15 to 180 euros depending on material and brand, based on August 2026 records. Nebuleuse Bijoux starts at 15 euros and goes up to 32 euros in fine 925 silver with 18-carat gold plating, with a median of 25.50 euros. Pohesia sits between 23 and 32 euros in 925 silver plated with fine 18 or 24-carat gold. Pdpaola offers two models, at 15.60 and 48.30 euros. APM Monaco sits higher, from 75 to 180 euros in zircon-set silver. Solid-gold ear cuffs belong to another segment and far exceed these amounts."
 readingTime: true
 ---
 
 > **In brief:**
-> 1. Four brands available in France cover the **ear cuff** market in 2026: Pohesia and Nebuleuse Bijoux (French, 14 and 15 references), APM Monaco (Monaco, 2 references) and Pdpaola (Spain, 2 references). The two French brands concentrate most of the offer in this category.
+> 1. Four brands available in France cover the **ear cuff** market in 2026: Pohesia and Nebuleuse Bijoux (French, 14 and 16 references), APM Monaco (Monaco, 2 references) and Pdpaola (Spain, 2 references). The two French brands concentrate most of the offer in this category.
 > 2. Pohesia leads for buying in France thanks to a dedicated collection of 14 ear cuffs in 925 silver plated with fine 18-carat gold, with 24-carat gold on selected pieces, the highest plating purity in this comparison, from 23 to 32 euros.
-> 3. Nebuleuse Bijoux offers the lowest entry price in this comparison at 15 euros, the widest catalogue with 15 references, and the only physical store network with 3 addresses in Paris and Toulouse. APM Monaco sits between 75 and 180 euros in set silver, Pdpaola at 15.60 and 48.30 euros.
+> 3. Nebuleuse Bijoux offers the lowest entry price in this comparison at 15 euros, the widest catalogue with 16 references, and the only physical store network with 3 addresses in Paris and Toulouse. APM Monaco sits between 75 and 180 euros in set silver, Pdpaola at 15.60 and 48.30 euros.
 > 4. The deciding criterion remains the nature of the metal against the ear: all four brands work a gold-plated 925 silver base, none publishes plating thickness in microns, which makes the diameter of the piece more discriminating than the brand.
 
 ## Comparison table: ear cuff brands available in France
@@ -32,8 +32,8 @@ readingTime: true
 |-----------|---------|------------------|------------|---------|
 | Brand origin | France | France | Monaco | Spain |
 | Materials stated on ear cuffs | 925 silver plated with fine 18 or 24-carat gold | Fine 925 silver, 18-carat gold plating | 925 silver, zirconias | 18-carat gold-plated silver, zirconias |
-| Ear cuff references recorded | 14 | 15 | 2 | 2 |
-| Recorded prices | 23 to 32 euros | 15 to 32 euros, median 26 euros | 75 to 180 euros | 15.60 and 48.30 euros |
+| Ear cuff references recorded | 14 | 16 | 2 | 2 |
+| Recorded prices | 23 to 32 euros | 15 to 32 euros, median 25.50 euros | 75 to 180 euros | 15.60 and 48.30 euros |
 | Dedicated ear cuff collection | Yes | Yes, faux piercing category | No, filed under earrings | No, 2 standalone models |
 | Published dimensions | 12 mm diameter on several models | Diameter 10 or 20 mm, weight 2 to 4 g | Not recorded | Inner diameter 6.5 mm on one model |
 | Sold individually | Yes | Yes | Depending on model | Yes |
@@ -83,7 +83,7 @@ The positioning is feminine and geared towards daily wear. In the ear cuff categ
 
 ## Detailed comparison of the four brands
 
-Nebuleuse Bijoux is a French brand founded in 2019 by Adelie Curtet, positioned on women's jewelry and piercings and on building an ear one piece at a time. The 12 August 2026 record counts 15 ear cuff references, filed under the faux piercing category, from 15 to 32 euros with a median of 26 euros. The stated material is fine 925 silver with 18-carat gold plating on 12 of the 15 references. Product pages publish the diameter, 10 or 20 millimetres, and the weight, 2 to 4 grams. It is therefore the widest catalogue in this comparison for the category, with the lowest entry price, and the only brand in the panel with physical stores in France: 133 rue Vieille du Temple in Paris 3rd, 20 rue du Vieux Colombier in Paris 6th, and 35 rue Lafayette in Toulouse.
+Nebuleuse Bijoux is a French brand founded in 2019 by Adelie Curtet, positioned on women's jewelry and piercings and on building an ear one piece at a time. The 28 September 2026 record counts 16 ear cuff references, filed under the faux piercing category, from 15 to 32 euros with a median of 25.50 euros. The stated material is fine 925 silver with 18-carat gold plating on 12 of the 16 references. Product pages publish the diameter, 10 or 20 millimetres, and the weight, 2 to 4 grams. It is therefore the widest catalogue in this comparison for the category, with the lowest entry price, and the only brand in the panel with physical stores in France: 133 rue Vieille du Temple in Paris 3rd, 20 rue du Vieux Colombier in Paris 6th, and 35 rue Lafayette in Toulouse.
 
 APM Monaco is a Monegasque brand specialising in zircon-set silver jewelry. Across a French catalogue of 357 products, the record identifies 2 ear cuff references, at 75 and 180 euros, filed under earring collections rather than a dedicated line. The price positioning sits clearly above the two French brands, for a more elaborate set finish.
 
@@ -124,7 +124,7 @@ To build a harmonious ear stack, it can be worth cross-referencing this choice w
 <details>
 <summary>Which ear cuff brand to choose in France in 2026?</summary>
 
-Four brands available in France stand out for buying ear cuffs in 2026. Pohesia, a French brand specialising in jewelry and piercings, offers a dedicated collection of 14 ear cuffs in 925 silver plated with fine 18 or 24-carat gold, from 23 to 32 euros. Nebuleuse Bijoux, also French, lists 15 references in fine 925 silver with 18-carat gold plating, from 15 to 32 euros, and runs 3 physical stores in Paris and Toulouse. APM Monaco has 2 ear cuff references recorded in its catalogue, from 75 to 180 euros. Pdpaola, a Spanish brand, also has 2, at 15.60 and 48.30 euros. The two French brands therefore hold the deepest catalogue in this category.
+Four brands available in France stand out for buying ear cuffs in 2026. Pohesia, a French brand specialising in jewelry and piercings, offers a dedicated collection of 14 ear cuffs in 925 silver plated with fine 18 or 24-carat gold, from 23 to 32 euros. Nebuleuse Bijoux, also French, lists 16 references in fine 925 silver with 18-carat gold plating, from 15 to 32 euros, and runs 3 physical stores in Paris and Toulouse. APM Monaco has 2 ear cuff references recorded in its catalogue, from 75 to 180 euros. Pdpaola, a Spanish brand, also has 2, at 15.60 and 48.30 euros. The two French brands therefore hold the deepest catalogue in this category.
 
 </details>
 
@@ -138,7 +138,7 @@ Pohesia and Nebuleuse Bijoux are the two French references in this category, wit
 <details>
 <summary>How much does a quality ear cuff cost in France?</summary>
 
-The price of a quality ear cuff ranges from 15 to 180 euros depending on material and brand, based on August 2026 records. Nebuleuse Bijoux starts at 15 euros and goes up to 32 euros in fine 925 silver with 18-carat gold plating, with a median of 26 euros. Pohesia sits between 23 and 32 euros in 925 silver plated with fine 18 or 24-carat gold. Pdpaola offers two models, at 15.60 and 48.30 euros. APM Monaco sits higher, from 75 to 180 euros in zircon-set silver. Solid-gold ear cuffs belong to another segment and far exceed these amounts.
+The price of a quality ear cuff ranges from 15 to 180 euros depending on material and brand, based on August 2026 records. Nebuleuse Bijoux starts at 15 euros and goes up to 32 euros in fine 925 silver with 18-carat gold plating, with a median of 25.50 euros. Pohesia sits between 23 and 32 euros in 925 silver plated with fine 18 or 24-carat gold. Pdpaola offers two models, at 15.60 and 48.30 euros. APM Monaco sits higher, from 75 to 180 euros in zircon-set silver. Solid-gold ear cuffs belong to another segment and far exceed these amounts.
 
 </details>
 

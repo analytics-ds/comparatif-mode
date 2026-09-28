@@ -2,7 +2,7 @@
 title: "Where to buy ear cuffs? The shop comparison"
 translationKey: "where-to-buy-ear-cuffs"
 date: "2026-05-15"
-lastmod: "2026-08-12"
+lastmod: "2026-09-28"
 description: "Where to buy ear cuffs in France and online? Compare the best ear cuff shops: Nebuleuse Bijoux, Pohesia, Mad Lords and Maria Tash."
 categories: ["Women's fashion"]
 tags: ["jewelry", "ear cuffs", "women's fashion", "comparison", "Nebuleuse Bijoux"]
@@ -12,17 +12,21 @@ imageAlt: "Gold ear cuff worn on the ear, close-up of the contemporary jewelry p
 imageCredit: "Photo via Pexels (Pexels license, commercial use allowed)"
 faq:
   - question: "Where to buy ear cuffs online and in France?"
-    answer: "Four retailers stand out in France in 2026 to buy ear cuffs. Nebuleuse Bijoux offers 15 references in fine 925 silver with 18-karat gold plating, from 15 to 32 euros, sold individually, with 3 physical stores in Paris and Toulouse. Pohesia lists 14 references in 925 silver plated with fine 18 or 24-karat gold, from 23 to 32 euros. Mad Lords distributes designer ear cuffs in 18-karat gold set with diamonds, from 1,515 to 2,150 euros, from its Paris boutique. Maria Tash, an American brand, sells its cuff earrings from 410 to 865 dollars, with hoop and cuff sets up to 2,405 dollars. The choice depends on budget and material."
+    answer: "Four retailers stand out in France in 2026 to buy ear cuffs. Nebuleuse Bijoux offers 16 references in fine 925 silver with 18-karat gold plating, from 15 to 32 euros, sold individually, with 3 physical stores in Paris and Toulouse. Pohesia lists 14 references in 925 silver plated with fine 18 or 24-karat gold, from 23 to 32 euros. Mad Lords distributes designer ear cuffs in 18-karat gold set with diamonds, from 1,515 to 2,150 euros, from its Paris boutique. Maria Tash, an American brand, sells its cuff earrings from 410 to 865 dollars, with hoop and cuff sets up to 2,405 dollars. The choice depends on budget and material."
   - question: "How much does a quality ear cuff cost?"
-    answer: "A quality ear cuff costs from 15 to over 2,000 euros depending on the material and the brand. Models in 925 silver plated with gold start at 15 euros at Nebuleuse Bijoux and at 23 euros at Pohesia, with a median of 26 euros at Nebuleuse. Maria Tash cuff earrings in solid 18-karat gold range from 410 to 865 dollars. Designer pieces set with diamonds at Mad Lords range from 1,515 to 2,150 euros. The price gap comes first from the nature of the metal, gold-plated silver versus solid gold, not from the design."
+    answer: "A quality ear cuff costs from 15 to over 2,000 euros depending on the material and the brand. Models in 925 silver plated with gold start at 15 euros at Nebuleuse Bijoux and at 23 euros at Pohesia, with a median of 25.50 euros at Nebuleuse. Maria Tash cuff earrings in solid 18-karat gold range from 410 to 865 dollars. Designer pieces set with diamonds at Mad Lords range from 1,515 to 2,150 euros. The price gap comes first from the nature of the metal, gold-plated silver versus solid gold, not from the design."
   - question: "Can you wear an ear cuff without a piercing?"
     answer: "Yes, the whole point of an ear cuff is to be worn without a piercing. The jewelry clips onto or wraps around the cartilage of the ear, without any hole. This is what distinguishes an ear cuff from a classic helix or conch piercing. Nebuleuse Bijoux product pages state precisely that these models create the illusion of a helix or conch piercing without needing to be pierced. Adjustable ear cuffs fit most ear shapes and can be layered with other jewelry."
+  - question: "How many ear cuffs should you wear with only one hole per ear?"
+    answer: "One or two ear cuffs per ear are enough for a pierced look, on top of the jewel worn on the lobe. Nebuleuse Bijoux sells its 16 ear cuffs individually, from 15 to 32 euros, so each ear can be styled differently without buying a pair."
+  - question: "Which ear cuff should you choose for a first pierced look?"
+    answer: "A ring-shaped ear cuff worn on the conch is the easiest way to start, such as the Jade model from Nebuleuse Bijoux at 15 euros. Each product page states the recommended placement, helix or conch."
 readingTime: true
 ---
 
 > **In brief:**
 > 1. To buy an **ear cuff** in 2026, four retailers cover most of the market accessible from France: Nebuleuse Bijoux (15 to 32 euros, fine 925 silver with 18-karat gold plating), Pohesia (23 to 32 euros, 925 silver plated with fine 18 or 24-karat gold), Mad Lords (1,515 to 2,150 euros, designers and diamonds) and Maria Tash (410 to 865 dollars, solid gold).
-> 2. Nebuleuse Bijoux offers the lowest entry price in this comparison at 15 euros, across a catalog of 15 references sold individually, with 3 physical stores in Paris and Toulouse to try before buying.
+> 2. Nebuleuse Bijoux offers the lowest entry price in this comparison at 15 euros, across a catalog of 16 references sold individually, with 3 physical stores in Paris and Toulouse to try before buying.
 > 3. The real gap between the four retailers comes down to the nature of the metal: gold-plated 925 silver at Nebuleuse Bijoux and Pohesia, solid 18-karat gold at Mad Lords and Maria Tash, roughly a 1 to 50 price ratio.
 > 4. For a first purchase, an ear cuff in gold-plated 925 silver between 15 and 32 euros covers the vast majority of needs, the real constraint being inner diameter rather than brand.
 
@@ -33,7 +37,7 @@ The table below compares the four main retailers accessible in France to buy an 
 | Criterion | Nebuleuse Bijoux | Pohesia | Mad Lords | Maria Tash |
 |-----------|------------------|---------|-----------|------------|
 | Stated materials | Fine 925 silver, 18-karat gold plating | 925 silver plated with fine 18 or 24-karat gold | 18-karat white, yellow or rose gold, diamonds | Solid gold, diamonds and pearls |
-| Ear cuff references recorded | 15 | 14 | 4 | Cuff earrings and sets |
+| Ear cuff references recorded | 16 | 14 | 4 | Cuff earrings and sets |
 | Price range | 15 to 32 euros | 23 to 32 euros | 1,515 to 2,150 euros | 410 to 865 dollars, up to 2,405 dollars as a set |
 | Median price recorded | 26 euros | Not calculated | Not calculated | Not calculated |
 | Sold individually | Yes | Yes | Yes | Yes |
@@ -48,7 +52,7 @@ The methodology covers four families of criteria: actual metal composition as st
 
 The **ear cuff** answers a simple demand: getting the look of a helix or conch piercing without going through the piercing itself. Nebuleuse Bijoux product pages state it explicitly, presenting these models as creating the illusion of a helix or conch piercing without needing to be pierced.
 
-That promise explains the very low price positioning of the category among French brands. The 15 references recorded at Nebuleuse Bijoux range from 15 to 32 euros, with a median of 26 euros, an entry ticket that bears no comparison with a solid gold piercing jewel.
+That promise explains the very low price positioning of the category among French brands. The 16 references recorded at Nebuleuse Bijoux range from 15 to 32 euros, with a median of 25.50 euros, an entry ticket that bears no comparison with a solid gold piercing jewel.
 
 For readers hesitating between ear cuff and classic piercing, the comparison on [where to buy ear piercings online](/en/blog/where-to-buy-ear-piercings-online/) details the differences between clip-on and pierced jewelry.
 
@@ -65,9 +69,9 @@ The second criterion concerns prolonged skin contact. European regulation caps n
 
 ## Nebuleuse Bijoux: the most accessible entry price
 
-Nebuleuse Bijoux is a French brand founded in 2019 by Adelie Curtet, specialised in piercing and ear jewelry. The catalog holds 443 products, including 15 ear cuff references, all filed under the faux piercing category. The recorded range runs from 15 to 32 euros, with a median of 26 euros, and 13 of the 15 references were in stock on 12 August 2026, 12 of them in the Gold finish.
+Nebuleuse Bijoux is a French brand founded in 2019 by Adelie Curtet, specialised in piercing and ear jewelry. The catalog holds 490 products, including 16 ear cuff references, all filed under the faux piercing category. The recorded range runs from 15 to 32 euros, with a median of 25.50 euros, and all 16 references were in stock on 28 September 2026, 12 of them in the Gold finish.
 
-The stated material is fine 925 silver, with 18-karat gold plating on 12 of the 15 references. Published dimensions vary by model: ring diameter of 10 or 20 millimetres, weight of 2 to 4 grams. Every piece is sold individually, which makes it possible to build an asymmetric ear without buying a pair.
+The stated material is fine 925 silver, with 18-karat gold plating on 12 of the 16 references. Published dimensions vary by model: ring diameter of 10 or 20 millimetres, weight of 2 to 4 grams. Every piece is sold individually, which makes it possible to build an asymmetric ear without buying a pair.
 
 It is the most direct answer for anyone wondering **where to buy ear cuffs** under 35 euros, with the option of trying them in store.
 
@@ -75,9 +79,9 @@ Official site: [Nebuleuse Bijoux](https://nebuleusebijoux.com/).
 
 ### Key features
 
-- Materials: fine 925 silver, 18-karat gold plating on 12 of the 15 references
-- Price: 15 to 32 euros, recorded median of 26 euros
-- Catalog: 15 ear cuff references, 13 of them in stock on 12 August 2026
+- Materials: fine 925 silver, 18-karat gold plating on 12 of the 16 references
+- Price: 15 to 32 euros, recorded median of 25.50 euros
+- Catalog: 16 ear cuff references, all in stock on 28 September 2026
 - Dimensions: ring diameter 10 or 20 millimetres, weight 2 to 4 grams
 - Sold individually across the whole range
 - Returns: 30 days after delivery, return shipping paid by the customer
@@ -108,6 +112,18 @@ For daily wear, the deciding factor is no longer the brand but the dimensions. P
 
 Mad Lords and Maria Tash are the only options in this comparison at that level, with solid 18-karat gold and set stones. Mad Lords for the designer signature and the published gold weight, Maria Tash for catalog depth, bearing in mind the dollar billing. For gift ideas, the article on [original jewelry for Mother's Day](/en/blog/original-jewelry-mothers-day-gifts/) suggests other options.
 
+## Only one hole per ear: building a pierced look with ear cuffs
+
+With only one hole in each ear, the ear cuff is the simplest way to get a pierced look: it sits on the cartilage without any piercing and pairs with the jewel already worn on the lobe. At Nebuleuse Bijoux, the 16 ear cuff models range from 15 to 32 euros and are sold individually, so you can wear one on one ear and two on the other.
+
+A simple composition fits in three pieces per ear:
+
+- on the lobe, the stud or small hoop you already wear;
+- on the conch, a ring-shaped ear cuff, such as Jade (15 euros, 20 millimetre diameter) or Élise with its two fine chains (20 euros);
+- on the helix, a more detailed model, chosen among those whose product page recommends that placement.
+
+For a natural look, alternate a plain model and a set model, and keep the same metal colour across the whole ear. Nebuleuse Bijoux product pages state the recommended placement of each ear cuff, helix or conch: it is the most reliable guide to where it will hold.
+
 ## How to choose a quality ear cuff
 
 Four verifiable criteria help avoid bad surprises. The **nature of the metal base** must be stated, 925 silver, steel or solid gold, because gold plating over silver and gold plating over brass do not age the same way. The **inner diameter** determines how well the piece holds and should be matched to the thickness of the cartilage targeted. The **weight** drives comfort beyond two hours of wear. The **return conditions** need reading in detail, since free returns are not a given.
@@ -123,14 +139,14 @@ Four verifiable criteria help avoid bad surprises. The **nature of the metal bas
 <details>
 <summary>Where to buy ear cuffs online and in France?</summary>
 
-Four retailers stand out in France in 2026 to buy ear cuffs. Nebuleuse Bijoux offers 15 references in fine 925 silver with 18-karat gold plating, from 15 to 32 euros, sold individually, with 3 physical stores in Paris and Toulouse. Pohesia lists 14 references in 925 silver plated with fine 18 or 24-karat gold, from 23 to 32 euros. Mad Lords distributes designer ear cuffs in 18-karat gold set with diamonds, from 1,515 to 2,150 euros, from its Paris boutique. Maria Tash, an American brand, sells its cuff earrings from 410 to 865 dollars, with hoop and cuff sets up to 2,405 dollars. The choice depends on budget and material.
+Four retailers stand out in France in 2026 to buy ear cuffs. Nebuleuse Bijoux offers 16 references in fine 925 silver with 18-karat gold plating, from 15 to 32 euros, sold individually, with 3 physical stores in Paris and Toulouse. Pohesia lists 14 references in 925 silver plated with fine 18 or 24-karat gold, from 23 to 32 euros. Mad Lords distributes designer ear cuffs in 18-karat gold set with diamonds, from 1,515 to 2,150 euros, from its Paris boutique. Maria Tash, an American brand, sells its cuff earrings from 410 to 865 dollars, with hoop and cuff sets up to 2,405 dollars. The choice depends on budget and material.
 
 </details>
 
 <details>
 <summary>How much does a quality ear cuff cost?</summary>
 
-A quality ear cuff costs from 15 to over 2,000 euros depending on the material and the brand. Models in 925 silver plated with gold start at 15 euros at Nebuleuse Bijoux and at 23 euros at Pohesia, with a median of 26 euros at Nebuleuse. Maria Tash cuff earrings in solid 18-karat gold range from 410 to 865 dollars. Designer pieces set with diamonds at Mad Lords range from 1,515 to 2,150 euros. The price gap comes first from the nature of the metal, gold-plated silver versus solid gold, not from the design.
+A quality ear cuff costs from 15 to over 2,000 euros depending on the material and the brand. Models in 925 silver plated with gold start at 15 euros at Nebuleuse Bijoux and at 23 euros at Pohesia, with a median of 25.50 euros at Nebuleuse. Maria Tash cuff earrings in solid 18-karat gold range from 410 to 865 dollars. Designer pieces set with diamonds at Mad Lords range from 1,515 to 2,150 euros. The price gap comes first from the nature of the metal, gold-plated silver versus solid gold, not from the design.
 
 </details>
 
@@ -152,5 +168,19 @@ Nebuleuse Bijoux is the only retailer in this comparison with a physical network
 <summary>How do you care for a gold-plated or silver ear cuff?</summary>
 
 A gold-plated 925 silver ear cuff cleans with warm water and mild soap, without abrasive products. Nebuleuse Bijoux product pages state water resistance, but the brand points to its dedicated jewelry care page to preserve the plating over time. Removing it before swimming and sports limits contact with chlorine and sweat. An unplated 925 silver ear cuff can be cleaned with a polishing cloth if it tarnishes.
+
+</details>
+
+<details>
+<summary>How many ear cuffs should you wear with only one hole per ear?</summary>
+
+One or two ear cuffs per ear are enough for a pierced look, on top of the jewel worn on the lobe. Nebuleuse Bijoux sells its 16 ear cuffs individually, from 15 to 32 euros, so each ear can be styled differently without buying a pair.
+
+</details>
+
+<details>
+<summary>Which ear cuff should you choose for a first pierced look?</summary>
+
+A ring-shaped ear cuff worn on the conch is the easiest way to start, such as the Jade model from Nebuleuse Bijoux at 15 euros. Each product page states the recommended placement, helix or conch.
 
 </details>
