@@ -28,7 +28,7 @@ Chercher le meilleur concept store à Annecy, c'est comparer des adresses qui ne
 
 Il complète notre comparatif du [meilleur concept store à Lyon](/blog/meilleur-concept-store-lyon/), sans aucune enseigne en commun. Les notes et nombres d'avis viennent de Google et ont été relevés le 28 septembre 2026. Les informations de chaque enseigne viennent de son propre site, consulté le même jour.
 
-## Le comparatif en un coup d'oeil
+## Le comparatif en un coup d'œil
 
 | Enseigne | Spécialité | Adresse | Vente en ligne | Note Google (28/09) |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ Il complète notre comparatif du [meilleur concept store à Lyon](/blog/meilleur
 
 [Lulli sur la Toile](https://www.lulli-sur-la-toile.com/toutes-nos-boutiques-mode/annecy) est né à Marseille en 2003 et référence aujourd'hui plus de 230 créateurs en ligne. Sa boutique d'Annecy se trouve au 6 rue de la Poste, ouverte du lundi au samedi de 10h à 19h. Elle met en avant Anine Bing, Golden Goose, Isabel Marant, Dragon Diffusion, Ibeliv, Forte_Forte, Sebago ou encore les livres Assouline.
 
-C'est la seule adresse du panel centrée sur le vêtement, la chaussure et le sac de créateur, et la seule à publier un catalogue en ligne complet en plus d'un réseau de boutiques dans le sud-est. À titre d'exemple, les baskets Super-Star de Golden Goose y sont à 520 euros et le sac Japan Tote en cuir de Dragon Diffusion à 465 euros au 28 septembre 2026. Click and Collect en boutique, livraison offerte dès 150 euros, retour offert sous 14 jours.
+C'est la seule adresse du panel centrée sur le vêtement, la chaussure et le sac de créateur, et la seule à adosser sa boutique à un réseau d'adresses dans le sud-est. À titre d'exemple, les baskets Super-Star de Golden Goose y sont à 520 euros et le sac Japan Tote en cuir de Dragon Diffusion à 465 euros au 28 septembre 2026. Click and Collect en boutique, livraison offerte dès 150 euros, retour offert sous 14 jours.
 
 **Pour qui.** Pour renouveler un vestiaire de créateurs, essayer en boutique et commander le reste en ligne.
 
@@ -62,7 +62,7 @@ C'est la seule adresse du panel centrée sur le vêtement, la chaussure et le sa
 
 ## 4. Biutiful, la beauté et la parfumerie de niche
 
-[Biutiful](https://biutifulshop.com/) est ouverte depuis 2013 au 4 bis rue de la Poste, à deux pas de Lulli, et livre dans le monde entier via son e-shop. L'offre est tournée vers la décoration, la beauté et la parfumerie, avec des maisons comme Astier de Villatte, Cire Trudon, Tata Harper ou Aesop. Ouvert le lundi de 14h à 19h, du mardi au samedi de 10h à 19h.
+[Biutiful](https://biutifulshop.com/) est ouverte depuis 2013 au 4 bis rue de la Poste, à deux pas de Lulli, et livre dans le monde entier via son e-shop. L'offre est tournée vers la décoration, la beauté et la parfumerie, avec des maisons comme Astier de Villatte, Cire Trudon, Tata Harper ou Aesop. Ouverte le lundi de 14h à 19h, du mardi au samedi de 10h à 19h.
 
 **Pour qui.** Pour un soin, une bougie ou un parfum de niche.
 
@@ -74,7 +74,7 @@ C'est la seule adresse du panel centrée sur le vêtement, la chaussure et le sa
 
 ## 6. Rare & Rude, boutique, galerie et atelier créatif
 
-Rare & Rude est une adresse récente de la vieille ville, au 7 faubourg des Annonciades. D'après le portrait publié par le magazine local Moka, le lieu mêle objets pop et kitsch choisis auprès d'artistes et de petits labels indépendants, une galerie d'exposition dédiée aux artistes locaux et un atelier créatif accessible sans réservation. Ouvert du mercredi au dimanche, de 10h à 19h. C'est l'enseigne la mieux notée du panel sur un volume d'avis significatif.
+Rare & Rude est une adresse récente de la vieille ville, au 7 faubourg des Annonciades. D'après le portrait publié par le magazine local Moka, le lieu mêle objets pop et kitsch choisis auprès d'artistes et de petits labels indépendants, une galerie d'exposition dédiée aux artistes locaux et un atelier créatif accessible sans réservation. Ouvert du mercredi au dimanche, de 10h à 19h. C'est la note la plus haute du panel sur le plus grand nombre d'avis.
 
 **Pour qui.** Pour un cadeau décalé ou une activité créative, pas pour la mode.
 
@@ -99,7 +99,7 @@ D'autres adresses souvent citées, comme Jolibo, Rose ou Inspiration 212, n'ont 
 
 ## Le verdict
 
-Pour un vestiaire de créateurs, chaussures et sacs compris, essayable rue de la Poste et commandable en ligne, [Lulli sur la Toile](https://www.lulli-sur-la-toile.com/createurs.html) est l'adresse la plus complète de ce comparatif. Pour mêler mode, maison et café, babeth. Pour un bijou, Les Palettes. Pour la beauté, Biutiful. Pour le made in France, Établi 65. Pour un moment créatif, Rare & Rude.
+Pour un vestiaire de créateurs, chaussures et sacs compris, essayable rue de la Poste et commandable en ligne, [Lulli sur la Toile](https://www.lulli-sur-la-toile.com/createurs.html) est l'adresse la plus complète de ce comparatif. Pour mêler mode, maison et café, babeth. Pour un bijou, Les Palettes. Pour la beauté, Biutiful. Pour le made in France, Établi 65. Pour un moment créatif, Rare & Rude. Pour des fleurs, Murmur.
 
 Pour aller plus loin, voir aussi notre comparatif national du [meilleur concept store multimarque de créateurs](/blog/meilleur-concept-store-multimarque-createurs/) et notre guide des [idées cadeaux de Noël pour une femme](/blog/idees-cadeaux-noel-femme/).
 

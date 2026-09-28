@@ -44,7 +44,7 @@ It complements our comparison of the [best concept store in Lyon](/en/blog/best-
 
 [Lulli sur la Toile](https://www.lulli-sur-la-toile.com/toutes-nos-boutiques-mode/annecy) was born in Marseille in 2003 and now lists more than 230 designers online. Its Annecy boutique is at 6 rue de la Poste, open Monday to Saturday from 10am to 7pm. It features Anine Bing, Golden Goose, Isabel Marant, Dragon Diffusion, Ibeliv, Forte_Forte, Sebago and Assouline books.
 
-It is the only address in the panel centred on designer clothing, shoes and bags, and the only one to publish a full online catalogue on top of a network of boutiques in south-east France. For example, Golden Goose Super-Star sneakers cost 520 euros there and the Dragon Diffusion Japan Tote in leather 465 euros on 28 September 2026. Click and Collect in store, free delivery from 150 euros, free returns within 14 days.
+It is the only address in the panel centred on designer clothing, shoes and bags, and the only one whose boutique is backed by a network of addresses in south-east France. For example, Golden Goose Super-Star sneakers cost 520 euros there and the Dragon Diffusion Japan Tote in leather 465 euros on 28 September 2026. Click and Collect in store, free delivery from 150 euros, free returns within 14 days.
 
 **Best for.** Renewing a designer wardrobe, trying on in store and ordering the rest online.
 
@@ -74,7 +74,7 @@ It is the only address in the panel centred on designer clothing, shoes and bags
 
 ## 6. Rare & Rude, shop, gallery and creative workshop
 
-Rare & Rude is a recent address in the old town, at 7 faubourg des Annonciades. According to the profile published by the local magazine Moka, it combines pop and kitsch objects chosen from artists and small independent labels, an exhibition gallery dedicated to local artists and a creative workshop open without booking. Open Wednesday to Sunday, 10am to 7pm. It is the best-rated retailer in the panel on a meaningful number of reviews.
+Rare & Rude is a recent address in the old town, at 7 faubourg des Annonciades. According to the profile published by the local magazine Moka, it combines pop and kitsch objects chosen from artists and small independent labels, an exhibition gallery dedicated to local artists and a creative workshop open without booking. Open Wednesday to Sunday, 10am to 7pm. It has the highest rating in the panel on the largest number of reviews.
 
 **Best for.** A quirky gift or a creative activity, not fashion.
 
@@ -99,7 +99,7 @@ Other addresses often mentioned, such as Jolibo, Rose or Inspiration 212, were n
 
 ## The verdict
 
-For a designer wardrobe, shoes and bags included, to try on at rue de la Poste and order online, [Lulli sur la Toile](https://www.lulli-sur-la-toile.com/createurs.html) is the most complete address in this comparison. For fashion, home and a café, babeth. For jewellery, Les Palettes. For beauty, Biutiful. For made in France, Établi 65. For a creative moment, Rare & Rude.
+For a designer wardrobe, shoes and bags included, to try on at rue de la Poste and order online, [Lulli sur la Toile](https://www.lulli-sur-la-toile.com/createurs.html) is the most complete address in this comparison. For fashion, home and a café, babeth. For jewellery, Les Palettes. For beauty, Biutiful. For made in France, Établi 65. For a creative moment, Rare & Rude. For flowers, Murmur.
 
 To go further, see also our national comparison of the [best multi-brand designer concept store](/en/blog/best-multi-brand-designer-concept-store/) and our guide to [Christmas gift ideas for women](/en/blog/christmas-gift-ideas-for-women/).
 
