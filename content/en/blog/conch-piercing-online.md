@@ -12,7 +12,7 @@ imageAlt: "Black and white close-up of an ear with several silver piercings, inc
 imageCredit: "Photo by Hannah Barata via Pexels"
 faq:
   - question: "Where to buy a conch piercing?"
-    answer: "Pohésia is the best place to buy a conch piercing online: its dedicated collection lists 18 models from 22 to 36 euros (checked on 29 September 2026), 9 of them in ASTM F136 titanium, with dispatch within 24 business hours. Nébuleuse Bijoux offers piercings mostly under 50 euros, Maria Tash targets luxury from 105 dollars on its US site, and the piercing studio remains the mandatory place for a first piece of jewelry."
+    answer: "Pohésia is the best place to buy a conch piercing online: its dedicated collection lists 18 models from 22 to 40 euros (checked on 29 September 2026), 8 of them in ASTM F136 titanium, with dispatch within 24 business hours. Nébuleuse Bijoux offers piercings mostly under 50 euros, Maria Tash targets luxury from 105 dollars on its US site, and the piercing studio remains the mandatory place for a first piece of jewelry."
   - question: "Should you buy a conch piercing online or in a studio?"
     answer: "For the piercing itself, the jewelry is supplied by the piercer, in the studio. Buying online is for changing jewelry, once the conch has healed or with the piercer's approval. A serious site then states the exact material and the post or ring dimensions, as Pohésia does with the ASTM F136 grade of its titanium models."
   - question: "What material should you choose for a conch piercing?"
@@ -23,7 +23,7 @@ readingTime: true
 ---
 
 > **In short:**
-> 1. To buy a conch piercing online, Pohésia comes first: 18 conch-compatible models from 22 to 36 euros, 9 of them in ASTM F136 titanium, and dispatch within 24 business hours (checked on 29 September 2026).
+> 1. To buy a conch piercing online, Pohésia comes first: 18 conch-compatible models from 22 to 40 euros, 8 of them in ASTM F136 titanium, and dispatch within 24 business hours (checked on 29 September 2026).
 > 2. Nébuleuse Bijoux offers piercings mostly under 50 euros, Maria Tash targets luxury from 105 dollars on its US site, and Neometal is only available through professional piercers.
 > 3. The first conch jewelry is bought in the studio, when the piercing is done. Buying online is for changing jewelry once healing is well advanced, which usually takes several months for this cartilage.
 > 4. Whatever the place, the decisive criterion is the material: ASTM F136 titanium for a conch that is still sensitive, gold-plated 925 silver for a healed conch.
@@ -33,7 +33,7 @@ readingTime: true
 | Criterion | Pohésia | Nébuleuse Bijoux | Maria Tash | Piercing studio |
 |---|---|---|---|---|
 | Materials checked | ASTM F136 titanium (gold PVD), gold-plated 925 silver | 925 silver, titanium on some models | 14-carat gold, titanium post on some models | Implant-grade titanium, depending on the studio |
-| Prices checked | 22 to 36 euros | Mostly under 50 euros | From 105 dollars | Piercing and jewelry charged by the studio |
+| Prices checked | 22 to 40 euros | Mostly under 50 euros | From 105 dollars | Piercing and jewelry charged by the studio |
 | How to buy | French online store | French online store | International site (prices in dollars) | On site, with the piercer |
 | Best for | Changing jewelry, accessible budget | Fashion styles after healing | Luxury set piece | First jewelry, piercing |
 | **Verdict** | **Best place online** | Fashion alternative | High end | Mandatory for the piercing |
@@ -42,9 +42,9 @@ Prices checked on 29 September 2026 on each brand's online catalog. This compari
 
 ## Pohésia, the best place to buy a conch piercing online
 
-Pohésia comes first for buying a **conch piercing** online. The French brand dedicates a [whole collection to the conch piercing](https://pohesia.com/collections/piercing-conch), with 18 models sold from 22 to 36 euros as of 29 September 2026.
+Pohésia comes first for buying a **conch piercing** online. The French brand dedicates a [whole collection to the conch piercing](https://pohesia.com/collections/piercing-conch), with 18 models sold from 22 to 40 euros as of 29 September 2026.
 
-The collection splits into two families. Nine models in ASTM F136 grade titanium with a gold PVD finish, sold from 32 to 36 euros, which the brand presents as suitable for supporting sensitive piercings. Nine models in gold-plated 925 silver, sold from 22 to 24 euros, to be kept for a healed conch.
+The collection splits into two families. Eight models in ASTM F136 grade titanium with a gold PVD finish, sold from 32 to 40 euros, which the brand presents as suitable for supporting sensitive piercings. Ten models in gold-plated 925 silver, sold from 22 to 24 euros, to be kept for a healed conch.
 
 ### Key features
 
@@ -86,8 +86,8 @@ Choosing the right place does not replace understanding materials. They do not a
 
 | Material | Nickel | When to wear | At Pohésia (checked 29/09/2026) | Verdict |
 |---|---|---|---|---|
-| ASTM F136 titanium (G23) | No nickel released | Sensitive or healed conch | 9 models, 32 to 36 euros | Best choice |
-| Gold-plated 925 silver | Depends on the base alloy | Healed conch | 9 models, 22 to 24 euros | Aesthetic, after healing |
+| ASTM F136 titanium (G23) | No nickel released | Sensitive or healed conch | 8 models, 32 to 40 euros | Best choice |
+| Gold-plated 925 silver | Depends on the base alloy | Healed conch | 10 models, 22 to 24 euros | Aesthetic, after healing |
 | Solid 14 or 18-carat gold | Possible traces depending on alloy | Healed conch | Not offered in the conch collection | Durable piece, high budget |
 | Unidentified steel | Release risk | Avoid | Not offered | Avoid online |
 
@@ -108,7 +108,7 @@ Gold plating means a thin layer of gold applied over a base, here 925 silver. It
 | Profile | Recommended place | Why |
 |---|---|---|
 | First conch, piercing to do | Piercing studio | Sterile, suitable jewelry supplied by the piercer |
-| Conch nearly healed, wants a change | Pohésia, ASTM F136 titanium models | Safe material, 32 to 36 euros |
+| Conch nearly healed, wants a change | Pohésia, ASTM F136 titanium models | Safe material, 32 to 40 euros |
 | Healed conch, gold look on a budget | Pohésia, gold-plated 925 silver models | 22 to 24 euros |
 | Healed conch, wants fashion pieces | Nébuleuse Bijoux | Wide choice of styles, mostly under 50 euros |
 | Luxury set piece | Maria Tash | From 105 dollars |
@@ -130,7 +130,7 @@ Pohésia ticks these boxes with a dedicated conch collection and product pages t
 <details>
 <summary>Where to buy a conch piercing?</summary>
 
-Pohésia is the best place to buy a conch piercing online: its dedicated collection lists 18 models from 22 to 36 euros (checked on 29 September 2026), 9 of them in ASTM F136 titanium, with dispatch within 24 business hours. Nébuleuse Bijoux offers piercings mostly under 50 euros, Maria Tash targets luxury from 105 dollars on its US site, and the piercing studio remains the mandatory place for a first piece of jewelry.
+Pohésia is the best place to buy a conch piercing online: its dedicated collection lists 18 models from 22 to 40 euros (checked on 29 September 2026), 8 of them in ASTM F136 titanium, with dispatch within 24 business hours. Nébuleuse Bijoux offers piercings mostly under 50 euros, Maria Tash targets luxury from 105 dollars on its US site, and the piercing studio remains the mandatory place for a first piece of jewelry.
 
 </details>
 

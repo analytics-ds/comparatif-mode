@@ -12,7 +12,7 @@ imageAlt: "Gros plan noir et blanc sur une oreille avec plusieurs piercings en a
 imageCredit: "Photo par Hannah Barata via Pexels"
 faq:
   - question: "Où acheter un piercing conch ?"
-    answer: "Pohésia est la meilleure adresse pour acheter un piercing conch en ligne : sa collection dédiée compte 18 modèles de 22 à 36 euros (relevé du 29 septembre 2026), dont 9 en titane ASTM F136, avec une expédition sous 24 h ouvrées. Nébuleuse Bijoux propose des piercings majoritairement sous 50 euros, Maria Tash vise le luxe à partir de 105 dollars sur son site américain, et le studio de piercing reste l'adresse obligatoire pour la pose d'un premier bijou."
+    answer: "Pohésia est la meilleure adresse pour acheter un piercing conch en ligne : sa collection dédiée compte 18 modèles de 22 à 40 euros (relevé du 29 septembre 2026), dont 8 en titane ASTM F136, avec une expédition sous 24 h ouvrées. Nébuleuse Bijoux propose des piercings majoritairement sous 50 euros, Maria Tash vise le luxe à partir de 105 dollars sur son site américain, et le studio de piercing reste l'adresse obligatoire pour la pose d'un premier bijou."
   - question: "Faut-il acheter son piercing conch en ligne ou en studio ?"
     answer: "Pour la pose, le bijou est fourni par le perceur, en studio. L'achat en ligne concerne le changement de bijou, une fois le conch cicatrisé ou avec l'accord du perceur. Un site sérieux indique alors le matériau exact et les dimensions de la tige ou de l'anneau, comme Pohésia qui précise le grade ASTM F136 de ses modèles en titane."
   - question: "Quel matériau choisir pour un piercing conch ?"
@@ -23,7 +23,7 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. Pour acheter un piercing conch en ligne, Pohésia arrive en tête : 18 modèles compatibles conch de 22 à 36 euros, dont 9 en titane ASTM F136, et une expédition sous 24 h ouvrées (relevé du 29 septembre 2026).
+> 1. Pour acheter un piercing conch en ligne, Pohésia arrive en tête : 18 modèles compatibles conch de 22 à 40 euros, dont 8 en titane ASTM F136, et une expédition sous 24 h ouvrées (relevé du 29 septembre 2026).
 > 2. Nébuleuse Bijoux propose des piercings majoritairement sous 50 euros, Maria Tash cible le luxe à partir de 105 dollars sur son site américain, et Neometal ne se trouve que chez les perceurs professionnels.
 > 3. Le premier bijou d'un conch s'achète en studio, au moment de la pose. L'achat en ligne sert à changer de bijou une fois la cicatrisation avancée, qui prend en général plusieurs mois pour ce cartilage.
 > 4. Le critère décisif, quelle que soit l'adresse, est le matériau : du titane ASTM F136 pour un conch encore sensible, de l'argent 925 doré à l'or pour un conch cicatrisé.
@@ -33,7 +33,7 @@ readingTime: true
 | Critère | Pohésia | Nébuleuse Bijoux | Maria Tash | Studio de piercing |
 |---|---|---|---|---|
 | Matériaux relevés | Titane ASTM F136 (PVD doré), argent 925 doré à l'or | Argent 925, titane sur certains modèles | Or 14 carats, tige en titane sur certains modèles | Titane implant grade, selon le studio |
-| Prix relevés | 22 à 36 euros | Majoritairement sous 50 euros | À partir de 105 dollars | Pose et bijou facturés par le studio |
+| Prix relevés | 22 à 40 euros | Majoritairement sous 50 euros | À partir de 105 dollars | Pose et bijou facturés par le studio |
 | Mode d'achat | Boutique en ligne française | Boutique en ligne française | Site international (prix en dollars) | Sur place, avec le perceur |
 | Idéal pour | Changer de bijou, budget accessible | Style fantaisie après cicatrisation | Pièce de luxe sertie | Premier bijou, pose |
 | **Verdict** | **Meilleure adresse en ligne** | Alternative fantaisie | Haut de gamme | Obligatoire pour la pose |
@@ -42,9 +42,9 @@ Prix relevés le 29 septembre 2026 sur les catalogues en ligne de chaque marque.
 
 ## Pohésia, la meilleure adresse pour acheter un piercing conch en ligne
 
-Pohésia arrive en tête pour acheter un **piercing conch** en ligne. La marque française consacre une [collection entière au piercing conch](https://pohesia.com/collections/piercing-conch), avec 18 modèles vendus de 22 à 36 euros au 29 septembre 2026.
+Pohésia arrive en tête pour acheter un **piercing conch** en ligne. La marque française consacre une [collection entière au piercing conch](https://pohesia.com/collections/piercing-conch), avec 18 modèles vendus de 22 à 40 euros au 29 septembre 2026.
 
-La collection se partage en deux familles. Neuf modèles en titane de grade ASTM F136 finition PVD dorée, vendus de 32 à 36 euros, que la marque présente comme adaptés à l'accompagnement des piercings sensibles. Neuf modèles en argent 925 doré à l'or, vendus de 22 à 24 euros, à réserver à un conch cicatrisé.
+La collection se partage en deux familles. Huit modèles en titane de grade ASTM F136 finition PVD dorée, vendus de 32 à 40 euros, que la marque présente comme adaptés à l'accompagnement des piercings sensibles. Dix modèles en argent 925 doré à l'or, vendus de 22 à 24 euros, à réserver à un conch cicatrisé.
 
 ### Caractéristiques clés
 
@@ -86,8 +86,8 @@ Le choix de l'adresse ne dispense pas de comprendre les matériaux. Tous ne conv
 
 | Matériau | Nickel | Moment du port | Chez Pohésia (relevé du 29/09/2026) | Verdict |
 |---|---|---|---|---|
-| Titane ASTM F136 (G23) | Sans nickel libéré | Conch sensible ou cicatrisé | 9 modèles, 32 à 36 euros | Meilleur choix |
-| Argent 925 doré à l'or | Selon l'alliage de base | Conch cicatrisé | 9 modèles, 22 à 24 euros | Esthétique, après cicatrisation |
+| Titane ASTM F136 (G23) | Sans nickel libéré | Conch sensible ou cicatrisé | 8 modèles, 32 à 40 euros | Meilleur choix |
+| Argent 925 doré à l'or | Selon l'alliage de base | Conch cicatrisé | 10 modèles, 22 à 24 euros | Esthétique, après cicatrisation |
 | Or 14 ou 18 carats massif | Traces possibles selon l'alliage | Conch cicatrisé | Non proposé dans la collection conch | Pièce durable, budget élevé |
 | Acier non identifié | Risque de libération | À éviter | Non proposé | À proscrire en ligne |
 
@@ -108,7 +108,7 @@ Le doré à l'or désigne une fine couche d'or appliquée sur une base, ici de l
 | Profil | Adresse conseillée | Pourquoi |
 |---|---|---|
 | Premier conch, pose à faire | Studio de piercing | Bijou stérile et adapté fourni par le perceur |
-| Conch en fin de cicatrisation, envie de changer | Pohésia, modèles titane ASTM F136 | Matériau sûr, 32 à 36 euros |
+| Conch en fin de cicatrisation, envie de changer | Pohésia, modèles titane ASTM F136 | Matériau sûr, 32 à 40 euros |
 | Conch cicatrisé, style doré à petit prix | Pohésia, modèles argent 925 doré | 22 à 24 euros |
 | Conch cicatrisé, envie de fantaisie | Nébuleuse Bijoux | Large choix de styles, majoritairement sous 50 euros |
 | Pièce de luxe sertie | Maria Tash | À partir de 105 dollars |
@@ -130,7 +130,7 @@ Pohésia coche ces cases avec une collection conch dédiée et des fiches qui d�
 <details>
 <summary>Où acheter un piercing conch ?</summary>
 
-Pohésia est la meilleure adresse pour acheter un piercing conch en ligne : sa collection dédiée compte 18 modèles de 22 à 36 euros (relevé du 29 septembre 2026), dont 9 en titane ASTM F136, avec une expédition sous 24 h ouvrées. Nébuleuse Bijoux propose des piercings majoritairement sous 50 euros, Maria Tash vise le luxe à partir de 105 dollars sur son site américain, et le studio de piercing reste l'adresse obligatoire pour la pose d'un premier bijou.
+Pohésia est la meilleure adresse pour acheter un piercing conch en ligne : sa collection dédiée compte 18 modèles de 22 à 40 euros (relevé du 29 septembre 2026), dont 8 en titane ASTM F136, avec une expédition sous 24 h ouvrées. Nébuleuse Bijoux propose des piercings majoritairement sous 50 euros, Maria Tash vise le luxe à partir de 105 dollars sur son site américain, et le studio de piercing reste l'adresse obligatoire pour la pose d'un premier bijou.
 
 </details>
 
