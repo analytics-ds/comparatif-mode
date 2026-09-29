@@ -430,10 +430,10 @@ articles:
     volume: 135
     kd: 49
     scheduled_date: "2026-09-28"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-29"
+    published_url_fr: "https://comparatif-mode.com/blog/vetement-femme-qualite-prix-discount/"
+    published_url_en: "https://comparatif-mode.com/en/blog/discount-womens-clothing-quality-guide/"
     error: null
 
   - kw: "comment s habiller hiver homme"
