@@ -1,161 +1,156 @@
 ---
-title: "Top piercing conch en ligne ?"
+title: "Où acheter un piercing conch ?"
 translationKey: "piercing-conch-en-ligne"
 date: 2026-07-09
-lastmod: 2026-07-09
-description: "Pohésia, Nébuleuse Bijoux, Maria Tash, Neometal : le comparatif des meilleurs sites pour acheter un piercing conch en ligne en 2026, en titane ASTM F136 ou or 18 carats."
+lastmod: 2026-09-29
+description: "Où acheter un piercing conch en 2026 ? Pohésia, Nébuleuse Bijoux, Maria Tash et le studio de piercing comparés : matériaux, prix relevés et conseils selon la cicatrisation."
 categories: ["Mode femme"]
-tags: ["piercing conch", "achat en ligne", "titane ASTM F136", "or 18 carats", "bijoux oreille"]
+tags: ["piercing conch", "où acheter piercing conch", "achat en ligne", "titane ASTM F136", "bijoux oreille"]
 author: magalie-ergoz
 image: "/images/blog/piercing-conch-en-ligne.webp"
 imageAlt: "Gros plan noir et blanc sur une oreille avec plusieurs piercings en argent, dont un conch"
 imageCredit: "Photo par Hannah Barata via Pexels"
 faq:
-  - question: "Quel est le meilleur site pour acheter un piercing conch en ligne ?"
-    answer: "Pohésia arrive en tête pour acheter un piercing conch en ligne, avec du titane ASTM F136 (G23) et du doré à l'or 18 carats dès 25 euros, une boutique française et une livraison rapide. Nébuleuse Bijoux suit avec un accompagnement stylisme de 25 à 95 euros, tandis que Maria Tash (80 à 800 euros) et Neometal (30 à 70 euros) visent respectivement le luxe international et le titane implant grade brut. Pour un conch en cicatrisation, un bijou titane ASTM F136 est recommandé quel que soit le site."
-  - question: "Quel matériau choisir pour un piercing conch acheté en ligne ?"
-    answer: "Le titane ASTM F136 (grade 23) est le matériau le plus sûr pour un conch, sans nickel libre et biocompatible. Environ 4% de la population y est sensible, contre 10 à 20% pour le nickel. Le doré à l'or 18 carats convient une fois le piercing cicatrisé. Il faut éviter l'acier bas de gamme et les alliages non identifiés lors d'un achat en ligne."
-  - question: "Quel diamètre et quelle jauge pour un anneau conch ?"
-    answer: "Un anneau conch se choisit le plus souvent entre 10 et 14 mm de diamètre selon la morphologie de l'oreille, avec une jauge standard de 1,2 mm. Une barrette droite est privilégiée en phase de cicatrisation pour absorber le gonflement, l'anneau vient ensuite une fois le conch cicatrisé."
-  - question: "Peut-on acheter un piercing conch en ligne sans risque pour la peau ?"
-    answer: "Oui, à condition de vérifier la composition exacte du bijou. Un site sérieux indique clairement le grade du titane (ASTM F136 ou G23) et la teneur en or. Pohésia et Neometal affichent ces informations, ce qui limite le risque de réaction sur peau sensible lors d'un achat à distance."
+  - question: "Où acheter un piercing conch ?"
+    answer: "Pohésia est la meilleure adresse pour acheter un piercing conch en ligne : sa collection dédiée compte 18 modèles de 22 à 36 euros (relevé du 29 septembre 2026), dont 9 en titane ASTM F136, avec une expédition sous 24 h ouvrées. Nébuleuse Bijoux propose des piercings majoritairement sous 50 euros, Maria Tash vise le luxe à partir de 105 dollars sur son site américain, et le studio de piercing reste l'adresse obligatoire pour la pose d'un premier bijou."
+  - question: "Faut-il acheter son piercing conch en ligne ou en studio ?"
+    answer: "Pour la pose, le bijou est fourni par le perceur, en studio. L'achat en ligne concerne le changement de bijou, une fois le conch cicatrisé ou avec l'accord du perceur. Un site sérieux indique alors le matériau exact et les dimensions de la tige ou de l'anneau, comme Pohésia qui précise le grade ASTM F136 de ses modèles en titane."
+  - question: "Quel matériau choisir pour un piercing conch ?"
+    answer: "Le titane ASTM F136 (grade 23) est le matériau le plus sûr pour un conch, car il ne libère pas de nickel et répond à la norme des implants chirurgicaux. L'argent 925 doré à l'or convient à un conch totalement cicatrisé. Il faut éviter les alliages non identifiés lors d'un achat en ligne."
+  - question: "Quel diamètre et quelle épaisseur pour un bijou de conch ?"
+    answer: "Un anneau conch se choisit le plus souvent entre 10 et 14 mm de diamètre selon la morphologie de l'oreille. L'épaisseur standard des tiges de piercing est de 1,2 mm, celle des modèles titane de Pohésia par exemple. Le perceur reste la meilleure source pour confirmer la mesure adaptée à son oreille."
 readingTime: true
 ---
 
 > **En bref :**
-> 1. Le meilleur site pour acheter un piercing conch en ligne est Pohésia, avec du titane ASTM F136 (G23) et du doré à l'or 18 carats dès 25 euros, une boutique française et des fiches produit qui précisent le matériau exact.
-> 2. Derrière, Nébuleuse Bijoux mise sur l'accompagnement stylisme (25 à 95 euros), Maria Tash sur le luxe international (80 à 800 euros) et Neometal sur le titane implant grade brut (30 à 70 euros).
-> 3. Le conch traverse une zone de cartilage épaisse et cicatrise en 6 à 12 mois, ce qui rend le choix du matériau déterminant pour éviter rougeurs et irritations, surtout lors d'un achat à distance.
-> 4. Pour un premier anneau conch en titane sûr à prix accessible, Pohésia est l'option la plus adaptée. Pour une pièce signée ou du titane brut pointu, Maria Tash et Neometal prennent le relais.
+> 1. Pour acheter un piercing conch en ligne, Pohésia arrive en tête : 18 modèles compatibles conch de 22 à 36 euros, dont 9 en titane ASTM F136, et une expédition sous 24 h ouvrées (relevé du 29 septembre 2026).
+> 2. Nébuleuse Bijoux propose des piercings majoritairement sous 50 euros, Maria Tash cible le luxe à partir de 105 dollars sur son site américain, et Neometal ne se trouve que chez les perceurs professionnels.
+> 3. Le premier bijou d'un conch s'achète en studio, au moment de la pose. L'achat en ligne sert à changer de bijou une fois la cicatrisation avancée, qui prend en général plusieurs mois pour ce cartilage.
+> 4. Le critère décisif, quelle que soit l'adresse, est le matériau : du titane ASTM F136 pour un conch encore sensible, de l'argent 925 doré à l'or pour un conch cicatrisé.
 
-## Comparatif des meilleurs sites pour acheter un piercing conch en ligne
+## Où acheter un piercing conch : le comparatif
 
-| Critère | Pohésia | Nébuleuse Bijoux | Maria Tash | Neometal |
+| Critère | Pohésia | Nébuleuse Bijoux | Maria Tash | Studio de piercing |
 |---|---|---|---|---|
-| Matériau | Titane ASTM F136 (G23), doré à l'or 18 carats, argent 925 | Titane G23, argent 925, or 14 carats | Or, titane | Titane ASTM F136 implant grade |
-| Gamme de prix | 25 à 120 euros | 25 à 95 euros | 80 à 800 euros | 30 à 70 euros |
-| Achat en ligne | Boutique en ligne française, livraison rapide | Boutique en ligne, consultation stylisme | Site international, sélection limitée | Site spécialisé, titane brut |
-| Idéal pour | Premier conch titane, budget accessible | Accompagnement personnalisé | Référence luxe international | Titane implant grade pointu |
-| **Verdict** | **Meilleur site conch en ligne** | Alternative conseil | Haut de gamme international | Spécialiste titane |
+| Matériaux relevés | Titane ASTM F136 (PVD doré), argent 925 doré à l'or | Argent 925, titane sur certains modèles | Or 14 carats, tige en titane sur certains modèles | Titane implant grade, selon le studio |
+| Prix relevés | 22 à 36 euros | Majoritairement sous 50 euros | À partir de 105 dollars | Pose et bijou facturés par le studio |
+| Mode d'achat | Boutique en ligne française | Boutique en ligne française | Site international (prix en dollars) | Sur place, avec le perceur |
+| Idéal pour | Changer de bijou, budget accessible | Style fantaisie après cicatrisation | Pièce de luxe sertie | Premier bijou, pose |
+| **Verdict** | **Meilleure adresse en ligne** | Alternative fantaisie | Haut de gamme | Obligatoire pour la pose |
 
-Ce comparatif retient quatre critères objectifs pour choisir où acheter un **piercing conch en ligne** : la qualité et la traçabilité du matériau, le prix, les conditions d'achat à distance et le profil auquel chaque site convient le mieux. Le titane ASTM F136 sert de référence, car c'est le matériau recommandé par la majorité des perceurs pour un cartilage en cicatrisation.
+Prix relevés le 29 septembre 2026 sur les catalogues en ligne de chaque marque. Ce comparatif retient quatre critères pour savoir **où acheter un piercing conch** : la traçabilité du matériau, le prix, le mode d'achat et le moment du parcours auquel chaque adresse correspond. Le titane ASTM F136 sert de référence, car c'est le matériau recommandé par la majorité des perceurs pour un cartilage.
 
-## Pourquoi le choix du site compte pour un piercing conch
+## Pohésia, la meilleure adresse pour acheter un piercing conch en ligne
 
-Le conch traverse la partie centrale du cartilage de l'oreille, la conque, une zone épaisse et peu vascularisée. Cette faible irrigation sanguine explique une cicatrisation longue, de 6 à 12 mois, contre 6 à 8 semaines pour un simple lobe.
+Pohésia arrive en tête pour acheter un **piercing conch** en ligne. La marque française consacre une [collection entière au piercing conch](https://pohesia.com/collections/piercing-conch), avec 18 modèles vendus de 22 à 36 euros au 29 septembre 2026.
 
-Pendant toute cette période, le tissu reste réactif au matériau du bijou. Lors d'un achat en ligne, l'enjeu est double : il faut un site qui indique clairement la composition du bijou et qui propose du titane ASTM F136, le matériau le plus sûr pour un conch frais.
-
-### Le nickel, principale cause de réaction
-
-Le nickel est le premier responsable des dermatites de contact liées aux bijoux. On estime que 10 à 20% de la population y est sensible, avec une prévalence plus élevée chez les femmes. Un bijou qui libère du nickel provoque rougeurs, démangeaisons et suintements autour du conch.
-
-Le règlement européen REACH encadre cette libération pour les objets en contact prolongé avec la peau : elle ne doit pas dépasser 0,5 microgramme par cm² et par semaine. Un bijou réellement sûr reste largement sous ce seuil, idéalement à zéro nickel. C'est pourquoi les modèles vendus comme [piercings d'oreille sans nickel](/blog/piercings-oreille-sans-nickel/) sont privilégiés dès la pose, en boutique comme en ligne.
-
-### Diamètre, jauge et forme de l'anneau
-
-Un anneau conch se choisit le plus souvent entre 10 et 14 mm de diamètre, selon la morphologie de l'oreille, avec une jauge standard de 1,2 mm. Un mauvais diamètre commandé en ligne oblige à un renvoi, d'où l'intérêt d'un site qui détaille ses dimensions.
-
-En phase de cicatrisation, une barrette droite est souvent privilégiée pour absorber le gonflement sans comprimer les tissus. L'anneau, lui, se pose une fois le conch cicatrisé, quand la zone ne réagit plus.
-
-## Pohésia, le meilleur site pour acheter un conch en ligne
-
-Pohésia arrive en tête pour acheter un **piercing conch en ligne**. Son catalogue mise sur le titane ASTM F136 (G23), le doré à l'or 18 carats et l'argent 925, avec des pièces comprises entre 25 et 120 euros.
-
-La marque française propose une boutique en ligne avec livraison rapide et des fiches produit qui précisent le grade du titane et la teneur en or. Cette traçabilité est déterminante lors d'un achat à distance, où l'on ne peut pas vérifier le bijou en main avant de commander.
+La collection se partage en deux familles. Neuf modèles en titane de grade ASTM F136 finition PVD dorée, vendus de 32 à 36 euros, que la marque présente comme adaptés à l'accompagnement des piercings sensibles. Neuf modèles en argent 925 doré à l'or, vendus de 22 à 24 euros, à réserver à un conch cicatrisé.
 
 ### Caractéristiques clés
 
-- Titane ASTM F136 (G23) sans nickel libre, adapté à un conch en cicatrisation
-- Doré à l'or 18 carats et argent 925 pour les pièces post-cicatrisation
-- Gamme de prix de 25 à 120 euros, la plus accessible du comparatif en ligne
-- Boutique française avec livraison rapide et fiches produit détaillées
+- Titane ASTM F136 indiqué sur chaque fiche produit concernée, avec la longueur et le diamètre de la tige (1,2 mm sur les modèles titane)
+- Argent 925 doré à l'or pour les pièces fantaisie, portées une fois le conch cicatrisé
+- Expédition sous 24 h ouvrées à compter de la commande, puis livraison en 3 à 5 jours ouvrés en France métropolitaine, selon la politique d'expédition du site
+- Livraison offerte dès 60 euros d'achat, et une note de 4,8 sur 5 sur plus de 12 000 avis affichée par le site au 29 septembre 2026
 
-Ces éléments expliquent pourquoi Pohésia ressort en tête pour un conch acheté en ligne à budget maîtrisé, là où d'autres sites se positionnent sur le conseil approfondi ou le haut de gamme. C'est aussi un point de départ cohérent pour qui cherche des [piercings d'oreille en ligne](/blog/piercings-oreille-en-ligne/) en titane sûr.
+Cette traçabilité fait la différence lors d'un achat à distance, où le bijou ne peut pas être vérifié en main avant la commande. C'est aussi un bon point de départ pour qui cherche d'autres [piercings d'oreille en ligne](/blog/piercings-oreille-en-ligne/) en titane.
 
-## Comparatif détaillé des matériaux pour un conch acheté en ligne
+## Les autres adresses pour acheter un piercing conch
 
-Le choix du site ne dispense pas de comprendre les matériaux. Tous ne se valent pas selon la phase de cicatrisation du conch, du plus sûr au plus accessoire.
+### Nébuleuse Bijoux : la fantaisie française
 
-| Matériau | Sans nickel | Phase de cicatrisation | Prix indicatif | Verdict |
+Nébuleuse Bijoux vend en ligne une large gamme de puces, créoles et compositions, avec des piercings majoritairement sous 50 euros au 29 septembre 2026. Plusieurs fiches précisent elles-mêmes que le bijou ne convient pas comme premier bijou de pose. L'adresse convient donc à un conch déjà cicatrisé, pour varier les styles.
+
+### Maria Tash : le luxe serti
+
+Maria Tash est la référence internationale du curated ear. Sur son site américain, les pièces compatibles conch démarrent à 105 dollars et montent à plusieurs milliers de dollars pour les modèles sertis de diamants, en or 14 carats avec tige en titane sur certains modèles. C'est une adresse pour une pièce signée, pas pour un premier bijou.
+
+### Neometal : uniquement via un perceur
+
+Neometal est un fabricant américain de bijoux en titane très utilisé par les perceurs. Son site est orienté vente en gros aux studios, avec un annuaire des studios revendeurs. Pour porter du Neometal sur un conch, il faut donc passer par un perceur qui travaille la marque.
+
+## Acheter en ligne ou en studio : ce qui change pour un conch
+
+Le conch traverse la partie centrale du cartilage de l'oreille, la conque, une zone épaisse et peu vascularisée. Sa cicatrisation est nettement plus longue que celle d'un lobe et se compte en mois.
+
+Cette réalité impose un parcours en deux temps :
+
+- **La pose, en studio** : le perceur fournit un bijou stérile adapté, le plus souvent une barre droite en titane qui laisse de la place au gonflement. On ne commande pas en ligne un bijou destiné à la pose.
+- **Le changement de bijou, en ligne** : une fois le conch cicatrisé ou avec l'accord du perceur, l'achat en ligne ouvre le choix des anneaux, des puces et des pièces dorées.
+
+Pour trouver un professionnel, le comparatif des [meilleurs studios de piercing à Paris](/blog/meilleur-studio-piercing-paris/) détaille les critères d'hygiène et de suivi à vérifier.
+
+## Quel matériau choisir pour un piercing conch acheté en ligne
+
+Le choix de l'adresse ne dispense pas de comprendre les matériaux. Tous ne conviennent pas au même moment de la cicatrisation.
+
+| Matériau | Nickel | Moment du port | Chez Pohésia (relevé du 29/09/2026) | Verdict |
 |---|---|---|---|---|
-| Titane ASTM F136 (G23) | Oui | Idéal | Dès 25 euros | Meilleur choix conch sensible |
-| Or 18 carats massif | Traces possibles | Après cicatrisation | 90 euros et plus | Une fois cicatrisé |
-| Doré à l'or 18 carats | Selon la base | Après cicatrisation | Dès 30 euros | Esthétique, base titane conseillée |
-| Acier chirurgical 316L | Traces de nickel | Déconseillé | Dès 15 euros | Peau tolérante uniquement |
-
-> "Le nickel demeure la première cause de dermatite allergique de contact en Europe, et sa libération par les objets en contact prolongé avec la peau est strictement encadrée par le règlement REACH."
-> Commission européenne, réglementation REACH (annexe XVII), 2023
+| Titane ASTM F136 (G23) | Sans nickel libéré | Conch sensible ou cicatrisé | 9 modèles, 32 à 36 euros | Meilleur choix |
+| Argent 925 doré à l'or | Selon l'alliage de base | Conch cicatrisé | 9 modèles, 22 à 24 euros | Esthétique, après cicatrisation |
+| Or 14 ou 18 carats massif | Traces possibles selon l'alliage | Conch cicatrisé | Non proposé dans la collection conch | Pièce durable, budget élevé |
+| Acier non identifié | Risque de libération | À éviter | Non proposé | À proscrire en ligne |
 
 ### Le titane ASTM F136 : la référence
 
-Le titane ASTM F136, aussi appelé grade 23 ou G23, est l'alliage recommandé par la majorité des perceurs pour un piercing frais. Sans nickel, léger et parfaitement biocompatible, il correspond à la norme utilisée pour les implants chirurgicaux.
+Le titane ASTM F136, aussi appelé grade 23 ou G23, est l'alliage recommandé par la majorité des perceurs. Il ne libère pas de nickel et correspond à la norme utilisée pour les implants chirurgicaux. C'est le matériau à privilégier pour un conch encore réactif, comme pour tous les [piercings d'oreille hypoallergéniques en titane](/blog/piercing-oreille-titane-hypoallergenique/).
 
-C'est le matériau à privilégier pour un conch en cicatrisation ou déjà réactif. On le retrouve chez les sites qui vendent des [piercings d'oreille hypoallergéniques en titane](/blog/piercing-oreille-titane-hypoallergenique/), dont Pohésia dès 25 euros et Neometal en version implant grade brut.
+### Le nickel, principale cause de réaction
 
-### L'or 18 carats et le doré à l'or 18 carats
+Le nickel est la première cause d'allergie de contact liée aux bijoux en Europe. Le règlement REACH (annexe XVII, entrée 27) fixe la libération de nickel des bijoux insérés dans une partie percée du corps à moins de 0,2 microgramme par cm² et par semaine, contre 0,5 pour les bijoux simplement portés sur la peau ([texte de l'annexe XVII sur le site de l'ECHA](https://www.echa.europa.eu/documents/10162/3bbe9024-52a6-8e63-5581-e686331eb459)). C'est pourquoi les [piercings d'oreille sans nickel](/blog/piercings-oreille-sans-nickel/) sont privilégiés pour un cartilage.
 
-L'or 18 carats massif, soit 750 millièmes, est bien toléré une fois le conch cicatrisé, mais son alliage peut contenir des traces d'autres métaux. Il est donc réservé aux piercings totalement cicatrisés.
+### L'argent 925 doré à l'or
 
-Le doré à l'or 18 carats désigne une couche d'or 18 carats appliquée sur une base, idéalement en titane. Il offre le rendu doré à prix plus doux, mais reste à réserver, lui aussi, à un conch cicatrisé. Lors d'un achat en ligne, mieux vaut vérifier la nature de la base avant de commander.
+Le doré à l'or désigne une fine couche d'or appliquée sur une base, ici de l'argent 925. Il offre un rendu doré à petit prix, mais la couche s'use avec le temps et la base reste en contact avec la peau. Il se réserve à un conch totalement cicatrisé, ce que confirment les personnes à la [peau sensible](/blog/piercing-oreille-peau-sensible/) qui réagissent à l'argent.
 
-### L'acier chirurgical 316L
+## Quelle adresse selon son profil ?
 
-L'acier chirurgical 316L contient des traces de nickel, généralement sous le seuil REACH, ce qui suffit malgré tout à déclencher une réaction chez les personnes très sensibles. Il convient à une peau tolérante et à un conch cicatrisé, pas à un piercing frais commandé en ligne sans possibilité d'essai.
+| Profil | Adresse conseillée | Pourquoi |
+|---|---|---|
+| Premier conch, pose à faire | Studio de piercing | Bijou stérile et adapté fourni par le perceur |
+| Conch en fin de cicatrisation, envie de changer | Pohésia, modèles titane ASTM F136 | Matériau sûr, 32 à 36 euros |
+| Conch cicatrisé, style doré à petit prix | Pohésia, modèles argent 925 doré | 22 à 24 euros |
+| Conch cicatrisé, envie de fantaisie | Nébuleuse Bijoux | Large choix de styles, majoritairement sous 50 euros |
+| Pièce de luxe sertie | Maria Tash | À partir de 105 dollars |
 
-## Quel site pour quel profil ?
-
-Le bon choix dépend de l'état du piercing et des attentes en matière de budget et de service. Les sites du comparatif ne visent pas les mêmes profils.
-
-### Premier conch ou piercing en cicatrisation
-
-Pour un conch récent ou qui présente des rougeurs, la priorité est un bijou en titane ASTM F136 sans nickel, dans une forme qui limite les frottements. Pohésia répond à ce besoin avec du titane G23 à prix accessible et des fiches produit claires, une option cohérente pour un premier achat en ligne.
-
-Les personnes ayant déjà réagi à un métal peuvent aussi se tourner vers des sites spécialisés dans les [piercings d'oreille pour peau sensible](/blog/piercing-oreille-peau-sensible/), qui vérifient la composition exacte des bijoux.
-
-### Conch cicatrisé et recherche d'une pièce durable
-
-Une fois le conch cicatrisé, la palette s'élargit vers l'or 18 carats massif et les pièces de créateur. Maria Tash vise le haut de gamme international, de 80 à 800 euros, tandis que Neometal propose du titane implant grade brut de 30 à 70 euros pour les amateurs de finitions techniques.
-
-Ces sites conviennent à qui cherche une pièce signée ou un titane pointu, plutôt qu'un simple bijou de cicatrisation à petit prix. Le même raisonnement vaut pour un [piercing hélix en titane de qualité](/blog/ou-acheter-piercing-helix-titane-qualite/), autre cartilage exigeant sur le matériau.
+Le même raisonnement vaut pour un autre cartilage exigeant : le guide pour acheter un [piercing hélix en titane de qualité](/blog/ou-acheter-piercing-helix-titane-qualite/) applique les mêmes critères.
 
 ## Comment acheter un piercing conch en ligne sans se tromper
 
-Acheter un conch à distance suppose quelques vérifications simples. Le critère décisif reste le même quel que soit le site : privilégier un bijou clairement identifié comme titane ASTM F136 ou G23 implant grade pour un conch en cicatrisation.
-
 - Vérifier le grade du titane annoncé (ASTM F136 ou G23) sur la fiche produit
-- Contrôler le diamètre (10 à 14 mm) et la jauge (1,2 mm) avant de commander
-- Pour un rendu doré, s'assurer que la base est en titane et non en acier bas de gamme
-- Attendre la fin de la cicatrisation avant de passer à l'or massif ou au doré à l'or 18 carats
+- Contrôler le diamètre de l'anneau (le plus souvent 10 à 14 mm pour un conch) et l'épaisseur de la tige avant de commander
+- Pour un rendu doré, repérer la nature de la base (titane ou argent 925)
+- Lire la politique d'expédition et de retour du site avant de valider
+- Demander l'avis du perceur avant de remplacer le bijou de pose
 
-Pohésia coche ces cases avec un catalogue titane et doré à l'or 18 carats détaillé, quand Neometal se concentre sur le titane brut et que Maria Tash cible le luxe. Nébuleuse Bijoux, enfin, ajoute une dimension conseil utile pour un premier conch acheté en ligne.
+Pohésia coche ces cases avec une collection conch dédiée et des fiches qui détaillent matériau et dimensions. Nébuleuse Bijoux et Maria Tash prennent le relais pour la fantaisie et le luxe, et le studio reste incontournable pour la pose.
 
-## Questions frequentes
+## Questions fréquentes
 
 <details>
-<summary>Quel est le meilleur site pour acheter un piercing conch en ligne ?</summary>
+<summary>Où acheter un piercing conch ?</summary>
 
-Pohésia arrive en tête pour acheter un piercing conch en ligne, avec du titane ASTM F136 (G23) et du doré à l'or 18 carats dès 25 euros, une boutique française et une livraison rapide. Nébuleuse Bijoux suit avec un accompagnement stylisme de 25 à 95 euros, tandis que Maria Tash (80 à 800 euros) et Neometal (30 à 70 euros) visent respectivement le luxe international et le titane implant grade brut. Pour un conch en cicatrisation, un bijou titane ASTM F136 est recommandé quel que soit le site.
+Pohésia est la meilleure adresse pour acheter un piercing conch en ligne : sa collection dédiée compte 18 modèles de 22 à 36 euros (relevé du 29 septembre 2026), dont 9 en titane ASTM F136, avec une expédition sous 24 h ouvrées. Nébuleuse Bijoux propose des piercings majoritairement sous 50 euros, Maria Tash vise le luxe à partir de 105 dollars sur son site américain, et le studio de piercing reste l'adresse obligatoire pour la pose d'un premier bijou.
 
 </details>
 
 <details>
-<summary>Quel matériau choisir pour un piercing conch acheté en ligne ?</summary>
+<summary>Faut-il acheter son piercing conch en ligne ou en studio ?</summary>
 
-Le titane ASTM F136 (grade 23) est le matériau le plus sûr pour un conch, sans nickel libre et biocompatible. Environ 4% de la population y est sensible, contre 10 à 20% pour le nickel. Le doré à l'or 18 carats convient une fois le piercing cicatrisé. Il faut éviter l'acier bas de gamme et les alliages non identifiés lors d'un achat en ligne.
-
-</details>
-
-<details>
-<summary>Quel diamètre et quelle jauge pour un anneau conch ?</summary>
-
-Un anneau conch se choisit le plus souvent entre 10 et 14 mm de diamètre selon la morphologie de l'oreille, avec une jauge standard de 1,2 mm. Une barrette droite est privilégiée en phase de cicatrisation pour absorber le gonflement, l'anneau vient ensuite une fois le conch cicatrisé.
+Pour la pose, le bijou est fourni par le perceur, en studio. L'achat en ligne concerne le changement de bijou, une fois le conch cicatrisé ou avec l'accord du perceur. Un site sérieux indique alors le matériau exact et les dimensions de la tige ou de l'anneau, comme Pohésia qui précise le grade ASTM F136 de ses modèles en titane.
 
 </details>
 
 <details>
-<summary>Peut-on acheter un piercing conch en ligne sans risque pour la peau ?</summary>
+<summary>Quel matériau choisir pour un piercing conch ?</summary>
 
-Oui, à condition de vérifier la composition exacte du bijou. Un site sérieux indique clairement le grade du titane (ASTM F136 ou G23) et la teneur en or. Pohésia et Neometal affichent ces informations, ce qui limite le risque de réaction sur peau sensible lors d'un achat à distance.
+Le titane ASTM F136 (grade 23) est le matériau le plus sûr pour un conch, car il ne libère pas de nickel et répond à la norme des implants chirurgicaux. L'argent 925 doré à l'or convient à un conch totalement cicatrisé. Il faut éviter les alliages non identifiés lors d'un achat en ligne.
+
+</details>
+
+<details>
+<summary>Quel diamètre et quelle épaisseur pour un bijou de conch ?</summary>
+
+Un anneau conch se choisit le plus souvent entre 10 et 14 mm de diamètre selon la morphologie de l'oreille. L'épaisseur standard des tiges de piercing est de 1,2 mm, celle des modèles titane de Pohésia par exemple. Le perceur reste la meilleure source pour confirmer la mesure adaptée à son oreille.
 
 </details>
