@@ -562,10 +562,10 @@ articles:
     volume: 110
     kd: 31
     scheduled_date: "2026-09-30"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-10-02"
+    published_url_fr: "https://comparatif-mode.com/blog/tendances-basique-femme-indispensable/"
+    published_url_en: "https://comparatif-mode.com/en/blog/womens-fashion-basics-trends/"
     error: null
 
   - kw: "meilleur e-shop mode femme francais"
